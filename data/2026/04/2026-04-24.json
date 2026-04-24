@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "model_name": "Luma AI (Innovative Dreams)",
+    "core_insight": "생성형 AI와 가상 프로덕션 기술을 융합하는 새 프로젝트 출범",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "3D"
+    ],
+    "application_idea": "VR/AR/XR 콘텐츠 제작 시 3D 환경 및 자산 생성 시간을 단축할 수 있음. Unreal Engine 기반의 가상 프로덕션 워크플로우에서 AI 기반의 실시간 배경 및 오브젝트 생성을 통해 제작 효율성을 증대시킬 수 있음. 미디어아트나 인터랙티브 전시에서 동적인 3D 요소를 빠르게 구현하고, 실시간 반응형 콘텐츠 개발에 활용 가능.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPV1lRRHgtQ2hiSnRaUll4cnhIc1h6eHhyLU56X1I5MUVTX2x0ZlZ3X0xIbGVpTDd6OEdfMkRHTmNkTS1NU1lzQ0xfSGcyZ2FWSURremo2SjZsS2RSTDNBNlNiekFnal83V0d1UU9uQ1dZcElLLVpEMnd0OGpyal84bGF4dUNBb09BREwydVJxaGpRekJfTkw4VnJBa28xdXNDMDQyU1lCMGNRdWV2bkN1cmNoYl9uNm1vS2YxLTB4Z2I2eWRKUUFwcTBJRUpYZURFd2VCWkgzME5KMU9HWXZDcndzOUlrVVdkUkM0bC1OaEZTQ3F3UE9JTG9OTkZESGZZMjhLQ0FhN1dBWkIySWhtV2o2SUdzTE9zZ0pMYXkyMkJxNEdReWIyM250cUtXSnRheHQ2SVItazNFSWRuN2RCTV9heE1SeXNwVE1iN2pGZTZrVnlHQkpzZ0g3dTlQblhfTnR3MU4yV0paUUpBdXRtSTR2NnlsSFprcFpTSmpOby1SNmJVWi10Tw?oc=5",
+    "date": "2026-04-24",
+    "original_title": "Wonder Project, Luma launch ‘Innovative Dreams’ to blend Gen-AI with virtual production - MSN"
+  },
+  {
+    "model_name": "GPT-5.5",
+    "core_insight": "OpenAI의 가장 강력한 AI 모델 GPT-5.5 출시",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 내러티브 구성 및 인터랙티브 콘텐츠 기획 단계에서 아이디어 발상 및 스크립트 초안 작성에 활용 가능. TouchDesigner나 Unreal Engine 프로젝트의 복잡한 스크립트 작성 및 디버깅 보조 도구로써 개발 효율성을 높일 수 있음.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XSm9iMTQyeWJwNUVKZ3ZNQXh3SWFtWVdPbkpMYUN0aUdMSlpXWGtHV3NsSlhNVmRKS25XRzg2ZklCc0VDUktNZEZkY0JNVXBCUktYSFgtakhiZnJ6U0VTVjBIbUNMbkdLRlJlNzVDb0NWWUdqSE1KSQ?oc=5",
+    "date": "2026-04-24",
+    "original_title": "OpenAI releases GPT-5.5, its most capable AI model - qz.com"
+  }
+]

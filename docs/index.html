@@ -3,25 +3,180 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI 트렌드 일일 리포트</title>
+<title>AI 트렌드 일일 리포트 · 2026.04.24 (금)</title>
 <style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Segoe UI", sans-serif;
-  color: #2C2C2A; background: #F7F6F2;
-  padding: 80px 20px; text-align: center; line-height: 1.7;
+  color: #2C2C2A;
+  background: #F7F6F2;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
 }
-h1 { font-size: 22px; font-weight: 500; margin-bottom: 8px; }
-p { color: #5F5E5A; font-size: 14px; }
-.date { font-size: 12px; color: #888780; margin-bottom: 24px; letter-spacing: 1px; text-transform: uppercase; }
+.container { max-width: 960px; margin: 0 auto; padding: 32px 20px 60px; }
+
+header { margin-bottom: 16px; display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; gap: 8px; }
+.head-left .tag-line {
+  font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase;
+  color: #888780; margin-bottom: 6px; font-weight: 500;
+}
+.head-left h1 { font-size: 26px; font-weight: 500; margin-bottom: 4px; color: #2C2C2A; }
+.head-left .sub { font-size: 13px; color: #5F5E5A; }
+.head-date { font-size: 13px; color: #5F5E5A; }
+
+.section-title {
+  font-size: 11px; letter-spacing: 1.2px; text-transform: uppercase;
+  color: #5F5E5A; margin: 36px 0 14px; font-weight: 500;
+}
+
+.card {
+  background: #FFFFFF;
+  border: 0.5px solid rgba(0,0,0,0.1);
+  border-left: 3px solid #B4B2A9;
+  border-radius: 8px;
+  padding: 20px 24px;
+  margin-bottom: 14px;
+}
+.card--hero { padding: 22px 26px; }
+.card--mini { padding: 15px 18px; margin-bottom: 0; }
+
+.card__meta { display: flex; gap: 8px; align-items: center; margin-bottom: 12px; flex-wrap: wrap; }
+.card__meta--mini { margin-bottom: 8px; justify-content: space-between; }
+
+.badge {
+  font-size: 11px; padding: 3px 8px; border-radius: 4px;
+  background: #E6F1FB; color: #042C53; font-weight: 500;
+}
+.badge--category { background: #F1EFE8; color: #444441; }
+.badge--mini { font-size: 10px; padding: 2px 6px; }
+
+.card__source { font-size: 11px; color: #B4B2A9; margin-left: auto; }
+.card--mini .card__source { margin-left: 0; }
+
+.card__model { font-size: 19px; font-weight: 500; margin-bottom: 14px; color: #2C2C2A; }
+.card__model--mini { font-size: 14px; margin-bottom: 6px; }
+
+.card__insight-block {
+  padding: 12px 0;
+  border-top: 0.5px solid rgba(0,0,0,0.08);
+  border-bottom: 0.5px solid rgba(0,0,0,0.08);
+  margin-bottom: 14px;
+}
+
+.card__label {
+  font-size: 11px; color: #5F5E5A; margin-bottom: 6px; font-weight: 500;
+}
+.card__label--on-color { color: #04342C; }
+
+.card__insight {
+  font-size: 14px; color: #2C2C2A; text-decoration: none; line-height: 1.55; display: block;
+}
+.card__insight:hover { color: #185FA5; }
+.card__insight--mini { font-size: 12px; color: #5F5E5A; }
+.card__insight--mini:hover { color: #185FA5; }
+
+.card__application {
+  background: #E1F5EE; padding: 14px 16px; border-radius: 6px; margin-bottom: 12px;
+}
+.card__application p { font-size: 14px; line-height: 1.65; color: #04342C; }
+
+.card__tags { display: flex; gap: 10px; flex-wrap: wrap; }
+.tag { font-size: 11px; color: #B4B2A9; }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 12px;
+}
+
+.empty-note { color: #888780; font-size: 13px; padding: 16px 0; }
+
+.footer-nav {
+  margin-top: 40px; padding-top: 20px;
+  border-top: 0.5px solid rgba(0,0,0,0.1);
+  display: flex; gap: 16px; font-size: 13px;
+  color: #5F5E5A;
+}
+.footer-nav a { color: #185FA5; text-decoration: none; }
+.footer-nav a:hover { text-decoration: underline; }
+
 @media (prefers-color-scheme: dark) {
   body { color: #D3D1C7; background: #1a1a1a; }
-  p { color: #B4B2A9; }
+  .head-left h1 { color: #D3D1C7; }
+  .card { background: #252524; border-color: rgba(255,255,255,0.08); }
+  .card__model { color: #D3D1C7; }
+  .card__insight { color: #D3D1C7; }
+  .card__insight:hover, .card__insight--mini:hover { color: #85B7EB; }
+  .card__insight-block { border-color: rgba(255,255,255,0.08); }
+  .badge { background: #0C447C; color: #E6F1FB; }
+  .badge--category { background: #444441; color: #D3D1C7; }
+  .card__application { background: #085041; }
+  .card__application p { color: #9FE1CB; }
+  .card__label--on-color { color: #9FE1CB; }
+  .footer-nav a { color: #85B7EB; }
+}
+
+@media (max-width: 600px) {
+  .head-left h1 { font-size: 22px; }
+  .card--hero { padding: 18px 20px; }
+  .card__model { font-size: 17px; }
 }
 </style>
 </head>
 <body>
-<div class="date">2026.04.24 (금)</div>
-<h1>오늘은 신규 업데이트가 없습니다</h1>
-<p>수집 대상 플랫폼에서 신규 공지가 감지되지 않았어요.<br>내일 09:00에 다시 수집됩니다.</p>
+<div class="container">
+
+<header>
+  <div class="head-left">
+    <div class="tag-line">AI 트렌드 일일 리포트</div>
+    <h1>오늘의 업데이트</h1>
+    <div class="sub">공간 콘텐츠 제작 기술 트렌드 · 총 2건</div>
+  </div>
+  <div class="head-date">2026.04.24 (금)</div>
+</header>
+
+<div class="section-title">오늘의 핵심</div>
+
+<article class="card card--hero" style="border-left-color: #E24B4A;">
+  <div class="card__meta">
+    <span class="badge badge--type">신모델</span>
+    <span class="badge badge--category">LLM</span>
+    <span class="card__source">Google News - LLM · 2026-04-24</span>
+  </div>
+  <h3 class="card__model">GPT-5.5</h3>
+  <div class="card__insight-block">
+    <div class="card__label">핵심 인사이트</div>
+    <a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1XSm9iMTQyeWJwNUVKZ3ZNQXh3SWFtWVdPbkpMYUN0aUdMSlpXWGtHV3NsSlhNVmRKS25XRzg2ZklCc0VDUktNZEZkY0JNVXBCUktYSFgtakhiZnJ6U0VTVjBIbUNMbkdLRlJlNzVDb0NWWUdqSE1KSQ?oc=5" class="card__insight" target="_blank" rel="noopener">OpenAI의 가장 강력한 AI 모델 GPT-5.5 출시 ↗</a>
+  </div>
+  <div class="card__application">
+    <div class="card__label card__label--on-color">공간 콘텐츠 활용 아이디어</div>
+    <p>전시 내러티브 구성 및 인터랙티브 콘텐츠 기획 단계에서 아이디어 발상 및 스크립트 초안 작성에 활용 가능. TouchDesigner나 Unreal Engine 프로젝트의 복잡한 스크립트 작성 및 디버깅 보조 도구로써 개발 효율성을 높일 수 있음.</p>
+  </div>
+  <div class="card__tags"><span class="tag">#멀티모달</span></div>
+</article>
+
+
+<div class="section-title">전체 업데이트 · 1건</div>
+<div class="grid">
+
+<article class="card card--mini" style="border-left-color: #EF9F27;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">API/통합</span>
+    <span class="card__source">영상</span>
+  </div>
+  <h4 class="card__model card__model--mini">Luma AI (Innovative Dreams)</h4>
+  <a href="https://news.google.com/rss/articles/CBMiiANBVV95cUxPV1lRRHgtQ2hiSnRaUll4cnhIc1h6eHhyLU56X1I5MUVTX2x0ZlZ3X0xIbGVpTDd6OEdfMkRHTmNkTS1NU1lzQ0xfSGcyZ2FWSURremo2SjZsS2RSTDNBNlNiekFnal83V0d1UU9uQ1dZcElLLVpEMnd0OGpyal84bGF4dUNBb09BREwydVJxaGpRekJfTkw4VnJBa28xdXNDMDQyU1lCMGNRdWV2bkN1cmNoYl9uNm1vS2YxLTB4Z2I2eWRKUUFwcTBJRUpYZURFd2VCWkgzME5KMU9HWXZDcndzOUlrVVdkUkM0bC1OaEZTQ3F3UE9JTG9OTkZESGZZMjhLQ0FhN1dBWkIySWhtV2o2SUdzTE9zZ0pMYXkyMkJxNEdReWIyM250cUtXSnRheHQ2SVItazNFSWRuN2RCTV9heE1SeXNwVE1iN2pGZTZrVnlHQkpzZ0g3dTlQblhfTnR3MU4yV0paUUpBdXRtSTR2NnlsSFprcFpTSmpOby1SNmJVWi10Tw?oc=5" class="card__insight card__insight--mini" target="_blank" rel="noopener">생성형 AI와 가상 프로덕션 기술을 융합하는 새 프로젝트 출범</a>
+</article>
+
+</div>
+
+<div class="footer-nav">
+  <span>누적 리포트</span>
+  <a href="weekly.html">주간 →</a>
+  <a href="monthly.html">월간 →</a>
+  <a href="quarterly.html">분기 →</a>
+</div>
+
+</div>
 </body>
 </html>
