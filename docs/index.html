@@ -3,29 +3,409 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI 트렌드 리포트 — 준비 중</title>
+<title>AI 트렌드 일일 리포트 · 2026.04.24 (금)</title>
 <style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Segoe UI", sans-serif;
-  color: #2C2C2A; background: #F7F6F2;
-  padding: 80px 20px; text-align: center; line-height: 1.7;
-  margin: 0;
+  color: #2C2C2A;
+  background: #F7F6F2;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
 }
-h1 { font-size: 24px; font-weight: 500; margin-bottom: 12px; }
-p { color: #5F5E5A; font-size: 14px; margin: 6px 0; }
-code { background: #F1EFE8; padding: 2px 6px; border-radius: 3px; font-size: 13px; }
-.tag { font-size: 11px; color: #888780; margin-bottom: 20px; letter-spacing: 1.5px; text-transform: uppercase; }
+.container { max-width: 960px; margin: 0 auto; padding: 32px 20px 60px; }
+
+header { margin-bottom: 16px; display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; gap: 8px; }
+.head-left .tag-line {
+  font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase;
+  color: #888780; margin-bottom: 6px; font-weight: 500;
+}
+.head-left h1 { font-size: 26px; font-weight: 500; margin-bottom: 4px; color: #2C2C2A; }
+.head-left .sub { font-size: 13px; color: #5F5E5A; }
+.head-date { font-size: 13px; color: #5F5E5A; }
+
+.section-title {
+  font-size: 11px; letter-spacing: 1.2px; text-transform: uppercase;
+  color: #5F5E5A; margin: 36px 0 14px; font-weight: 500;
+}
+
+.card {
+  background: #FFFFFF;
+  border: 0.5px solid rgba(0,0,0,0.1);
+  border-left: 3px solid #B4B2A9;
+  border-radius: 8px;
+  padding: 20px 24px;
+  margin-bottom: 14px;
+}
+.card--hero { padding: 22px 26px; }
+.card--mini { padding: 15px 18px; margin-bottom: 0; }
+
+.card__meta { display: flex; gap: 8px; align-items: center; margin-bottom: 12px; flex-wrap: wrap; }
+.card__meta--mini { margin-bottom: 8px; justify-content: space-between; }
+
+.badge {
+  font-size: 11px; padding: 3px 8px; border-radius: 4px;
+  background: #E6F1FB; color: #042C53; font-weight: 500;
+}
+.badge--category { background: #F1EFE8; color: #444441; }
+.badge--mini { font-size: 10px; padding: 2px 6px; }
+
+.card__source { font-size: 11px; color: #B4B2A9; margin-left: auto; }
+.card--mini .card__source { margin-left: 0; }
+
+.card__model { font-size: 19px; font-weight: 500; margin-bottom: 14px; color: #2C2C2A; }
+.card__model--mini { font-size: 14px; margin-bottom: 6px; }
+
+.card__insight-block {
+  padding: 12px 0;
+  border-top: 0.5px solid rgba(0,0,0,0.08);
+  border-bottom: 0.5px solid rgba(0,0,0,0.08);
+  margin-bottom: 14px;
+}
+
+.card__label {
+  font-size: 11px; color: #5F5E5A; margin-bottom: 6px; font-weight: 500;
+}
+.card__label--on-color { color: #04342C; }
+
+.card__insight {
+  font-size: 14px; color: #2C2C2A; text-decoration: none; line-height: 1.55; display: block;
+}
+.card__insight:hover { color: #185FA5; }
+.card__insight--mini { font-size: 12px; color: #5F5E5A; }
+.card__insight--mini:hover { color: #185FA5; }
+
+.card__application {
+  background: #E1F5EE; padding: 14px 16px; border-radius: 6px; margin-bottom: 12px;
+}
+.card__application p { font-size: 14px; line-height: 1.65; color: #04342C; }
+
+.card__tags { display: flex; gap: 10px; flex-wrap: wrap; }
+.tag { font-size: 11px; color: #B4B2A9; }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 12px;
+}
+
+.empty-note { color: #888780; font-size: 13px; padding: 16px 0; }
+
+.footer-nav {
+  margin-top: 40px; padding-top: 20px;
+  border-top: 0.5px solid rgba(0,0,0,0.1);
+  display: flex; gap: 16px; font-size: 13px;
+  color: #5F5E5A;
+}
+.footer-nav a { color: #185FA5; text-decoration: none; }
+.footer-nav a:hover { text-decoration: underline; }
+
 @media (prefers-color-scheme: dark) {
   body { color: #D3D1C7; background: #1a1a1a; }
-  p { color: #B4B2A9; }
-  code { background: #252524; }
+  .head-left h1 { color: #D3D1C7; }
+  .card { background: #252524; border-color: rgba(255,255,255,0.08); }
+  .card__model { color: #D3D1C7; }
+  .card__insight { color: #D3D1C7; }
+  .card__insight:hover, .card__insight--mini:hover { color: #85B7EB; }
+  .card__insight-block { border-color: rgba(255,255,255,0.08); }
+  .badge { background: #0C447C; color: #E6F1FB; }
+  .badge--category { background: #444441; color: #D3D1C7; }
+  .card__application { background: #085041; }
+  .card__application p { color: #9FE1CB; }
+  .card__label--on-color { color: #9FE1CB; }
+  .footer-nav a { color: #85B7EB; }
+}
+
+@media (max-width: 600px) {
+  .head-left h1 { font-size: 22px; }
+  .card--hero { padding: 18px 20px; }
+  .card__model { font-size: 17px; }
 }
 </style>
 </head>
 <body>
-<div class="tag">AI 트렌드 일일 리포트</div>
-<h1>첫 수집 대기 중</h1>
-<p>GitHub Actions 탭 → Daily AI Trends Update → <code>Run workflow</code> 로 첫 실행을 진행하세요.</p>
-<p>실행이 완료되면 이 페이지가 카드 피드로 교체됩니다.</p>
+<div class="container">
+
+<header>
+  <div class="head-left">
+    <div class="tag-line">AI 트렌드 일일 리포트</div>
+    <h1>오늘의 업데이트</h1>
+    <div class="sub">공간 콘텐츠 제작 기술 트렌드 · 총 24건</div>
+  </div>
+  <div class="head-date">2026.04.24 (금)</div>
+</header>
+
+<div class="section-title">오늘의 핵심</div>
+
+<article class="card card--hero" style="border-left-color: #E24B4A;">
+  <div class="card__meta">
+    <span class="badge badge--type">신모델</span>
+    <span class="badge badge--category">LLM</span>
+    <span class="card__source">OpenAI · 2026-04-24</span>
+  </div>
+  <h3 class="card__model">GPT-5.5</h3>
+  <div class="card__insight-block">
+    <div class="card__label">핵심 인사이트</div>
+    <a href="https://openai.com/index/introducing-gpt-5-5" class="card__insight" target="_blank" rel="noopener">더 빠르고 복잡한 코딩, 연구, 데이터 분석 작업에 최적화된 모델 출시 ↗</a>
+  </div>
+  <div class="card__application">
+    <div class="card__label card__label--on-color">공간 콘텐츠 활용 아이디어</div>
+    <p>Unreal Engine이나 TouchDesigner 프로젝트에서 복잡한 스크립트 작성 및 디버깅 시간을 단축할 수 있음. 인터랙티브 콘텐츠의 데이터 분석 로직 설계나 전시 주제 리서치 과정에서 효율성 증대 기대.</p>
+  </div>
+  <div class="card__tags"><span class="tag">#멀티모달</span></div>
+</article>
+
+
+<article class="card card--hero" style="border-left-color: #E24B4A;">
+  <div class="card__meta">
+    <span class="badge badge--type">개선</span>
+    <span class="badge badge--category">LLM</span>
+    <span class="card__source">Anthropic News · 2026-04-24</span>
+  </div>
+  <h3 class="card__model">Anthropic 컴퓨팅 인프라</h3>
+  <div class="card__insight-block">
+    <div class="card__label">핵심 인사이트</div>
+    <a href="https://www.anthropic.com/news/google-broadcom-partnership-compute" class="card__insight" target="_blank" rel="noopener">Google 및 Broadcom과 파트너십 확장, 차세대 컴퓨팅 역량 강화 ↗</a>
+  </div>
+  <div class="card__application">
+    <div class="card__label card__label--on-color">공간 콘텐츠 활용 아이디어</div>
+    <p>Anthropic의 미래 LLM 모델들이 더 강력해져, 전시 시나리오, 인터랙티브 콘텐츠 대본, 캐릭터 대사 생성 등 텍스트 기반 작업의 품질과 속도 향상 기대. Unreal Engine/TouchDesigner 스크립트 작성 보조 기능도 개선될 수 있음.</p>
+  </div>
+  <div class="card__tags"></div>
+</article>
+
+
+<div class="section-title">전체 업데이트 · 22건</div>
+<div class="grid">
+
+<article class="card card--mini" style="border-left-color: #EF9F27;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">API/통합</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Google DeepMind AI</h4>
+  <a href="https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/" class="card__insight card__insight--mini" target="_blank" rel="noopener">글로벌 컨설팅사와 협력하여 최첨단 AI 솔루션 제공 확대</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #EF9F27;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">기능추가</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Gemini 3.1 Flash TTS</h4>
+  <a href="https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/" class="card__insight card__insight--mini" target="_blank" rel="noopener">정교한 오디오 태그로 AI 음성 표현력 제어 기능 추가</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #EF9F27;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">신모델</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Gemma 4</h4>
+  <a href="https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/" class="card__insight card__insight--mini" target="_blank" rel="noopener">최고 수준의 추론 능력 및 에이전트 워크플로우에 최적화</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #EF9F27;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">개선</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Gemini 3.1 Flash</h4>
+  <a href="https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/" class="card__insight card__insight--mini" target="_blank" rel="noopener">음성 상호작용 정밀도 및 응답 속도 개선으로 더욱 자연스러운 대화 가능</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #EF9F27;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">정책/제한</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Google DeepMind AI 안전 정책</h4>
+  <a href="https://deepmind.google/blog/protecting-people-from-harmful-manipulation/" class="card__insight card__insight--mini" target="_blank" rel="noopener">금융, 건강 등 AI의 유해한 조작 위험 연구 및 안전 조치 강화</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #EF9F27;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">신모델</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">AI-Mimi</h4>
+  <a href="https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/" class="card__insight card__insight--mini" target="_blank" rel="noopener">일본 농아인을 위한 TV 시청 경험 개선 및 접근성 강화 솔루션 구축</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #EF9F27;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">정책/제한</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Microsoft 책임 AI 프레임워크</h4>
+  <a href="https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/" class="card__insight card__insight--mini" target="_blank" rel="noopener">AI 시스템 구축을 위한 책임감 있는 프레임워크 공개</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #EF9F27;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">기능추가</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Sentence Transformers (Multimodal)</h4>
+  <a href="https://huggingface.co/blog/train-multimodal-sentence-transformers" class="card__insight card__insight--mini" target="_blank" rel="noopener">Sentence Transformers로 멀티모달 임베딩/리랭커 모델 훈련 및 미세조정 지원</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #EF9F27;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">신모델</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">HoloTab by HCompany</h4>
+  <a href="https://huggingface.co/blog/Hcompany/holotab" class="card__insight card__insight--mini" target="_blank" rel="noopener">AI 브라우저 동반자 HoloTab 출시, 웹 콘텐츠 분석 및 요약 기능 제공</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #EF9F27;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">정책/제한</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Anthropic AI Safety &amp; Research</h4>
+  <a href="https://www.anthropic.com/news/australia-MOU" class="card__insight card__insight--mini" target="_blank" rel="noopener">호주 정부와 AI 안전 및 연구 협력 MOU 체결</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #EF9F27;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">API/통합</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Claude Partner Network</h4>
+  <a href="https://www.anthropic.com/news/claude-partner-network" class="card__insight card__insight--mini" target="_blank" rel="noopener">앤트로픽, 클로드 파트너 네트워크에 1억 달러 투자</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #EF9F27;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">정책/제한</span>
+    <span class="card__source">이미지</span>
+  </div>
+  <h4 class="card__model card__model--mini">Stable Diffusion</h4>
+  <a href="https://stability.ai/news-updates/stability-ais-annual-integrity-transparency-report" class="card__insight card__insight--mini" target="_blank" rel="noopener">생성 AI 책임감 있는 개발 및 투명성 강조 보고서 발표</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #B4B2A9;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">개선</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Codex</h4>
+  <a href="https://openai.com/academy/codex-settings" class="card__insight card__insight--mini" target="_blank" rel="noopener">Codex 설정 개인화, 상세 수준, 권한 관리 기능 제공</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #B4B2A9;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">개선</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Decoupled DiLoCo</h4>
+  <a href="https://deepmind.google/blog/decoupled-diloco/" class="card__insight card__insight--mini" target="_blank" rel="noopener">분산 AI 훈련의 복원력 및 효율성 향상 기술 발표</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #B4B2A9;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">정책/제한</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">정보 없음</h4>
+  <a href="https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/" class="card__insight card__insight--mini" target="_blank" rel="noopener">Microsoft의 차세대 AI 전략 및 미래 방향성 논의</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #B4B2A9;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">개선</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Microsoft AI</h4>
+  <a href="https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/" class="card__insight card__insight--mini" target="_blank" rel="noopener">브랜드의 생산성 및 창의성 향상을 위한 MS AI 활용 사례 소개</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #B4B2A9;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">API/통합</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Microsoft Farm of the Future Toolkit</h4>
+  <a href="https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/" class="card__insight card__insight--mini" target="_blank" rel="noopener">마이크로소프트, &#x27;미래 농장&#x27; 툴킷 오픈소스화</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #B4B2A9;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">개선</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Microsoft AI (금융 서비스 컨택 센터 솔루션)</h4>
+  <a href="https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/" class="card__insight card__insight--mini" target="_blank" rel="noopener">데이터 및 AI 활용 금융 컨택 센터 혁신 방안 제시</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #B4B2A9;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">개선</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">AI 드론 기술</h4>
+  <a href="https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/" class="card__insight card__insight--mini" target="_blank" rel="noopener">AI 드론으로 멸종 위기 돌고래 연구 효율성 증대 및 데이터 분석 강화</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #B4B2A9;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">기능추가</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">AI 기반 수학 튜터링 서비스</h4>
+  <a href="https://blogs.microsoft.com/ai/eedi-online-math-quiz/" class="card__insight card__insight--mini" target="_blank" rel="noopener">온라인 수학 튜터링 서비스에 AI 적용, 학생 학습 능력 및 자신감 향상 지원</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #B4B2A9;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">정책/제한</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">Hugging Face</h4>
+  <a href="https://huggingface.co/blog/cybersecurity-openness" class="card__insight card__insight--mini" target="_blank" rel="noopener">AI와 사이버보안의 미래 및 개방성의 중요성에 대한 논의</a>
+</article>
+
+
+<article class="card card--mini" style="border-left-color: #B4B2A9;">
+  <div class="card__meta card__meta--mini">
+    <span class="badge badge--mini">개선</span>
+    <span class="card__source">LLM</span>
+  </div>
+  <h4 class="card__model card__model--mini">VAKRA</h4>
+  <a href="https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis" class="card__insight card__insight--mini" target="_blank" rel="noopener">AI 에이전트 VAKRA의 추론 능력, 도구 사용 방식, 실패 원인 심층 분석</a>
+</article>
+
+</div>
+
+<div class="footer-nav">
+  <span>누적 리포트</span>
+  <a href="weekly.html">주간 →</a>
+  <a href="monthly.html">월간 →</a>
+  <a href="quarterly.html">분기 →</a>
+</div>
+
+</div>
 </body>
 </html>
