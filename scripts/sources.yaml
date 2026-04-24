@@ -69,6 +69,30 @@ sources:
     selector: 'article, a[href*="/research/"]'
     category: 영상
 
+  - name: Runway Changelog
+    type: scrape
+    url: https://runwayml.com/changelog
+    selector: 'article, [class*="changelog"], [class*="update"]'
+    category: 영상
+
+  - name: Luma News
+    type: scrape
+    url: https://lumalabs.ai/news
+    selector: 'article, a[href*="/news/"], a[href*="/blog/"]'
+    category: 영상
+
+  - name: WaveSpeedAI Blog
+    type: scrape
+    url: https://wavespeed.ai/blog
+    selector: 'article, a[href*="/blog/"]'
+    category: 영상
+
+  - name: Hugging Face Papers
+    type: scrape
+    url: https://huggingface.co/papers
+    selector: 'article, a[href*="/papers/"]'
+    category: 영상
+
   # ============================================
   # 테크 뉴스 애그리게이터 — AI 전체 커버
   # ============================================
