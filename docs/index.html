@@ -103,6 +103,7 @@ header { margin-bottom: 16px; display: flex; justify-content: space-between; ali
 @media (prefers-color-scheme: dark) {
   body { color: #D3D1C7; background: #1a1a1a; }
   .head-left h1 { color: #D3D1C7; }
+  .day-title { color: #D3D1C7; }
   .card { background: #252524; border-color: rgba(255,255,255,0.08); }
   .card__model { color: #D3D1C7; }
   .card__insight { color: #D3D1C7; }
@@ -114,6 +115,22 @@ header { margin-bottom: 16px; display: flex; justify-content: space-between; ali
   .card__application p { color: #9FE1CB; }
   .card__label--on-color { color: #9FE1CB; }
   .footer-nav a { color: #85B7EB; }
+}
+
+.day-section {
+  margin-top: 36px;
+  padding-top: 24px;
+  border-top: 0.5px solid rgba(0,0,0,0.1);
+}
+.day-section:first-of-type { margin-top: 24px; padding-top: 0; border-top: none; }
+.day-title {
+  font-size: 18px; font-weight: 500; color: #2C2C2A;
+  margin-bottom: 14px;
+}
+.day-count { font-size: 13px; color: #888780; font-weight: 400; }
+.day-subsection-label {
+  font-size: 10px; letter-spacing: 1.2px; text-transform: uppercase;
+  color: #888780; margin: 18px 0 10px; font-weight: 500;
 }
 
 @media (max-width: 600px) {
@@ -129,13 +146,15 @@ header { margin-bottom: 16px; display: flex; justify-content: space-between; ali
 <header>
   <div class="head-left">
     <div class="tag-line">AI 트렌드 일일 리포트</div>
-    <h1>오늘의 업데이트</h1>
-    <div class="sub">공간 콘텐츠 제작 기술 트렌드 · 총 2건</div>
+    <h1>최근 업데이트</h1>
+    <div class="sub">공간 콘텐츠 제작 기술 트렌드 · 최근 1일 · 총 2건</div>
   </div>
   <div class="head-date">2026.04.24 (금)</div>
 </header>
 
-<div class="section-title">오늘의 핵심</div>
+<section class="day-section">
+<h2 class="day-title">2026.04.24 (금) <span class="day-count">· 총 2건</span></h2>
+<div class="day-subsection-label">핵심 · 1건</div>
 
 <article class="card card--hero" style="border-left-color: #E24B4A;">
   <div class="card__meta">
@@ -155,8 +174,7 @@ header { margin-bottom: 16px; display: flex; justify-content: space-between; ali
   <div class="card__tags"><span class="tag">#멀티모달</span></div>
 </article>
 
-
-<div class="section-title">전체 업데이트 · 1건</div>
+<div class="day-subsection-label">그 외 · 1건 (핵심 제외)</div>
 <div class="grid">
 
 <article class="card card--mini" style="border-left-color: #EF9F27;">
@@ -169,6 +187,7 @@ header { margin-bottom: 16px; display: flex; justify-content: space-between; ali
 </article>
 
 </div>
+</section>
 
 <div class="footer-nav">
   <span>누적 리포트</span>

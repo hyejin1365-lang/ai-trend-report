@@ -1,0 +1,13 @@
+{
+  "kind": "weekly",
+  "period_id": "2026-W17",
+  "start_date": "2026-04-20",
+  "end_date": "2026-04-26",
+  "card_count": 2,
+  "data_insufficient": true,
+  "data_insufficient_reason": "데이터 누적 부족 (수집 2건 / 정상 기준 10건+)",
+  "synthesis": {
+    "_error": "429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyBfG7WTiKCFH42TbXY9N0eYG5VYuwebGn8"
+  },
+  "generated_at": "2026-04-24T05:46:42.564068+00:00"
+}

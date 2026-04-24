@@ -1,5 +1,92 @@
 <!DOCTYPE html>
-<html lang="ko"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>weekly 리포트 — 준비 중</title>
-<style>body{font-family:-apple-system,BlinkMacSystemFont,sans-serif;color:#2C2C2A;background:#F7F6F2;padding:80px 20px;text-align:center;line-height:1.7}h1{font-size:24px;font-weight:500;margin-bottom:12px}p{color:#5F5E5A}a{color:#185FA5;text-decoration:none}@media(prefers-color-scheme:dark){body{color:#D3D1C7;background:#1a1a1a}p{color:#B4B2A9}}</style>
-</head><body><h1>weekly 리포트 준비 중</h1><p>충분한 일일 데이터가 누적되면 자동 생성됩니다.</p><p><a href="index.html">← 일일 리포트로</a></p></body></html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>주간 리포트 · 2026-W17</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Segoe UI", sans-serif;
+  color: #2C2C2A; background: #F7F6F2; line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+.container { max-width: 800px; margin: 0 auto; padding: 40px 20px 60px; background: #FFFFFF; border-radius: 8px; }
+@media (max-width: 700px) { .container { padding: 28px 18px; } }
+.rpt-header { padding-bottom: 24px; border-bottom: 0.5px solid rgba(0,0,0,0.1); margin-bottom: 28px; }
+.rpt-tag { font-size: 11px; color: #888780; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 8px; font-weight: 500; }
+.rpt-title { font-size: 26px; font-weight: 500; margin-bottom: 6px; color: #2C2C2A; }
+.rpt-sub { font-size: 13px; color: #5F5E5A; }
+.rpt-warning { background: #FAEEDA; border-left: 3px solid #BA7517; padding: 16px 20px; border-radius: 6px; margin-bottom: 24px; }
+.rpt-warning-label { font-size: 11px; color: #854F0B; letter-spacing: 1.2px; text-transform: uppercase; margin-bottom: 8px; font-weight: 500; }
+.rpt-warning p { font-size: 13px; color: #854F0B; line-height: 1.6; }
+.rpt-oneliner { font-size: 18px; font-weight: 500; color: #2C2C2A; padding: 18px 0; margin-bottom: 12px; line-height: 1.5; }
+.rpt-section { margin-top: 32px; }
+.rpt-section-label { font-size: 11px; color: #5F5E5A; letter-spacing: 1.2px; text-transform: uppercase; margin-bottom: 14px; font-weight: 500; }
+.rpt-exec-list { padding-left: 22px; font-size: 14px; line-height: 1.85; }
+.rpt-exec-list li { margin-bottom: 8px; }
+.rpt-trajectory { font-size: 14px; line-height: 1.7; color: #444441; }
+.rpt-trends { display: flex; flex-direction: column; gap: 14px; }
+.rpt-trend { border: 0.5px solid rgba(0,0,0,0.1); border-radius: 8px; padding: 18px 20px; background: #FAFAF7; }
+.rpt-trend-num { font-size: 10px; color: #185FA5; font-weight: 500; letter-spacing: 0.6px; margin-bottom: 8px; }
+.rpt-trend-title { font-size: 16px; font-weight: 500; margin-bottom: 8px; color: #2C2C2A; }
+.rpt-trend-desc { font-size: 13px; line-height: 1.65; color: #444441; margin-bottom: 10px; }
+.rpt-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+.rpt-tag-small { font-size: 11px; padding: 2px 8px; border-radius: 4px; background: #F1EFE8; color: #444441; }
+.rpt-implication { font-size: 13px; line-height: 1.6; color: #04342C; background: #E1F5EE; padding: 10px 14px; border-radius: 6px; }
+.rpt-implication strong { font-weight: 500; }
+.rpt-picks { list-style: none; padding: 0; }
+.rpt-picks li { font-size: 14px; padding: 10px 0; border-bottom: 0.5px solid rgba(0,0,0,0.06); line-height: 1.6; }
+.rpt-picks li:last-child { border-bottom: none; }
+.rpt-picks li strong { font-weight: 500; color: #2C2C2A; }
+.rpt-bars { display: flex; flex-direction: column; gap: 10px; }
+.rpt-bar-row { display: grid; grid-template-columns: 110px 1fr 36px; gap: 14px; align-items: center; font-size: 13px; }
+.rpt-bar-label { color: #444441; }
+.rpt-bar-track { height: 10px; background: #F1EFE8; border-radius: 4px; }
+.rpt-bar-fill { height: 100%; background: #2C2C2A; border-radius: 4px; }
+.rpt-bar-value { color: #5F5E5A; text-align: right; font-variant-numeric: tabular-nums; }
+.rpt-rec-block { background: #E6F1FB; padding: 20px 22px; border-radius: 8px; }
+.rpt-rec { margin-bottom: 14px; }
+.rpt-rec:last-child { margin-bottom: 0; }
+.rpt-rec-label { font-size: 12px; color: #042C53; font-weight: 500; margin-bottom: 4px; }
+.rpt-rec p { font-size: 14px; color: #042C53; line-height: 1.55; }
+.rpt-footer { margin-top: 36px; padding-top: 18px; border-top: 0.5px solid rgba(0,0,0,0.1); display: flex; justify-content: space-between; font-size: 11px; color: #888780; }
+.rpt-nav { margin-top: 24px; font-size: 13px; }
+.rpt-nav a { color: #185FA5; text-decoration: none; }
+.rpt-nav a:hover { text-decoration: underline; }
+@media (prefers-color-scheme: dark) {
+  body { color: #D3D1C7; background: #1a1a1a; }
+  .container { background: #252524; }
+  .rpt-title, .rpt-trend-title, .rpt-oneliner, .rpt-picks li strong { color: #D3D1C7; }
+  .rpt-trend { background: #1a1a1a; border-color: rgba(255,255,255,0.08); }
+  .rpt-trend-desc, .rpt-trajectory, .rpt-bar-label { color: #D3D1C7; }
+  .rpt-implication { background: #085041; color: #9FE1CB; }
+  .rpt-warning { background: #412402; border-color: #BA7517; }
+  .rpt-warning-label, .rpt-warning p { color: #FAC775; }
+  .rpt-rec-block { background: #042C53; }
+  .rpt-rec p, .rpt-rec-label { color: #B5D4F4; }
+  .rpt-tag-small { background: #444441; color: #D3D1C7; }
+  .rpt-bar-track { background: #444441; }
+  .rpt-bar-fill { background: #D3D1C7; }
+  .rpt-nav a { color: #85B7EB; }
+}
+</style>
+</head>
+<body>
+<div class="container">
+
+<header class="rpt-header">
+      <div class="rpt-tag">주간 리포트 · 2026-W17</div>
+      <h1 class="rpt-title">2026-W17</h1>
+      <div class="rpt-sub">2026-04-20 — 2026-04-26 · 수집 2건</div>
+    </header>
+<div class="rpt-warning">
+          <div class="rpt-warning-label">⚠ 데이터 부족 안내</div>
+          <p>데이터 누적 부족 (수집 2건 / 정상 기준 10건+)<br>충분한 데이터가 누적되면 자동으로 정상 리포트가 생성됩니다.</p>
+        </div>
+<footer class="rpt-footer">
+      <span>수집 2건 · 기간 2026-04-20 ~ 2026-04-26</span>
+      <span>Gemini 2.5 Flash · 2026-04-24</span>
+    </footer>
+<div class="rpt-nav"><a href="index.html">← 일일 리포트로</a></div>
+</div></body></html>
