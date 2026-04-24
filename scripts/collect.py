@@ -15,7 +15,7 @@ import os
 import re
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urljoin
 
@@ -23,6 +23,7 @@ import feedparser
 import requests
 import yaml
 from bs4 import BeautifulSoup
+from dateutil import parser as date_parser
 
 
 # ============================================================
@@ -39,6 +40,12 @@ SEEN_FILE = DATA_DIR / "seen.json"
 GEMINI_MODEL = "gemini-2.5-flash"
 GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta"
 
+# ★ 수집 시간 창 (시간 단위). 이 시간보다 오래된 글은 제외.
+#   24 = 최근 24시간 (기본, "오늘의 글" 용도)
+#   48 = 최근 이틀치 (주말 다음 월요일 등 누락 방지용)
+#   72 = 최근 3일치
+COLLECTION_WINDOW_HOURS = 24
+
 # 키워드 사전 필터 (하나라도 포함되지 않으면 Gemini 호출 생략)
 FILTER_KEYWORDS = [
     "model", "release", "launch", "announce", "introduce",
@@ -47,7 +54,7 @@ FILTER_KEYWORDS = [
     "ai", "studio", "preview", "available",
 ]
 
-MAX_ITEMS_PER_SOURCE = 8     # 소스당 검사할 최신 항목 수
+MAX_ITEMS_PER_SOURCE = 10    # 소스당 검사할 최신 항목 수 (필터 통과 전 기준)
 CONTENT_MAX_LENGTH = 2000    # Gemini에 보낼 본문 최대 길이
 REQUEST_TIMEOUT = 20         # HTTP 요청 타임아웃 (초)
 GEMINI_RATE_LIMIT_SLEEP = 4  # Gemini 호출 간격 (무료 티어 15 RPM 안전 마진)
@@ -94,18 +101,95 @@ def passes_keyword_filter(title, content):
     return any(kw in text for kw in FILTER_KEYWORDS)
 
 
+def parse_rss_date(entry):
+    """RSS entry에서 발행 시각을 UTC datetime으로 파싱"""
+    # feedparser가 파싱한 time.struct_time 우선 시도
+    for field in ("published_parsed", "updated_parsed"):
+        parsed = entry.get(field)
+        if parsed:
+            try:
+                return datetime(*parsed[:6], tzinfo=timezone.utc)
+            except (TypeError, ValueError):
+                continue
+    # 문자열에서 직접 파싱 (fallback)
+    for field in ("published", "updated", "created"):
+        date_str = entry.get(field)
+        if date_str:
+            try:
+                dt = date_parser.parse(date_str)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                return dt.astimezone(timezone.utc)
+            except (ValueError, TypeError):
+                continue
+    return None
+
+
+def extract_scrape_date(el):
+    """HTML 요소에서 발행 시각 추출 (UTC datetime). 실패 시 None."""
+    # 1. <time datetime="..."> 속성 (가장 신뢰도 높음)
+    time_el = el.find("time", attrs={"datetime": True})
+    if time_el:
+        try:
+            dt = date_parser.parse(time_el["datetime"])
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc)
+        except (ValueError, TypeError):
+            pass
+
+    # 2. itemprop="datePublished"
+    ip = el.find(attrs={"itemprop": "datePublished"})
+    if ip:
+        date_str = ip.get("datetime") or ip.get_text(strip=True)
+        if date_str:
+            try:
+                dt = date_parser.parse(date_str)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                return dt.astimezone(timezone.utc)
+            except (ValueError, TypeError):
+                pass
+
+    # 3. meta 태그 (요소 내부에 있는 경우)
+    meta = el.find("meta", attrs={"property": "article:published_time"})
+    if meta and meta.get("content"):
+        try:
+            dt = date_parser.parse(meta["content"])
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc)
+        except (ValueError, TypeError):
+            pass
+
+    return None
+
+
 # ============================================================
 # 수집기
 # ============================================================
 
-def collect_rss(source, seen):
-    """RSS 피드에서 신규 항목 수집"""
+def collect_rss(source, seen, cutoff):
+    """RSS 피드에서 cutoff 이후 발행된 신규 항목만 수집"""
     items = []
+    skipped_old = 0
+    skipped_no_date = 0
     try:
         feed = feedparser.parse(source["url"])
-        for entry in feed.entries[:MAX_ITEMS_PER_SOURCE]:
+        for entry in feed.entries[:MAX_ITEMS_PER_SOURCE * 3]:
             link = entry.get("link", "")
             if not link or link in seen:
+                continue
+
+            # 날짜 필터: cutoff보다 오래된 글은 제외
+            pub_date = parse_rss_date(entry)
+            if pub_date is None:
+                skipped_no_date += 1
+                seen[link] = datetime.now().isoformat()  # 다음번엔 스킵
+                continue
+            if pub_date < cutoff:
+                skipped_old += 1
+                seen[link] = datetime.now().isoformat()
                 continue
 
             content = entry.get("summary", "") or entry.get("description", "")
@@ -115,16 +199,28 @@ def collect_rss(source, seen):
                 "title": clean_text(entry.get("title", "")),
                 "link": link,
                 "content": clean_text(content, CONTENT_MAX_LENGTH),
-                "published": entry.get("published", ""),
+                "published": pub_date.isoformat(),
             })
+            if len(items) >= MAX_ITEMS_PER_SOURCE:
+                break
+
+        skipped_summary = []
+        if skipped_old:
+            skipped_summary.append(f"기간 외 {skipped_old}건")
+        if skipped_no_date:
+            skipped_summary.append(f"날짜불명 {skipped_no_date}건")
+        if skipped_summary:
+            print(f"  (제외: {', '.join(skipped_summary)})")
     except Exception as e:
         print(f"  [RSS error] {source['name']}: {e}", file=sys.stderr)
     return items
 
 
-def collect_scrape(source, seen):
-    """HTML 페이지에서 selector로 신규 항목 수집"""
+def collect_scrape(source, seen, cutoff):
+    """HTML 페이지에서 selector로 cutoff 이후 글만 수집"""
     items = []
+    skipped_old = 0
+    skipped_no_date = 0
     try:
         headers = {
             "User-Agent": "Mozilla/5.0 (compatible; AI-Trend-Report/1.0)"
@@ -134,7 +230,7 @@ def collect_scrape(source, seen):
         soup = BeautifulSoup(resp.text, "html.parser")
 
         seen_links_this_source = set()
-        for el in soup.select(source["selector"])[:MAX_ITEMS_PER_SOURCE * 2]:
+        for el in soup.select(source["selector"])[:MAX_ITEMS_PER_SOURCE * 3]:
             # 링크 추출
             if el.name == "a" and el.get("href"):
                 link_el = el
@@ -147,6 +243,16 @@ def collect_scrape(source, seen):
             if link in seen or link in seen_links_this_source:
                 continue
             seen_links_this_source.add(link)
+
+            # 날짜 필터: 스크래핑은 날짜 확인 불가 시 보수적으로 제외
+            pub_date = extract_scrape_date(el)
+            if pub_date is None:
+                skipped_no_date += 1
+                continue  # seen에 기록하지 않음 (다음 수집 때 날짜 붙을 수도)
+            if pub_date < cutoff:
+                skipped_old += 1
+                seen[link] = datetime.now().isoformat()
+                continue
 
             # 제목 추출
             title_el = el.find(["h1", "h2", "h3", "h4"])
@@ -162,11 +268,19 @@ def collect_scrape(source, seen):
                 "title": title,
                 "link": link,
                 "content": content,
-                "published": "",
+                "published": pub_date.isoformat(),
             })
 
             if len(items) >= MAX_ITEMS_PER_SOURCE:
                 break
+
+        skipped_summary = []
+        if skipped_old:
+            skipped_summary.append(f"기간 외 {skipped_old}건")
+        if skipped_no_date:
+            skipped_summary.append(f"날짜불명 {skipped_no_date}건")
+        if skipped_summary:
+            print(f"  (제외: {', '.join(skipped_summary)})")
     except Exception as e:
         print(f"  [Scrape error] {source['name']}: {e}", file=sys.stderr)
     return items
@@ -246,16 +360,19 @@ def main():
     prompt_template = PROMPT_FILE.read_text(encoding="utf-8")
     seen = load_json(SEEN_FILE, {})
 
-    print(f"설정: 소스 {len(sources)}개, 기존 수집 링크 {len(seen)}개\n")
+    # 수집 기간 계산
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=COLLECTION_WINDOW_HOURS)
+    print(f"설정: 소스 {len(sources)}개, 기존 수집 링크 {len(seen)}개")
+    print(f"수집 기간: 최근 {COLLECTION_WINDOW_HOURS}시간 (cutoff: {cutoff.isoformat()})\n")
 
     # 2. 수집
     all_new_items = []
     for source in sources:
         print(f"[{source['name']}] ({source['type']}) 수집 중...")
         if source["type"] == "rss":
-            items = collect_rss(source, seen)
+            items = collect_rss(source, seen, cutoff)
         elif source["type"] == "scrape":
-            items = collect_scrape(source, seen)
+            items = collect_scrape(source, seen, cutoff)
         else:
             print(f"  알 수 없는 타입: {source['type']}")
             continue

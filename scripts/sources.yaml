@@ -1,14 +1,14 @@
 # AI 트렌드 수집 소스 목록
-# 
+#
 # type: 'rss' = 공식 RSS 피드 (안정적), 'scrape' = HTML 스크래핑 (selector 필요)
 # category: LLM | 이미지 | 영상 | 종합
 #
-# 새 소스 추가 시: RSS 피드가 있으면 type=rss 우선, 없으면 type=scrape.
-# 스크래핑 selector가 맞지 않으면 해당 소스는 건너뛰고 다른 소스는 정상 동작함.
+# 날짜 필터는 collect.py의 COLLECTION_WINDOW_HOURS 값 기준.
+# 기본 24시간. 스크래핑 소스는 날짜 확인 불가 시 자동 제외됨.
 
 sources:
   # ============================================
-  # LLM 카테고리 — 공식 RSS (고신뢰)
+  # LLM — 공식 RSS (고신뢰)
   # ============================================
   - name: OpenAI
     type: rss
@@ -31,7 +31,7 @@ sources:
     category: LLM
 
   # ============================================
-  # LLM 카테고리 — 스크래핑
+  # LLM — 스크래핑
   # ============================================
   - name: Anthropic News
     type: scrape
@@ -40,7 +40,7 @@ sources:
     category: LLM
 
   # ============================================
-  # 이미지 카테고리
+  # 이미지 — 스크래핑 (공식 RSS 희소)
   # ============================================
   - name: Stability AI
     type: scrape
@@ -61,7 +61,7 @@ sources:
     category: 이미지
 
   # ============================================
-  # 영상 카테고리
+  # 영상 — 스크래핑 (공식 RSS 희소)
   # ============================================
   - name: Runway Research
     type: scrape
@@ -70,15 +70,49 @@ sources:
     category: 영상
 
   # ============================================
-  # 보조 소스 — Google News (키워드 검색 RSS)
-  # 공식 발표 누락 시 안전망 역할
+  # 테크 뉴스 애그리게이터 — AI 전체 커버
+  # (이미지/영상 AI 공식 RSS 부족을 보완)
   # ============================================
-  - name: Google News - 생성형 AI
+  - name: The Verge - AI
     type: rss
-    url: https://news.google.com/rss/search?q=%22generative+AI%22+(%22new+model%22+OR+%22releases%22+OR+%22launches%22)&hl=ko&gl=KR&ceid=KR:ko
+    url: https://www.theverge.com/ai-artificial-intelligence/rss/index.xml
     category: 종합
 
-  - name: Google News - AI 영상
+  - name: TechCrunch - AI
     type: rss
-    url: https://news.google.com/rss/search?q=(%22Sora%22+OR+%22Runway%22+OR+%22Pika%22+OR+%22Kling%22)+update&hl=ko&gl=KR&ceid=KR:ko
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    category: 종합
+
+  - name: VentureBeat - AI
+    type: rss
+    url: https://venturebeat.com/category/ai/feed/
+    category: 종합
+
+  - name: Ars Technica - AI
+    type: rss
+    url: https://feeds.arstechnica.com/arstechnica/technology-lab
+    category: 종합
+
+  # ============================================
+  # Google News — 카테고리별 키워드 쿼리
+  # 영문 소스 대상 (AI 뉴스 대부분이 영어권)
+  # ============================================
+  - name: Google News - 영상 AI
+    type: rss
+    url: https://news.google.com/rss/search?q=(Sora+OR+Runway+OR+Pika+OR+Kling+OR+Veo+OR+Luma)+(update+OR+release+OR+launch+OR+feature)&hl=en&gl=US&ceid=US:en
     category: 영상
+
+  - name: Google News - 이미지 AI
+    type: rss
+    url: https://news.google.com/rss/search?q=(Midjourney+OR+%22Stable+Diffusion%22+OR+%22DALL-E%22+OR+Ideogram+OR+FLUX+OR+Firefly)+(update+OR+release+OR+launch)&hl=en&gl=US&ceid=US:en
+    category: 이미지
+
+  - name: Google News - LLM
+    type: rss
+    url: https://news.google.com/rss/search?q=(GPT+OR+Claude+OR+Gemini+OR+Llama+OR+Qwen)+(model+OR+release+OR+update)&hl=en&gl=US&ceid=US:en
+    category: LLM
+
+  - name: Google News - Adobe AI
+    type: rss
+    url: https://news.google.com/rss/search?q=Adobe+(Firefly+OR+Photoshop+OR+%22After+Effects%22)+AI&hl=en&gl=US&ceid=US:en
+    category: 종합
