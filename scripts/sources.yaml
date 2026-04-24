@@ -71,7 +71,6 @@ sources:
 
   # ============================================
   # 테크 뉴스 애그리게이터 — AI 전체 커버
-  # (이미지/영상 AI 공식 RSS 부족을 보완)
   # ============================================
   - name: The Verge - AI
     type: rss
@@ -88,14 +87,55 @@ sources:
     url: https://venturebeat.com/category/ai/feed/
     category: 종합
 
-  - name: Ars Technica - AI
+  - name: MIT Technology Review - AI
     type: rss
-    url: https://feeds.arstechnica.com/arstechnica/technology-lab
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
     category: 종합
 
   # ============================================
-  # Google News — 카테고리별 키워드 쿼리
-  # 영문 소스 대상 (AI 뉴스 대부분이 영어권)
+  # Reddit — 커뮤니티 기반 빠른 발견
+  # 비공식이지만 신모델·기능 발표가 가장 빠르게 모이는 채널
+  # ============================================
+  - name: Reddit - StableDiffusion
+    type: rss
+    url: https://www.reddit.com/r/StableDiffusion/top/.rss?t=day
+    category: 이미지
+
+  - name: Reddit - midjourney
+    type: rss
+    url: https://www.reddit.com/r/midjourney/top/.rss?t=day
+    category: 이미지
+
+  - name: Reddit - aivideo
+    type: rss
+    url: https://www.reddit.com/r/aivideo/top/.rss?t=day
+    category: 영상
+
+  - name: Reddit - LocalLLaMA
+    type: rss
+    url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day
+    category: LLM
+
+  # ============================================
+  # GitHub Releases — 오픈소스 모델 정확한 출시 트래킹
+  # ============================================
+  - name: GitHub - ComfyUI Releases
+    type: rss
+    url: https://github.com/comfyanonymous/ComfyUI/releases.atom
+    category: 이미지
+
+  - name: GitHub - Stability AI generative-models
+    type: rss
+    url: https://github.com/Stability-AI/generative-models/releases.atom
+    category: 이미지
+
+  - name: GitHub - Black Forest FLUX
+    type: rss
+    url: https://github.com/black-forest-labs/flux/releases.atom
+    category: 이미지
+
+  # ============================================
+  # Google News — 카테고리별 키워드 쿼리 (안전망)
   # ============================================
   - name: Google News - 영상 AI
     type: rss
