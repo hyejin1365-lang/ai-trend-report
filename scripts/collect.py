@@ -44,7 +44,7 @@ GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta"
 #   24 = 최근 24시간 (기본, "오늘의 글" 용도)
 #   48 = 최근 이틀치 (주말 다음 월요일 등 누락 방지용)
 #   72 = 최근 3일치
-COLLECTION_WINDOW_HOURS = 168
+COLLECTION_WINDOW_HOURS = int(os.environ.get("WINDOW_HOURS", "168"))
 
 # 키워드 사전 필터 (하나라도 포함되지 않으면 Gemini 호출 생략)
 FILTER_KEYWORDS = [
