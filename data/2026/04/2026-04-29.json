@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "model_name": "ComfyUI",
+    "core_insight": "ComfyUI에서 특정 영역 정밀 이미지 보정 기능에 대한 수요 확인",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "I2I"
+    ],
+    "application_idea": "전시용 고품질 이미지 제작 시, 생성된 이미지의 미세한 결함이나 특정 요소 수정에 유용. Photoshop 등 외부 툴로 이동 없이 ComfyUI 워크플로우 내에서 직접 보정 가능해 작업 효율성 증대. 미디어아트 작품의 디테일한 시각적 완성도를 높이는 데 기여.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1sxxbhx/photo_retouching_fixing_specific_details/",
+    "date": "2026-04-29",
+    "original_title": "Photo retouching fixing specific details"
+  }
+]
