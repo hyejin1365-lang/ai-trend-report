@@ -1,0 +1,132 @@
+[
+  {
+    "model_name": "OpenAI Stargate",
+    "core_insight": "AGI 구동을 위한 컴퓨팅 인프라 'Stargate' 확장 및 데이터센터 용량 증설",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "OpenAI의 컴퓨팅 인프라 확장은 장기적으로 AGI 개발을 가속화하여, 향후 영상 생성, 3D 자산 생성 등 우리 팀이 활용할 AI 도구들의 성능과 안정성을 크게 향상시킬 것으로 예상됨. 이는 대규모 미디어아트 프로젝트나 VR/AR 콘텐츠 제작 시 복잡한 AI 작업을 더 빠르고 효율적으로 처리할 수 있는 기반을 마련할 것임.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "date": "2026-04-30",
+    "original_title": "Building the compute infrastructure for the Intelligence Age"
+  },
+  {
+    "model_name": "Claude",
+    "core_insight": "클로드 개발사 앤트로픽, 9천억 달러 기업 가치로 투자 유치 추진",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "앤트로픽의 대규모 투자 유치는 클로드 모델의 장기적인 성능 향상 및 신규 기능 개발에 긍정적 영향을 미칠 것으로 예상됨. 이는 향후 전시/미디어아트 콘텐츠 제작 시 텍스트 기반 스토리텔링, 인터랙티브 대화 시스템 구현 등에서 더 고도화된 AI 활용 가능성을 열어줄 수 있음. 다만, 현재 시점에서는 직접적인 제작 실무 적용보다는 장기적인 관찰이 필요함.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+    "date": "2026-04-30",
+    "original_title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B"
+  },
+  {
+    "model_name": "OpenAI (기업 이슈)",
+    "core_insight": "일론 머스크, OpenAI 해체 시도 관련 법정 증언",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작에 직접적인 영향은 낮음. 다만, OpenAI의 법적 안정성 및 향후 운영 방향에 따라 GPT, DALL-E 등 관련 AI 도구의 접근성이나 정책에 간접적인 변화가 있을 수 있으므로 장기적인 관점에서 주시 필요.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+    "date": "2026-04-30",
+    "original_title": "On the stand, Elon Musk can’t escape his own tweets"
+  },
+  {
+    "model_name": "Microsoft Copilot",
+    "core_insight": "Microsoft Copilot 유료 사용자 2천만 명 돌파, 사용량 및 참여도 증가",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "Microsoft Copilot의 광범위한 유료 사용자 증가는 AI 어시스턴트의 실무 활용이 보편화되고 있음을 시사한다. 이는 콘텐츠 기획, 스크립트 작성, 자료 조사 등 제작 전반의 생산성 향상을 위해 Copilot과 같은 AI 도구의 적극적인 도입을 고려할 필요가 있음을 의미한다. 특히 TouchDesigner나 Unreal Engine 스크립트 작성 시 코드 보조 도구로 활용하여 개발 효율을 높일 수 있다.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+    "date": "2026-04-30",
+    "original_title": "Microsoft says it has over 20M paid Copilot users, and they really are using it"
+  },
+  {
+    "model_name": "Google Cloud Platform",
+    "core_insight": "AI 수요 폭증으로 Google Cloud 용량 제약, 매출 성장 둔화 우려",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, Unreal Engine이나 TouchDesigner 기반의 실시간 인터랙티브 콘텐츠 개발 시, 클라우드 기반 AI 모델 연동을 고려한다면 향후 서비스 안정성 및 비용에 영향을 줄 수 있음. 장기적인 AI 파이프라인 구축 시 클라우드 인프라의 가용성 및 비용 변동 추이를 주시해야 함.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+    "date": "2026-04-30",
+    "original_title": "Google Cloud surpasses $20B, but says growth was capacity-constrained"
+  },
+  {
+    "model_name": "Google 구독 서비스",
+    "core_insight": "구글 유료 구독자 1분기 2,500만 명 증가, 총 3.5억 명 달성",
+    "update_type": "가격/플랜",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 구글의 안정적인 수익 기반이 장기적으로 AI 기술 개발 및 콘텐츠 제작 도구 강화로 이어질 가능성을 간접적으로 시사함.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+    "date": "2026-04-30",
+    "original_title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One"
+  },
+  {
+    "model_name": "Parallel Web Systems",
+    "core_insight": "AI 에이전트 툴 스타트업, 20억 달러 기업 가치 달성 및 1억 달러 투자 유치",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 하지만 AI 에이전트 툴은 향후 복잡한 콘텐츠 제작 워크플로우를 자동화하거나, 여러 AI 모델(영상 생성, 이미지 편집 등)을 통합 관리하는 데 활용될 가능성이 있음. 이는 Unreal Engine이나 TouchDesigner 프로젝트에서 반복 작업을 줄이고, 다양한 AI 기능을 유기적으로 연동하는 데 도움이 될 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+    "date": "2026-04-30",
+    "original_title": "Parallel Web Systems hits $2B valuation five months after its last big raise"
+  },
+  {
+    "model_name": "SenseNova-U1",
+    "core_insight": "텍스트 렌더링 및 복잡한 시각 정보 생성 능력 대폭 향상",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "멀티모달"
+    ],
+    "application_idea": "전시 패널, 미디어월 자막 등 텍스트가 포함된 이미지 제작 시 글자 깨짐 없이 고품질 결과물 확보 가능. 복잡한 정보가 담긴 인포그래픽이나 다중 패널 레이아웃의 컨셉 아트를 빠르게 생성하여 기획 및 디자인 초기 단계 효율성 증대. AfterEffects에서 텍스트 합성 후처리 작업을 줄일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1sz1fir/sensenovau1_just_dropped_native_multimodal/",
+    "date": "2026-04-30",
+    "original_title": "SenseNova-U1 just dropped — native multimodal gen/understanding in one model, no VAE, no diffusion"
+  },
+  {
+    "model_name": "Blender + AI Render (Camera Tracking)",
+    "core_insight": "블렌더 카메라 트래킹 데이터를 AI 렌더링에 1:1로 연동",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "3D",
+      "I2V"
+    ],
+    "application_idea": "블렌더에서 생성한 3D 카메라 트래킹 데이터를 활용하여 AI로 생성된 영상이나 오브젝트를 실제 공간에 프로젝션 매핑하거나 AR/VR 콘텐츠에 정교하게 합성할 수 있음. Unreal Engine에서 3D 환경을 구축한 후 AI 생성 요소를 추가할 때 카메라 일치 작업 시간을 대폭 단축시켜 워크플로우 효율을 높일 수 있음.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1sz9fl4/blender_layout_ai_render_11_camera_tracking/",
+    "date": "2026-04-30",
+    "original_title": "Blender Layout → AI Render | 1:1 Camera Tracking"
+  }
+]
