@@ -1,0 +1,338 @@
+[
+  {
+    "model_name": "GPT-5",
+    "core_insight": "GPT-5의 비정상적 '고블린' 출력 원인 분석 및 수정",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "GPT-5를 활용한 전시 내러티브 스크립트나 인터랙티브 대화 시스템 개발 시, 비정상적 출력 문제가 해결되어 콘텐츠 기획 및 제작의 안정성이 향상됨. TouchDesigner/Unreal 프로젝트의 스크립트 작성 보조 시에도 더 신뢰할 수 있는 결과물을 기대할 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/where-the-goblins-came-from",
+    "date": "2026-05-01",
+    "original_title": "Where the goblins came from"
+  },
+  {
+    "model_name": "AI co-clinician (DeepMind research)",
+    "core_insight": "의료 분야 AI 공동 임상의 개발 및 활용 연구 착수",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, 의료 관련 전시 콘텐츠 기획 시 복잡한 의학 정보를 쉽고 정확하게 요약하거나, 인터랙티브 체험존에서 건강 상담 AI 캐릭터 구현 아이디어에 영감을 줄 수 있음.",
+    "source": "Google DeepMind",
+    "category": "LLM",
+    "link": "https://deepmind.google/blog/ai-co-clinician/",
+    "date": "2026-05-01",
+    "original_title": "Enabling a new model for healthcare with AI co-clinician"
+  },
+  {
+    "model_name": "Anthropic",
+    "core_insight": "Anthropic의 9천억 달러 이상 기업 가치 평가 및 투자 유치 진행",
+    "update_type": "가격/플랜",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서 직접적인 영향은 낮으나, Anthropic의 투자 유치는 장기적으로 Claude와 같은 LLM의 성능 향상 및 멀티모달 기능 강화로 이어질 수 있음. 이는 전시 기획 단계에서 컨셉 문서 작성, 스크립트 초안 생성, 혹은 인터랙티브 콘텐츠의 대화 로직 개발에 간접적으로 활용될 가능성이 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+    "date": "2026-05-01",
+    "original_title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks"
+  },
+  {
+    "model_name": "Mac mini, Mac Studio, Mac Neo",
+    "core_insight": "AI 수요 급증으로 Mac mini, Studio, Neo 공급 부족 예상",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "T2V",
+      "3D",
+      "멀티모달"
+    ],
+    "application_idea": "AI 기반 콘텐츠 제작 시 고성능 Mac 장비의 중요성이 더욱 커짐을 시사. 신규 장비 도입 시 공급 부족으로 인한 구매 지연 가능성을 염두에 두어야 하며, 기존 장비의 AI 워크로드 처리 능력 점검 및 업그레이드 계획 수립이 필요함. Unreal Engine, TouchDesigner 등 AI 연동 툴 사용 시 성능 병목 현상에 대비해야 함.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+    "date": "2026-05-01",
+    "original_title": "Apple was surprised by AI-driven demand for Macs"
+  },
+  {
+    "model_name": "Legora (법률 AI)",
+    "core_insight": "법률 AI 스타트업 Legora 기업 가치 56억 달러 달성, 경쟁 심화",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향 없음. 법률 관련 문서 작업 자동화에 활용될 수 있으나, 공간 콘텐츠 제작 파이프라인과는 무관함.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+    "date": "2026-05-01",
+    "original_title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter"
+  },
+  {
+    "model_name": "GPT-5.5 Cyber",
+    "core_insight": "GPT-5.5 Cyber 초기 접근을 '핵심 사이버 방어자'로 제한",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 맥락에서는 직접적인 영향이 낮음. 다만, 프로젝트 데이터 보안 강화나 내부 시스템 취약점 점검 등 간접적인 IT 보안 관리 측면에서 참고할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+    "date": "2026-05-01",
+    "original_title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too"
+  },
+  {
+    "model_name": "ChatGPT",
+    "core_insight": "ChatGPT 계정 보안 강화, Yubico 보안 키 연동 지원",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 콘텐츠 제작 영향은 낮음. 하지만 프로젝트 기획 단계에서 ChatGPT를 활용해 아이디어 구상, 스크립트 초안 작성 시 보안이 강화되어 민감한 프로젝트 정보 유출 위험을 줄일 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+    "date": "2026-05-01",
+    "original_title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico"
+  },
+  {
+    "model_name": "Grok",
+    "core_insight": "xAI Grok, OpenAI 모델 기반 학습 사실 증언으로 공개",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, AI 모델 선택 시 학습 데이터의 출처 및 저작권 이슈에 대한 주의가 필요하다는 인식을 높임. 향후 AI 기술 활용 계약 시 법적 리스크 검토의 중요성을 시사.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+    "date": "2026-05-01",
+    "original_title": "Elon Musk testifies that xAI trained Grok on OpenAI models"
+  },
+  {
+    "model_name": "BioticsAI",
+    "core_insight": "헬스케어 AI 기업, 규제 환경 극복 및 팀 운영 전략 논의",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. AI 산업 전반의 규제 환경 및 스타트업 운영 전략 이해에 참고 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+    "date": "2026-05-01",
+    "original_title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder"
+  },
+  {
+    "model_name": "Google Gemini",
+    "core_insight": "Gemini AI, 수백만 대 차량에 탑재되어 대화형 운전 경험 제공",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향은 낮으나, 음성 기반 인터랙티브 체험존이나 안내 시스템 개발 시 차량 내 AI와 유사한 자연어 처리 및 음성 인식 기술을 벤치마킹하여 사용자 경험을 개선할 수 있음. VR/AR 콘텐츠 내에서 음성 명령 기반의 오브젝트 조작이나 내비게이션 시스템 구현 아이디어로 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+    "date": "2026-05-01",
+    "original_title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles"
+  },
+  {
+    "model_name": "Stripe Link",
+    "core_insight": "AI 에이전트가 사용자 승인으로 안전하게 결제 가능한 디지털 지갑 Link 출시",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 맥락에서 직접적인 영향은 낮음. 다만, 팀 내 AI 에이전트가 Adobe, Unreal Engine 등 주요 소프트웨어 구독료 결제나 3D 에셋 구매 등 반복적인 행정 업무를 사용자 승인 하에 자동 처리하여 업무 효율을 높일 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+    "date": "2026-05-01",
+    "original_title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too"
+  },
+  {
+    "model_name": "Salesforce AI",
+    "core_insight": "고객 피드백 기반으로 AI 제품 로드맵 수립",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 실무에 직접적인 영향은 낮음. 다만, 고객 중심의 AI 개발 접근 방식은 향후 우리 팀이 AI 솔루션 도입 시 공급사의 유연성 및 협업 가능성을 평가하는 데 참고할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+    "date": "2026-05-01",
+    "original_title": "Salesforce is crowdsourcing its AI roadmap — with customers"
+  },
+  {
+    "model_name": "Goodfire Silico",
+    "core_insight": "LLM 내부 파라미터 조정 및 디버깅 도구 'Silico' 출시",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 제작에 직접적인 영향은 낮음. 다만, AI 모델의 투명성과 제어 능력이 향상되면, 복잡한 AI 기반 인터랙티브 콘텐츠 개발 시 모델의 예측 불가능성을 줄이고 안정적인 운영에 간접적으로 기여할 수 있음.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+    "date": "2026-05-01",
+    "original_title": "This startup’s new mechanistic interpretability tool lets you debug LLMs"
+  },
+  {
+    "model_name": "Sulphur 2",
+    "core_insight": "검열 없는 오픈소스 동영상 생성 모델 'Sulphur 2' 공개 예정",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V"
+    ],
+    "application_idea": "검열 없는 오픈소스 모델이므로, 기존 상용 AI에서 표현하기 어려웠던 파격적이거나 실험적인 미디어아트 영상 소스 제작에 활용 가능. 10초 길이의 영상은 프로젝션 매핑이나 미디어월의 짧은 루프 배경, 전환 효과 등으로 AfterEffects에서 빠르게 합성하여 활용하기 적합함. 오픈소스 특성상 모델 커스터마이징을 통해 특정 프로젝트의 시각적 스타일을 정교하게 제어할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t0auqh/sulphur_2_uncensored_video_gen/",
+    "date": "2026-05-01",
+    "original_title": "Sulphur 2 Uncensored Video Gen"
+  },
+  {
+    "model_name": "Stable Diffusion Multi Injection (Flux2Klein)",
+    "core_insight": "Stable Diffusion에서 다단계 참조 주입으로 이미지 일관성 및 안정성 대폭 개선",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시 캐릭터나 미디어아트 시리즈 작업 시 일관된 스타일과 인물 표현이 가능해져, Photoshop에서 수동으로 일관성을 맞추는 후처리 작업 시간을 크게 단축할 수 있다. VR/AR 콘텐츠의 스토리보드 및 컨셉 아트 제작 시에도 캐릭터의 외형 변화 없이 다양한 장면을 빠르게 생성하여 컨셉 확정 시간을 줄일 수 있다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1szqdtl/multi_injection_incoming/",
+    "date": "2026-05-01",
+    "original_title": "Multi Injection incoming"
+  },
+  {
+    "model_name": "Z image turbo, Klein 9B distilled",
+    "core_insight": "커뮤니티 블라인드 테스트로 두 이미지 모델의 사실성 비교",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어월 배경 이미지 제작 시 가장 사실적인 결과물을 제공하는 모델을 선별하는 데 활용. Unreal Engine이나 TouchDesigner 프로젝트에서 필요한 고품질 텍스처나 환경 자산 생성에 적합한 모델을 파악하여 제작 파이프라인 효율성을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1szjm1c/blind_realism_test_z_image_turbo_vs_klein_9b/",
+    "date": "2026-05-01",
+    "original_title": "Blind realism test, Z image turbo vs Klein 9B distilled"
+  },
+  {
+    "model_name": "ChatGPT Image 1.5/2.0",
+    "core_insight": "T2I 모델 흰색 배경 생성 시 노이즈 문제, ChatGPT 1.5/2.0이 가장 우수",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "인물/오브젝트 에셋 생성 시 포토샵 누끼 작업 시간을 단축할 수 있음. 특히 미디어월, 프로젝션 매핑, VR/AR 콘텐츠용 캐릭터나 오브젝트를 다른 배경에 합성할 때, 초기 T2I 생성 단계에서 깨끗한 배경을 얻으면 AfterEffects 합성 효율이 크게 향상될 것.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1szomwo/background_cleanliness_comparison_10_models/",
+    "date": "2026-05-01",
+    "original_title": "BACKGROUND CLEANLINESS COMPARISON (10 models)"
+  },
+  {
+    "model_name": "ComfyUI Load Audio UI (Trimming Node)",
+    "core_insight": "ComfyUI 오디오 로드 노드 개선, 오디오 트리밍 및 비디오 드래그앤드롭 지원",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성"
+    ],
+    "application_idea": "ComfyUI를 활용한 미디어아트/전시 영상 제작 시, 생성 영상에 필요한 배경음악이나 효과음을 ComfyUI 내에서 직접 트리밍하여 즉시 적용 가능. 외부 오디오 편집 툴 사용 단계를 줄여 작업 효율성을 높이고, 영상과 사운드의 정밀한 동기화가 필요한 인터랙티브 콘텐츠 제작에 유용.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t01hai/load_audio_ui_upgraded_load_audio_node_with/",
+    "date": "2026-05-01",
+    "original_title": "Load Audio UI - Upgraded Load Audio Node with Trimming"
+  },
+  {
+    "model_name": "Qwen3.5-4B-Base-ZitGen-V1",
+    "core_insight": "이미지를 텍스트 프롬프트로 변환하여 T2I 작업 효율 증대",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "레퍼런스 이미지나 컨셉 아트를 입력하여 상세한 T2I 프롬프트를 자동으로 생성, Midjourney나 DALL-E 작업의 초기 아이데이션 시간을 단축. 특히 복잡한 장면이나 특정 스타일의 이미지 프롬프트 추출에 유용하여, Photoshop 컨셉 이미지 제작 단계에서 효율성을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t0bm5w/local_ai_news_you_missed_april_2026/",
+    "date": "2026-05-01",
+    "original_title": "Local AI News You Missed - April 2026"
+  },
+  {
+    "model_name": "LivePortrait Colab Notebook",
+    "core_insight": "LivePortrait 기반 표정 복사 Colab 공개, 상업적 활용 및 무료 사용 가능",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "전시 캐릭터의 다양한 표정 연출을 위해 원본 이미지의 표정을 쉽게 변경 가능. 미디어아트에서 인물 이미지의 감정 변화를 동적으로 표현하거나, 인터랙티브 체험존에서 사용자의 감정에 따라 캐릭터 표정을 실시간으로 변환하는 데 활용. Photoshop에서 수작업으로 표정을 합성하는 시간을 단축하고, 여러 시안을 빠르게 생성하여 컨셉 개발 단계 효율 증대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t03s6t/liveportrait_expression_swap_notebook_free_colab/",
+    "date": "2026-05-01",
+    "original_title": "LivePortrait expression swap notebook — free Colab, MediaPipe instead of InsightFace, MIT-licensed"
+  },
+  {
+    "model_name": "Qwen 2512 Portrait Lora",
+    "core_insight": "고해상도 인물 사진 특화 Lora 모델 출시, 24GB 이상 VRAM 요구",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "VR/AR 콘텐츠 내 디지털 휴먼 캐릭터의 사실적인 얼굴 이미지 생성에 활용. 전시 컨셉 아트 단계에서 고품질 인물 초상화 제작 시간을 단축하고, Unreal Engine용 캐릭터 모델링의 레퍼런스 이미지로 활용 가능. 24GB VRAM 요구사항으로 인해 고사양 워크스테이션에서만 운용 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1szi6s2/qwen_2512_portrait_lora/",
+    "date": "2026-05-01",
+    "original_title": "Qwen 2512 Portrait Lora"
+  },
+  {
+    "model_name": "MiniMax-M2.7",
+    "core_insight": "MiniMax-M2.7 라이선스 MIT에서 비상업용으로 변경",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "MiniMax-M2.7 모델의 라이선스가 비상업용으로 변경되어, 상업적 공간 콘텐츠 제작 프로젝트에는 활용할 수 없음. 내부 연구 및 기술 검토 목적으로만 제한적으로 사용 가능하며, 상업용 LLM 기반 스크립트 보조가 필요할 경우 다른 오픈소스 또는 유료 모델을 검토해야 함.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t06y43/open_models_april_2026_one_of_the_best_months_of/",
+    "date": "2026-05-01",
+    "original_title": "Open Models - April 2026 - One of the best months of all time for Local LLMs?"
+  },
+  {
+    "model_name": "e-flux Journal issue #162",
+    "core_insight": "노동, 자동화, 선동 주제의 e-flux 저널 162호 베니스 출판 행사 개최",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사는 AI 플랫폼 업데이트가 아닌 저널 출판 행사 관련 내용으로, 공간 콘텐츠 제작 실무에 직접 적용할 아이디어를 도출하기 어려움. 다만, '자동화' 주제는 AI의 사회적 영향에 대한 이해를 넓히는 데 간접적으로 참고할 수 있음.",
+    "source": "Google News - 이미지 AI",
+    "category": "이미지",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUFUyVFJaYVB4MUFYVTFIWFRrMkgtMnBkc3lEY05kX29Mb2Jyc3NMSDlkSkZHSEE3a1AtMzNUOVlkWC1tRzNVdlA1aFpsSVdRbkc0TDEtTG1OY0FXLUNwR01ScXdKNGQyd1pOY0VkZ2QzNW52TWt4SzBGeV9vS0NaZjlvVGZRRnp0Y1ZteVJucWs0R0x4VDFLMlVONDJ3R2Ixay1ZYW1lYU4wMWNWckhKVFRmYi16MXpPRUE?oc=5",
+    "date": "2026-05-01",
+    "original_title": "Venice launch of e-flux Journal issue #162: Operativism: Labor, Automation, Agitation - e-flux.com"
+  }
+]
