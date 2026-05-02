@@ -1,0 +1,355 @@
+[
+  {
+    "model_name": "Meta AI (로봇 부문)",
+    "core_insight": "메타, 로봇 AI 모델 강화 위해 휴머노이드 로봇 스타트업 인수",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [
+      "3D",
+      "립싱크/캐릭터",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "미디어아트 전시에서 로봇이 직접 관객과 상호작용하는 퍼포먼스 구현 가능. VR/AR/XR 콘텐츠 내 가상 캐릭터의 물리적 움직임 및 실시간 상호작용 정교화에 기여하여 몰입감 증대. 장기적으로는 프로젝션 매핑과 연동된 로봇 설치미술 제작에 활용될 잠재력.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "date": "2026-05-02",
+    "original_title": "Meta buys robotics startup to bolster its humanoid AI ambitions"
+  },
+  {
+    "model_name": "OpenAI (기업 운영 정책)",
+    "core_insight": "OpenAI의 영리 모델 전환에 대한 일론 머스크의 소송 진행",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서 직접적인 영향은 낮음. 다만, OpenAI의 기업 철학 및 운영 모델에 대한 법적 분쟁은 장기적으로 AI 기술의 개발 방향과 접근성에 영향을 미칠 수 있어, 향후 AI 도구 도입 전략 수립 시 참고할 만한 정보임.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+    "date": "2026-05-02",
+    "original_title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you."
+  },
+  {
+    "model_name": "Nvidia, Microsoft, AWS AI 플랫폼",
+    "core_insight": "엔비디아, MS, AWS AI, 미 국방부 기밀망에 배포 계약 체결",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, 주요 AI 플랫폼들이 고도의 보안이 요구되는 국방부 기밀망에 배포된다는 점은 해당 플랫폼들의 전반적인 신뢰성과 보안 역량을 간접적으로 입증하는 사례가 됨. 이는 장기적으로 기업용 AI 솔루션 도입 시 보안 우려를 줄이는 데 기여할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "date": "2026-05-02",
+    "original_title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks"
+  },
+  {
+    "model_name": "OpenAI",
+    "core_insight": "머스크, OpenAI의 영리 전환에 대한 소송 제기, 법정 공방 심화",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 실무에 직접적인 영향은 낮음. 다만, OpenAI의 장기적인 서비스 정책이나 접근성에 간접적인 영향을 미칠 수 있으므로, 향후 AI 플랫폼 활용 전략 수립 시 동향 주시 필요.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+    "date": "2026-05-02",
+    "original_title": "Musk v. Altman is just getting started"
+  },
+  {
+    "model_name": "ChatGPT Images 2.0",
+    "core_insight": "인도에서 아바타, 시네마틱 인물 이미지 등 개인 창작물 생성에 인기",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어월 배경 이미지 제작 시 초기 아이디어 구체화 단계에서 활용. 다양한 스타일의 캐릭터 아바타를 빠르게 생성하여 VR/AR 콘텐츠의 비주얼 에셋으로 활용하거나, 프로젝션 매핑용 패턴 및 질감 이미지 제작에 활용하여 Photoshop 작업 시간을 단축.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+    "date": "2026-05-02",
+    "original_title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet"
+  },
+  {
+    "model_name": "X AI 광고 플랫폼",
+    "core_insight": "X, AI 기반 광고 플랫폼 재구축으로 수익 증대 목표",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "X AI 광고 플랫폼은 공간 콘텐츠 제작 자체에는 직접적인 영향이 적음. 다만, 제작된 콘텐츠를 X 플랫폼을 통해 홍보하거나, AI 기반의 타겟팅 광고 시스템이 어떻게 작동하는지 참고하여 향후 유사한 인터랙티브 전시 시스템 기획 시 데이터 활용 방안을 모색하는 데 간접적으로 활용될 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+    "date": "2026-05-02",
+    "original_title": "X announces a rebuilt ad platform powered by AI"
+  },
+  {
+    "model_name": "Meta Business AI",
+    "core_insight": "Meta 비즈니스 AI, 주간 1천만 대화 처리하며 광범위한 상업적 활용 입증",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "T2V",
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 하지만 클라이언트가 Meta 플랫폼에서 AI로 생성한 홍보 영상이나 이미지를 우리 팀의 공간 콘텐츠에 통합해야 할 경우, 호환성 및 품질 관리 측면에서 고려할 필요가 있음. 또한, Meta의 AI 기술 발전 동향을 파악하여 향후 우리 팀의 마케팅 및 홍보 콘텐츠 제작에 활용 가능성을 탐색할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+    "date": "2026-05-02",
+    "original_title": "Meta says its business AI now facilitates 10 million conversations a week"
+  },
+  {
+    "model_name": "xAI",
+    "core_insight": "xAI가 OpenAI 모델을 추출하여 사용하고 있음을 인정",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, AI 모델 개발 및 지적 재산권 관련 업계 동향을 파악하는 데 중요하며, 향후 AI 모델 사용 정책이나 비용에 간접적인 영향을 줄 수 있음.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "date": "2026-05-02",
+    "original_title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models"
+  },
+  {
+    "model_name": "AI 시대 사이버 보안",
+    "core_insight": "AI로 인한 사이버 보안 위협 증가, 근본적 재설계 요구",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "AI 기반 콘텐츠 제작 파이프라인 전반의 보안 취약점 인지 및 대비가 필수적임. 특히 클라이언트 데이터, 지적 재산권 보호, 전시 시스템 해킹 방지 등 중요한 영역에서 AI 보안 전략 수립의 중요성을 인지해야 함. AI 도구 사용 시 발생할 수 있는 잠재적 보안 위협에 대한 내부 가이드라인 마련에 참고.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "date": "2026-05-02",
+    "original_title": "Cyber-Insecurity in the AI Era"
+  },
+  {
+    "model_name": "AI 운영 및 데이터 주권 전략",
+    "core_insight": "기업들이 AI 활용을 위해 데이터 주권 확보 및 AI 팩토리 구축에 집중",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 장기적으로 팀 내 AI 활용 전략 수립 시 데이터 관리 및 보안, 거버넌스 측면을 고려하는 데 참고할 수 있음. 자체 AI 모델 학습이나 커스터마이징을 고려할 경우 데이터 주권 확보의 중요성을 인지하는 데 도움.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+    "date": "2026-05-02",
+    "original_title": "Operationalizing AI for Scale and Sovereignty"
+  },
+  {
+    "model_name": "새로운 미국 기독교 통신망",
+    "core_insight": "기독교 대상 미국 통신망, 음란물 및 젠더 관련 콘텐츠 네트워크 차단",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, 특정 종교적 또는 보수적 관람객을 대상으로 하는 콘텐츠 제작 시, 잠재적 검열 기준에 대한 간접적인 이해를 돕는 참고 자료가 될 수 있음.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+    "date": "2026-05-02",
+    "original_title": "A new US phone network for Christians aims to block porn and gender-related content"
+  },
+  {
+    "model_name": "Anima",
+    "core_insight": "JSON 프롬프트로 캐릭터 세부 묘사 및 구도 제어 정확도 대폭 향상",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "전시 공간 내 디지털 사이니지, 미디어월용 캐릭터 이미지 제작 시, JSON 프롬프트로 여러 캐릭터의 복장, 표정, 구도를 정밀하게 제어하여 일관된 비주얼 스토리텔링 구현 가능. VR/AR 콘텐츠용 캐릭터 에셋의 초기 컨셉 아트 제작 시간을 단축하고, Photoshop에서 시안 제작 시 반복적인 수정 작업 감소.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t0p2au/anima_seems_to_do_impressively_well_on_json/",
+    "date": "2026-05-02",
+    "original_title": "Anima seems to do impressively well on json formatted prompt"
+  },
+  {
+    "model_name": "SFW Prompt Pack v4.0 (Stable Diffusion)",
+    "core_insight": "SFW 프롬프트 팩에 20개 신규 스타일 추가 및 카테고리 세분화",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 공간의 컨셉 이미지 제작 시 다양한 카메라 앵글과 인물 포즈를 활용하여 구체적인 장면 연출 아이디어를 빠르게 시각화할 수 있음. 특정 시네마틱 스타일은 미디어아트 프로젝트의 독특한 분위기 설정에 유용하며, Photoshop을 이용한 초기 컨셉 아트 작업 시간을 단축시킬 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t0q5hf/sfw_prompt_pack_v40/",
+    "date": "2026-05-02",
+    "original_title": "SFW Prompt Pack - v4.0"
+  },
+  {
+    "model_name": "Anima LoRA Builder",
+    "core_insight": "비디오에서 캐릭터 추출, 자동 태깅, LoRA 학습까지 3단계 자동화 툴",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "V2V",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "전시 안내 캐릭터나 VR/AR 콘텐츠용 특정 인물 LoRA를 기존 영상에서 자동 생성. 수동 크롭 및 태깅 작업이 사라져 Photoshop/AfterEffects에서의 캐릭터 자산 준비 시간 단축. Unreal Engine/TouchDesigner에서 활용할 고품질 캐릭터 에셋 제작 파이프라인 효율화.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t0yirq/built_a_3step_allinone_lora_builder_for_anima/",
+    "date": "2026-05-02",
+    "original_title": "Built a 3-step all-in-one LoRA builder for Anima (extract -> tag -> train)"
+  },
+  {
+    "model_name": "Phosphene (LTX 2.3)",
+    "core_insight": "Apple Silicon 전용 로컬 영상 생성 패널, 영상·음성 동시 생성 및 프레임 단위 동기화 지원",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "V2V",
+      "립싱크/캐릭터",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "Apple Silicon 기반 워크스테이션에서 오프라인으로 미디어아트 배경 영상이나 VR 콘텐츠용 짧은 클립을 빠르게 생성할 수 있음. 영상과 음성이 프레임 단위로 동기화되어 AfterEffects나 Premiere에서 후반 작업 시간을 크게 단축할 수 있으며, 립싱크가 필요한 안내 캐릭터 영상 제작에도 유용함.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t0k7k1/phosphene_local_video_and_audio_generation_for/",
+    "date": "2026-05-02",
+    "original_title": "Phosphene — local video and audio generation for Apple Silicon ( LTX2.3 )"
+  },
+  {
+    "model_name": "SenseNova U1",
+    "core_insight": "정보 밀집 그래픽에서 높은 텍스트 정확도, 긴 프롬프트에 강점",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 공간 내 정보 패널, 안내 사인물, 또는 인터랙티브 콘텐츠의 UI 요소 제작 시 텍스트 가독성 높은 이미지를 빠르게 생성하여 디자인 및 수정 시간을 단축. 특히 VR/AR 환경에서 3D 오브젝트에 부착되는 텍스처에 복잡한 정보 텍스트를 정확하게 삽입하여 몰입감 있는 디테일 구현 가능. Photoshop에서 수작업으로 텍스트를 배치하고 디자인하는 단계를 상당 부분 대체할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t0g8hl/sensenova_u1_infographic_test_high_text_fidelity/",
+    "date": "2026-05-02",
+    "original_title": "SenseNova U1 Infographic Test: High Text Fidelity even in Information-Dense Graphics"
+  },
+  {
+    "model_name": "Stable Diffusion (Character Sheet Input)",
+    "core_insight": "캐릭터 시트 입력으로 일관된 캐릭터 생성 및 유지 기능 강화",
+    "update_type": "기능추가",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "립싱크/캐릭터",
+      "멀티모달"
+    ],
+    "application_idea": "전시 내러티브에 등장하는 캐릭터의 일관된 외형을 유지하며 다양한 장면과 포즈의 컨셉 이미지를 빠르게 생성할 수 있음. VR/AR 콘텐츠에서 사용자 안내 캐릭터의 시각적 통일성을 확보하여 몰입감을 높이는 데 기여. Unreal Engine에서 3D 캐릭터 모델링 및 애니메이션을 위한 레퍼런스 이미지 제작 시간을 단축.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t18rnn/open_weight_and_closed_models_with_character/",
+    "date": "2026-05-02",
+    "original_title": "Open weight (and closed) Models with character sheet inputs"
+  },
+  {
+    "model_name": "Stable Diffusion 커뮤니티 도구",
+    "core_insight": "무료 AI 모델 및 커뮤니티 제작 도구의 활발한 활용과 기여 문화 확인",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "T2V",
+      "I2V",
+      "V2V",
+      "사운드/음성"
+    ],
+    "application_idea": "무료 AI 모델과 커뮤니티 도구는 예산 제약 속 실험적 콘텐츠 제작에 기여. Lora 자동 추출/태깅 도구는 특정 스타일 자산 관리 효율을 높여 전시 컨셉 아트 및 미디어아트 시안 작업 시간 단축. Reddit 자동 번역은 해외 AI 트렌드 및 기술 정보 습득에 유용하여 글로벌 레퍼런스 탐색 시간을 줄여줌.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t128e6/a_big_thank_you_to_the_community/",
+    "date": "2026-05-02",
+    "original_title": "A big thank you to the community."
+  },
+  {
+    "model_name": "Caption Generator Pro",
+    "core_insight": "VLM/LLaVA 기반 이미지 캡션 일괄 생성 데스크톱 앱 출시",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 콘텐츠 제작 시 대량의 이미지 자산에 대한 상세 캡션을 자동으로 생성하여, 추후 AI 모델 학습용 데이터셋 구축 시간을 단축. 미디어월에 사용될 이미지들의 메타데이터를 일괄 생성하여 콘텐츠 관리 효율성을 높일 수 있음. Unreal Engine 등 3D 환경에서 사용할 텍스처나 오브젝트 이미지에 대한 설명 텍스트를 자동으로 생성하여 에셋 분류 및 검색에 활용 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t12ezt/batch_image_captioning_generator/",
+    "date": "2026-05-02",
+    "original_title": "Batch Image Captioning Generator"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "Midjourney의 독창적인 이미지 생성 능력으로 'Hammerhead koi' 구현 사례 공유",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "초현실적인 수중 테마 전시의 컨셉 아트 및 시각 자료 제작에 활용. 프로젝션 매핑이나 미디어월 콘텐츠의 독특한 생물체 디자인 아이디어 발상에 도움. Unreal Engine에서 3D 모델링 전 레퍼런스 이미지로 활용하여 디자인 초기 단계 단축.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1t0rtej/hammerhead_koi/",
+    "date": "2026-05-02",
+    "original_title": "Hammerhead koi"
+  },
+  {
+    "model_name": "미공개 AI 영상 생성 모델",
+    "core_insight": "복잡한 캐릭터 액션 및 무술 동작 영상 생성 기능 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "전시 내러티브에 필요한 가상 캐릭터의 동적인 액션 시퀀스를 제작할 때 활용 가능. Unreal Engine에서 캐릭터 애니메이션 리소스 제작 시 레퍼런스 영상으로 활용하거나, 특정 동작 구현의 초기 시안 제작 시간을 단축할 수 있음. 미디어아트 작품에서 비현실적인 캐릭터의 움직임을 구현하여 관객의 몰입도를 높이는 데 기여.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1t12dca/orcish_martial_arts_and_workout_action_video/",
+    "date": "2026-05-02",
+    "original_title": "Orcish martial arts and workout (action video)"
+  },
+  {
+    "model_name": "미상 (AI 영상 편집 툴)",
+    "core_insight": "AI 활용 애니메이션/뮤직비디오 편집의 접근성 및 용이성 향상 시사",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V",
+      "V2V"
+    ],
+    "application_idea": "AI 기반 영상 편집 기술은 전시 공간의 미디어월이나 프로젝션 매핑 콘텐츠 제작 시, 기존 영상 소스에 새로운 스타일을 적용하거나 애니메이션 요소를 빠르게 추가하는 데 활용될 수 있음. 특히 다양한 시각적 컨셉을 신속하게 실험하고 반복 작업하여 AfterEffects 작업 시간을 단축하는 데 기여할 수 있음.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1t0k4fm/my_first_editing_attempt_using_ai_hybrid/",
+    "date": "2026-05-02",
+    "original_title": "My first editing attempt using AI - Hybrid Anime/Music Video (Learning Work)"
+  },
+  {
+    "model_name": "AI 영상 생성 기술 (일반)",
+    "core_insight": "AI 영상 생성 기술이 기묘하고 추상적인 상상력 구현 수준에 도달",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V"
+    ],
+    "application_idea": "미디어아트나 VR/AR 콘텐츠에서 초현실적인 배경이나 오브젝트를 생성하는 데 활용. 기존 수작업으로 구현하기 어려웠던 비정형적이고 환상적인 시각 요소를 빠르게 프로토타이핑하여 컨셉 아트 단계의 Photoshop 작업 시간 단축 가능.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1t0yo6z/reddits_weirdest_dreams_brought_to_life_with_ai/",
+    "date": "2026-05-02",
+    "original_title": "Reddit's Weirdest Dreams Brought to Life with AI"
+  }
+]
