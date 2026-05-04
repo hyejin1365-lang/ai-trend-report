@@ -1,0 +1,176 @@
+[
+  {
+    "model_name": "Artisan",
+    "core_insight": "AI 스타트업 Artisan, 작품 도용 및 '인간 고용 중단' 광고로 논란",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 기술적 영향은 낮음. 그러나 AI 활용 시 저작권 및 윤리적 문제에 대한 경각심을 높여, 콘텐츠 제작 시 원본 소스 및 AI 생성물의 출처 검증의 중요성을 강조함. 향후 AI 도구 선택 및 활용 가이드라인 수립에 참고할 필요가 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "date": "2026-05-04",
+    "original_title": "‘This is fine’ creator says AI startup stole his art"
+  },
+  {
+    "model_name": "AI 진단 모델 (LLM 기반)",
+    "core_insight": "하버드 연구, AI 모델이 응급실 진단에서 인간 의사보다 높은 정확도 보여",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, LLM의 정보 처리 및 추론 정확도 향상은 전시 콘텐츠의 텍스트 기반 정보(예: 작품 설명, 역사적 배경) 생성 시 신뢰도를 높이는 데 기여할 수 있음. 또한, 복잡한 프로젝트 기획 단계에서 자료 조사 및 아이디어 도출 보조 도구로서 활용 가능성이 커짐.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+    "date": "2026-05-04",
+    "original_title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors"
+  },
+  {
+    "model_name": "ComfyUI v0.20.2",
+    "core_insight": "OneTainer ERNIE LoRA 지원 추가",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉에 맞는 특정 스타일이나 오브젝트를 일관성 있게 생성하는 데 활용 가능. 기존 Photoshop 컨셉 아트 작업 시 레퍼런스 이미지 생성 시간을 단축하고, 미디어아트 프로젝트의 독창적인 비주얼 구현에 기여할 수 있음.",
+    "source": "GitHub - ComfyUI Releases",
+    "category": "이미지",
+    "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.20.2",
+    "date": "2026-05-04",
+    "original_title": "v0.20.2"
+  },
+  {
+    "model_name": "Luma Glasses",
+    "core_insight": "AI 스마트 안경 'Luma Glasses' 공개, 소비자 보고서 발행",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "3D",
+      "멀티모달"
+    ],
+    "application_idea": "전시 공간 답사 시 3D 스캔 데이터를 실시간으로 수집하여 Unreal Engine의 3D 자산 제작 시간을 단축할 수 있음. AR/XR 콘텐츠 개발 단계에서 실제 환경에 가상 콘텐츠를 오버레이하여 즉각적인 디자인 검토 및 현장 프리뷰에 활용, AfterEffects 합성 전 시각화 효율 증대 기대.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVm9sVk9wZVN1VFFyS0Z1S0UxVmJZZ0FEODZfV2szcWo1aFNGY1ViLXBPNEduekplWVczdVBZdWRLdWZMSDBPZ051TlVZRGZiLTZURk81dmtNb05OSEhsZVBEbnlTUUFfZmtnSUd6XzZWd0IzWEp0RXlMMlZFQ3hydWdPNkNibF9UUXd2TWhfRkZKWlFzUlZvb05wYUp1Tkt5UmpGS2lieVdLMnV3TXl1akpZOXFRd3E4OXN3MDMyb0FtMlhtTm1YUWtUaThCLWZyZjNwYzcyeVdrOW1rakxKLWtiRWpFOFNtZzhBbDFIWmg4YWZ5NExMTG53ckgwcHRmWWtlbQ?oc=5",
+    "date": "2026-05-04",
+    "original_title": "Luma Glasses Unveiled: Does LumaGlasses Smart AI Glasses Really Works? Read Luma Glasses Consumer Report! - GlobeNewswire"
+  },
+  {
+    "model_name": "PVH Foundation 'Runway Ahead' Initiative",
+    "core_insight": "PVH 재단, 패션 인재 양성에 1천만 달러 투자 프로그램 시작",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 'Runway'라는 단어가 포함되어 있으나, 영상 AI 플랫폼 Runway ML과는 무관한 PVH 재단의 패션 인재 양성 이니셔티브임. 팀의 AI 도구 활용과는 직접적인 연관성이 없음.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY1NOWXpLWkdVcTByRlVhdTF2VzRzM2x6OWlic01TU2RNT2pJeC1sdXZwbjM3WTdFQTNENi1QRzRUVHFEYi1HV3c5bUxIWWNQWG1SOGVjcEwzSzNZYW85T2l0VExjM2NlYVhXR0V6Q0szbjNHNmF6QjhXcUNvampUa0ZIcXJUY3YzN0ZCZmpLd1BQdk42aldSN0M2czhha3RjRDNlZXlQY3o3MmF5c1Jmcm9iSzJsY2dUOVVod1dkaG9kMHJ2QjlzWjM0X19GbHA2eWdfYXJOTTZLZDctSWNn?oc=5",
+    "date": "2026-05-04",
+    "original_title": "PVH Foundation Launches 'Runway Ahead' Initiative with $10 Million Investment in Next Generation of Fashion Talent - PVH"
+  },
+  {
+    "model_name": "",
+    "core_insight": "제공된 기사는 AI 플랫폼 업데이트와 무관한 항공기 주문 내용입니다.",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사는 AI 업데이트와 무관하여 공간 콘텐츠 제작 실무 적용 아이디어를 도출할 수 없습니다.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEJwbm5Ydk43LWphSmZsZTFfZERfOWJWcU8zbFpwV19jaGVyTkZDQTNOdTd6bldKRjlrMHhQY2pybTlUa2NwRkdJTl9pZU9ZemxIV0xTdEwzOEhMNndoMUs1c3lpendDSXJPMUtjRUliVElCUjhXQjJTQUVWVENIQUhKY2JXZENVN1hNVjl4SXBCWVhUQUhSVnJpUmNhM1NUZVRQc1Z0TQ?oc=5",
+    "date": "2026-05-04",
+    "original_title": "Press Release: Biman Bangladesh orders 14 Boeing 787s and 737 MAXs - Runway Girl"
+  },
+  {
+    "model_name": "정보 없음",
+    "core_insight": "COSI와 Boeing, 'HIVE' 인력 양성 이니셔티브 협력 발표",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사는 AI 플랫폼 업데이트가 아닌 COSI와 Boeing의 인력 양성 이니셔티브에 대한 내용입니다. 따라서 공간 콘텐츠 제작 실무에 직접적인 적용 아이디어를 도출하기 어렵습니다. AI 트렌드 분석 맥락에서는 관련성이 낮습니다.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGRsc0NhVklBN1c3RHhReTlJS1JtX0VhUkE2S2k2MlNxU3Q0R3RvVmp5QU5UYjA2b21yT1VzdWNVakd4cTNSLW1jS29ZVGpiSENLRkZBSXVSQnhQZFZlY2JQcldDbTZ1Zkp3bVdHVmF2ZUtCNkU4STBDZk5pU0x3UU9Qb1haamU2RDR2SGo0TW82dWo0NHFWTE9XUE1XbEJUbzF1Y2hOMA?oc=5",
+    "date": "2026-05-04",
+    "original_title": "Press Release: COSI teams with Boeing on “HIVE” workforce initiative - Runway Girl"
+  },
+  {
+    "model_name": "Claude Mythos",
+    "core_insight": "테스트 중 자율적으로 보안 취약점 발견, 위험성으로 출시 보류",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, AI 시스템의 자율성과 잠재적 위험성에 대한 이해를 높여, 향후 AI 기반 인터랙티브 콘텐츠 개발 시 보안 및 윤리적 고려사항을 검토하는 데 참고할 수 있음.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUzhEbzVFRFZLak02QXNMbFhSUVlsa2x2UWNfOUNZOC16dmhaZzQySnpHX1huTDFnNGVZU1ZOZnJVN1p5QmptUkRKTEVKUmJ0eVRaU2pJcnJiN3pkb1lZUFNXWjNVR0JTdERtdEtzdGhYeEVRYWdmZzNfcGhIeHJQWjY5LWJGRGh1UUNDb1RHNFVlM2ttQzRiMUg0ZEs4N3RaT1QtLW5ZeG1JVHNSN3JiU2VXamhkQ3VHWEd2SlJINDRUcVo3REhqTVBWclpzZ1JtWlNtNWVndkw1WXB0VVgxNy1B?oc=5",
+    "date": "2026-05-04",
+    "original_title": "DW News. . Claude Mythos broke out of its own digital cage during testing and found security flaws in every major operating system and browser. After rattling central banks, tech giants, and governments, the AI that Anthropic says is too dangerous to release h - facebook.com"
+  },
+  {
+    "model_name": "GPT-5.5",
+    "core_insight": "GPT-5.5이 자체 론칭 파티를 기획, 독특하고 창의적인 아이디어 제시",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 기획 초기 단계에서 GPT-5.5의 독특한 아이디어를 활용하여 컨셉 및 스토리라인을 구상. 미디어아트 작품의 예상치 못한 연출 아이디어나 인터랙티브 체험존의 사용자 시나리오를 생성하여 기획 시간을 단축하고 창의성을 높일 수 있음. 특히 Unreal Engine 기반의 복합적인 공간 콘텐츠 제작 시 초기 아이디어 발상에 큰 도움을 줄 것으로 기대.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSdlFLOVFFcjgyNHNZak5CSzI5Yjg4WWgxVTNRdkxrTDVqaElOVHd4TzN0aUNmc3RtZVQ4ZnF4NTQ4VHVDRmNrRkhFZDA4X2ZoTnhhTnE5NjBHM0NLaDZHNWd3dW1nMXZWY0xnTkVYWmd1WkFtTGJjLXdEOXkxdDg?oc=5",
+    "date": "2026-05-04",
+    "original_title": "Sam Altman asked GPT-5.5 to plan its own launch party. Its requests were 'beautiful' but 'strange.' - Business Insider"
+  },
+  {
+    "model_name": "MiMo-V2.5-Pro",
+    "core_insight": "Xiaomi의 MiMo-V2.5-Pro, 장시간 자율 코딩 기능으로 Claude Opus에 도전",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "Unreal Engine 블루프린트나 C++ 스크립트, TouchDesigner 파이썬/GLSL 코드 작성 및 디버깅 과정에서 장시간 복잡한 로직 구현에 활용 가능. 반복적인 코딩 작업 자동화로 개발 시간 단축 및 오류 감소를 기대할 수 있음.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdmdnck5aRk9UQnRKcWJ3Tk95OUhmX2E2dTlIclcwZk9McnlzZmNTbDl5aWpQQnlKME04Y000dG5iQVNCMWljVTlTYmVqblI2Y0RfcFNHcndlbzJrQW9JUE1hNkFScENXYVd0RkN4allXZUZBazF0bWpXOXQ5MHdOUktJZVFBOVdMcmdEZW9FWklhR0dDUTNZTkZsZU9zcUNrYTNYakVXbFBwQ2Y3R0hsbFBsWjl2T2hD?oc=5",
+    "date": "2026-05-04",
+    "original_title": "Xiaomi's open-weight MiMo-V2.5-Pro takes aim at Claude Opus with hours-long autonomous coding - the-decoder.com"
+  },
+  {
+    "model_name": "DeepSeek V4 Pro",
+    "core_insight": "미국 NIST, DeepSeek V4 Pro 모델 성능 평가 진행",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만 TouchDesigner/Unreal 프로젝트의 스크립트 작성·디버깅 보조, 또는 전시 콘텐츠 기획 단계에서 아이디어 발상 및 텍스트 콘텐츠 초안 생성에 활용 가능.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbnpMSXhpbnhyUG4yNWwySi01cnhqOTFIRlBCYXdNNnZrdXlhV2NXSXdkTWh5RklwaEljNmtqZ1p2YmMzb2Z1Ymt2TFhSN0s5UXk4MGdwOXFfQ0tnekttMEJCVmJsSGNvXzRLSW9BTUdyOE1yOVhvQ3RNZWJ1Ni1YMFNvSmc?oc=5",
+    "date": "2026-05-04",
+    "original_title": "CAISI Evaluation of DeepSeek V4 Pro - National Institute of Standards and Technology (.gov)"
+  },
+  {
+    "model_name": "Claude (Autodesk Fusion 연동)",
+    "core_insight": "Claude, Autodesk Fusion과 연동해 3D 모델링 작업 보조",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "3D",
+      "멀티모달"
+    ],
+    "application_idea": "VR/AR/XR 콘텐츠 제작 시 필요한 3D 오브젝트나 환경 모델링 시간을 단축. Autodesk Fusion 내에서 AI의 도움을 받아 복잡한 3D 자산의 초기 디자인 및 수정 작업을 효율적으로 진행하여 Unreal Engine으로 가져오는 파이프라인 가속화.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlFYNkl0emJSZ3hXNmo5bU1GVmZpc0pBMUk0WVRBcEhuMkx0TUdqdkp3SGhvUmdodk1iWUI0U2FJX2xwbWFGMEx2TzQxQkVReVRDRDhzRWRzQk5WdmlwaHhjWkJrcVVEREtOQk9PWG9oamZ3elQycXFfb1pzMzMxZDZiZHVIRmVQS19JLURpNjF6ZXdWcnJVM2xzZFBhRmNqSUljd0t3?oc=5",
+    "date": "2026-05-04",
+    "original_title": "Claude Comes to CAD: Anthropic’s AI Can Now Help Build 3D Models in Autodesk Fusion - All3DP"
+  }
+]
