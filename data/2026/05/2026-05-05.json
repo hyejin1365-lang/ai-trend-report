@@ -1,0 +1,342 @@
+[
+  {
+    "model_name": "OpenAI 실시간 음성 AI 시스템",
+    "core_insight": "실시간 음성 AI의 지연 시간 단축 및 글로벌 서비스 안정성 강화",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시 공간 내 AI 도슨트나 인터랙티브 캐릭터와의 실시간 음성 대화 시 지연 시간을 최소화하여 더욱 자연스러운 사용자 경험을 제공할 수 있음. VR/AR 콘텐츠에서 가상 캐릭터와의 몰입감 있는 대화 시스템 구축에 활용하여 사용자 참여도를 높일 수 있음. 글로벌 전시 콘텐츠 제작 시에도 안정적인 음성 AI 서비스를 기대할 수 있어 해외 로컬라이제이션에 유리.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+    "date": "2026-05-05",
+    "original_title": "How OpenAI delivers low-latency voice AI at scale"
+  },
+  {
+    "model_name": "Cerebras",
+    "core_insight": "AI 칩 제조사 Cerebras, 266억 달러 이상 기업 가치로 IPO 추진",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "Cerebras의 IPO 성공은 OpenAI와의 협력을 강화하여, 향후 OpenAI 모델의 연산 능력 및 처리 속도 향상으로 이어질 수 있음. 이는 Unreal Engine 기반의 실시간 인터랙티브 콘텐츠나 고해상도 미디어아트 영상 제작 시 AI 모델 활용 범위를 넓히고, 복잡한 3D 자산 생성 및 시뮬레이션 속도를 개선하는 데 기여할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+    "date": "2026-05-05",
+    "original_title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO"
+  },
+  {
+    "model_name": "이미지 AI 모델 (전반)",
+    "core_insight": "이미지 AI 모델 출시가 앱 다운로드 급증에 기여하나, 수익 전환은 미흡",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "이미지 AI 모델의 대중적 확산은 전시/미디어아트 콘텐츠 제작 시 AI 활용에 대한 대중의 기대치를 높일 수 있음. Photoshop을 활용한 컨셉 아트 단계에서 다양한 이미지 AI 모델을 병행하여 아이디어를 빠르게 시각화하고 클라이언트와 소통하는 데 유용할 것.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+    "date": "2026-05-05",
+    "original_title": "Image AI models now drive app growth, beating chatbot upgrades"
+  },
+  {
+    "model_name": "AGI 개발 동향",
+    "core_insight": "AI 전문가, AGI 개발 경쟁 우려 및 정부 규제 필요성 제기",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 기술 적용 영향은 낮음. 다만, AI 기술의 윤리적 사용 및 장기적인 규제 동향을 이해하여, AI 기반 콘텐츠 제작 시 발생할 수 있는 사회적, 법적 이슈에 대한 사전 대비 및 기획 단계에서의 고려사항으로 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+    "date": "2026-05-05",
+    "original_title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race"
+  },
+  {
+    "model_name": "Sierra AI",
+    "core_insight": "Sierra, 기업 AI 고객 경험 표준 목표로 9.5억 달러 투자 유치",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 콘텐츠 제작 파이프라인에는 직접적인 영향이 낮음. 다만, 미래에 전시 공간 내 관람객 응대 챗봇이나 개인화된 정보 제공 시스템 개발 시 Sierra와 같은 엔터프라이즈 AI 솔루션이 활용될 가능성은 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+    "date": "2026-05-05",
+    "original_title": "Sierra raises $950M as the race to own enterprise AI gets serious"
+  },
+  {
+    "model_name": "OpenAI",
+    "core_insight": "일론 머스크, 소송 합의 요구하며 OpenAI 경영진에 경고 메시지 전달",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "OpenAI의 법적 리스크 증가로 플랫폼의 장기적 안정성 및 개발 방향에 불확실성 증대. 주요 AI 도구 의존도 분산 및 대체 플랫폼 탐색 전략을 고려할 필요가 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+    "date": "2026-05-05",
+    "original_title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims"
+  },
+  {
+    "model_name": "Anthropic/OpenAI Enterprise AI",
+    "core_insight": "Anthropic과 OpenAI, 기업용 AI 서비스 시장 확대를 위한 자산운용사 파트너십 체결",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서 직접적인 영향은 낮음. 다만, 대규모 프로젝트를 위한 맞춤형 AI 모델이나 안정적인 엔터프라이즈 솔루션이 필요한 경우, 향후 이러한 파트너십을 통해 더 쉽게 접근할 수 있는 가능성을 시사함.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "date": "2026-05-05",
+    "original_title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services"
+  },
+  {
+    "model_name": "DoorDash Merchant AI Tools",
+    "core_insight": "입점 절차 가속화, 음식 사진 편집, 웹사이트 자동 생성 기능 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I"
+    ],
+    "application_idea": "전시/미디어아트 제작에 직접적인 영향은 적음. 다만, 음식 테마의 미디어아트나 인터랙티브 전시에서 식자재/요리 이미지의 품질을 일관되게 보정하는 데 아이디어를 얻을 수 있음. AI 기반 콘텐츠 자동 생성 기능은 전시 홍보 웹페이지 초안 구성 시 참고 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+    "date": "2026-05-05",
+    "original_title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes"
+  },
+  {
+    "model_name": "OpenAI (기업)",
+    "core_insight": "일론 머스크, 오픈AI를 상대로 소송 제기",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 실무에 직접적인 영향은 낮음. 다만, 오픈AI의 장기적인 전략 및 AI 기술 개발 방향에 미칠 잠재적 영향을 주시할 필요가 있음.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+    "date": "2026-05-05",
+    "original_title": "Week one of the Musk v. Altman trial: What it was like in the room"
+  },
+  {
+    "model_name": "UltraReal Fine-Tune Anima v1",
+    "core_insight": "Stable Diffusion 기반 실사풍 이미지 생성 파인튜닝 모델 'Anima v1' 공개 (WIP)",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "VR/AR 콘텐츠의 가상 캐릭터 및 배경 컨셉 아트 제작에 활용하여 초기 시각화 단계 가속화. 특정 필름/디지털 사진 스타일을 정확히 재현하여 전시 영상의 시각적 톤앤매너를 일관성 있게 유지하는 데 기여. Unreal Engine이나 TouchDesigner 프로젝트의 초기 아트 디렉션 설정에 참고 자료로 유용.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t3hp3q/ultrareal_finetune_anima_v1/",
+    "date": "2026-05-05",
+    "original_title": "UltraReal Fine-Tune Anima v1"
+  },
+  {
+    "model_name": "새로운 오픈 가중치 이미지 모델",
+    "core_insight": "새 오픈 가중치 이미지 모델, 기존 주요 모델 성능 능가",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "고품질 컨셉 아트 및 미디어아트 소스 이미지 생성에 활용. Photoshop 작업 전 단계에서 다양한 시안을 빠르게 제작하여 디자인 탐색 시간 단축. Unreal Engine용 텍스처나 배경 이미지 제작 시 높은 해상도와 디테일의 결과물을 얻을 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t3rd6m/a_new_open_weights_image_model_appears_in/",
+    "date": "2026-05-05",
+    "original_title": "A new open weights image model appears in ArtificialAnalysis. Outperforming Flux.2 Pro and Z Image Turbo."
+  },
+  {
+    "model_name": "Anima p3 Aesthetic Anime Style LoRA",
+    "core_insight": "Anima p3용 애니메이션 스타일 LoRA 출시, 일관된 미적 품질 향상",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "VR/AR 콘텐츠 제작 시 일관된 애니메이션 스타일의 캐릭터 및 배경 에셋을 빠르게 생성하여 컨셉 아트 단계에 활용. 미디어아트나 전시에서 특정 애니메이션 스타일을 요구하는 프로젝션 매핑 또는 미디어월 콘텐츠 제작 시, 이미지 품질의 '바닥'을 높여 안정적인 결과물을 얻는 데 기여. Photoshop 컨셉 이미지 작업 시 일관된 스타일의 레퍼런스 이미지를 대량 생성하여 작업 효율 증대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t34v42/i_trained_an_aesthetic_anime_style_lora_for_anima/",
+    "date": "2026-05-05",
+    "original_title": "I trained an Aesthetic Anime Style LoRA for anima p3 using 20,000 highly curated anime images."
+  },
+  {
+    "model_name": "Walkyrie-1.3B-v1.0",
+    "core_insight": "T2V 모델 기반의 T2I 확산 모델 초기 버전 공개, 훈련 20% 진행",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "현재 초기 단계 모델로 실제 프로젝트 투입은 어려움. 향후 품질 개선 시, 전시 컨셉 아트나 미디어아트 초기 아이디어 스케치용으로 활용 가능성을 탐색할 수 있음. 소규모 모델이므로 빠른 반복 작업에 유리할 수 있어 Photoshop 컨셉 이미지 단계의 보조 도구로 고려.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t3fga9/walkyrie13bv10previewtexttoimage/",
+    "date": "2026-05-05",
+    "original_title": "Walkyrie-1.3B-v1.0(Preview)Text-to-Image"
+  },
+  {
+    "model_name": "Anima model (2.5D Fantasy Style LoRA)",
+    "core_insight": "Anima 모델용 2.5D 판타지 스타일 LoRA, 1시간 만에 학습 및 일관된 결과",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "판타지 테마 전시나 VR/AR 콘텐츠의 컨셉 아트 및 배경 이미지 제작 시 일관된 2.5D 스타일을 빠르게 구현. 프로젝션 매핑용 비주얼 에셋 제작 시 특정 미학적 톤앤매너를 유지하며 다양한 장면을 생성하여 Photoshop 작업 시간을 단축할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t3s0v3/25d_fantasy_style_lora_for_anima_trained_in_1_hour/",
+    "date": "2026-05-05",
+    "original_title": "2.5D Fantasy Style LoRA for Anima – Trained in 1 hour"
+  },
+  {
+    "model_name": "StableDiffusion 커스텀 모델",
+    "core_insight": "1024x1024 이미지 생성, Mac Mini에서 1-2분 소요, 텍스트 오작동 문제점 발견",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트나 미디어아트 배경 이미지 제작 시 1024x1024 고해상도 이미지를 빠르게 생성하여 초기 아이디어 구체화에 활용 가능. Mac Mini에서의 성능을 참고하여 소규모 스튜디오에서도 커스텀 모델을 활용한 이미지 제작 파이프라인 구축을 고려해볼 수 있음. 다만, 의도치 않은 텍스트 삽입 오류는 Photoshop 등 후처리 과정에서 수정이 필요할 수 있어 주의해야 함.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t33ps2/showcase/",
+    "date": "2026-05-05",
+    "original_title": "Showcase"
+  },
+  {
+    "model_name": "ComfyUI SenseNova U1",
+    "core_insight": "ComfyUI에 SenseNova U1 모델 지원 추가, 사용자 작동 여부 확인 중",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "ComfyUI를 활용한 전시 컨셉 이미지 및 미디어아트 배경 소스 제작 시 새로운 이미지 생성 옵션으로 활용 가능. 기존 Stable Diffusion 모델과 비교하여 SenseNova U1의 특장점을 파악, 특정 스타일이나 퀄리티 요구사항에 맞춰 선택적으로 적용할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t3ns9g/github_comfyui_sensenova_u1_released_anyone_got/",
+    "date": "2026-05-05",
+    "original_title": "GitHub: ComfyUI SenseNova U1 Released – Anyone Got It Working Yet for ComfyUI?"
+  },
+  {
+    "model_name": "Ace-Step-1.5-Api-server-UI",
+    "core_insight": "텍스트 기반 음악 생성 및 편집, 오디오 스타일 전환 기능 대폭 강화",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성"
+    ],
+    "application_idea": "전시 공간의 특정 섹션이나 인터랙티브 콘텐츠를 위한 맞춤형 배경 음악 및 사운드스케이프를 텍스트 프롬프트로 신속하게 생성. 기존 영상에 어울리는 악기 트랙을 추가하거나 특정 사운드를 분리하여 미디어아트 작품의 오디오 레이어를 정교하게 제어 가능. VR/AR 콘텐츠의 몰입감을 높이는 동적 사운드 디자인에 활용하여 AfterEffects/Premiere 작업 시간을 단축.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t39bjl/acestep15apiserverui/",
+    "date": "2026-05-05",
+    "original_title": "Ace-Step-1.5-Api-server-UI"
+  },
+  {
+    "model_name": "Wan models (Stable Diffusion)",
+    "core_insight": "Stable Diffusion 기반 Wan 계열 비디오 생성 모델의 존재 및 기능에 대한 커뮤니티 논의 활발",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V"
+    ],
+    "application_idea": "Stable Diffusion 기반 영상 생성 파이프라인 확장 가능성 탐색. Wan 계열 모델의 실제 성능 및 활용 사례를 지속적으로 모니터링하여 Unreal Engine, TouchDesigner 기반 인터랙티브 콘텐츠에 적용 여부 검토.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t3b4n5/understanding_wan_models/",
+    "date": "2026-05-05",
+    "original_title": "Understanding Wan models"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "사용자 커뮤니티를 통한 이미지 생성 기능의 지속적인 활용 및 결과물 공유",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 무드보드 제작 시 아이디어 시각화에 활용 가능. 프로젝션 매핑이나 미디어아트 배경 이미지의 초기 디자인 단계에서 다양한 스타일과 분위기를 빠르게 탐색하는 데 유용하며, Photoshop 작업 전 레퍼런스 이미지 생성에 도움.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1t36t7u/waiting_in_the_rain/",
+    "date": "2026-05-05",
+    "original_title": "Waiting in the Rain"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "복잡한 예술 사조 프롬프트에 대한 이해도 및 표현력 향상 시사",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 초기 단계에서 '보스 풍 작업 점심'과 같이 구체적인 예술 사조와 상황을 결합한 프롬프트로 아이디어를 빠르게 시각화할 수 있음. 미디어아트 배경 이미지 제작 시 특정 화풍을 일관되게 적용하여 통일된 비주얼 연출이 가능하며, Photoshop에서 레퍼런스 이미지로 활용하여 작업 시간을 단축할 수 있음.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1t3es5j/boschian_working_lunch/",
+    "date": "2026-05-05",
+    "original_title": "Boschian working lunch"
+  },
+  {
+    "model_name": "AI 영상 생성 도구 (미상)",
+    "core_insight": "AI를 활용한 복합적 컨셉 영상 제작 가능성 시사",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V"
+    ],
+    "application_idea": "미디어아트 전시에서 특정 영화나 소설의 세계관을 AI로 재해석하여 새로운 시각적 경험을 제공하는 데 활용 가능. 프로젝션 매핑 시 기존 콘텐츠의 제약을 넘어선 독창적인 영상 소스 제작에 기여할 수 있음.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1t35fce/harry_potter_in_the_matrix/",
+    "date": "2026-05-05",
+    "original_title": "Harry Potter In The Matrix"
+  },
+  {
+    "model_name": "AI 영상 생성 도구",
+    "core_insight": "AI로 현실적인 UGC 스타일 영상 제작 및 미묘한 변형 구현 가능성 시연",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V",
+      "V2V"
+    ],
+    "application_idea": "전시 홍보 영상이나 인터랙티브 체험존의 배경 영상 제작 시, 실제 촬영 없이도 자연스러운 UGC 스타일 영상을 빠르게 생성할 수 있음. '미묘한 변형' 기능을 활용하여 미디어아트 콘텐츠에서 현실과 비현실이 혼재된 독특한 시각적 경험을 제공하는 데 활용 가능.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1t3tvt4/tried_a_realistic_ugcstyle_video_with_a_subtle/",
+    "date": "2026-05-05",
+    "original_title": "Tried a realistic UGC-style video with a subtle twist"
+  },
+  {
+    "model_name": "Gemini AI",
+    "core_insight": "Gemini AI가 2026년 NFL 1주차 경기 예측에 활용됨",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 대량의 스포츠 데이터 분석 및 예측 능력은 향후 전시 콘텐츠의 인터랙티브 요소(예: 실시간 경기 결과 예측 시뮬레이션) 개발 시 참고할 수 있음.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV0Y1RXJGT1BHcjNrcEpXeC00RVh0STU1RnhUaFY2WVBfWFUwYS1UQXVqOXI5SDJWMUhOelVFclVSajRkM2JVX09sZ3pCblVHZHBkSUpUaHlHLWU2Vmg5ZVRMZ3Z0MTN0MG9YQlB0aE9vdHprbl9tMDdlNm1aUzhZMHY5SnRVUFV0T0VhUTZNaHNGMHA1WG40ZTJGRDBIM2xHeWdxZnZKYnNqMDZDWEhNbUI4TEx4ZzdJaThZUy1Waw?oc=5",
+    "date": "2026-05-05",
+    "original_title": "NFL schedule predictions: Gemini AI predicts Week 1 matchups in 2026 - USA Today"
+  }
+]
