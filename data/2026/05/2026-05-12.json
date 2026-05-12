@@ -1,0 +1,388 @@
+[
+  {
+    "model_name": "ChatGPT",
+    "core_insight": "사용자층 35세 이상 및 성별 균형 확대, 주류 AI 채택 가속화",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 콘텐츠 제작의 직접적인 영향은 낮음. 다만, 기획 단계에서 아이디어 발상, 스크립트 초안 작성, 자료 조사 등 일반적인 사무 생산성 도구로서의 활용도가 높아질 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/signals/research/2026q1-update",
+    "date": "2026-05-12",
+    "original_title": "How ChatGPT adoption broadened in early 2026"
+  },
+  {
+    "model_name": "OpenAI 기업 AI 확장 가이드",
+    "core_insight": "기업의 AI 도입 및 확장 전략 제시 (신뢰, 거버넌스, 워크플로우, 품질 강조)",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "우리 팀의 AI 도구 도입 및 활용 전략 수립 시 참고. 신뢰할 수 있는 AI 워크플로우 구축 및 거버넌스 확립에 대한 가이드라인으로 활용 가능. 기존 파이프라인에 AI를 효과적으로 통합하는 방안을 모색하는 데 도움.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "date": "2026-05-12",
+    "original_title": "How enterprises are scaling AI"
+  },
+  {
+    "model_name": "OpenAI Campus Network",
+    "core_insight": "OpenAI 캠퍼스 네트워크 출범, 학생 클럽 연계 및 AI 도구 접근 지원",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "미래 인재 확보 및 산학 협력 기회 모색에 활용 가능. 학생들의 실험적 AI 콘텐츠 제작 동향을 파악하여 팀의 신규 프로젝트 아이디어 발굴에 참고할 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "date": "2026-05-12",
+    "original_title": "OpenAI Campus Network: Student club interest form"
+  },
+  {
+    "model_name": "DeployCo",
+    "core_insight": "OpenAI가 기업용 AI 배포 및 비즈니스 통합을 돕는 DeployCo를 출시",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮을 수 있으나, 대규모 프로젝트에서 OpenAI의 커스텀 모델 배포 및 안정적인 API 연동이 필요할 경우 DeployCo를 통해 전문적인 지원을 받을 수 있을 것으로 기대됨. 이는 복잡한 인터랙티브 체험존이나 영구 설치물 제작 시 안정성 확보에 기여할 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/openai-launches-the-deployment-company",
+    "date": "2026-05-12",
+    "original_title": "OpenAI launches DeployCo to help businesses build around intelligence"
+  },
+  {
+    "model_name": "Hugging Face AWS 파운데이션 모델 학습/추론",
+    "core_insight": "AWS 환경에서 Hugging Face 파운데이션 모델 학습 및 추론 인프라 지원 강화",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 콘텐츠 제작 도구는 아니지만, 팀 내부에서 특정 프로젝트를 위한 커스텀 AI 모델을 AWS 환경에서 파인튜닝하거나 배포할 때 기반 인프라로 활용될 수 있음. 장기적으로는 TouchDesigner나 Unreal Engine과 연동되는 자체 AI 서비스 개발 가능성을 열어줄 수 있음.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "date": "2026-05-12",
+    "original_title": "Building Blocks for Foundation Model Training and Inference on AWS"
+  },
+  {
+    "model_name": "Robinhood Venture Fund",
+    "core_insight": "로빈후드, 성장 및 초기 스타트업 투자 위한 2호 벤처 펀드 조성",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 로빈후드의 벤처 펀드 조성은 AI 기술 자체의 변화보다는 투자 시장 동향에 가깝다. 다만, 해당 펀드가 미래에 공간 콘텐츠 관련 AI 스타트업에 투자할 가능성은 존재하므로 장기적인 관점에서 참고할 수 있다.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "date": "2026-05-12",
+    "original_title": "Riding an AI rally, Robinhood preps second retail venture IPO"
+  },
+  {
+    "model_name": "GM AI 인력 재편",
+    "core_insight": "GM, AI 개발 및 활용 역량 강화를 위한 IT 인력 구조조정",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "T2V",
+      "멀티모달"
+    ],
+    "application_idea": "AI 기술 인력의 중요성이 커지고 있음을 보여주는 사례. 우리 팀도 AI 도구 활용 및 프롬프트 엔지니어링 역량을 강화하여 시장 변화에 대응해야 함. 특히 Unreal Engine, TouchDesigner 등 주력 도구와 연계된 AI 활용 방안을 모색하여 제작 파이프라인 효율화에 집중할 필요가 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+    "date": "2026-05-12",
+    "original_title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills"
+  },
+  {
+    "model_name": "Digg AI News Aggregator",
+    "core_insight": "Digg, AI 기반 뉴스 애그리게이터로 재출시, 영향력 있는 목소리 및 중요 뉴스 선별",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. AI 트렌드 및 기술 동향 파악을 위한 정보 수집 도구로 활용 가능하며, 잠재적인 협업 기회나 새로운 기술 도입 아이디어를 얻는 데 도움을 줄 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+    "date": "2026-05-12",
+    "original_title": "Digg tries again, this time as an AI news aggregator"
+  },
+  {
+    "model_name": "우주 데이터센터 인프라",
+    "core_insight": "AI 연산 수요 급증, 우주 데이터센터 위한 로켓 부족 문제 해결에 2.75억 달러 투자 유치",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "AI 연산 자원 부족은 장기적으로 AI 서비스 비용 상승이나 성능 제한으로 이어질 수 있으므로, 프로젝트 예산 책정 시 AI 활용 비용 변동 가능성을 고려해야 함. 특히 고해상도 영상 생성이나 복잡한 3D 자산 생성에 필요한 연산 자원 확보에 대한 전략적 검토가 필요.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "date": "2026-05-12",
+    "original_title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them"
+  },
+  {
+    "model_name": "AI 산업 전반",
+    "core_insight": "노벨상 수상 경제학자가 제시하는 AI 산업의 주요 관전 포인트",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 실무에 직접적인 영향은 낮음. AI 기술의 사회경제적 맥락과 미래 방향성을 이해하는 데 참고 자료로 활용 가능.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "date": "2026-05-12",
+    "original_title": "Three things in AI to watch, according to a Nobel-winning economist"
+  },
+  {
+    "model_name": "AI 혁신 전략",
+    "core_insight": "AI 혁신 시 기술 중심 아닌 고객 니즈 우선 접근 강조",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "새로운 미디어아트/전시 콘텐츠 기획 시, 최신 AI 기술 도입 가능성보다 관람객의 몰입 경험과 상호작용 니즈를 우선 분석해야 함. 이를 통해 기술 과시가 아닌 실제 가치를 제공하는 AI 기반 공간 콘텐츠를 제작하고, Unreal Engine 등 주력 도구와 AI 기술의 시너지를 극대화할 수 있음.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+    "date": "2026-05-12",
+    "original_title": "Fostering breakthrough AI innovation through customer-back engineering"
+  },
+  {
+    "model_name": "AI 기술 도입 동향 (금융)",
+    "core_insight": "금융권 AI 도입, 거버넌스 부재 속 직원 활용 증가",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 실무에 직접적인 영향은 낮음. 다만, AI 기술의 산업별 도입 현황 및 조직 내 거버넌스 구축의 중요성에 대한 이해를 높이는 데 참고할 수 있음. AI 프로젝트 기획 시 발생할 수 있는 내부 정책 및 윤리적 고려사항에 대한 간접적 배경 지식으로 활용 가능.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+    "date": "2026-05-12",
+    "original_title": "Implementing advanced AI technologies in finance"
+  },
+  {
+    "model_name": "Tensor Art",
+    "core_insight": "Tensor Art, 비성인 콘텐츠 검열 강화 및 극심한 프롬프트 제한",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시/미디어아트 컨셉 이미지 제작 시, 특정 주제나 표현의 제약으로 인해 초기 아이데이션 단계에서 어려움이 예상됨. 검열 우회 또는 수동 편집에 더 많은 시간과 노력이 필요할 수 있어 Photoshop/AfterEffects 작업 부담 증가. 자유로운 창작을 위해 로컬 환경의 Stable Diffusion 활용 비중을 높이는 방안 고려.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tah81b/future_of_ai_image_generators/",
+    "date": "2026-05-12",
+    "original_title": "Future of AI image generators"
+  },
+  {
+    "model_name": "LipDub (Beta)",
+    "core_insight": "기존 영상 대사를 텍스트로 교체, 립싱크와 음성 동시 생성",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "V2V",
+      "립싱크/캐릭터",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시 안내 캐릭터 영상 제작 시, 다국어 버전 더빙을 수작업 없이 빠르게 구현 가능. 기존 캐릭터의 외형과 목소리 톤을 유지하면서 대사만 변경할 수 있어 일관된 브랜드 메시지 전달에 유리. ComfyUI 워크플로우를 활용하여 Unreal Engine 또는 TouchDesigner 기반 인터랙티브 콘텐츠의 실시간 대화형 캐릭터에 적용 가능성을 탐색.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ta66f1/lipdub_beta_new_opensource_lipsync_iclora/",
+    "date": "2026-05-12",
+    "original_title": "LipDub (Beta): new open-source lipsync IC-LoRA"
+  },
+  {
+    "model_name": "Stable Diffusion (ZIT I2I Character LORA Workflow)",
+    "core_insight": "ZIT 기반 이미지→이미지 워크플로우로 캐릭터 LORA 적용 및 얼굴 보정 자동화",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "기존 스케치나 사진을 특정 캐릭터 스타일로 빠르게 변환하여 VR/AR 콘텐츠의 일관된 캐릭터 자산 제작에 활용. 미디어아트 전시에서 다양한 인물 이미지를 통일된 캐릭터 디자인으로 변환, 프로젝션 매핑용 애니메이션 소스 제작 시간 단축. Photoshop에서 컨셉 아트 작업 시 캐릭터 스타일을 즉시 적용하여 시안 제작 효율 증대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tae2yl/zit_i2i_character_lora_transformation_workflow/",
+    "date": "2026-05-12",
+    "original_title": "ZIT I2I \"Character LORA Transformation\" Workflow"
+  },
+  {
+    "model_name": "Anima realism model",
+    "core_insight": "복잡한 프롬프트와 단부루 태그 혼합에 강한 사실주의 이미지 생성 모델",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "미디어아트나 전시 컨셉 아트 제작 시, 복잡하고 추상적인 아이디어를 정확하게 시각화하는 데 활용 가능. 단부루 태그와 자연어 프롬프트를 혼합하여 특정 스타일이나 오브젝트를 정밀하게 제어하며, Unreal Engine이나 TouchDesigner 프로젝트에 필요한 독특한 텍스처나 시각적 요소를 생성할 수 있음. 초기 시각화 단계에서 다양한 아이디어를 빠르게 탐색하고, 독창적인 비주얼 레퍼런스를 확보하는 데 유용.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t9r8c6/the_anima_realism_model_is_crazy_good_dont_miss_it/",
+    "date": "2026-05-12",
+    "original_title": "The Anima realism model is crazy good. Don’t miss it!"
+  },
+  {
+    "model_name": "HiDream-O1-Dev",
+    "core_insight": "HiDream-O1-Dev, ZImage Base와 스타일별 비교, 일부 아티팩트 발생",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어월 배경 이미지 초안 제작에 활용 가능. 다양한 스타일(3D 렌더, 애니메이션, 아르누보 등)을 시도하여 초기 디자인 단계의 아이데이션 속도를 높일 수 있음. 다만, 개발 버전의 아티팩트 발생 가능성을 고려하여 최종 결과물에는 추가적인 후처리 작업(Photoshop)이 필요할 것으로 예상됨.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t9yvaj/hidreamo1dev_vs_zimage_base_style_comparison/",
+    "date": "2026-05-12",
+    "original_title": "HiDream-O1-Dev vs ZImage Base (style comparison)"
+  },
+  {
+    "model_name": "Stable Diffusion (오픈소스 AI 이미지/3D 생성)",
+    "core_insight": "AI 이미지/3D 생성 도구의 압도적 효율성에도 대중의 부정적 인식 심화",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "3D",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "AI 활용 콘텐츠 제작 시 대중의 부정적 인식을 고려하여, AI 활용 여부 공개 및 표현 방식에 대한 신중한 전략 수립이 필요함. 특히 전시/미디어아트 분야에서 AI 생성 콘텐츠의 윤리적, 사회적 수용성을 높이는 방안 모색이 중요해짐.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tahphc/i_have_to_pretend_i_hate_image_generation_ai_to/",
+    "date": "2026-05-12",
+    "original_title": "I have to pretend I hate image generation AI to avoid getting banned or insulted on 99% of Reddit or the internet, even though Stable Diffusion is actually what I like and am most excited about right now. Why do people hate AI so much, especially image generation AI?"
+  },
+  {
+    "model_name": "HiDream-Studio v.01",
+    "core_insight": "고속 이미지 생성 및 2048x2048 해상도 최적화된 오픈소스 모델 출시",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "고해상도(2048x2048) 이미지 생성이 빠르고 안정적이므로, 미디어월이나 프로젝션 매핑용 대형 배경 이미지의 컨셉 아트 및 초기 시안 제작에 활용 가능. 오픈소스라 커스터마이징이 용이하며, 생성된 이미지는 Photoshop에서 후처리하여 Unreal Engine 등 3D 환경의 텍스처 소스로도 활용할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ta2aek/hidreamstudio_v01_has_been_released_it_is_fast/",
+    "date": "2026-05-12",
+    "original_title": "HiDream-Studio v.01 has been released! It is fast and powerful and open-sourced on Github | Easy Install"
+  },
+  {
+    "model_name": "LTX 2.3 Distilled 1.1",
+    "core_insight": "LTX 2.3의 이미지-투-비디오 기능이 아직 불안정하고 성능 편차가 있음",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "LTX 2.3의 영상 생성 기능은 아직 안정성이 부족하여 전시/미디어아트 콘텐츠의 최종 결과물 제작에는 부적합하다. 다만, 초기 컨셉 영상 제작 시 다양한 아이디어를 빠르게 시각화하는 용도로는 활용 가능하며, Unreal Engine이나 AfterEffects에서 추가적인 보정 및 합성 작업이 필요할 것으로 예상된다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1t9uc89/ltx_23_distilled_11_using_wwngp/",
+    "date": "2026-05-12",
+    "original_title": "LTX 2.3 Distilled 1.1 using WwnGP."
+  },
+  {
+    "model_name": "SmartAttentionDispatcher (ComfyUI Node)",
+    "core_insight": "ComfyUI 노드, SageAttention 커널로 교체하여 이미지 생성 성능 개선",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "ComfyUI를 활용하여 전시 공간의 컨셉 이미지, 미디어월 배경 소스, VR/AR 콘텐츠용 텍스처 등을 생성할 때 작업 속도를 크게 향상시킬 수 있습니다. 특히 복잡하거나 고해상도 이미지를 반복적으로 생성해야 하는 경우, SageAttention 커널을 통해 AfterEffects나 Unreal Engine으로 가져갈 에셋 제작 시간을 단축할 수 있습니다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ta0ewm/smartattentiondispatcher_comfyui_node_that/",
+    "date": "2026-05-12",
+    "original_title": "SmartAttentionDispatcher — ComfyUI node that patches model attention with SageAttention"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "Midjourney로 'American Dreams' 테마의 고품질 이미지 생성 가능성 확인",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 이미지 제작 시 특정 테마(예: '아메리칸 드림')에 맞는 레퍼런스 이미지 생성에 활용 가능. 미디어월 배경이나 프로젝션 매핑 소스로서 특정 분위기를 빠르게 구현하는 데 도움을 줄 수 있음.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1ta845q/american_dreams/",
+    "date": "2026-05-12",
+    "original_title": "American Dreams"
+  },
+  {
+    "model_name": "특정 모델 언급 없음",
+    "core_insight": "AI 생성 영상 'Gone Fishing' 공개, 특정 모델 정보는 미제공.",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V"
+    ],
+    "application_idea": "AI 생성 영상의 최신 트렌드를 파악하는 참고 자료. 미디어아트 전시에서 AI 기반 영상 콘텐츠의 가능성을 탐색하는 데 활용될 수 있음. Unreal Engine이나 TouchDesigner에서 배경 영상 소스로 활용하거나, 특정 테마의 인터랙티브 콘텐츠 제작 시 영감으로 삼을 수 있음.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tad960/gone_fishing_by_jboogxcreative_for_venice_ai/",
+    "date": "2026-05-12",
+    "original_title": "“Gone Fishing” by jboogxcreative for Venice AI"
+  },
+  {
+    "model_name": "Kling 3 / GPT Image Gen 2",
+    "core_insight": "Kling 3 및 GPT Image Gen 2 모델 사용 시 주의할 점 및 한계점 부각",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "T2V",
+      "I2V"
+    ],
+    "application_idea": "Kling 3 및 GPT Image Gen 2 모델 사용 시 발생할 수 있는 잠재적 문제점(예: 편향, 예상치 못한 결과)을 인지하고, 콘텐츠 제작 과정에서 추가적인 검토 및 수정 단계를 반드시 포함해야 함. 특히 전시/미디어아트 콘텐츠의 경우 메시지 전달의 정확성과 윤리적 측면을 강화하기 위한 후처리 작업이 필수적.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1t9rpfd/tales_from_the_darkside_of_gpt_gpt_image_gen_2/",
+    "date": "2026-05-12",
+    "original_title": "Tales from the Darkside of GPT (GPT Image Gen 2 / Kling 3)"
+  },
+  {
+    "model_name": "Qwen 3.6 35B A3B",
+    "core_insight": "소형 로컬 LLM, 긴 코드와 학술 논문 이해도 대폭 향상",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "Unreal Engine 및 TouchDesigner 프로젝트 개발 시 복잡한 스크립트 디버깅 및 코드 생성 보조에 활용 가능. 특히 로컬 환경에서 구동되므로 민감한 프로젝트 코드 보안 유지에 유리하며, 인터넷 연결 없이도 작업 효율을 높일 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1t9whrt/the_qwen_36_35b_a3b_hype_is_real/",
+    "date": "2026-05-12",
+    "original_title": "The Qwen 3.6 35B A3B hype is real!!!"
+  },
+  {
+    "model_name": "AI 플랫폼 (정보 없음)",
+    "core_insight": "제공된 기사는 AI 업데이트가 아닌 일반 뉴스 기사로, AI 정보 없음",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사는 AI 트렌드와 무관한 일반 뉴스 기사이므로, 공간 콘텐츠 제작 실무에 적용할 아이디어를 도출할 수 없음. AI 관련 기사 재확인 필요.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWjl1ZUxMQV8tQ0duRU1xRlZuSWNPWjh0b2xYSHhpRGpFazhzVXdtQXFTYUpvUml5VE1tbHRaRkhFMjJaY012eVR3NFJBVGdqc0lubHF2aDlVYlNkRnNQUjBCWUlaYlBfNXBNVDZTNjlOekp4R1R3TVBhUk4zeGZLTEVMbmV4em0xU1JVWWR5dnVvbzE2TzZ1S2dELXRGZWpsX1BCWjZyajlKVWhYT2NwMVI0V3lxMzJyYlNPTVh6OGxUcHVpSFByZXFscEtHQmVRTjdpTmQxYm0?oc=5",
+    "date": "2026-05-12",
+    "original_title": "Frontier Airlines jet on takeoff hits, kills person on Denver International Airport runway - Denver7"
+  }
+]
