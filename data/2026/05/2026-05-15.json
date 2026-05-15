@@ -1,0 +1,319 @@
+[
+  {
+    "model_name": "ChatGPT",
+    "core_insight": "민감한 대화에서 맥락 인지 능력 향상 및 안전성 강화",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 제작 파이프라인 영향은 낮음. 다만, 프로젝트 기획 단계에서 아이디어 브레인스토밍이나 스크립트 초안 작성 시, 민감한 주제에 대한 안전하고 맥락을 잘 이해하는 답변을 얻는 데 도움이 될 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "date": "2026-05-15",
+    "original_title": "Helping ChatGPT better recognize context in sensitive conversations"
+  },
+  {
+    "model_name": "OpenAI 앱",
+    "core_insight": "TanStack 공급망 공격 대응, macOS 앱 업데이트 필수",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작에 직접적인 영향은 낮음. 다만, 팀 내 macOS 사용자가 OpenAI 데스크톱 앱을 사용한다면 보안 강화를 위해 2026년 6월 12일까지 반드시 업데이트해야 함.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+    "date": "2026-05-15",
+    "original_title": "Our response to the TanStack npm supply chain attack"
+  },
+  {
+    "model_name": "SpaceXAI",
+    "core_insight": "Elon Musk의 SpaceXAI, 합병 후 50명 이상 직원 이탈, 번아웃 및 리더십 문제 제기",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "SpaceXAI의 내부 인력 이탈은 해당 기업의 AI 기술 개발 및 제품 출시 로드맵에 불확실성을 가중시킬 수 있음. 따라서, 이 기업의 AI 솔루션 도입을 고려할 경우, 장기적인 안정성과 지원 여부를 신중하게 평가해야 함. 현재로서는 전시/미디어아트 제작 파이프라인에 직접적인 영향은 낮으나, 잠재적 파트너십이나 기술 의존도 측면에서 주의가 필요함.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "date": "2026-05-15",
+    "original_title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger"
+  },
+  {
+    "model_name": "Codex",
+    "core_insight": "Codex 모바일 앱 출시로 워크플로우 관리 유연성 증대",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "TouchDesigner/Unreal Engine 프로젝트 개발 중 모바일 환경에서 즉시 코드 스니펫 생성 및 디버깅 가능. 현장 설치 중 발생하는 스크립트 오류를 모바일 기기로 빠르게 수정하여 작업 효율성 증대.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "date": "2026-05-15",
+    "original_title": "OpenAI says Codex is coming to your phone"
+  },
+  {
+    "model_name": "Richard Socher의 AI 스타트업 (개념)",
+    "core_insight": "AI가 스스로 연구하고 개선하는 무한 진화 시스템 구축 목표",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "미디어아트/전시 콘텐츠 제작 파이프라인 전반을 학습하여, 특정 공간에 최적화된 콘텐츠를 자동 생성하고 스스로 개선하는 시스템으로 발전 가능. 기획부터 최종 렌더링까지 전 과정을 효율화하며, Unreal Engine/TouchDesigner 기반 인터랙티브 콘텐츠의 복잡한 로직 설계 및 디버깅을 자동화할 잠재력.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+    "date": "2026-05-15",
+    "original_title": "What happens when AI starts building itself?"
+  },
+  {
+    "model_name": "ChatGPT (Apple 통합)",
+    "core_insight": "OpenAI, Apple 통합 ChatGPT 성과 불만으로 법적 조치 검토",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작에 직접적인 기술 영향은 낮음. 다만, AI 플랫폼과의 장기적 파트너십 및 통합 전략 수립 시, 예상치 못한 사업적 리스크와 성과 불확실성에 대한 대비책 마련의 중요성을 시사한다. 특정 AI 서비스에 대한 과도한 의존도를 경계하고 유연한 기술 스택을 유지하는 데 참고할 수 있다.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "date": "2026-05-15",
+    "original_title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned"
+  },
+  {
+    "model_name": "Clawdmeter",
+    "core_insight": "Claude Code 사용 통계를 데스크톱 대시보드로 시각화",
+    "update_type": "API/통합",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만 TouchDesigner/Unreal 프로젝트의 스크립트 작성·디버깅 보조 시 Claude Code 활용도를 모니터링하여 생산성 향상에 간접적으로 기여할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+    "date": "2026-05-15",
+    "original_title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard"
+  },
+  {
+    "model_name": "Cerebras",
+    "core_insight": "AI 칩 기업 Cerebras, 55억 달러 투자 유치 및 성공적인 IPO",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. AI 칩 시장의 주요 플레이어 동향 파악 차원에서 참고할 만함.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "date": "2026-05-15",
+    "original_title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026"
+  },
+  {
+    "model_name": "Synthetic",
+    "core_insight": "AI 기반 완전 자율 회계 서비스 'Synthetic' 출시",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 맥락에서는 직접적인 영향이 낮음. 다만, 스튜디오 운영의 회계 업무 자동화를 통해 관리 리소스를 절감하고, 제작에 더 집중할 수 있는 환경을 조성하는 데 간접적으로 기여할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+    "date": "2026-05-15",
+    "original_title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded"
+  },
+  {
+    "model_name": "Cisco AI 투자 전략",
+    "core_insight": "시스코, 4천명 감원 통해 AI 투자 확대 및 사업 재편 추진",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "시스코의 AI 투자 확대는 전반적인 산업의 AI 전환 가속화를 시사. 당장 제작 파이프라인에 직접적인 영향은 없으나, 장기적으로 AI 기반 네트워크 및 협업 솔루션 도입 시 간접적인 효율성 증대 가능성. 전시/미디어아트 맥락에서는 직접 영향 낮음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+    "date": "2026-05-15",
+    "original_title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’"
+  },
+  {
+    "model_name": "Agentic AI",
+    "core_insight": "금융 서비스 에이전트 AI 성공은 시스템보다 데이터 준비도에 좌우됨",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 복잡한 데이터 처리 및 실시간 반응이 필요한 인터랙티브 콘텐츠 기획 시, 데이터 정합성과 준비도의 중요성에 대한 일반적인 시사점을 얻을 수 있음.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+    "date": "2026-05-15",
+    "original_title": "Data readiness for agentic AI in financial services"
+  },
+  {
+    "model_name": "생성형 AI (데이터 주권)",
+    "core_insight": "기업 데이터 활용 시 제3자 AI 모델에 대한 데이터 주권 및 통제권 상실 우려",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 프로젝트 기획 시 클라이언트의 독점적 콘텐츠나 민감 데이터를 외부 AI 모델에 입력할 때 신중한 접근이 필요함. 저작권 및 데이터 보안 관련 내부 가이드라인을 수립하여 데이터 유출 및 통제권 상실 위험을 최소화해야 함.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+    "date": "2026-05-15",
+    "original_title": "Establishing AI and data sovereignty in the age of autonomous systems"
+  },
+  {
+    "model_name": "AI 딥페이크 기술",
+    "core_insight": "AI 딥페이크 포르노 및 안면 인식 오용으로 사생활 침해 심화",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [
+      "V2V",
+      "I2I"
+    ],
+    "application_idea": "전시/미디어아트 제작 실무에 직접적인 영향은 낮음. 다만, AI 기술의 윤리적 오용 사례를 인지하고, 콘텐츠 제작 시 초상권 및 개인정보 보호에 대한 경각심을 높이는 계기가 됨. 특히 관람객 참여형 콘텐츠 기획 시 안면 인식 데이터 활용에 대한 신중한 접근 필요.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+    "date": "2026-05-15",
+    "original_title": "The shock of seeing your body used in deepfake porn"
+  },
+  {
+    "model_name": "AI 이미지 생성 모델 (일반)",
+    "core_insight": "AI 생성 이미지와 실제 예술 작품 구별의 어려움 및 사회적 인식 변화",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서 AI 생성 이미지를 활용할 경우, 실제 작품과의 혼동 가능성을 인지해야 함. 관람객에게 AI 활용 여부를 명확히 고지하거나, 반대로 이러한 혼동을 활용한 인터랙티브/개념적 작품 기획에 영감을 얻을 수 있음. AI 이미지의 사회적 수용도와 인식 변화를 고려한 콘텐츠 전략 수립에 참고.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tcxmdy/someone_posted_a_real_monet_to_twitter_but_said/",
+    "date": "2026-05-15",
+    "original_title": "Someone posted a real Monet to twitter but said it was AI generated. The replies are amazing, pretentious and confidently wrong"
+  },
+  {
+    "model_name": "Anima base v1.0",
+    "core_insight": "새로운 이미지 생성 모델 'Anima base v1.0' 출시",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시/미디어아트 컨셉 이미지 제작 시 Photoshop 작업 전 단계에서 다양한 시안을 빠르게 생성하여 기획 시간을 단축. Unreal Engine이나 TouchDesigner에서 사용할 배경 이미지, 텍스처, 오브젝트 컨셉 시안을 효율적으로 탐색 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1td4lbn/anima_base_v10_has_been_released/",
+    "date": "2026-05-15",
+    "original_title": "Anima base v1.0 has been released."
+  },
+  {
+    "model_name": "AsymFlow (Asymmetric Flow Models)",
+    "core_insight": "픽셀 공간 T2I 생성 품질 SOTA 달성, 사실적 이미지 생성 및 미세 조정 방식 개선",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "고품질의 사실적인 이미지 생성 능력이 향상되어, 미디어월이나 프로젝션 매핑용 배경 이미지, VR/AR 콘텐츠의 고해상도 텍스처 제작에 활용 가능. 기존 모델을 픽셀 공간으로 미세 조정하는 새로운 방식은 특정 전시 컨셉에 맞는 스타일과 디테일을 정교하게 구현하는 데 기여할 것.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tclfpo/asymmetric_flow_models/",
+    "date": "2026-05-15",
+    "original_title": "Asymmetric Flow Models"
+  },
+  {
+    "model_name": "AI 이미지 생성 (일반)",
+    "core_insight": "실제 그림을 AI 생성 이미지로 오인, AI 비평의 맹점 노출",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "AI 생성 이미지에 대한 선입견 없이 작품 자체의 완성도로 평가받을 수 있음을 시사. 전시 콘텐츠 제작 시 AI로 만든 배경 이미지나 오브젝트를 활용할 때, 관람객이 AI 여부와 관계없이 순수하게 작품성으로만 감상하도록 유도하는 전략 수립에 참고 가능. AI 활용에 대한 내부적, 외부적 시각을 재고하는 계기가 됨.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tcrjkf/guy_posts_a_real_painting_disguising_it_as_a/",
+    "date": "2026-05-15",
+    "original_title": "Guy posts a real painting, disguising it as a generated image. AI critics have a lot to critique."
+  },
+  {
+    "model_name": "LTX Director",
+    "core_insight": "LTX 2.3용 올인원 타임라인 에디터 출시, 영상·오디오 정밀 제어 가능",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2V",
+      "T2V",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "프로젝션 매핑이나 미디어월 콘텐츠 제작 시, 영상과 오디오의 정밀한 타이밍 제어가 가능해져 복잡한 시퀀스 제작 시간을 단축할 수 있음. AfterEffects에서 수동으로 진행하던 영상 및 오디오 합성 작업을 LTX Director 내에서 일차적으로 처리하여 후반 작업 효율을 높일 수 있음. 특히 커스텀 오디오 지원으로 사운드 기반의 인터랙티브 아트워크 제작에 용이.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tczxqw/ltx_director_allinone_timeline_editor_i2v_t2v/",
+    "date": "2026-05-15",
+    "original_title": "LTX Director - All-In-One Timeline Editor. I2V, T2V, FLFF, Prompt Relay, Custom Audio, and more! Unlock LTX 2.3's full potential!"
+  },
+  {
+    "model_name": "PhysForge",
+    "core_insight": "물리 기반 3D 자산 생성, 시뮬레이션용 부품/재료/움직임 규칙 자동 부여",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "3D"
+    ],
+    "application_idea": "VR/AR 콘텐츠 제작 시 물리적 상호작용이 필요한 3D 오브젝트를 빠르게 생성할 수 있다. Unreal Engine에서 시뮬레이션용 자산의 수동 모델링 및 리깅 작업 시간을 대폭 단축하여 개발 효율을 높일 수 있다. 미디어아트에서 물리 기반의 동적인 요소를 구현하여 관객 몰입도를 높이는 데 기여할 것이다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tcnpxj/last_week_in_generative_image_video/",
+    "date": "2026-05-15",
+    "original_title": "Last week in Generative Image & Video"
+  },
+  {
+    "model_name": "Anima TrainFlow",
+    "core_insight": "Anima 2B LoRA 학습 과정을 단일 페이지 UI로 간소화, 저사양 GPU 지원",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 제작 시 특정 오브젝트나 캐릭터의 일관된 스타일을 유지하는 LoRA 모델을 쉽게 학습시킬 수 있음. 저사양 GPU에서도 가능하여 팀 내 개인 워크스테이션에서 신속한 테스트 및 반복 작업에 유리. Photoshop을 활용한 컨셉 이미지 제작 단계에서 필요한 맞춤형 이미지 자산 생성 시간을 단축.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tcxhoq/anima_trainflow_simple_onepage_lora_trainer_for/",
+    "date": "2026-05-15",
+    "original_title": "Anima TrainFlow — Simple One-Page LoRA Trainer for Anima 2B (Portable, 6GB VRAM, Optimized Config)"
+  },
+  {
+    "model_name": "AsymFLUX.2-klein-9B",
+    "core_insight": "AsymFlow 기반 픽셀 공간 텍스트-이미지 모델 공개",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "미디어아트 전시의 컨셉 이미지 초기 시안 제작 시간을 단축할 수 있다. Unreal Engine 및 TouchDesigner 프로젝트에 필요한 독특한 질감의 텍스처나 배경 이미지를 빠르게 생성하여 디자인 탐색 비용을 절감할 수 있다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1td9ojh/asymflux2klein9b_pixel_space_model/",
+    "date": "2026-05-15",
+    "original_title": "AsymFLUX.2-klein-9B - Pixel Space Model."
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "다양한 상상 속 존재를 고품질 이미지로 구현하는 능력 시연",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 공간 내 판타지 테마의 배경 이미지 또는 캐릭터 컨셉 아트로 활용 가능. Midjourney의 높은 이미지 품질로 미디어아트 요소 제작 시간 단축 기대. 전시/미디어아트 맥락에서 직접적인 업데이트 영향은 낮음.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tcnl5s/tooth_fairies/",
+    "date": "2026-05-15",
+    "original_title": "Tooth fairies"
+  }
+]
