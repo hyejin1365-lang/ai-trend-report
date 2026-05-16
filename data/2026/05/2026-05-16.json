@@ -1,0 +1,375 @@
+[
+  {
+    "model_name": "ChatGPT Pro",
+    "core_insight": "ChatGPT Pro에 금융 계좌 연동, AI 기반 재정 분석 및 조언 제공",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작에는 직접적인 영향이 없음. 다만, 팀원 개인의 재정 관리나 프로젝트 예산 분석 등 간접적인 업무 보조 도구로 활용 가능성을 검토해볼 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/personal-finance-chatgpt",
+    "date": "2026-05-16",
+    "original_title": "A new personal finance experience in ChatGPT"
+  },
+  {
+    "model_name": "GPT-5.5",
+    "core_insight": "OfficeQA Pro 벤치마크 최고 기록, 기업 에이전트 워크플로우에 적용",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 프로젝트 기획 단계에서 문서 작성 보조나 TouchDesigner/Unreal Engine 스크립트 디버깅 및 최적화에 활용하여 내부 업무 효율을 높일 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/databricks",
+    "date": "2026-05-16",
+    "original_title": "Databricks brings GPT-5.5 to enterprise agent workflows"
+  },
+  {
+    "model_name": "OpenAI Codex",
+    "core_insight": "Sea Limited가 AI 소프트웨어 개발 가속화를 위해 Codex를 엔지니어링 팀에 배포",
+    "update_type": "API/통합",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만 TouchDesigner/Unreal Engine 프로젝트의 스크립트 작성 및 디버깅 보조 도구로 활용하여 개발 생산성을 향상시킬 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/sea-david-chen",
+    "date": "2026-05-16",
+    "original_title": "Sea's View on the Future of Agentic Software Development with Codex"
+  },
+  {
+    "model_name": "OpenAI Trial",
+    "core_insight": "머스크 대 알트만 재판 종료, AI 리더십 신뢰 문제 부각",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, AI 기술 개발의 방향성 및 윤리적 논의에 대한 이해를 높이는 데 참고할 수 있으며, 장기적으로 AI 플랫폼의 안정성 및 신뢰도에 영향을 미칠 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+    "date": "2026-05-16",
+    "original_title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning"
+  },
+  {
+    "model_name": "AI 인프라",
+    "core_insight": "AI 전력 수요 급증으로 인한 에너지 비용 상승 압박",
+    "update_type": "가격/플랜",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "AI 서비스 운영 비용 증가로 인한 장기적인 플랜 가격 인상 요인이 될 수 있으므로, AI 도구 예산 책정 시 잠재적 변동성을 고려해야 함. 또한, AI 기술의 환경적 영향에 대한 전시 콘텐츠 기획 시 중요한 배경 정보로 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "date": "2026-05-16",
+    "original_title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up"
+  },
+  {
+    "model_name": "ChatGPT for personal finance",
+    "core_insight": "ChatGPT가 은행 계좌 연동을 통해 개인 금융 대시보드를 제공",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 팀의 재무 관리, 프로젝트 예산 추적, 지출 분석 등 운영 효율성 증대에 간접적으로 활용 가능. 개인 크리에이터의 재정 관리 도구로 유용할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "date": "2026-05-16",
+    "original_title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts"
+  },
+  {
+    "model_name": "Runway Gen-2",
+    "core_insight": "Gen-2 기반 AI 비디오 생성으로 세계 모델 구축 및 구글 경쟁 목표 제시",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "멀티모달"
+    ],
+    "application_idea": "Runway의 비디오 생성 기술 발전 방향은 미래 공간 콘텐츠 제작에 중요한 영향을 미칠 것임. 특히 '세계 모델' 구축 목표는 복잡한 가상 환경이나 인터랙티브 시뮬레이션 콘텐츠 제작 시 필요한 3D 자산 및 환경 생성에 새로운 가능성을 열 수 있음. Unreal Engine 등 3D 툴과의 연동을 통해 실시간 렌더링 및 동적 콘텐츠 구현에 기여할 잠재력이 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "date": "2026-05-16",
+    "original_title": "Runway started by helping filmmakers — now it wants to beat Google at AI"
+  },
+  {
+    "model_name": "Osaurus",
+    "core_insight": "Mac 앱에서 로컬 및 클라우드 AI 모델 통합, 사용자 데이터 로컬 저장",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "클라이언트의 민감한 데이터를 활용한 전시 콘텐츠 제작 시, 로컬 AI 모델을 통해 데이터 유출 우려 없이 안전하게 작업 가능. Adobe Photoshop/AfterEffects 등 Mac 기반 작업 환경에서 AI 이미지/영상 편집 모델을 직접 구동하여 클라우드 비용 절감 및 작업 속도 향상 기대.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+    "date": "2026-05-16",
+    "original_title": "Osaurus brings both local and cloud AI models to your Mac"
+  },
+  {
+    "model_name": "Wirestock",
+    "core_insight": "Wirestock, AI 연구소에 멀티모달 데이터 공급 위해 2300만 달러 투자 유치",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "T2V",
+      "I2V",
+      "V2V",
+      "3D",
+      "멀티모달"
+    ],
+    "application_idea": "Wirestock의 데이터 공급 확대로 향후 출시될 AI 모델들의 이미지, 영상, 3D 자산 생성 품질이 전반적으로 향상될 것으로 기대됨. 이는 미디어아트, 프로젝션 매핑, VR/AR/XR 콘텐츠 제작 시 필요한 고품질 배경, 오브젝트, 캐릭터 등의 AI 생성 효율과 사실감을 높여줄 것임. 특히 Unreal Engine, TouchDesigner 등 3D 기반 작업 시 필요한 자산의 다양성과 퀄리티 개선에 긍정적인 영향을 줄 것으로 예상.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+    "date": "2026-05-16",
+    "original_title": "Wirestock raises $23M to supply creative multimodal data to AI labs"
+  },
+  {
+    "model_name": "AI (산업 전반)",
+    "core_insight": "AI에 대한 실리콘밸리와 소비자 간 인식 격차 논의",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, AI 기반 콘텐츠 제작 시 윤리적 고려사항 및 대중의 인식 차이를 이해하는 데 참고하여, 관람객과의 소통 방식 설계에 반영할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+    "date": "2026-05-16",
+    "original_title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts"
+  },
+  {
+    "model_name": "OpenAI (경영진 이슈)",
+    "core_insight": "OpenAI 샘 알트만과 일론 머스크 간 신뢰성 공방 지속",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만 OpenAI의 경영진 신뢰도와 장기적 방향성에 대한 불확실성을 야기할 수 있어, 주요 AI 도구 공급사의 안정성 측면에서 간접적으로 모니터링 필요.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "date": "2026-05-16",
+    "original_title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side."
+  },
+  {
+    "model_name": "AI 기반 쇼트폼 드라마 제작 시스템",
+    "core_insight": "중국 단편 드라마, AI 활용해 콘텐츠 제작 효율 극대화",
+    "update_type": "기능추가",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "V2V",
+      "립싱크/캐릭터",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시 스토리텔링을 위한 짧은 드라마틱 시퀀스를 빠르게 생성하여 몰입형 미디어아트 콘텐츠에 활용. VR/AR 환경에서 캐릭터의 복잡한 상호작용 및 특수효과 장면을 신속하게 구현하여 제작 시간 단축. 프로젝션 매핑 시나리오의 특정 전환 효과나 캐릭터 액션을 AI로 생성하여 AfterEffects 작업 부담 경감.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+    "date": "2026-05-16",
+    "original_title": "How Chinese short dramas became AI content machines"
+  },
+  {
+    "model_name": "Microsoft Lens / Lens-Turbo",
+    "core_insight": "MS, 이미지 모델 'Lens' 및 'Lens-Turbo' 허깅페이스에 잠시 공개 후 삭제",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "현재는 삭제되어 직접 활용은 불가하나, 마이크로소프트의 이미지 생성 기술 개발 동향을 파악하는 데 중요. 향후 정식 출시 시 Photoshop/Unreal Engine과의 연동을 통해 컨셉 아트 및 3D 텍스처 생성 워크플로우 개선 가능성을 모색할 것.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tdxf4t/it_appears_that_microsoft_uploaded_an_image_model/",
+    "date": "2026-05-16",
+    "original_title": "It appears that Microsoft uploaded an image model on HuggingFace and then deleted it."
+  },
+  {
+    "model_name": "FLUX Klein Base 9B - Better Skin v2 LoRA",
+    "core_insight": "AI 생성 이미지의 피부 표현 품질 대폭 개선, 사실감 향상",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "VR/AR 콘텐츠나 전시용 디지털 휴먼 캐릭터 생성 시 피부 질감의 사실감을 크게 높여 몰입도 향상. Photoshop에서 피부 텍스처를 수동으로 보정하는 시간을 단축하거나, Unreal Engine에서 캐릭터 모델링 후 피부 셰이더 작업을 간소화하는 데 기여.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tdkvb2/begone_plastic_flux_skin_better_skin_v2/",
+    "date": "2026-05-16",
+    "original_title": "BEGONE PLASTIC FLUX SKIN! - Better Skin v2"
+  },
+  {
+    "model_name": "FLUX Klein 9B Pixel Space",
+    "core_insight": "FLUX Klein 9B 모델, ComfyUI 노드로 사용 가능 (VRAM 38GB 요구)",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "고해상도 전시 컨셉 이미지나 미디어월 배경 소스 제작에 활용 가능. ComfyUI의 노드 기반 워크플로우를 통해 복잡한 이미지 생성 파이프라인을 구축하여, Unreal Engine이나 TouchDesigner 프로젝트에 필요한 독특한 질감이나 패턴을 정밀하게 생성할 수 있음. 38GB VRAM 요구사항은 고품질 결과물에 대한 기대를 높여, 대규모 프로젝션 매핑이나 VR 환경의 디테일 강화에 기여할 수 있다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tdqv7y/flux_klein_9b_pixel_space_comfyui_nodes/",
+    "date": "2026-05-16",
+    "original_title": "FLUX Klein 9B Pixel Space - ComfyUI Nodes"
+  },
+  {
+    "model_name": "Pixal3D",
+    "core_insight": "단일 이미지로 고품질 3D 자산 생성, 로컬 환경 실행 가능",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "3D"
+    ],
+    "application_idea": "VR/AR 콘텐츠 제작 시 필요한 소품이나 환경 오브젝트를 단일 레퍼런스 이미지로 빠르게 생성하여 Unreal Engine 등 3D 툴로 가져와 활용할 수 있음. PBR 텍스처 지원으로 고품질의 실감나는 자산 제작이 가능해, 3D 모델링 시간을 크게 단축하고 반복적인 디자인 시도에 유리함. 로컬 환경에서 실행 가능하여 보안이 중요한 프로젝트에도 적용 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1te93yi/pixal3d_generate_highfidelity_3d_assets_from_a/",
+    "date": "2026-05-16",
+    "original_title": "Pixal3D: Generate high-fidelity 3D assets from a single image. (TencentARC, locally runnable model)"
+  },
+  {
+    "model_name": "Microsoft Lens",
+    "core_insight": "AI 모델 경량화 추세로 저사양 GPU에서도 고성능 AI 구동 가능",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "고성능 GPU 없이도 팀 내 기존 워크스테이션(12GB VRAM)에서 이미지 생성 AI를 활용할 수 있게 되어, 컨셉 아트 및 텍스처 제작 비용 절감. Unreal Engine 및 Photoshop 작업 시 필요한 2D 자산 생성 파이프라인에 AI를 더 쉽게 통합하여 초기 디자인 및 반복 작업 속도 향상.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1te4ieu/microsoft_lens_is_less_than_4b_params_the/",
+    "date": "2026-05-16",
+    "original_title": "Microsoft lens is less than 4B params. The tendency is less params..."
+  },
+  {
+    "model_name": "Anima (Diffusers 통합)",
+    "core_insight": "Anima 모델, Hugging Face Diffusers 라이브러리에 통합 예정",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Hugging Face Diffusers 라이브러리를 통해 Anima 모델에 더 쉽게 접근하고 활용할 수 있게 됨. 이를 통해 전시 컨셉 아트, 미디어월용 배경 이미지, VR/AR 콘텐츠의 텍스처 및 2D 자산 생성에 활용할 수 있으며, 안정적인 학습 환경을 통해 프로젝트 맞춤형 이미지 생성 모델을 구축하는 데 기여할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1te2d2i/anima_is_in_process_of_being_added_to_diffusers/",
+    "date": "2026-05-16",
+    "original_title": "Anima is in process of being added to diffusers"
+  },
+  {
+    "model_name": "Comfy-flow.com",
+    "core_insight": "ComfyUI 워크플로우 공유 플랫폼 무료 출시, 커뮤니티 중심 운영",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "T2V",
+      "I2V",
+      "V2V"
+    ],
+    "application_idea": "ComfyUI 기반의 복잡한 영상 및 이미지 생성 워크플로우를 쉽게 탐색하고 적용하여 미디어아트, 프로젝션 매핑용 특수 효과 제작 시간을 단축할 수 있음. 향후 ComfyUI 플러그인 연동 시, 발견한 워크플로우를 Unreal Engine이나 TouchDesigner 파이프라인에 필요한 시각 자산 생성에 즉시 활용하여 생산성을 크게 높일 수 있을 것.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tdli7a/i_made_comfyflowcom_because_openartai_dispossed/",
+    "date": "2026-05-16",
+    "original_title": "I made Comfy-flow.com because openart.ai dispossed all community workflows"
+  },
+  {
+    "model_name": "StableDiffusion",
+    "core_insight": "사용자, 특정 스타일 이미지 생성을 위한 개인 데이터셋 공유",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시/미디어아트 콘텐츠 제작 시 특정 스타일의 이미지 레퍼런스 또는 파인튜닝 데이터로 활용 가능. AfterEffects/Photoshop 작업 시 컨셉 이미지 생성 단계에서 영감을 얻거나, 유사한 스타일의 3D 텍스처 제작에 참고할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1te17ky/i_guess_this_happened_a_week_after_riker_rick/",
+    "date": "2026-05-16",
+    "original_title": "I guess this happened a Week after Riker Rick Rolled the ship. With a Special Ending. lol."
+  },
+  {
+    "model_name": "Anima Base 1.0, Flux.2 Klein 9b, Wan 2.2",
+    "core_insight": "Anima Base 1.0, Flux.2 Klein 9b, Wan 2.2 조합 이미지 생성·편집 워크플로우 시연",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "미디어아트 전시용 배경 이미지, 오브젝트 텍스처 등 다양한 시각 자산 생성에 활용 가능. 기존 이미지 편집 작업의 초기 컨셉 스케치 단계를 AI로 빠르게 생성하여 디자인 효율성을 증대할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1teatpv/playing_with_anima_base_10_flux2_klein_9b_wan_22/",
+    "date": "2026-05-16",
+    "original_title": "Playing with Anima Base 1.0 + Flux.2 Klein 9b + Wan 2.2 (No Audio)"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "사용자가 '4464 Napier St' 제목의 Midjourney 생성 이미지를 공유함.",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "'4464 Napier St'와 같이 특정 장소나 분위기를 연상시키는 프롬프트로 프로젝션 매핑, 미디어월 배경 영상 제작을 위한 도시 경관 또는 건축물 컨셉의 초기 시안을 빠르게 생성할 수 있음. AfterEffects에서 후처리하여 실제 공간에 어울리는 미디어아트 소스로 발전시키는 데 활용 가능.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tdizer/4464_napier_st/",
+    "date": "2026-05-16",
+    "original_title": "4464 Napier St"
+  },
+  {
+    "model_name": "SLking-AI Vids v1.0",
+    "core_insight": "동물 캐릭터의 '포토슛' 스타일 고품질 영상 생성 기능 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "인터랙티브 전시에서 동물 캐릭터가 등장하는 안내 영상이나 배경 콘텐츠 제작에 활용. 특정 동물의 다양한 포즈와 표정을 담은 '포토슛' 컨셉 영상으로 미디어월 콘텐츠를 풍부하게 구성 가능. Unreal Engine에서 동물 캐릭터 애니메이션 제작 시 초기 컨셉 영상 생성 단계 단축.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tdipuh/kings_photo_shoot/",
+    "date": "2026-05-16",
+    "original_title": "King’s Photo Shoot!"
+  },
+  {
+    "model_name": "Gemma 4 E4B (Jetson Orin NX 기반)",
+    "core_insight": "Jetson Orin NX 기반 완전 오프라인 LLM 로봇, 200ms 응답 및 시각/OCR 통합",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "립싱크/캐릭터",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "네트워크 연결이 어려운 전시 공간에서 완전 오프라인으로 작동하는 인터랙티브 캐릭터 안내 시스템 구축에 활용. 방문객의 음성 질문, 시각적 입력(객체 인식, OCR) 및 센서 데이터를 실시간으로 처리하여 자연스러운 대화와 립싱크 애니메이션을 제공, 몰입감 높은 체험을 구현할 수 있음. 낮은 응답 지연 시간으로 인터랙티브 미디어아트의 즉각적인 피드백 요구사항을 충족시킬 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tdz5gr/built_a_fully_offline_suitcase_robot_around_a/",
+    "date": "2026-05-16",
+    "original_title": "Built a fully offline suitcase robot around a Jetson Orin NX SUPER 16GB. Gemma 4 E4B, ~200ms cached TTFT, 30+ sensors, no WiFi/BT/cellular. He has opinions."
+  }
+]
