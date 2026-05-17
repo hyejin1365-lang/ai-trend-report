@@ -1,0 +1,356 @@
+[
+  {
+    "model_name": "ChatGPT Plus",
+    "core_insight": "몰타 전 시민에게 ChatGPT Plus 제공 및 AI 활용 교육 지원",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 콘텐츠 직접 제작에는 영향이 적지만, 프로젝트 기획 단계에서 아이디어 발상, 스크립트 초안 작성, 자료 조사 등 보조 도구로 활용하여 업무 효율을 높일 수 있음. 팀원들의 AI 활용 역량 강화에도 간접적으로 기여할 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "date": "2026-05-17",
+    "original_title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens"
+  },
+  {
+    "model_name": "Codex",
+    "core_insight": "비즈니스 운영팀의 문서 생성 및 요약 업무 효율성 개선",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 프로젝트 기획서, 보고서 등 내부 문서 작성 시 초안 생성 및 요약에 활용하여 업무 효율성 증대 가능. VR/AR 콘텐츠 내 텍스트 기반 정보 패널 또는 내러티브 스크립트 초안 작성에도 보조적으로 사용 가능.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "date": "2026-05-17",
+    "original_title": "How business operations teams use Codex"
+  },
+  {
+    "model_name": "AI 산업 전반",
+    "core_insight": "AI 붐에 대한 업계 분위기가 좋지 않음",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서 직접적인 기술적 영향은 낮음. 다만, AI 시장 전반의 투자 심리 위축 시 장기적으로 AI 도구 도입 및 활용 계획 및 예산 확보에 간접적 영향 가능성 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "date": "2026-05-17",
+    "original_title": "The haves and have nots of the AI gold rush"
+  },
+  {
+    "model_name": "ArXiv",
+    "core_insight": "AI가 전적으로 작성한 논문 저자 1년간 투고 금지 정책 발표",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 실무에 직접적인 영향은 낮음. 다만, 프로젝트 관련 연구 논문 작성 시 AI 활용 가이드라인을 숙지하고 윤리적 사용에 유의해야 함.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "date": "2026-05-17",
+    "original_title": "Research repository ArXiv will ban authors for a year if they let AI do all the work"
+  },
+  {
+    "model_name": "ChatGPT & Codex",
+    "core_insight": "ChatGPT와 Codex 통합 계획 발표, 제품 전략 재편",
+    "update_type": "API/통합",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "Unreal Engine이나 TouchDesigner 프로젝트에서 복잡한 스크립트 작성 및 디버깅 시, 자연어 대화로 코딩 지원을 받아 개발 시간을 단축할 수 있음. 전시 콘텐츠의 인터랙티브 로직 설계 단계에서 아이디어 구상부터 실제 코드 구현까지 통합된 AI 지원을 받을 수 있어, 기획-개발 간의 간극을 줄일 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "date": "2026-05-17",
+    "original_title": "OpenAI co-founder Greg Brockman takes charge of product strategy"
+  },
+  {
+    "model_name": "Custom NVENC Encoder Bridge (Flux 2 지원)",
+    "core_insight": "NVLink 없이 여러 GPU에 모델 분산, 대형 이미지 생성 속도 대폭 향상",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "고해상도 미디어월이나 프로젝션 매핑용 배경 이미지 생성 시, 기존 단일 GPU의 한계를 넘어 대형 이미지 모델을 활용하여 복잡하고 디테일한 시각 자료를 빠르게 제작할 수 있음. 여러 PC의 GPU를 활용함으로써 고사양 워크스테이션 없이도 대규모 이미지 생성 프로젝트를 유연하게 진행 가능하며, Photoshop 컨셉 이미지 단계의 효율을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tegs83/i_built_a_custom_nvenc_encoder_bridge_to_split/",
+    "date": "2026-05-17",
+    "original_title": "I built a custom NVENC encoder bridge to split FLUX 2 Models across two GPUs over Ethernet LAN (example: 5090 + laptop 4090 spreading model layers over two machines via Eth = 4.4s per image). Completely bypasses the need for NVLink. Multi GPU in one PC supported, Wifi 6 works very well also."
+  },
+  {
+    "model_name": "LTX2.3 & ACE-Step-1.5",
+    "core_insight": "ComfyUI로 LTX2.3 영상, ACE-Step-1.5 음악 로컬 생성 단편 영화 실험",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "사운드/음성"
+    ],
+    "application_idea": "로컬 환경에서 ComfyUI를 활용해 영상 및 음악을 생성할 수 있음을 보여주어, 클라우드 비용 부담 없이 전시용 단편 영상 콘텐츠를 자체 제작할 수 있는 가능성을 제시함. 특히 미디어아트 설치물에 필요한 배경 영상이나 사운드를 유연하게 생성하고 반복 수정하는 데 유리하며, 데이터 보안이 중요한 프로젝트에 활용 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tezb5x/the_moss_sentinel_short_film_experiment/",
+    "date": "2026-05-17",
+    "original_title": "The Moss Sentinel - Short Film Experiment."
+  },
+  {
+    "model_name": "Flux2",
+    "core_insight": "새로운 AI 이미지 생성 모델 Flux2, LLM 및 비전 모델 연동 탐색.",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어월 배경 이미지 초안 생성에 활용. Photoshop에서 추가 보정하여 최종 이미지 제작 파이프라인 단축 가능. Unreal Engine용 텍스처나 스카이박스 이미지 생성에도 시도해볼 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tf9sty/getting_back_into_ai_art_with_flux2/",
+    "date": "2026-05-17",
+    "original_title": "Getting back into AI Art with Flux2"
+  },
+  {
+    "model_name": "Anima Base 1.0",
+    "core_insight": "Anima Base 1.0 등 이미지 AI 모델 활용 창작 워크플로우 공개",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "Photoshop을 활용한 컨셉 이미지 제작 단계에서 Anima Base 1.0을 통해 다양한 스타일의 초기 시안을 빠르게 생성할 수 있음. Qwen Image Edit 2511로 기존 이미지의 특정 영역을 수정하거나 스타일을 변환하여 미디어아트 배경 또는 프로젝션 매핑 소스로 활용 가능. Unreal Engine에서 3D 자산의 텍스처링 시 다양한 시안을 신속하게 적용하여 제작 파이프라인을 가속화할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tf3mex/my_steps_and_yours_anima_base_10_qwen_image_edit/",
+    "date": "2026-05-17",
+    "original_title": "My steps and yours: Anima Base 1.0 - Qwen Image Edit 2511 - Wan 2.2"
+  },
+  {
+    "model_name": "Anima (ComfyUI)",
+    "core_insight": "Anima 모델, 배경 및 환경 디테일 우수하나 다중 캐릭터 생성에 취약",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Anima 모델의 뛰어난 배경 및 환경 디테일은 전시 공간의 컨셉 아트나 미디어월의 배경 이미지 생성에 유용. 특히 Unreal Engine에서 활용할 3D 환경 텍스처나 스카이박스 제작 시 초기 컨셉 이미지로 활용하여 작업 시간을 단축할 수 있음. 다만 다중 캐릭터가 필요한 장면에서는 다른 모델을 병용하거나 Photoshop에서 후처리하는 전략이 필요.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tepgn4/sharing_my_experience_with_anima_comfyui_great/",
+    "date": "2026-05-17",
+    "original_title": "Sharing my experience with Anima (ComfyUI): great detail, but struggling with multiple characters"
+  },
+  {
+    "model_name": "Stable Diffusion",
+    "core_insight": "다양한 AI 모델 프롬프트 관리 효율화 방안 논의",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "대규모 미디어아트 전시나 VR/AR 콘텐츠 제작 시, 일관된 시각적 스타일과 캐릭터 디자인 유지를 위해 프롬프트 관리가 핵심이다. ComfyUI 등에서 검증된 프롬프트를 체계적으로 관리하여 Unreal Engine/TouchDesigner용 텍스처나 배경 이미지 생성 시 작업 효율과 결과물 품질을 높일 수 있다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1teskau/how_do_you_actually_keep_track_of_prompts_that/",
+    "date": "2026-05-17",
+    "original_title": "How do you actually keep track of prompts that work?"
+  },
+  {
+    "model_name": "Flux1-dev, Wan2.2-FLF2V",
+    "core_insight": "서로 다른 이미지 간 자연스러운 모핑 비디오 생성 가능성 시연",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2I"
+    ],
+    "application_idea": "미디어월이나 프로젝션 매핑 콘텐츠 제작 시, 서로 다른 컨셉의 이미지들을 자연스럽게 연결하는 전환 효과 영상으로 활용 가능. 복잡한 수작업 없이 프롬프트만으로 다양한 분위기의 추상적인 배경 영상을 빠르게 생성하여 제작 시간을 단축할 수 있음. VR/AR 환경에서 시각적 흐름을 부드럽게 이어주는 요소로도 적용 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1terefl/found_this_in_the_atticmorphing_between_unrelated/",
+    "date": "2026-05-17",
+    "original_title": "Found this in the attic...morphing between unrelated images..."
+  },
+  {
+    "model_name": "Draw Things + LTX 2.3",
+    "core_insight": "LTX 2.3 모델, 2000년대 토크쇼 스타일 영상과 코미디 대사 오디오 생성 가능성 시연",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "T2V",
+      "립싱크/캐릭터",
+      "사운드/음성"
+    ],
+    "application_idea": "인터랙티브 전시 콘텐츠에서 특정 시대적 분위기의 캐릭터 대화 및 코미디 타이밍을 가진 짧은 영상 제작에 활용 가능. VR/AR 환경에서 가상 캐릭터의 자연스러운 대화와 감정 표현을 구현하여 사용자 몰입도를 높일 수 있음. AfterEffects에서 수동으로 진행하던 대사 타이밍 및 캐릭터 애니메이션 작업을 크게 단축할 수 있을 것으로 기대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tf5grw/made_a_fake_2000s_talk_show_with_draw_things_ltx/",
+    "date": "2026-05-17",
+    "original_title": "Made a fake 2000s talk show with Draw Things + LTX 2.3"
+  },
+  {
+    "model_name": "Stable Diffusion LoRA",
+    "core_insight": "LoRA 기반 캐릭터 시트 생성 시 얼굴/전신 일관성 확보의 어려움",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "VR/AR 콘텐츠 내 가상 캐릭터 제작 시, LoRA를 활용한 일관된 캐릭터 시트(얼굴 클로즈업, 전신) 확보가 중요함. 현재 워크플로우의 한계점을 인지하고, Unreal Engine이나 AfterEffects에서 후처리로 일관성을 보완하는 방안을 고려해야 함. 향후 이 분야의 AI 기술 발전 시 캐릭터 자산 제작 파이프라인 효율화에 기여할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tf19vr/character_sheet_worflow_or_lora/",
+    "date": "2026-05-17",
+    "original_title": "Character Sheet Worflow or Lora?"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "다크 판타지 테마의 복합적 서사 이미지 생성 능력 사용자 시연",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 공간의 컨셉 아트 초기 시안 제작에 활용하여 다크 판타지 분위기 연출. Unreal Engine 환경에서 배경 텍스처나 오브젝트 레퍼런스로 사용 가능. 미디어아트 작품의 시각적 테마 탐색 단계에서 다양한 스타일의 레퍼런스 이미지 생성에 유용.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tenwni/dark_fantasy_the_faithless_templar/",
+    "date": "2026-05-17",
+    "original_title": "Dark Fantasy: The Faithless Templar"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "Midjourney 사용자가 생성한 'Sloth Exosuit' 이미지 공개",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Midjourney로 생성된 'Sloth Exosuit'와 같은 독특한 컨셉 이미지는 전시 기획 초기 단계에서 아이디어 시각화 자료로 활용 가능. 프로젝션 매핑이나 미디어아트 배경 요소, 또는 VR/AR 콘텐츠 내 오브젝트 텍스처 및 컨셉 아트 제작에 참고하여 창의적 영감을 얻을 수 있음.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tex2c8/sloth_exosuit/",
+    "date": "2026-05-17",
+    "original_title": "Sloth Exosuit"
+  },
+  {
+    "model_name": "AI 영상 생성 기술",
+    "core_insight": "AI 기술의 장편 영화 제작 가능성에 대한 업계 논의 본격화",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "V2V",
+      "립싱크/캐릭터",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "장편 영화 제작 가능성 논의는 미디어아트 및 전시 콘텐츠의 스토리텔링 깊이를 확장할 잠재력을 시사. 복잡한 서사 구조와 캐릭터 기반의 몰입형 체험 콘텐츠 기획 시, AI를 활용한 시나리오 기반 영상 자동 생성 파이프라인 구축 가능성을 모색. Unreal Engine 등 3D 환경에서 AI 생성 영상을 배경으로 활용하여 제작 시간 단축 및 비용 절감 기대.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tesic3/can_we_now_say_that_ai_is_ready_to_make_feature/",
+    "date": "2026-05-17",
+    "original_title": "Can we now say that AI is ready to make feature films?"
+  },
+  {
+    "model_name": "AI 영상 생성 모델 (미상)",
+    "core_insight": "AI로 복잡한 테마(좀비 아포칼립스)의 뉴스룸 영상 생성 능력 시연",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V"
+    ],
+    "application_idea": "공포/재난 테마의 전시나 미디어아트 프로젝트에서 배경 영상 또는 특정 시나리오 연출에 활용 가능. Unreal Engine이나 TouchDesigner에서 복잡한 시퀀스를 수동으로 제작하는 대신, AI로 빠르게 컨셉 영상이나 실제 콘텐츠를 생성하여 제작 시간을 단축할 수 있음.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1texb9w/an_artificial_zombie_apocalypse_newsroom/",
+    "date": "2026-05-17",
+    "original_title": "an artificial zombie apocalypse: newsroom"
+  },
+  {
+    "model_name": "정보 없음",
+    "core_insight": "AI 플랫폼 업데이트 정보 부족으로 운영상 변화점 분석 불가.",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사 내용이 AI 업데이트와 무관하여 공간 콘텐츠 제작 실무 적용 아이디어 제시 불가.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tf13y0/the_remaining/",
+    "date": "2026-05-17",
+    "original_title": "THE REMAINING"
+  },
+  {
+    "model_name": "AI 영상 생성 (Reddit 공유)",
+    "core_insight": "미스터리/공포 테마의 복잡한 공간 영상 생성 가능성 시사",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V",
+      "3D"
+    ],
+    "application_idea": "미스터리 테마의 전시나 미디어아트에서 '림inal space'와 같은 비현실적이고 복잡한 공간 배경 영상을 제작하는 데 영감을 줄 수 있음. Unreal Engine이나 TouchDesigner에서 유사한 분위기의 3D 환경을 구축할 때 레퍼런스로 활용하거나, AI가 생성한 영상을 AfterEffects에서 합성하여 독특한 시각 효과를 연출.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tewcmt/backroom_train/",
+    "date": "2026-05-17",
+    "original_title": "Backroom train"
+  },
+  {
+    "model_name": "llama.cpp",
+    "core_insight": "llama.cpp에 MTP 기능 승인, 로컬 LLM 추론 성능 개선 기대",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "로컬 LLM 기반 인터랙티브 전시 콘텐츠 제작 시, 더 빠르고 복잡한 대화 시스템 구현 가능. TouchDesigner나 Unreal Engine 프로젝트 내 스크립트 자동 생성 및 디버깅 보조 기능 활용으로 개발 생산성 향상 기대.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1teqnf2/thats_a_good_news/",
+    "date": "2026-05-17",
+    "original_title": "That's a good news..."
+  },
+  {
+    "model_name": "Qwen3.6 MTP (llama.cpp)",
+    "core_insight": "Qwen3.6 27B 모델 생성 속도 111% 향상, 멀티턴 대화 효율 증대",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "인터랙티브 전시의 텍스트 기반 챗봇이나 동적 스토리텔링 시스템 응답 속도 향상에 기여. 로컬 LLM 활용으로 클라우드 의존도를 줄이고, TouchDesigner/Unreal 스크립트 보조에도 유용.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1teypb8/strix_halo_llamacpp_mtp_benchmarks_27b_gets_much/",
+    "date": "2026-05-17",
+    "original_title": "Strix Halo Llama.cpp MTP Benchmarks: 27B Gets Much Faster, 35B Is Mixed"
+  },
+  {
+    "model_name": "Claude For Small Business",
+    "core_insight": "Claude가 소규모 기업의 사무직 업무 자동화에 초점",
+    "update_type": "가격/플랜",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 전시 기획 단계에서 컨셉 문서 작성, 홍보 문구 생성, 프로젝트 관리 보조 등 사무 업무 자동화에 활용하여 팀의 전반적인 생산성을 높일 수 있음.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTXdXbEUySjFiaGg2Y3NPVTcwRDU4QW00cDI3TG51MklJbVkwdlRkWjRuMDUwZHpCakcxTmpNaUdJcTJaVVdKWjVoTElDN0swdVFLS0I3N2xJU1pnLXhscGoybEtOZkFFdUdza29HNUlrcU1raThmRXBIanN1RkZkQnNDeVA3M3FGNXJpUk1SX1FEeUowODVkdjZLMTl5VXQyeWRHcW5lWjNpZm9pTzlZNHNXRlV4cEpfbmc?oc=5",
+    "date": "2026-05-17",
+    "original_title": "Claude For Small Business Shows Where White-Collar AI Is Heading - Forbes"
+  }
+]
