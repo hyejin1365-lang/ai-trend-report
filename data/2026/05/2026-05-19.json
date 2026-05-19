@@ -1,0 +1,342 @@
+[
+  {
+    "model_name": "OpenAI Codex",
+    "core_insight": "OpenAI Codex, Dell과 협력해 기업 온프레미스/하이브리드 환경 배포 지원",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "기업 내부망에서 TouchDesigner Python 스크립트나 Unreal Engine C++ 코드 작성 및 디버깅에 Codex를 활용하여 보안을 유지하며 개발 효율을 높일 수 있음. 특히 민감한 프로젝트 코드 유출 우려 없이 AI 코딩 지원을 받을 수 있어 내부 개발 프로세스에 통합하기 용이함.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "date": "2026-05-19",
+    "original_title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments"
+  },
+  {
+    "model_name": "NVIDIA Cosmos Predict 2.5",
+    "core_insight": "LoRA/DoRA 미세 조정을 통해 로봇 영상 생성 기능 대폭 개선",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "로봇 캐릭터가 등장하는 인터랙티브 전시 콘텐츠 제작 시, 로봇의 움직임과 행동을 자동 생성하여 애니메이션 제작 시간 단축. VR/AR 환경에서 로봇 안내원이나 가이드 캐릭터의 동적인 영상 콘텐츠를 효율적으로 제작 가능. Unreal Engine에서 로봇 자산에 적용하여 복잡한 애니메이션 시퀀스를 빠르게 구현.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "date": "2026-05-19",
+    "original_title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation"
+  },
+  {
+    "model_name": "SandboxAQ drug discovery models on Claude",
+    "core_insight": "SandboxAQ 신약 개발 모델, Claude 통해 비전문가도 접근 가능",
+    "update_type": "API/통합",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작에는 직접적인 영향이 낮음. 하지만 전문 지식 없이도 복잡한 AI 모델을 활용할 수 있게 되는 트렌드를 보여주며, 향후 우리 팀의 특화된 제작 도구(Unreal, TouchDesigner)와 연동될 AI 솔루션의 접근성 향상 가능성을 시사한다.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "date": "2026-05-19",
+    "original_title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required"
+  },
+  {
+    "model_name": "Anthropic (Stainless 인수)",
+    "core_insight": "Anthropic, 개발자 도구 자동화 스타트업 Stainless 인수",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 콘텐츠 생성 능력 향상보다는 개발 환경 개선에 가까움. Anthropic 모델(예: Claude)의 API 연동이 간소화되어 Unreal Engine이나 TouchDesigner 기반 인터랙티브 콘텐츠 제작 시 AI 기능 통합이 용이해질 수 있음. 관람객과 대화하는 AI 캐릭터의 백엔드 로직 구현 시간을 단축하거나, 동적인 텍스트 기반 콘텐츠 생성에 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "date": "2026-05-19",
+    "original_title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare"
+  },
+  {
+    "model_name": "OpenAI",
+    "core_insight": "일론 머스크의 OpenAI 공동 창업자 고소, 기한 만료로 기각",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 실무에 직접적인 영향은 없음. 다만 OpenAI의 법적 안정성 확보는 장기적으로 플랫폼의 지속적인 발전과 신뢰도 유지에 긍정적 영향을 미쳐, 향후 AI 기반 제작 도구의 안정적 활용 가능성을 높일 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "date": "2026-05-19",
+    "original_title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI"
+  },
+  {
+    "model_name": "Alexa+",
+    "core_insight": "Alexa+가 맞춤형 AI 팟캐스트를 생성, 개인화된 AI 콘텐츠 플랫폼으로 확장",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성"
+    ],
+    "application_idea": "전시 공간 내 특정 구역의 배경 내러티브 오디오 콘텐츠를 즉석에서 생성하거나, VR/AR 체험 시 개인화된 오디오 가이드를 제공하는 데 활용 가능. 사운드 작업 시간을 단축하고 다양한 버전의 오디오 콘텐츠를 빠르게 실험할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+    "date": "2026-05-19",
+    "original_title": "Amazon’s new Alexa+ powered feature can generate podcast episodes"
+  },
+  {
+    "model_name": "LetinAR AI 안경 렌즈",
+    "core_insight": "한국 스타트업 레티나, AI 안경용 초소형 광학 렌즈 개발",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "3D",
+      "멀티모달"
+    ],
+    "application_idea": "미래 AR/XR 콘텐츠의 핵심 디바이스인 AI 안경의 광학 기술 발전은 공간 콘텐츠 제작팀에게 새로운 인터랙티브 경험 디자인 기회를 제공함. Unreal Engine으로 제작된 3D 모델이나 미디어아트 콘텐츠를 개인화된 AR 환경에서 직접 체험할 수 있게 되어, 전시 공간의 제약을 넘어선 몰입형 경험 확장이 가능해짐.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "date": "2026-05-19",
+    "original_title": "South Korea’s LetinAR is building optics behind AI glasses"
+  },
+  {
+    "model_name": "OpenAI (Musk 소송)",
+    "core_insight": "머스크의 OpenAI 소송, 소멸시효 만료로 기각 결정",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 실무에 직접적인 영향은 없음. 다만, OpenAI의 법적 안정성 및 향후 사업 방향성에 대한 간접적인 참고 자료가 될 수 있음.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+    "date": "2026-05-19",
+    "original_title": "Here’s why Elon Musk lost his suit against OpenAI"
+  },
+  {
+    "model_name": "Google I/O",
+    "core_insight": "Google 연례 개발자 컨퍼런스 I/O 개최 예정, AI 모델 경쟁 구도에서 3위 언급",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만 Google I/O에서 발표될 AI 기술 업데이트를 주시하여 향후 콘텐츠 제작 파이프라인에 통합 가능성을 검토할 필요가 있음.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+    "date": "2026-05-19",
+    "original_title": "What to expect from Google this week"
+  },
+  {
+    "model_name": "Anduril/Meta AR 헤드셋 프로토타입",
+    "core_insight": "군사용 AR 헤드셋, 시선 추적 및 음성 명령으로 드론 공격 지시 가능",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "3D",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 하지만 시선 추적 및 음성 명령을 통한 인터랙션 기술은 VR/AR/XR 콘텐츠에서 관람객의 몰입도를 높이는 데 활용될 수 있음. 특히 핸즈프리 조작이 필요한 인터랙티브 체험존이나 미디어아트 설치물에서 새로운 사용자 경험을 제공할 잠재력이 큼.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+    "date": "2026-05-19",
+    "original_title": "Inside Anduril and Meta’s quest to make smart glasses for warfare"
+  },
+  {
+    "model_name": "Lance by ByteDance",
+    "core_insight": "ByteDance의 이미지/영상 생성 및 편집을 위한 3B 모델 공개",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "T2V",
+      "V2V",
+      "멀티모달"
+    ],
+    "application_idea": "전시 공간의 배경 영상이나 미디어아트 콘텐츠 제작 시, 텍스트 프롬프트로 다양한 스타일의 이미지와 영상을 빠르게 생성하여 초기 컨셉 시각화 단계에 활용 가능. 기존 영상 소스의 스타일 변환이나 특정 요소 편집에도 유용하여 AfterEffects 작업 시간을 단축할 수 있음. 3D 자산의 텍스처 이미지 생성에도 활용하여 Unreal Engine 작업 효율을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tgjrm2/lance_by_bytedance_3b_apache2_model_for_image_and/",
+    "date": "2026-05-19",
+    "original_title": "Lance by ByteDance: 3B Apache2 model for image and video understanding, generation, and editing"
+  },
+  {
+    "model_name": "Stable Diffusion",
+    "core_insight": "AI 이미지 생성 모델, 특정 헤어스타일 등 세부 묘사 정확도 부족",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "VR/AR/XR 콘텐츠 캐릭터 제작 시, AI 생성 헤어스타일이 요구사항과 다를 경우 Photoshop/Unreal Engine에서 수동 편집이 필수적. 특정 디테일 구현을 위해 AI에만 의존하기보다, 후처리 공정을 미리 계획하여 제작 효율성을 확보해야 함.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tgk08w/i_need_this_hairstyle_as_prompts_no_ai_has/",
+    "date": "2026-05-19",
+    "original_title": "i need this hairstyle as prompts , no AI has managed to do it , they always give me a different hair , thanks in advance"
+  },
+  {
+    "model_name": "LTX Director (ComfyUI)",
+    "core_insight": "ComfyUI용 고급 LTX 2.3 영상 제작 무료 도구 'LTX Director' 공개",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2V"
+    ],
+    "application_idea": "ComfyUI의 복잡한 노드 워크플로우를 활용하여 미디어아트 전시용 추상 영상이나 프로젝션 매핑 소스를 정교하게 제작 가능. 무료 도구이므로 다양한 시도와 실험에 부담 없이 활용하여 Unreal Engine 등 3D 툴에 필요한 영상 소스를 빠르게 생성할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tgyrsa/how_to_use_ltx_director_a_free_tool_for_creating/",
+    "date": "2026-05-19",
+    "original_title": "How to use LTX Director - A Free Tool for Creating Advanced LTX 2.3 Videos in ComfyUI"
+  },
+  {
+    "model_name": "Stable Diffusion",
+    "core_insight": "Stable Diffusion 모델 생태계의 빠른 변화로 인한 사용자 업데이트 문의 증가",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "Stable Diffusion 모델 생태계가 빠르게 변화하고 있음을 시사. 최신 모델의 이미지 품질과 다양성 개선을 지속적으로 파악하여 컨셉 아트, 배경 이미지, 텍스처 생성 등 Photoshop 작업 효율을 높이고 미디어아트 시안 제작에 활용해야 함. 주기적인 모델 업데이트 검토가 필수적.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tgqzkm/are_these_models_outdated/",
+    "date": "2026-05-19",
+    "original_title": "are these models outdated?"
+  },
+  {
+    "model_name": "StableDiffusion LTX 2.3",
+    "core_insight": "LTX 2.3 영상 생성 시 흥미로운 배경 음악 자동 생성 기능 발견",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V",
+      "사운드/음성"
+    ],
+    "application_idea": "미디어월, 프로젝션 맵핑용 짧은 영상 클립 제작 시 배경음악을 자동으로 생성하여 사운드 디자인 공수를 줄일 수 있음. 특히 '잘 알려진 곡과 유사한' 사운드가 생성된다면, 특정 분위기나 레퍼런스를 빠르게 구현하는 데 유용할 것.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tghcfz/ltx_23_get_a_interesting_sound/",
+    "date": "2026-05-19",
+    "original_title": "LTX 2.3 Get a interesting sound!"
+  },
+  {
+    "model_name": "Stable Diffusion (ZIB/ZIT 워크플로우)",
+    "core_insight": "ZIB-ZIT 2단계 워크플로우로 이미지 생성 시 노이즈 문제 발생",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "미디어아트 전시용 컨셉 이미지 제작 시, ZIB의 높은 다양성과 ZIT의 고품질을 결합하여 독창적이면서도 세련된 결과물을 얻는 데 활용 가능. 다만, 현재 워크플로우에서 발생하는 노이즈 문제를 해결해야 안정적인 파이프라인 구축이 가능할 것.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tgkoag/two_staged_workflow_zib_to_zit/",
+    "date": "2026-05-19",
+    "original_title": "Two staged workflow: ZIB to ZIT"
+  },
+  {
+    "model_name": "LoRA 자동 캡셔닝 도구",
+    "core_insight": "LoRA 학습용 다량 이미지 캡셔닝 자동화 도구에 대한 사용자 수요 확인",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "전시/VR 콘텐츠 제작 시 특정 캐릭터나 스타일의 이미지 생성을 위해 LoRA 모델을 커스터마이징할 때, 다량의 레퍼런스 이미지 캡셔닝 전처리 시간을 대폭 단축할 수 있음. 수작업 부담을 줄여 다양한 시도와 반복 학습을 용이하게 하여, Unreal Engine 등에서 활용할 3D 캐릭터 컨셉 아트 제작 효율을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tgd3zo/lora_training_autocaption_generator_recommendation/",
+    "date": "2026-05-19",
+    "original_title": "[LoRA Training] Auto-caption generator recommendation?"
+  },
+  {
+    "model_name": "Stable Diffusion + AI 챗봇",
+    "core_insight": "Stable Diffusion 작업 시 AI 챗봇으로 프롬프트 정제 및 워크플로우 계획 통합",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "멀티모달"
+    ],
+    "application_idea": "미디어아트 전시 컨셉 이미지 제작 시, AI 챗봇으로 복잡한 프롬프트를 정교하게 다듬어 Stable Diffusion으로 원하는 스타일의 배경이나 오브젝트를 빠르게 생성. Unreal Engine용 3D 자산 텍스처 컨셉을 잡거나, 프로젝션 매핑을 위한 추상적인 비주얼 아이디어를 구체화하는 데 활용하여 초기 기획 단계의 시행착오를 줄일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tgq0ua/feels_like_ai_chatbot_tools_in_2026_are_becoming/",
+    "date": "2026-05-19",
+    "original_title": "Feels like AI chatbot tools in 2026 are becoming part of creative workflows now"
+  },
+  {
+    "model_name": "Imagen 4 / Imagen 4 Ultra",
+    "core_insight": "Google Imagen 4 및 Imagen 4 Ultra, 6월 30일 서비스 종료 예정",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "특정 레트로 애니메이션 스타일(예: 90년대 디즈니 르네상스 스타일)이 필요한 전시 영상이나 미디어아트 프로젝트에서 해당 스타일 구현에 어려움이 예상됨. Imagen 4의 독점적 스타일을 대체할 다른 T2I 모델을 탐색하거나, 기존 Imagen 4 결과물로 LoRA를 학습시켜 스타일을 보존하는 방안을 고려해야 함. 이는 새로운 시각적 컨셉 개발 시 제약으로 작용할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1th114r/trying_to_distill_the_soontobesunset_imagen_4_to/",
+    "date": "2026-05-19",
+    "original_title": "Trying to distill the soon-to-be-sunset Imagen 4 to a LoRA for Illustrious 2.0 but the result is a bit wonky, would appreciate some pointers"
+  },
+  {
+    "model_name": "Qwen/Wan/LTX/Klein/ZIT/ZIB",
+    "core_insight": "이미지 모델 학습 정규화 기법의 최신 활용 여부 질의",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 커스텀 이미지 생성 모델을 직접 학습하거나 파인튜닝하는 경우, 정규화 기법 적용 여부 판단에 참고할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tgpxlm/does_anyone_ever_still_do_regularization_to_help/",
+    "date": "2026-05-19",
+    "original_title": "Does anyone ever still do regularization to help with Qwen/Wan/LTX/Klein/ZIT/ZIB training anymore these days? Or has it faded away?"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "Midjourney의 자연물(나무) 생성 품질 및 이해도에 대한 사용자 토론",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서 직접적인 업데이트 영향은 낮음. 다만, Midjourney를 활용한 자연 경관이나 생태계 관련 컨셉 이미지 제작 시, 나무와 같은 특정 객체의 표현 디테일과 사실성에 대한 커뮤니티 피드백을 참고하여 프롬프트 전략을 조정할 수 있음.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tgaawe/what_are_trees/",
+    "date": "2026-05-19",
+    "original_title": "\"What are trees?\""
+  },
+  {
+    "model_name": "AI 비디오 생성 기술",
+    "core_insight": "AI 기반 영상 제작 기술의 스토리텔링 및 시각적 완성도 향상 시연",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "V2V",
+      "사운드/음성"
+    ],
+    "application_idea": "전시 공간 내 특정 서사를 가진 단편 영상 콘텐츠 제작에 활용하여 몰입감을 높일 수 있음. 프로젝션 매핑이나 미디어월의 동적 배경 영상 제작 시, 복잡한 스토리라인을 AI로 빠르게 구현하여 제작 시간을 단축할 수 있음. VR/AR 콘텐츠의 스토리보드 또는 프리비주얼 제작에도 유용.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tgm9wf/halo_contact_harvest_fan_trailer/",
+    "date": "2026-05-19",
+    "original_title": "Halo: Contact Harvest | Fan Trailer"
+  }
+]
