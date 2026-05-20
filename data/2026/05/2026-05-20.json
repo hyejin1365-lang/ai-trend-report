@@ -1,0 +1,346 @@
+[
+  {
+    "model_name": "OpenAI 콘텐츠 출처 증명 도구",
+    "core_insight": "AI 생성 미디어 식별 및 신뢰성 확보를 위한 출처 증명 도구 공개",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시, 미디어아트 제작 시 AI 생성 이미지/영상/3D 자산의 출처를 명확히 확인하여 저작권 및 신뢰성 문제를 사전에 방지할 수 있음. 클라이언트에게 제공하는 콘텐츠의 AI 생성 여부를 투명하게 밝히거나, 외부 자료의 진위 여부를 검증하는 데 활용 가능.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/advancing-content-provenance",
+    "date": "2026-05-20",
+    "original_title": "Advancing content provenance for a safer, more transparent AI ecosystem"
+  },
+  {
+    "model_name": "Project Genie",
+    "core_insight": "스트리트 뷰 기반 실제 장소 시뮬레이션 기능, Google AI Ultra 구독자에게 제공",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "3D"
+    ],
+    "application_idea": "특정 장소 기반의 VR/AR 콘텐츠 제작 시 실제 스트리트 뷰 데이터를 활용하여 현실감 높은 가상 환경을 빠르게 구축할 수 있음. 프로젝션 매핑을 위한 건물 외벽 3D 모델링 작업 시간을 단축하고, Unreal Engine에서 실감나는 배경 에셋으로 활용 가능.",
+    "source": "Google DeepMind",
+    "category": "LLM",
+    "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "date": "2026-05-20",
+    "original_title": "Simulate real-world places with Project Genie and Street View"
+  },
+  {
+    "model_name": "Gemini for Science",
+    "core_insight": "과학 연구의 규모와 정밀도 향상을 위한 AI 도구 공개",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, 과학 관련 전시 콘텐츠 기획 시 자료 조사 및 개념 시각화 아이디어 도출에 간접적으로 활용 가능. 복잡한 과학 데이터를 이해하고 설명하는 데 도움을 받을 수 있음.",
+    "source": "Google DeepMind",
+    "category": "LLM",
+    "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+    "date": "2026-05-20",
+    "original_title": "Gemini for Science: AI experiments and tools for a new era of discovery"
+  },
+  {
+    "model_name": "Co-Scientist",
+    "core_insight": "분산된 과학 연구 결과 연결 및 새로운 연구 방향 제시",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 하지만 새로운 전시 컨셉 기획 단계에서 방대한 자료를 빠르게 분석하고 창의적인 아이디어를 도출하는 데 보조 도구로 활용 가능. 인터랙티브 스토리텔링 콘텐츠의 서사 구조 개발이나 텍스트 기반의 퍼즐 요소 생성에 간접적으로 도움을 줄 수 있음.",
+    "source": "Google DeepMind",
+    "category": "LLM",
+    "link": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+    "date": "2026-05-20",
+    "original_title": "Opening new paths in aging research"
+  },
+  {
+    "model_name": "Co-Scientist",
+    "core_insight": "Co-Scientist, 간 질환 치료법 발견 및 약물 효과 분석 능력 향상 입증",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 복잡한 데이터 분석 및 인사이트 도출이 필요한 프로젝트 기획 단계에서 아이디어 발상 및 자료 조사 보조 도구로 활용 가능.",
+    "source": "Google DeepMind",
+    "category": "LLM",
+    "link": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+    "date": "2026-05-20",
+    "original_title": "Accelerating discovery of liver disease mechanisms"
+  },
+  {
+    "model_name": "OlmoEarth v1.1",
+    "core_insight": "모델 효율성 개선으로 처리 속도 및 자원 활용 최적화",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 시각 콘텐츠 생성 영향은 낮음. 하지만 TouchDesigner/Unreal Engine 프로젝트의 스크립트 작성 및 디버깅 보조, 또는 인터랙티브 전시의 내러티브 텍스트 생성 시 처리 속도 향상으로 작업 효율 증대 기대.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "date": "2026-05-20",
+    "original_title": "OlmoEarth v1.1: A more efficient family of models"
+  },
+  {
+    "model_name": "Google AI Design (IO 2026)",
+    "core_insight": "Google, AI 디자인 시장 진출 선언, 일반 사용자 접근성 강화",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "T2V"
+    ],
+    "application_idea": "전시/미디어아트 콘텐츠 제작 시, Google의 대중적 AI 디자인 도구를 활용하여 초기 컨셉 시안 및 스토리보드 제작 시간을 단축할 수 있음. 특히 다양한 사용자층을 위한 접근성을 강조하므로, 팀 내 비전문가도 아이디어를 시각화하는 데 기여하여 협업 효율을 높일 수 있을 것으로 기대됨.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+    "date": "2026-05-20",
+    "original_title": "Google just declared itself a contender in AI design at IO 2026"
+  },
+  {
+    "model_name": "Gmail AI Inbox (powered by Gemini)",
+    "core_insight": "Gmail AI Inbox에 음성 대화형 검색 기능 추가, 이메일 내용 질의 가능",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 프로젝트 관련 이메일 히스토리나 자료를 음성으로 빠르게 검색하여 팀 커뮤니케이션 및 자료 취합 효율을 높일 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "date": "2026-05-20",
+    "original_title": "You can now talk to your Gmail inbox, as seen at Google IO 2026"
+  },
+  {
+    "model_name": "Google AI agents",
+    "core_insight": "관심 주제 백그라운드 모니터링, 업데이트 및 변경 사항 선제적 알림",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "새로운 AI 기술 트렌드 및 경쟁사 동향을 실시간으로 파악하여 기획 단계에 반영. 전시/미디어아트 분야의 최신 레퍼런스나 기술 업데이트를 놓치지 않고, 프로젝트 아이디어 구상 및 기술 스택 선정에 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "date": "2026-05-20",
+    "original_title": "How to use Google’s new AI agents to go beyond your standard searches"
+  },
+  {
+    "model_name": "Ocean AI",
+    "core_insight": "AI가 수신 이메일 맥락 분석으로 사기·사칭 탐지",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 팀의 이메일 보안 강화 및 피싱 방지에는 기여할 수 있어 운영 효율성 측면에서 간접적 이점 기대.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+    "date": "2026-05-20",
+    "original_title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing"
+  },
+  {
+    "model_name": "OpenAI",
+    "core_insight": "일론 머스크의 OpenAI 소송 기각, 비영리 전환 요구 무산",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "이번 소송 결과는 OpenAI의 사업 모델과 운영 방향에 대한 불확실성을 해소하여, 향후 AI 모델 개발 및 서비스 안정성에 긍정적 영향을 미칠 것으로 예상됨. 전시/미디어아트 제작 시 OpenAI 기반 도구(예: DALL-E, GPT)의 장기적 활용 계획 수립에 참고할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+    "date": "2026-05-20",
+    "original_title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims"
+  },
+  {
+    "model_name": "Google Audio Glasses (Gemini 기반)",
+    "core_insight": "음성 명령으로 구글 앱/서비스 제어 가능한 스마트 글래스 발표",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시 공간에서 관람객이 음성으로 미디어아트 작품을 조작하거나 정보를 요청하는 인터랙티브 체험에 활용. AR 콘텐츠와 연동하여 시각 정보와 음성 안내를 동시에 제공하는 가이드 시스템 구축에 용이.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
+    "date": "2026-05-20",
+    "original_title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026"
+  },
+  {
+    "model_name": "Google Genie",
+    "core_insight": "Genie 모델이 스트리트 뷰 데이터로 실제 거리 시뮬레이션 가능",
+    "update_type": "기능추가",
+    "importance": "핵심",
+    "capability_tags": [
+      "3D",
+      "멀티모달"
+    ],
+    "application_idea": "실제 스트리트 뷰 데이터를 기반으로 한 VR/AR 콘텐츠 제작 시, 실제 장소의 가상 투어를 손쉽게 구현할 수 있음. 프로젝션 매핑이나 미디어월 배경으로 실제 도시 환경을 동적으로 시뮬레이션하여 몰입감 높은 공간 연출 가능. Unreal Engine에서 실제 지형 데이터를 활용한 3D 자산 생성 및 시뮬레이션 시간을 단축할 수 있을 것으로 기대.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+    "date": "2026-05-20",
+    "original_title": "Google’s Genie world model can now simulate real streets with Street View"
+  },
+  {
+    "model_name": "Gemini 3.5 Flash",
+    "core_insight": "복잡한 작업 자율 실행, 소프트웨어 개발 능력 강화",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "Unreal Engine이나 TouchDesigner 프로젝트에서 복잡한 스크립트 작성 및 디버깅을 자동화하여 개발 시간을 단축할 수 있음. 인터랙티브 콘텐츠의 로직 설계 및 구현 과정에서 에이전트 기능을 활용해 효율성을 높일 수 있을 것으로 기대.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+    "date": "2026-05-20",
+    "original_title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots"
+  },
+  {
+    "model_name": "Google Search",
+    "core_insight": "Google 검색, AI 기반 대화형 답변 및 자율 에이전트 중심으로 개편",
+    "update_type": "기능추가",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 기획 초기 단계에서 아이디어 발상 및 레퍼런스 검색 시, 대화형 AI를 통해 복합적인 질문에 대한 맞춤형 답변을 얻어 기획 시간을 단축할 수 있음. Unreal Engine이나 TouchDesigner 작업 중 발생하는 기술적 문제 해결을 위한 정보 탐색에도 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+    "date": "2026-05-20",
+    "original_title": "Google Search as you know it is over"
+  },
+  {
+    "model_name": "OpenAI 이미지 생성 모델 (탐지 기능)",
+    "core_insight": "OpenAI 모델 생성 이미지 탐지 기능 강화, C2PA 및 SynthID 도입",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시 콘텐츠 제작 시 AI 생성 이미지의 출처 투명성을 확보하여 저작권 및 윤리적 문제 발생 가능성을 줄임. 외부 협력사로부터 받은 이미지의 AI 생성 여부를 확인하는 데 활용 가능하며, 자체 제작 이미지의 신뢰도를 높이는 데 기여.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+    "date": "2026-05-20",
+    "original_title": "OpenAI is making it easier to check if an image was made by their models"
+  },
+  {
+    "model_name": "Google AI Search Box",
+    "core_insight": "검색창이 텍스트 외 이미지, 영상 등 멀티모달 입력 지원 대화형 AI로 전환",
+    "update_type": "기능추가",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 기획 초기 단계에서 레퍼런스 이미지, 영상, 텍스트 자료를 동시에 입력하여 컨셉 아이디어와 영감을 얻는 데 활용. 특정 미디어아트 작품의 기술 구현 방식이나 역사적 배경을 영상 자료와 함께 질의하여 심층적인 정보를 빠르게 탐색 가능. Unreal Engine/TouchDesigner 프로젝트에 필요한 특정 3D 모델이나 텍스처를 이미지로 검색하고 관련 정보를 얻는 데 유용.",
+    "source": "VentureBeat - AI",
+    "category": "종합",
+    "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "date": "2026-05-20",
+    "original_title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think."
+  },
+  {
+    "model_name": "LTX Director (LTX 2.3)",
+    "core_insight": "다중 이미지로 캐릭터 포즈/카메라 앵글 변화 및 립싱크 영상 생성 가능",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2V",
+      "립싱크/캐릭터",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시 안내 캐릭터 영상 제작 시, 여러 포즈와 카메라 앵글을 활용해 역동적인 연출이 가능해짐. 립싱크와 오디오 동기화 기능으로 캐릭터 애니메이션 제작 시간 단축 및 품질 향상. VR/AR 콘텐츠 내 가상 캐릭터의 자연스러운 움직임 구현에 활용하여 몰입감을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1thuq4k/local_i2v_finally_feels_less_like_image_wiggle/",
+    "date": "2026-05-20",
+    "original_title": "Local I2V finally feels less like image wiggle and more like shot direction with LTX Director"
+  },
+  {
+    "model_name": "NVIDIA RTX 2-Pass Upscaler (ComfyUI Node)",
+    "core_insight": "ComfyUI용 엔비디아 RTX 업스케일러, 2단계 처리로 고품질 영상 생성",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I",
+      "V2V"
+    ],
+    "application_idea": "AI로 생성된 저해상도 미디어아트 영상이나 프로젝션 매핑 소스를 고품질로 업스케일링하여 선명도를 극대화할 수 있음. 특히 저사양 환경에서도 효율적인 2단계 처리로 Topaz AI 같은 유료 솔루션 구독 없이도 고품질 결과물을 얻어 제작 비용 절감 효과 기대. AfterEffects에서 최종 렌더링 후 후처리 단계에 적용하여 작업 효율성 증대 및 기존 파이프라인 개선.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ti0dfv/nvidia_rtx_2_pass_upscaler_4gb_vram_8gb_ram/",
+    "date": "2026-05-20",
+    "original_title": "Nvidia RTX 2 pass Upscaler (4GB VRAM + 8GB RAM)"
+  },
+  {
+    "model_name": "Characters generator v1.3 (Anima-Base 기반)",
+    "core_insight": "Anima-Base 통합으로 전신 캐릭터 생성 및 스타일 다양화, 프레임 여백 조절 기능 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "VR/AR 콘텐츠용 고해상도 캐릭터 자산 생성 시 활용. 다양한 스타일의 전신 캐릭터를 빠르게 생성하여 컨셉 아트 및 초기 디자인 단계 효율 증대. 프레임 여백 조절 기능으로 프로젝션 매핑용 캐릭터 이미지 배치 정밀도 향상.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1thtuk5/update_characters_generator_v13_now_with_anima/",
+    "date": "2026-05-20",
+    "original_title": "Update Characters generator - v1.3 Now with Anima! | Generation of detailed сharacter for full body"
+  },
+  {
+    "model_name": "HY World 2.0 / WorldMirror v2 + Sharp",
+    "core_insight": "HY World 2.0과 Sharp를 활용한 360 파노라마 가우시안 스플랫 구현 성공",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "3D"
+    ],
+    "application_idea": "실제 공간을 360도 가우시안 스플랫으로 캡처하여 VR/AR/XR 콘텐츠 내 몰입형 환경 구현에 활용 가능. 기존 3D 모델링 대비 빠른 공간 재현 및 사실적인 질감 표현에 유리하여 전시 공간 사전 시뮬레이션이나 가상 투어 제작에 적합.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1th9yg0/hy_world_sharp_360_panorama_gaussian_splat/",
+    "date": "2026-05-20",
+    "original_title": "HY World + Sharp, 360 Panorama Gaussian Splat"
+  },
+  {
+    "model_name": "LumiPic",
+    "core_insight": "SDR 이미지를 HDR EXR로 변환, 후처리용 확장된 색상 범위 제공",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I"
+    ],
+    "application_idea": "미디어월, 프로젝션 매핑 등 고화질 디스플레이 환경에서 AI 생성 이미지의 시각적 품질을 향상. SDR 이미지를 HDR EXR로 변환하여 AfterEffects나 Photoshop에서 후처리 시 더 넓은 색상 및 노출 범위로 정교한 색 보정 가능. VR/AR 콘텐츠의 사실적인 조명 환경 구축에 필요한 고품질 텍스처 소스로 활용.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1thc7m8/lumipic_oumoumads_ltx_lora_fame_sdrhdr_conversion/",
+    "date": "2026-05-20",
+    "original_title": "LumiPic: Oumoumad's (LTX lora fame) SDR->HDR conversion LoRAs for Qwen, soon Kline Base 4 & 9"
+  },
+  {
+    "model_name": "LTX2.3 OmniNFT RL Lora",
+    "core_insight": "일관성 및 품질 대폭 향상, 아티팩트 감소",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "미디어아트 전시용 고해상도 배경 이미지나 텍스처 생성 시, 기존 Stable Diffusion 결과물의 일관성 부족 및 아티팩트 문제를 해결하여 Photoshop/AfterEffects 후처리 시간을 단축. Unreal Engine 내 3D 환경 디자인을 위한 컨셉 이미지 제작 시, 더 높은 품질과 디테일의 레퍼런스를 빠르게 얻을 수 있어 작업 효율성 증대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ti3jar/rl_lora_for_ltx23_it_greatly_increases_coherence/",
+    "date": "2026-05-20",
+    "original_title": "RL lora for LTX2.3. It greatly increases coherence and quality while reducing artifacts."
+  }
+]
