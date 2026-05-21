@@ -1,0 +1,353 @@
+[
+  {
+    "model_name": "OpenAI LLM (연구 모델)",
+    "core_insight": "AI가 80년 난제 해결, 이산 기하학 핵심 추측 반증",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, Unreal Engine이나 TouchDesigner에서 복잡한 공간 알고리즘 설계나 최적화, 혹은 기하학적 패턴 생성 시 보조적인 연구 및 검증 도구로 활용될 가능성은 있음. AI의 추론 능력 향상이 장기적으로는 복잡한 인터랙티브 시스템 개발에 기여할 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "date": "2026-05-21",
+    "original_title": "An OpenAI model has disproved a central conjecture in discrete geometry"
+  },
+  {
+    "model_name": "OpenAI Education for Countries",
+    "core_insight": "각국 교육기관 AI 도입 확대, 교사 연수 및 도구 지원 강화",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 교육 콘텐츠 제작 시 AI 활용 방안 연구나 미래 인력 양성 트렌드 파악에 간접적으로 참고 가능.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "date": "2026-05-21",
+    "original_title": "The next phase of OpenAI’s Education for Countries"
+  },
+  {
+    "model_name": "OpenAI for Singapore",
+    "core_insight": "싱가포르 AI 파트너십 시작, 현지 AI 인재 양성 및 비즈니스 지원",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만 OpenAI의 글로벌 AI 생태계 확장 전략의 일환으로, 장기적으로는 아시아 지역 AI 서비스 접근성 및 안정성 향상에 기여할 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/introducing-openai-for-singapore",
+    "date": "2026-05-21",
+    "original_title": "Introducing OpenAI for Singapore"
+  },
+  {
+    "model_name": "Google DeepMind",
+    "core_insight": "싱가포르와 협력하여 보건, 교육 등 복합적 문제에 최첨단 AI 적용",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, 국가적 AI 인프라 및 연구 역량 강화는 장기적으로 AI 도구의 발전과 접근성 향상에 기여할 수 있음. 미래적으로는 싱가포르 내 공간 콘텐츠 프로젝트에서 AI 활용 시 유리한 환경이 조성될 수 있음.",
+    "source": "Google DeepMind",
+    "category": "LLM",
+    "link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+    "date": "2026-05-21",
+    "original_title": "Strengthening Singapore’s AI Future: A New National Partnership"
+  },
+  {
+    "model_name": "WeatherNext",
+    "core_insight": "WeatherNext AI, 허리케인 멜리사 상륙 예측 정확도 향상으로 대비 시간 확보",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만 기후 변화나 재난 대비 관련 교육 콘텐츠 제작 시, 실시간 기상 데이터 시각화 또는 예측 시뮬레이션 구현에 참고할 수 있음.",
+    "source": "Google DeepMind",
+    "category": "LLM",
+    "link": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+    "date": "2026-05-21",
+    "original_title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica"
+  },
+  {
+    "model_name": "Nvidia AI Agent CPU",
+    "core_insight": "Nvidia, AI 에이전트용 CPU 시장 2천억 달러 규모 예측",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "3D",
+      "멀티모달"
+    ],
+    "application_idea": "AI 에이전트용 CPU는 Unreal Engine 기반의 인터랙티브 전시나 VR/AR 콘텐츠에서 복잡한 시뮬레이션 및 실시간 반응형 AI 캐릭터 구현에 핵심적인 역할을 할 것임. 관람객과 상호작용하는 자율형 에이전트의 연산 성능을 극대화하여, 더욱 몰입감 있고 지능적인 공간 경험을 제공할 수 있을 것으로 기대됨. 이는 기존 파이프라인에서 구현하기 어려웠던 고도화된 AI 기반 미디어아트 작품 제작의 가능성을 열어줄 것.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+    "date": "2026-05-21",
+    "original_title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia"
+  },
+  {
+    "model_name": "Clouted",
+    "core_insight": "숏폼 영상 바이럴 예측 및 제작 지원, 700만 달러 시드 투자 유치",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "V2V"
+    ],
+    "application_idea": "전시/미디어아트 홍보용 숏폼 영상 제작 시, 바이럴 가능성이 높은 클립을 AI가 자동으로 추출하거나 편집 방향을 제안받아 마케팅 효율을 높일 수 있음. 특히 AfterEffects/Premiere에서 수동으로 진행하던 컷 편집 및 하이라이트 추출 작업을 AI로 대체하여 홍보 영상 제작 시간을 단축할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+    "date": "2026-05-21",
+    "original_title": "Clouted wants to take the guesswork out of making short videos go viral"
+  },
+  {
+    "model_name": "Grok",
+    "core_insight": "xAI, Grok 대규모 확장 계획 발표 및 막대한 투자 유치",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, 인터랙티브 전시의 대화형 AI 시스템 개발 시 Grok의 확장된 역량을 활용하여 관람객과 더 자연스럽고 복잡한 상호작용을 구현할 가능성을 모색할 수 있음. 스토리텔링 기반의 VR 콘텐츠 내 캐릭터 대사 생성 및 시나리오 기획 보조 도구로 활용 기대.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+    "date": "2026-05-21",
+    "original_title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over"
+  },
+  {
+    "model_name": "Nvidia AI Ecosystem",
+    "core_insight": "엔비디아 역대 최고 매출, 다음 분기 성장 둔화 및 대규모 스타트업 투자",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "엔비디아의 대규모 스타트업 투자는 미래 AI 기술 및 도구 생태계 변화를 예고하므로, 장기적인 제작 파이프라인 전략 수립 시 잠재적 협력사나 신기술 동향을 파악하는 데 활용. 특히 3D 자산 생성, 영상 생성 등 GPU 의존도가 높은 분야의 기술 발전 방향을 예측하는 데 참고할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+    "date": "2026-05-21",
+    "original_title": "Nvidia posts another record quarter, reveals $43B of holdings in startups"
+  },
+  {
+    "model_name": "xAI",
+    "core_insight": "xAI, 데이터센터 전력 확보 위해 28억 달러 규모 터빈 투자 계획",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "xAI의 대규모 인프라 투자는 향후 고성능 AI 모델 출시를 위한 기반 마련으로 해석됨. 현재 우리 팀의 제작 파이프라인에 직접적인 영향은 없으나, xAI가 미래에 영상, 3D 자산 생성 등 관련 AI 도구를 출시할 경우를 대비하여 동향을 주시할 필요가 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+    "date": "2026-05-21",
+    "original_title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more"
+  },
+  {
+    "model_name": "Anthropic (Compute Deal)",
+    "core_insight": "Anthropic, xAI로부터 월 12.5억 달러 규모 컴퓨팅 자원 확보",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "Anthropic의 AI 모델 개발 가속화로 Claude 등 LLM의 성능이 향상될 것으로 예상. 전시 기획 단계에서 스토리보드, 스크립트 초안 생성 및 아이디어 브레인스토밍에 활용하여 기획 시간 단축 가능. 향후 멀티모달 기능 강화 시 영상 콘텐츠 분석 및 자동 태깅에도 기여할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+    "date": "2026-05-21",
+    "original_title": "Anthropic will pay xAI $1.25B per month for compute"
+  },
+  {
+    "model_name": "OpenAI 추론 모델",
+    "core_insight": "OpenAI 추론 모델이 1946년부터 미해결된 기하학 난제 증명",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 제작 실무에 직접적인 영향은 낮음. 다만, Unreal Engine이나 TouchDesigner에서 복잡한 기하학적 패턴 생성 또는 공간 최적화 알고리즘 개발 시, 추론 모델의 보조적 활용 가능성을 탐색해 볼 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+    "date": "2026-05-21",
+    "original_title": "OpenAI claims it solved an 80-year-old math problem — for real this time"
+  },
+  {
+    "model_name": "IrisGo Iris",
+    "core_insight": "사용자 데스크톱 활동을 관찰하여 작업 자동 학습 및 수행",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 콘텐츠 직접 제작에는 영향이 낮지만, Adobe Photoshop, AfterEffects, Premiere 등에서 반복적인 이미지/영상 처리 작업, 파일 정리, 렌더링 큐 관리 등을 자동화하여 작업 효율을 높일 수 있음. 특히 Unreal Engine 프로젝트의 에셋 임포트나 빌드 프로세스 보조에 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+    "date": "2026-05-21",
+    "original_title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed"
+  },
+  {
+    "model_name": "OpenAI",
+    "core_insight": "엘론 머스크 소송 패소 후 9월 IPO 재추진",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작에 직접적인 영향은 낮음. 다만, OpenAI의 자금 조달 안정화는 Sora, GPT 등 핵심 AI 모델의 장기적인 개발 및 지원 강화로 이어져, 향후 우리 팀의 AI 활용 전략에 긍정적 영향을 줄 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+    "date": "2026-05-21",
+    "original_title": "OpenAI barrels toward IPO that may happen in September"
+  },
+  {
+    "model_name": "OpenAI (비영리 지위 소송)",
+    "core_insight": "일론 머스크의 OpenAI 비영리 지위 관련 소송 패소",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 제작 파이프라인 영향은 없음. 다만, OpenAI의 기업 지배구조 및 장기적인 운영 방향성이 명확해짐에 따라, AI 플랫폼 활용 전략 수립 시 간접적으로 참고할 수 있음.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+    "date": "2026-05-21",
+    "original_title": "Roundtables: Inside the Musk v. Altman Trial"
+  },
+  {
+    "model_name": "Klein 9B Distilled",
+    "core_insight": "Klein 9B Distilled에 특정 LoRa 조합으로 극사실적 이미지 생성법 발견",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "VR/AR/XR 콘텐츠 제작 시 필요한 극사실적인 배경 이미지나 3D 자산의 텍스처 소스를 빠르게 생성할 수 있음. 특히 포토샵을 활용한 컨셉 아트 단계에서 실제와 같은 레퍼런스를 제공하여 시각화 품질을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tiwruj/extreme_realism_with_klein_9b_distilled_2_loras/",
+    "date": "2026-05-21",
+    "original_title": "Extreme realism with Klein 9B distilled 2 loras together"
+  },
+  {
+    "model_name": "SNOFS v1.4 for Flux.2 Klein 9b",
+    "core_insight": "Flux.2 Klein 9b 기반 SNOFS v1.4 이미지 생성 모델 공개",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어월 배경 이미지 제작에 활용 가능. Photoshop에서 초기 아이디어 구상 시간을 단축하고, Unreal Engine용 텍스처 또는 2D 에셋 생성에 기여하여 워크플로우 효율성 증대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tiqomv/last_night_i_released_snofs_v14_for_flux2_klein/",
+    "date": "2026-05-21",
+    "original_title": "Last night I released SNOFS v1.4 for Flux.2 Klein 9b. AMA about training it."
+  },
+  {
+    "model_name": "Stable Audio 3",
+    "core_insight": "텍스트 기반 음악/효과음 생성 모델 출시, 최대 6분 20초 길이, 오픈 웨이트 지원",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "사운드/음성"
+    ],
+    "application_idea": "VR/AR 콘텐츠나 인터랙티브 전시의 배경 음악 및 효과음을 빠르게 생성하여 초기 컨셉 단계에서 다양한 사운드 스케이프를 시도할 수 있다. 오픈 웨이트 모델이므로 특정 공간의 분위기나 인터랙션에 맞춰 사운드를 미세 조정(fine-tuning)하기 용이하며, Unreal Engine 프로젝트에 필요한 맞춤형 사운드 에셋 제작 시간을 단축할 수 있다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tiq820/announcing_the_release_of_stable_audio_3/",
+    "date": "2026-05-21",
+    "original_title": "Announcing the release of Stable Audio 3!"
+  },
+  {
+    "model_name": "ComfyUI Angelo",
+    "core_insight": "ComfyUI 내 이미지 편집(인페인팅, 리파인) 워크플로우 통합",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I"
+    ],
+    "application_idea": "VR/AR/XR 콘텐츠용 텍스처나 컨셉 이미지 제작 시, 생성된 이미지의 미세한 결함(손 등)을 Photoshop으로 옮기지 않고 ComfyUI 내에서 즉시 수정 가능하여 작업 효율을 높임. 미디어아트 배경 이미지 생성 후 후처리 시간을 단축시켜 반복적인 시안 작업에 유리.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tiytor/angelo_a_unified_sampler_inpainter_refiner_fix/",
+    "date": "2026-05-21",
+    "original_title": "Angelo - A Unified Sampler / Inpainter / Refiner (fix hands etc) for ComfyUI"
+  },
+  {
+    "model_name": "AsymFLUX.2 klein (ComfyUI)",
+    "core_insight": "ComfyUI용 AsymFLUX.2 klein 어댑터 공식 출시, VAE 없이 Oklab 색상 공간에서 이미지 생성",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 초기 단계에서 다양한 시각적 아이디어를 탐색하거나, 미디어월/프로젝션 매핑용 배경 이미지의 초안을 생성하는 데 활용. VAE 없이 Oklab 색상 공간에서 생성되는 독특한 이미지 특성을 활용하여 기존 AI 이미지와 차별화된 미디어아트 소스를 얻을 수 있음. ComfyUI 워크플로우에 통합하여 AfterEffects나 Photoshop에서 후처리할 원본 이미지 제작에 기여.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tiwswq/pixelspace_asymflux2_klein_comfyui_release_sft/",
+    "date": "2026-05-21",
+    "original_title": "Pixel-space AsymFLUX.2 klein ComfyUI release & SFT variants"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "키아로스쿠로 등 특정 예술적 스타일 이미지 생성 능력 강화",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 단계에서 특정 분위기(예: 고전 동화, 미스터리)의 레퍼런스 이미지 생성에 활용. 프로젝션 매핑이나 미디어월의 배경 비주얼 제작 시 독특한 시각적 스타일을 빠르게 탐색 가능.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tilrn5/fairy_tales_in_chiaroscuro/",
+    "date": "2026-05-21",
+    "original_title": "Fairy tales in chiaroscuro"
+  },
+  {
+    "model_name": "미상 AI 영상 모델",
+    "core_insight": "AI 영상 생성, 기발한 상상력을 고품질 영상으로 구현 가능",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "전시 영상 제작 시 상상력 넘치는 컨셉을 빠르게 시각화하여 기획 단계의 아이디어 구체화에 활용. 미디어아트에서 비현실적인 캐릭터나 상황을 연출하여 관객에게 신선한 경험 제공. Unreal Engine 등 3D 툴에서 구현하기 어려운 특수 효과나 캐릭터 애니메이션의 레퍼런스 영상으로 활용 가능.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1ti90rx/chewbacca_at_the_barbershop_in_case_you_ever/",
+    "date": "2026-05-21",
+    "original_title": "Chewbacca at the Barbershop (In Case You Ever Wanted to See a Shaved Wookiee)"
+  },
+  {
+    "model_name": "HuggingFace Benchmark Datasets",
+    "core_insight": "HuggingFace 벤치마크 데이터셋, 모델 크기별 필터링 기능 추가",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, LLM 기반의 인터랙티브 콘텐츠 개발 시, 특정 하드웨어 제약에 맞는 최적의 모델을 탐색하는 데 간접적으로 도움을 줄 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tilvit/huggingface_benchmark_datasets_now_let_you_filter/",
+    "date": "2026-05-21",
+    "original_title": "HuggingFace benchmark datasets now let you filter by model size"
+  },
+  {
+    "model_name": "Adobe Firefly (Agentic AI)",
+    "core_insight": "Adobe Firefly에 에이전트 AI 기능 확장 및 Gemini, Claude와 통합",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "T2V",
+      "I2V",
+      "3D",
+      "멀티모달"
+    ],
+    "application_idea": "에이전트 AI 도구를 활용하여 전시 컨셉에 맞는 다양한 스타일의 이미지 및 영상 에셋을 자동으로 생성하고 변형하여 초기 디자인 단계 단축. 프로젝션 매핑, 미디어월 등 대규모 공간 콘텐츠 제작 시, 여러 해상도와 종횡비에 맞는 시각 요소를 일관성 있게 빠르게 제작 가능. Adobe 내에서 Gemini/Claude의 고급 추론 능력을 활용해 복잡한 인터랙티브 콘텐츠 시나리오 구현 효율 증대.",
+    "source": "Google News - Adobe AI",
+    "category": "종합",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjR4QUtHeVZTTWQ4b09xNERzeUJGbGZkR1Q2Z0ZHSlhLMlQ4cDBFX3VDWUd2V3czNUxUSEZ6aVFZTFlEaFNTR255bkZ1ZmV0U05vR1BmWTFWLUd0SWhLWXo1bmNjSzY5cUtMNlFsLWhUMTdQOGx3dlBRb0owajROaFdkellvOFNTTWFpVGJmLTRFcVduNFVMT9IBmAFBVV95cUxQZjR4QUtHeVZTTWQ4b09xNERzeUJGbGZkR1Q2Z0ZHSlhLMlQ4cDBFX3VDWUd2V3czNUxUSEZ6aVFZTFlEaFNTR255bkZ1ZmV0U05vR1BmWTFWLUd0SWhLWXo1bmNjSzY5cUtMNlFsLWhUMTdQOGx3dlBRb0owajROaFdkellvOFNTTWFpVGJmLTRFcVduNFVMTw?oc=5",
+    "date": "2026-05-21",
+    "original_title": "Adobe expands agentic AI tools across Gemini, Claude and Firefly ecosystem - Social Samosa"
+  }
+]
