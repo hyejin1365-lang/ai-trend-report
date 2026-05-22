@@ -1,0 +1,363 @@
+[
+  {
+    "model_name": "ChatGPT for Healthcare",
+    "core_insight": "ChatGPT, 의료 워크플로우 간소화 및 행정 부담 경감에 활용",
+    "update_type": "API/통합",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 하지만 프로젝트 기획 단계에서 아이디어 브레인스토밍, 스토리라인 구성, 대본 초안 작성 등 문서 작업 효율화에 활용 가능. 복잡한 기술 문서 요약이나 해외 자료 번역에도 유용하여 리서치 시간을 단축할 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/adventhealth",
+    "date": "2026-05-22",
+    "original_title": "AdventHealth advances whole-person care with OpenAI"
+  },
+  {
+    "model_name": "Google DeepMind Accelerator Program",
+    "core_insight": "Google DeepMind, 아시아 태평양 환경 위험 해결 가속기 프로그램 출시",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서 직접적인 영향은 낮음. 다만, 환경 관련 주제의 전시 콘텐츠 기획 시, DeepMind의 AI 기술이 적용된 환경 데이터 분석 결과나 시뮬레이션을 레퍼런스 또는 시각화 소스로 활용할 가능성은 있음.",
+    "source": "Google DeepMind",
+    "category": "LLM",
+    "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "date": "2026-05-22",
+    "original_title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks"
+  },
+  {
+    "model_name": "Spotify AI Music Creation",
+    "core_insight": "프리미엄 구독자, AI 기반으로 기존 곡 커버 및 리믹스 제작 가능",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성"
+    ],
+    "application_idea": "VR/AR 콘텐츠의 배경음악이나 전시 공간의 특정 분위기를 위한 맞춤형 사운드스케이프 제작에 활용 가능. 기존 곡을 리믹스하여 미디어아트 작품의 테마에 맞는 독창적인 오디오 요소를 생성, 저작권 문제 완화 기대.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+    "date": "2026-05-22",
+    "original_title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes"
+  },
+  {
+    "model_name": "Google Search (AI Overview)",
+    "core_insight": "Google 검색에 AI 요약 기능 대폭 도입, 정보 탐색 방식 변화 예상",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 기획 초기 단계에서 레퍼런스 이미지, 기술 동향, 역사적 배경 등 방대한 자료를 AI 요약으로 빠르게 탐색 가능. 프로젝트 컨셉 도출 및 리서치 시간 단축에 기여할 수 있으나, 정보의 정확성 검증은 필수.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+    "date": "2026-05-22",
+    "original_title": "Six search engines worth trying now that Google isn’t really Google anymore"
+  },
+  {
+    "model_name": "미국 AI 보안 행정명령",
+    "core_insight": "AI 모델 출시 전 정부 보안 검토 의무화 행정명령 서명 연기",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 실무에 직접적인 영향은 낮음. 다만 AI 모델의 개발 및 출시 속도에 영향을 미칠 수 있는 정책 동향이므로, 장기적으로 활용 가능한 AI 도구의 접근성 변화를 주시할 필요가 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "date": "2026-05-22",
+    "original_title": "Trump delays AI security executive order, saying language ‘could have been a blocker’"
+  },
+  {
+    "model_name": "Spotify AI Podcast 요약/Q&A",
+    "core_insight": "팟캐스트 AI 기반 Q&A 및 요약 브리핑 생성 기능 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서 직접적인 콘텐츠 제작 영향은 낮으나, 프로젝트 기획 단계에서 레퍼런스 팟캐스트나 인터뷰 음성 자료를 AI로 요약하고 핵심 내용을 추출하는 데 활용 가능. 이를 통해 리서치 시간을 단축하고 콘텐츠 방향성을 빠르게 수립할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+    "date": "2026-05-22",
+    "original_title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts"
+  },
+  {
+    "model_name": "Spotify (새 앱)",
+    "core_insight": "Spotify, 20개 이상 시장에 새로운 데스크톱 앱 연구 프리뷰 출시",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작에 직접적인 영향은 낮으나, 프로젝트 기획 단계에서 아이디어 정리 및 자료 조사 보조 도구로 활용 가능. 새로운 기술 트렌드 리서치 자료를 효율적으로 관리하고 팀원들과 공유하는 데 도움을 줄 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+    "date": "2026-05-22",
+    "original_title": "Spotify takes on Google’s NotebookLM with its new app"
+  },
+  {
+    "model_name": "Spotify AI 오디오북 (ElevenLabs 기반)",
+    "core_insight": "AI 생성 오디오북 비독점 계약, 타 플랫폼 발행 자유",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성"
+    ],
+    "application_idea": "전시 내레이션, VR/AR 콘텐츠 캐릭터 음성 등 다양한 공간 콘텐츠에 활용 가능. 비독점 계약으로 생성된 오디오를 팀 프로젝트에 자유롭게 통합하여 사용할 수 있어 유연성 확보. 사운드 작업 시 성우 섭외 및 녹음 비용 절감에 기여.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+    "date": "2026-05-22",
+    "original_title": "Spotify launches an ElevenLabs-powered audiobook creation tool"
+  },
+  {
+    "model_name": "The Path AI 모델",
+    "core_insight": "정신 건강 AI 안전성 벤치마크 95점 기록, 일반 챗봇 대비 우위",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, 관람객의 심리적 안정이나 웰빙을 주제로 하는 인터랙티브 전시 콘텐츠 기획 시, AI 기반의 안전한 대화형 시스템 구축을 위한 레퍼런스로 고려해볼 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+    "date": "2026-05-22",
+    "original_title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy"
+  },
+  {
+    "model_name": "Hark",
+    "core_insight": "올 여름 첫 멀티모달 모델 출시 예정, 기존 서비스와 연동되는 개인 AI 플랫폼 목표",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "다양한 제작 도구(Adobe, Unreal, TouchDesigner) 전반에 걸쳐 통합 AI 비서 역할을 수행하여, 각 도구별 AI 기능을 개별적으로 학습하고 연동하는 복잡성을 줄일 수 있음. 특히 여러 소프트웨어를 오가며 작업하는 공간 콘텐츠 제작 파이프라인에서 작업 효율성을 크게 향상시킬 잠재력이 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+    "date": "2026-05-22",
+    "original_title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface"
+  },
+  {
+    "model_name": "Google AI Agents",
+    "core_insight": "구글 I/O, 웹 사용 방식 변화 위한 AI 에이전트 생태계 공개",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 기획 단계에서 특정 주제에 대한 웹 정보 수집 및 분석 자동화에 활용. 미디어아트 콘텐츠 제작 시 실시간 웹 데이터를 기반으로 동적으로 변화하는 인터랙티브 요소 구현 가능. 프로젝트 자산 관리 및 워크플로우 자동화 보조.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+    "date": "2026-05-22",
+    "original_title": "Google is pitching an AI agent ecosystem to consumers who may not buy it"
+  },
+  {
+    "model_name": "AI 기반 재활용 기술",
+    "core_insight": "알루미늄 등 핵심 광물 재활용 효율을 AI로 개선하여 공급망 강화",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, 지속 가능한 자원 순환을 주제로 하는 전시 콘텐츠 기획 시, AI 기반 재활용 기술의 발전과 적용 사례를 다루는 아이디어로 확장 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+    "date": "2026-05-22",
+    "original_title": "With aluminum prices up 20%, recycling startups bet on AI to cash in"
+  },
+  {
+    "model_name": "AI World Models",
+    "core_insight": "AI가 외부 세계를 이해하고 LLM 한계를 극복하는 '월드 모델' 논의 부상",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "AI 월드 모델이 발전하면 VR/AR/XR 콘텐츠에서 실제 환경을 정확히 인지하고 반응하는 인터랙티브 경험 구현이 가능해짐. 프로젝션 매핑 시 공간의 물리적 특성 및 객체 인식을 통해 콘텐츠를 실시간 최적화하여 몰입감을 높일 수 있음. Unreal Engine이나 TouchDesigner에서 복잡한 환경 및 상호작용 로직을 AI가 자율적으로 생성하는 데 기여할 것.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "date": "2026-05-22",
+    "original_title": "Roundtables: Can AI Learn to Understand the World?"
+  },
+  {
+    "model_name": "AI 기반 스토리텔링",
+    "core_insight": "AI 기술 발전으로 스토리텔링 방식과 콘텐츠 제작 패러다임 변화 가속화",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "T2V",
+      "V2V",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "AI를 활용한 스토리텔링의 중요성을 인지하고, 전시/미디어아트 콘텐츠 기획 시 AI 기반 영상, 이미지, 사운드 생성 도구를 적극적으로 활용하여 몰입감 있는 내러티브를 구현해야 함. 특히 Unreal Engine, TouchDesigner 등 주력 도구와 연동하여 새로운 형태의 인터랙티브 스토리텔링 경험을 창출하는 방안 모색.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+    "date": "2026-05-22",
+    "original_title": "Scaling creativity in the age of AI"
+  },
+  {
+    "model_name": "FLUX.2-klein",
+    "core_insight": "LoRA 학습 없이 참조 이미지로 FLUX.2 이미지 스타일/구조 제어 가능",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시 공간의 특정 분위기나 스타일을 유지하며 여러 이미지 에셋을 생성할 때 유용. LoRA 학습 없이 레퍼런스 이미지 몇 장만으로 일관된 색감, 스타일, 구조를 가진 이미지를 빠르게 제작하여 Photoshop 컨셉 아트 작업 시간을 단축할 수 있음. 미디어아트 프로젝트에서 특정 시각적 테마를 가진 연속적인 이미지 시퀀스를 제작할 때 일관성 유지에 큰 도움.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tjqssg/control_flux2_with_reference_images_instead_of/",
+    "date": "2026-05-22",
+    "original_title": "Control FLUX.2 with reference images instead of training a LoRA — demo"
+  },
+  {
+    "model_name": "Pixal3D",
+    "core_insight": "Pixal3D 라이선스 MIT로 변경, EU 지역 공식 사용 가능",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "3D"
+    ],
+    "application_idea": "Unreal Engine 기반의 VR/AR/XR 콘텐츠 제작 시, Pixal3D로 생성된 3D 자산을 라이선스 제약 없이 자유롭게 활용 가능. 특히 EU 지역 전시 프로젝트에서 저작권 문제 없이 상업적으로 사용할 수 있어 해외 프로젝트 확장성이 증대됨.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tjdig5/pixal3d_changed_to_mit_license/",
+    "date": "2026-05-22",
+    "original_title": "Pixal3D changed to MIT license"
+  },
+  {
+    "model_name": "ComfyUI (DENO Visual Fold)",
+    "core_insight": "ComfyUI 노드 그룹 시각적 폴딩 기능 추가, 복잡한 워크플로우 정리",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "T2V",
+      "I2V",
+      "V2V"
+    ],
+    "application_idea": "ComfyUI를 활용한 복잡한 미디어아트 또는 프로젝션 매핑용 이미지/영상 생성 워크플로우를 시각적으로 깔끔하게 정리할 수 있음. 특히 다수의 노드가 얽힌 실험적 작업 시 가독성을 높여 디버깅 및 협업 효율 증대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tjca6s/i_added_a_visual_fold_feature_for_organizing/",
+    "date": "2026-05-22",
+    "original_title": "I added a visual Fold feature for organizing large ComfyUI workflows"
+  },
+  {
+    "model_name": "Flux 2 Klein Workflow",
+    "core_insight": "Stable Diffusion용 고해상도 이미지 생성 워크플로우 공개, Lora 관리 및 자동 활성화 기능 포함",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "미디어월이나 프로젝션 매핑용 고해상도 배경 이미지, 컨셉 아트 제작 시 활용. Lora 관리 기능으로 다양한 스타일의 이미지를 빠르게 생성하고, 전시 테마에 맞는 시각적 요소를 효율적으로 탐색 가능. 향후 I2I 기능이 추가되면 기존 이미지의 스타일을 통일하거나 특정 분위기로 변환하는 데 유용하여, Unreal Engine 등 3D 환경의 텍스처 작업 효율 증대 기대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tjpb1u/flux_2_klein_destiled_my_workflow_following/",
+    "date": "2026-05-22",
+    "original_title": "Flux 2 Klein destiled My Workflow, following numerous requests for yesterday's post."
+  },
+  {
+    "model_name": "ComfyUI-Angelo (SAM3)",
+    "core_insight": "수동 영역 지정 없이 텍스트 프롬프트로 이미지 편집 대상 자동 선택",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I",
+      "멀티모달"
+    ],
+    "application_idea": "미디어아트/전시용 컨셉 이미지 제작 시, 특정 오브젝트나 인물만 선택하여 스타일을 변경하거나 디테일을 수정하는 작업 시간을 크게 단축. Photoshop에서 수동으로 마스킹하는 번거로움 없이 AI가 자동으로 영역을 인식하여 편집 효율을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tjp4ir/sam3_added_to_comfyuiangelo/",
+    "date": "2026-05-22",
+    "original_title": "SAM3 added to Comfyui-Angelo (sampler/inpainter/refiner)"
+  },
+  {
+    "model_name": "SenseNova-U1-8B-MoT-Infographic",
+    "core_insight": "정보 밀집형 이미지(인포그래픽, 포스터) 생성에 특화된 모델 출시",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 공간 내 정보 패널, 키오스크 UI, 안내 그래픽 등 텍스트 중심의 시각 자료 초안 제작 시간을 단축할 수 있음. Adobe Photoshop/Illustrator에서 수작업으로 진행하던 정보 디자인 작업의 컨셉 단계에서 활용하여 아이데이션 효율을 높일 수 있으며, VR/AR 콘텐츠 내 정보 오버레이나 데이터 시각화 요소 생성에도 유용할 것으로 기대됨.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tjhd3y/infographics_are_a_better_imagegen_test_than/",
+    "date": "2026-05-22",
+    "original_title": "Infographics are a better image-gen test than portraits"
+  },
+  {
+    "model_name": "개인 개발 Stable Diffusion (초기)",
+    "core_insight": "개인 개발자가 48x48 저해상도 이미지 생성 모델 초기 버전 공개",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 48x48 해상도로는 실무 적용 불가능하며, 초기 연구 단계의 개인 프로젝트로 보임. 향후 발전 가능성 모니터링 필요.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tjsv9s/decided_to_actually_make_stable_diffusion/",
+    "date": "2026-05-22",
+    "original_title": "decided to actually make stable diffusion"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "1930년대 특정 시대 스타일 이미지 생성 능력 시연",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 제작 시 1930년대와 같은 특정 시대적 분위기를 빠르게 탐색하고 시각화하는 데 활용 가능. 미디어아트 프로젝트의 레트로 스타일 배경 이미지 생성에 유용하며, Photoshop 컨셉 이미지 단계 대체로 작업 효율을 높일 수 있음.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tjmn1y/return_to_1930/",
+    "date": "2026-05-22",
+    "original_title": "Return To 1930"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "제공된 정보는 Midjourney 관련 Reddit 게시물로, 특정 업데이트 내용 없음.",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "제공된 정보가 특정 업데이트를 명시하지 않아 실무 적용 아이디어 도출 불가. Midjourney는 T2I를 통해 전시 컨셉 이미지, 미디어아트 레퍼런스 이미지 생성에 활용 가능.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tjr41n/images/",
+    "date": "2026-05-22",
+    "original_title": "Images"
+  },
+  {
+    "model_name": "Google Chrome 내장 AI 모델",
+    "core_insight": "크롬 사용자의 기기에 4GB 온디바이스 AI 모델 자동 다운로드",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "인터넷 연결 없이 텍스트 콘텐츠 생성 및 요약에 활용 가능. 전시 기획 단계에서 아이디어 발상이나 스크립트 초안 작성 보조 도구로 활용할 수 있으며, 사용자 인터랙션의 텍스트 응답 처리에도 잠재적 활용 여지가 있음.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOUFCaUVUWXV0TDk2Z1VBS1ZVVkgzNHBEbFNCbERTbDN1VWRaU25MREZfR3N3Zmh0aHB6YW9QV3FBNWpxR2ljRngtdHh4eHphWUd0V1BVME5KNWpFdDVEMTFHa1JSRU82UUZUcXZfZnVuYjdBSnhNNjVLN3J1OFhiMjlYZmhfcFNYb0YwREpza3B6YTllNnktb01yb2pSYktDbkRnM1dVS2Q4Z2NrOWg4SWJfLVNFblA1UDZMR2lLRGpsSG1RbGhXUw?oc=5",
+    "date": "2026-05-22",
+    "original_title": "If You Use Google Chrome, Your Device May Have Secretly Downloaded a 4GB AI Model - CNET"
+  }
+]
