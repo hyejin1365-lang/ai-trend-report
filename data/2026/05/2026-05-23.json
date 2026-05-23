@@ -1,0 +1,368 @@
+[
+  {
+    "model_name": "Codex",
+    "core_insight": "Gartner가 OpenAI의 Codex를 기업용 AI 코딩 에이전트 리더로 선정",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "TouchDesigner나 Unreal Engine 프로젝트에서 복잡한 스크립트 작성 및 디버깅 시 Codex의 신뢰성 높은 코드 생성 능력을 활용하여 개발 시간을 단축할 수 있음. 특히 인터랙티브 콘텐츠의 로직 구현 시 오류를 줄이고 효율성을 높이는 데 기여할 것으로 기대.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "date": "2026-05-23",
+    "original_title": "OpenAI named a Leader in enterprise coding agents by Gartner"
+  },
+  {
+    "model_name": "Nemotron-Labs Diffusion Language Models",
+    "core_insight": "확산 언어 모델 기반 초고속 텍스트 생성 기술 도입",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "VR/AR 인터랙티브 콘텐츠의 내러티브 스크립트나 전시 안내 대본을 초고속으로 생성하여 기획 및 제작 시간을 단축. 영상/이미지 생성 AI용 프롬프트 아이디어를 빠르게 대량 생산해 컨셉 시안 제작 속도를 향상.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "date": "2026-05-23",
+    "original_title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models"
+  },
+  {
+    "model_name": "AI 조달 전략 (Hugging Face Blog)",
+    "core_insight": "특정 AI 작업에 대규모보다 전문화된 AI 도입의 전략적 이점",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "T2V",
+      "3D",
+      "립싱크/캐릭터",
+      "사운드/음성"
+    ],
+    "application_idea": "공간 콘텐츠 제작 시 특정 요구사항에 맞춰 범용 AI 대신 전문화된 소규모 AI 모델 도입을 고려. 예를 들어, 특정 스타일의 3D 자산 생성이나 캐릭터 애니메이션에 특화된 모델을 찾아 Unreal Engine/TouchDesigner 파이프라인에 통합하여 효율성 및 품질 향상 모색.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "date": "2026-05-23",
+    "original_title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook"
+  },
+  {
+    "model_name": "음성 재구성 AI",
+    "core_insight": "스펙트로그램 이미지에서 AI로 사망 조종사 음성 재구성, NTSB 기록 접근 차단",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시 콘텐츠에서 역사적 인물의 음성을 스펙트로그램 이미지 등 시각 자료로부터 재구성하여 몰입감 있는 오디오 경험 제공. 미디어아트에서는 특정 시각 패턴을 음성으로 변환하여 새로운 형태의 사운드 아트 창작 가능. VR/AR 환경에서 시각적 단서(예: 오래된 사진)를 기반으로 관련 음향을 생성하여 현실감을 높일 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "date": "2026-05-23",
+    "original_title": "AI is being used to resurrect the voices of dead pilots"
+  },
+  {
+    "model_name": "AI 스타트업 시장",
+    "core_insight": "AI 스타트업들이 매출 지표를 과장하여 발표하는 경향 심화",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, AI 스타트업 시장의 과열 및 투자 동향을 이해하여 장기적인 기술 도입 및 파트너십 전략 수립 시 참고 자료로 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+    "date": "2026-05-23",
+    "original_title": "How VCs and founders use inflated ‘ARR’ to crown AI startups"
+  },
+  {
+    "model_name": "Google Search AI",
+    "core_insight": "'disregard' 단어 검색 시 검색 인터페이스 오류 발생",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 제작 과정에 직접적인 영향은 적음. 다만, 프로젝트 기획 단계에서 레퍼런스 이미지나 기술 자료를 검색할 때 특정 키워드에 대한 검색 오류가 발생할 수 있어 정보 탐색에 제약이 생길 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+    "date": "2026-05-23",
+    "original_title": "You can no longer Google the word ‘disregard’"
+  },
+  {
+    "model_name": "Google Android XR Glasses (Gemini)",
+    "core_insight": "Gemini 기반 번역, 내비게이션 등 정보 시야에 직접 오버레이하는 AI 글래스 프로토타입 공개",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달",
+      "사운드/음성",
+      "3D"
+    ],
+    "application_idea": "전시 관람객에게 실시간 다국어 번역 및 맞춤형 전시 해설을 AR 오버레이로 제공하여 몰입감 높은 인터랙티브 체험을 구현. 미디어아트 작품에 증강현실 레이어를 추가하여 관람객의 시선에 반응하는 동적인 콘텐츠를 연출할 수 있으며, VR/AR/XR 콘텐츠 제작 파이프라인에 새로운 출력 디바이스로 통합될 잠재력이 큼.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+    "date": "2026-05-23",
+    "original_title": "We tried Google’s AI glasses and they’re almost there"
+  },
+  {
+    "model_name": "SpaceX S-1 Filing",
+    "core_insight": "AI 플랫폼 업데이트와 무관한 SpaceX의 기업 공개(S-1) 문서 제출 소식. 28조 달러 시장, 화성 식민지 연계 보상 등 야심찬 계획 포함.",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사는 AI 플랫폼 업데이트가 아니므로, 공간 콘텐츠 제작 실무에 직접 적용할 아이디어를 도출할 수 없음. AI 트렌드 분석에는 부적합한 기사임.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+    "date": "2026-05-23",
+    "original_title": "SpaceX files to go public, and the math requires a little faith"
+  },
+  {
+    "model_name": "Google I/O AI 비전",
+    "core_insight": "AI 특이점 임박 비전 제시, 인간 지능 초월 가능성 강조",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만 AI 기술 발전의 거시적 방향성을 이해하고 장기적인 콘텐츠 전략 수립에 참고할 수 있음.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "date": "2026-05-23",
+    "original_title": "Google I/O showed how the path for AI-driven science is shifting"
+  },
+  {
+    "model_name": "Z-Image 6B",
+    "core_insight": "VAE 없이 픽셀 공간에서 1K 해상도 이미지 생성 가능",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "고품질 1K 해상도 이미지 생성은 미디어아트 전시의 대형 스크린 배경이나 프로젝션 매핑 소스 제작에 적합. VAE 불필요로 효율성이 높아, Photoshop 컨셉 아트 단계에서 빠른 시안 생성으로 작업 시간을 단축할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tkipk6/tencent_released_zimage_6b_with_pixel_space_gen/",
+    "date": "2026-05-23",
+    "original_title": "Tencent released Z-Image 6B with pixel space gen. No VAE & 1k Resolution."
+  },
+  {
+    "model_name": "Krea 2 Large/Medium",
+    "core_insight": "Krea 2 오픈소스 출시 소문, Large/Medium 버전 성능 유사",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Krea 2가 오픈소스로 출시될 경우, 전시 공간의 컨셉 아트 및 미디어월 배경 이미지 생성에 활용하여 Photoshop 작업 시간을 단축할 수 있다. 특히 Medium 버전의 사실적인 인물 생성 특성을 활용해 VR/AR 콘텐츠 내 일관된 스타일의 캐릭터나 군중 이미지 제작에 유용할 것으로 기대된다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tkd293/been_testing_krea_2_large_and_medium/",
+    "date": "2026-05-23",
+    "original_title": "Been testing Krea 2 Large and Medium"
+  },
+  {
+    "model_name": "LTX 2.3 + LTX Director",
+    "core_insight": "2개의 다른 입력 이미지에서 캐릭터 일관성 높은 유지",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "전시 내러티브에서 캐릭터가 여러 장면이나 환경을 이동할 때 일관된 외형을 유지할 수 있음. VR/AR 콘텐츠에서 가이드 캐릭터의 시퀀스별 이미지 생성 시 수작업으로 인한 캐릭터 불일치 문제를 해결하여 AfterEffects/Photoshop 후처리 시간을 단축.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tkg4r9/ltx_23_ltx_director_testing/",
+    "date": "2026-05-23",
+    "original_title": "LTX 2.3 + LTX Director Testing"
+  },
+  {
+    "model_name": "Nvidia AnyFlow Wan2.1",
+    "core_insight": "컴퓨팅 자원에 맞춰 동적 스텝 조절, 유연한 비디오 생성 지원",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2V",
+      "I2V"
+    ],
+    "application_idea": "다양한 컴퓨팅 자원 환경에 맞춰 영상 생성 속도와 품질을 조절할 수 있어, 고사양 장비에서는 고품질 미디어아트 영상 제작 시간을 단축하고, 현장 테스트 시에는 빠른 결과물로 효율적인 워크플로우를 구축할 수 있다. 특히 프로젝션 매핑이나 미디어월 콘텐츠 제작 시 렌더링 파이프라인 최적화에 기여할 수 있다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tkmxol/nvidia_released_anyflow_based_on_wan_basically_it/",
+    "date": "2026-05-23",
+    "original_title": "Nvidia released \"Anyflow\" based on Wan, basically it kinda like dynamic time step adjuster depends on your compute budget"
+  },
+  {
+    "model_name": "Tencent Pixal3D",
+    "core_insight": "텐센트의 새 이미지→3D 모델 Pixal3D 무료 데모 공개",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I",
+      "3D"
+    ],
+    "application_idea": "VR/AR/XR 콘텐츠 제작 시 컨셉 이미지로부터 3D 오브젝트를 빠르게 생성하여 프로토타이핑 시간을 단축할 수 있습니다. Unreal Engine이나 TouchDesigner에서 활용할 3D 자산 제작 파이프라인을 보조하여 초기 디자인 탐색에 유용하며, 미디어아트 전시의 오브젝트 소스로도 활용 가능합니다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tkepzb/i_built_a_free_demo_for_pixal3d_tencent_new/",
+    "date": "2026-05-23",
+    "original_title": "I built a free demo for Pixal3D (Tencent new image-to-3D model)"
+  },
+  {
+    "model_name": "ComfyUI Nodes 2.0",
+    "core_insight": "ComfyUI Nodes 2.0 인터페이스 점진적 기본화, 전문 편집 기능 대폭 강화",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "미디어아트, 프로젝션 매핑용 고품질 이미지 에셋 제작 시, ComfyUI Nodes 2.0의 강화된 색상 보정 및 이미지 편집 기능으로 최종 결과물의 시각적 완성도를 높일 수 있음. 라이브 크롭, 히스토그램 등 전문적인 UI는 Photoshop/AfterEffects에서 후처리하던 작업을 ComfyUI 내에서 더욱 정밀하게 수행하게 하여 작업 효율을 증대시킴. Unreal Engine 배경 텍스처나 VR 환경 오브젝트의 컨셉 이미지 생성 및 미세 조정에 활용하여 파이프라인을 단축할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tkqrwy/an_update_on_nodes_20_from_comfy_org/",
+    "date": "2026-05-23",
+    "original_title": "An Update on Nodes 2.0 from Comfy Org"
+  },
+  {
+    "model_name": "AI 이미지 생성 도구",
+    "core_insight": "AI 이미지 생성, 드로잉 보조 도구로 창작 과정 개선",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시/미디어아트 컨셉 기획 단계에서 아이디어 스케치 및 시안 제작 시간을 단축. 프로젝션 매핑이나 미디어월 콘텐츠의 구도, 조명, 색상 팔레트 등 시각적 요소를 AI로 빠르게 탐색하여 초기 디자인 방향을 정립하고, Photoshop/Unreal 작업 전 시행착오를 줄일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tkv6er/ai_image_generator_vs_drawing_by_hand_an_artists/",
+    "date": "2026-05-23",
+    "original_title": "AI image generator vs drawing by hand, an artist's honest take."
+  },
+  {
+    "model_name": "Sulphur LORA v1 (for LTX2.3)",
+    "core_insight": "LTX2.3 기반의 Sulphur LORA v1 모델 공개",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 제작 시 특정 스타일의 배경 이미지나 오브젝트를 빠르게 생성하여 Photoshop 작업 시간을 단축. 프로젝션 매핑용 비주얼 소스 제작 시 일관된 아트 스타일의 이미지를 대량 생산하여 AfterEffects 합성 효율 증대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tkus7j/sulphur_released_as_lora_for_ltx23/",
+    "date": "2026-05-23",
+    "original_title": "Sulphur released as LORA for LTX2.3"
+  },
+  {
+    "model_name": "Stable Diffusion Lora: Nineth - v1.0",
+    "core_insight": "Stable Diffusion Lora 'Nineth - v1.0'으로 다중 마스크/인페인팅 활용 복잡한 이미지 생성",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "미디어아트 전시의 배경 이미지나 프로젝션 매핑용 복잡한 풍경 이미지 생성 시, 다중 마스크와 인페인팅 기능을 활용해 원하는 디테일을 정교하게 구현 가능. Photoshop에서 수작업으로 진행하던 컨셉 아트 제작 단계를 AI로 대체하여 작업 효율을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tl0q2g/shoutout_to_nineth_10_for_klux2_klein_by/",
+    "date": "2026-05-23",
+    "original_title": "Shoutout to Nineth - 1.0 for Klux.2 Klein by Mandrew0987. Been really enjoying this Lora and it seems like barely anyone knows about it."
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "상세 텍스트 프롬프트 기반 고품질 판타지 이미지 생성 능력 시연",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어월 배경 이미지 제작에 활용. 상세한 텍스트 묘사만으로 고품질 판타지 장면을 빠르게 생성하여 기획 단계의 시각화 시간을 단축할 수 있음. Unreal Engine 환경에서 사용할 텍스처나 스카이박스 이미지 제작에도 유용.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tkhah0/the_meeting/",
+    "date": "2026-05-23",
+    "original_title": "The meeting"
+  },
+  {
+    "model_name": "정보 없음",
+    "core_insight": "제공된 기사에서 AI 플랫폼의 구체적인 운영 변화점 확인 불가",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V"
+    ],
+    "application_idea": "제공된 정보만으로는 특정 AI 영상 모델의 업데이트에 기반한 공간 콘텐츠 제작 실무 적용 아이디어 도출이 어려움. 일반적인 AI 영상 생성 도구의 활용 가능성을 염두에 두어야 함.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tkbvs9/the_quiet_collapse_red_rainbow/",
+    "date": "2026-05-23",
+    "original_title": "The Quiet Collapse | Red Rainbow"
+  },
+  {
+    "model_name": "DeepSeek",
+    "core_insight": "DeepSeek, 102.9억 달러 투자 유치로 오픈소스 AI 개발 지속",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "오픈소스 LLM 개발 지속은 커스텀 AI 솔루션 구축에 긍정적 신호. 전시 내러티브 생성, 인터랙티브 콘텐츠 스크립트 작성 등에서 특정 프로젝트에 최적화된 모델을 직접 구축하거나 파인튜닝하여 활용 가능. 외부 API 의존도를 낮추고 데이터 보안을 강화할 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tkfvvj/deepseek_is_pushing_forward_with_1029_billion/",
+    "date": "2026-05-23",
+    "original_title": "DeepSeek is pushing forward with $10.29 billion financing round, with Liang Wenfeng committing to continue developing open-source AI models rather than pursuing short-term commercialization goals"
+  },
+  {
+    "model_name": "BitCPM-CANN 1.58 bit",
+    "core_insight": "OpenBMB, 1.58비트 양자화 BitCPM-CANN 모델 공개 및 테스트 진행",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, Unreal Engine이나 TouchDesigner 프로젝트에서 스크립트 작성 보조, 아이디어 구체화, 또는 기술 문서 번역 등에 활용 가능.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tkjpsh/openbmb_presents_the_model_bitcpmcann_158_bit/",
+    "date": "2026-05-23",
+    "original_title": "OpenBMB presents the model BitCPM-CANN 1.58 bit"
+  },
+  {
+    "model_name": "llama-cpp server (AMD 듀얼 GPU 구성)",
+    "core_insight": "AMD 듀얼 GPU로 llama-cpp 서버 48GB VRAM 환경 구축 성공",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "로컬 LLM 서버 구축으로 민감한 프로젝트 기획 단계에서 아이디어 발상 및 스토리라인 개발에 활용 가능. 48GB VRAM으로 대규모 모델 구동이 가능해 TouchDesigner/Unreal Engine 스크립트 작성 및 디버깅 보조에 유용하며, 외부 API 의존성 없이 내부 자료 기반으로 맞춤형 정보 생성 가능.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tktxr0/cant_believe_i_got_it_working_dual_gpu_48gb_vram/",
+    "date": "2026-05-23",
+    "original_title": "Can't believe I got it working! Dual GPU - 48gb VRAM llama-cpp server - R7900 + 7800XT"
+  },
+  {
+    "model_name": "ByteShape Qwen3.6-35B-A3B Quant",
+    "core_insight": "ByteShape 퀀트, 6GB VRAM 랩톱에서 Unsloth 대비 30% 빠른 텍스트 생성",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "6GB VRAM 랩톱에서도 고성능 LLM을 로컬로 구동할 수 있게 되어, 인터랙티브 전시에서 실시간 대화형 내러티브 생성이나 동적 콘텐츠 스크립트 작성에 활용 가능. 클라우드 의존도를 줄여 데이터 보안 및 응답 속도 개선에 기여.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tknjcx/byteshape_qwen3635ba3b_30_faster_than_unsloth_iq/",
+    "date": "2026-05-23",
+    "original_title": "ByteShape Qwen3.6-35B-A3B: 30% faster than Unsloth IQ on 6GB VRAM laptop"
+  }
+]
