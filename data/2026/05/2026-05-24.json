@@ -1,0 +1,377 @@
+[
+  {
+    "model_name": "IBM AI (Ferrari F1)",
+    "core_insight": "IBM AI를 활용하여 F1 팬 경험 재정의 및 슈퍼팬 육성",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만 스포츠/브랜드 체험 공간 기획 시, AI 기반의 개인화된 인터랙티브 콘텐츠 아이디어에 참고 가능. 관람객 행동 분석을 통한 맞춤형 스토리텔링이나 동선 추천 시스템 구축에 영감을 줄 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "date": "2026-05-24",
+    "original_title": "Ferrari is using IBM’s AI to create F1 superfans"
+  },
+  {
+    "model_name": "xAI",
+    "core_insight": "Elon Musk의 xAI, 태양광 대신 천연가스 및 궤도 데이터 센터에 집중",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 실무와 직접적인 연관성은 낮음. xAI의 장기적인 AI 개발 방향 및 비용 구조에 대한 간접적인 정보로 참고 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "date": "2026-05-24",
+    "original_title": "Elon Musk has given up on solar power (on Earth)"
+  },
+  {
+    "model_name": "Animadex.net",
+    "core_insight": "Anima AI 캐릭터 및 아티스트 검색 엔진 출시, 49,000개 샘플 제공",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "전시/미디어아트 콘텐츠 제작 시 특정 캐릭터나 아티스트 스타일을 참조하여 컨셉 이미지 생성 시간을 단축. Unreal Engine에서 사용할 캐릭터 에셋 제작 시 일관된 디자인 가이드를 제공하거나, 기존 LoRA를 찾아 활용하여 캐릭터 애니메이션 작업 효율을 높일 수 있음. 프로젝션 매핑이나 미디어월에 필요한 캐릭터 디자인 레퍼런스를 빠르게 탐색하는 데 유용.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tlbh78/i_made_an_anima_ai_character_artist_search_engine/",
+    "date": "2026-05-24",
+    "original_title": "I made an Anima AI Character & Artist search engine with 49,000 sample images"
+  },
+  {
+    "model_name": "ComfyUi-Untwisting-RoPE (Z-image Turbo)",
+    "core_insight": "ComfyUI에 학습 없이 이미지 스타일 변환 기능 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I"
+    ],
+    "application_idea": "프로젝션 매핑이나 미디어아트 컨셉 이미지 제작 시, 다양한 스타일을 학습 없이 빠르게 적용하여 시안 제작 시간을 단축할 수 있음. 기존 Photoshop 작업에서 스타일 변환을 수동으로 하던 부분을 대체하여 초기 디자인 탐색 효율을 높임. VR/AR 콘텐츠의 3D 자산 텍스처에 일관된 아트 스타일을 적용하는 데 활용 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tl8mo4/i_implemented_untwisting_rope_in_comfyui/",
+    "date": "2026-05-24",
+    "original_title": "I implemented Untwisting RoPE in ComfyUi (Training-Free Style Tranfer)."
+  },
+  {
+    "model_name": "SEGA (확산 트랜스포머)",
+    "core_insight": "확산 모델의 해상도 확장 능력 개선, 고해상도 이미지 생성 효율 증대",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "프로젝션 매핑, 미디어월 등 대형 디스플레이용 고해상도 배경 이미지 생성 시 유용. 기존 T2I 모델의 해상도 한계를 넘어 더 선명하고 디테일한 이미지를 효율적으로 얻을 수 있어 Photoshop 후처리 작업 시간 단축 기대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tla88u/sega_spectralenergy_guided_attention_for/",
+    "date": "2026-05-24",
+    "original_title": "SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers"
+  },
+  {
+    "model_name": "VNCCS PoseStudio 0.4.19",
+    "core_insight": "이미지에서 캐릭터 포즈 추출 및 라이브러리 공유, 비대칭 지원, Lora 업데이트로 품질/속도 개선",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "VR/AR 콘텐츠 제작 시, 레퍼런스 이미지에서 원하는 캐릭터 포즈를 추출하여 3D 모델에 빠르게 적용할 수 있어 애니메이션 제작 시간을 단축. 팀 내 공유 라이브러리를 통해 일관된 캐릭터 포즈를 관리하고, 비대칭 지원으로 더욱 자연스러운 캐릭터 연출이 가능해짐.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tli8j5/vnccs_posestudio_big_update_0419/",
+    "date": "2026-05-24",
+    "original_title": "VNCCS PoseStudio BIG UPDATE 0.4.19"
+  },
+  {
+    "model_name": "IMG Dataset Refiner v4.3 Pro",
+    "core_insight": "데이터셋 자동 캡셔닝 및 AI 기반 전처리 기능 대폭 강화",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 프로젝트에 필요한 특정 스타일, 오브젝트, 캐릭터를 위한 커스텀 LoRA/모델 학습 시 데이터셋 준비 시간을 획기적으로 단축. AI 기반 자동 캡셔닝 및 전처리로 고품질 학습 데이터를 쉽게 구축하여, Unreal Engine이나 TouchDesigner에서 활용할 독창적인 3D 자산 및 이미지 생성에 기여.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tl36zc/img_dataset_refiner_v43_pro_is_here_the_ultimate/",
+    "date": "2026-05-24",
+    "original_title": "IMG Dataset Refiner v4.3 Pro is here! 🚀 The ultimate dataset prep tool for LoRAs"
+  },
+  {
+    "model_name": "ComfyUI Lens",
+    "core_insight": "ComfyUI에 Lens 모델 기본 지원 예정, 다양한 화면비 해상도 생성 가능",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "미디어월, 프로젝션 매핑 등 다양한 종횡비의 디스플레이에 최적화된 배경 이미지나 컨셉 아트를 생성하는 데 유용. JSON 프롬프트 지원으로 복잡한 장면 구성이나 특정 요소 배치를 정밀하게 제어하여 Unreal Engine용 텍스처나 Photoshop 컨셉 이미지 제작 시간을 단축할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tlw09a/microsoft_lens_first_tests_its_pretty_decent/",
+    "date": "2026-05-24",
+    "original_title": "Microsoft Lens First Tests: It's Pretty Decent! - ComfyUI Native Support About to Be Merged"
+  },
+  {
+    "model_name": "Flux2klein enhancer package (Multi Referencelatent node)",
+    "core_insight": "여러 레퍼런스 레이턴트 노드를 하나로 통합, 작업 편의성 증대",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "I2I"
+    ],
+    "application_idea": "미디어아트 전시의 시각적 일관성 유지를 위해 여러 레퍼런스 이미지를 활용할 때, 복잡한 노드 스택 없이 단일 노드로 처리하여 작업 효율을 높일 수 있음. 특히 프로젝션 맵핑용 배경 이미지나 VR 환경의 특정 오브젝트 생성 시 일관된 스타일 적용에 유용.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tlmwzs/multi_referencelatent/",
+    "date": "2026-05-24",
+    "original_title": "Multi Referencelatent"
+  },
+  {
+    "model_name": "LongCat Video Avatar 1.5",
+    "core_insight": "표정 풍부한 토킹 헤드 아바타 모델 출시, 자연스러운 대화 영상 제작 지원",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "I2V",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "전시 안내 캐릭터나 가상 인플루언서 제작 시, 기존 캐릭터 이미지에 표정과 립싱크를 더해 생동감 있는 토킹 헤드 영상을 효율적으로 만들 수 있음. VR/AR 콘텐츠 내 가이드 캐릭터의 자연스러운 대화 장면 구현에 활용하여 사용자 경험을 향상시키고, AfterEffects에서의 수동 애니메이션 작업 시간을 크게 절감할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tl4koq/longcat_video_avatar_15_released_expressive/",
+    "date": "2026-05-24",
+    "original_title": "LongCat Video Avatar 1.5 released: expressive avatar model for talking heads"
+  },
+  {
+    "model_name": "AI Motion Capture Experiment Nº3",
+    "core_insight": "안무가와 협력하여 AI 모션 캡처 기술로 고품질 캐릭터 움직임 구현 실험",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "3D",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "VR/AR 콘텐츠 내 캐릭터의 움직임을 실제 무용수 수준으로 구현하여 몰입감을 높일 수 있음. 전시 공간의 미디어월에서 춤추는 캐릭터를 생성하여 미디어아트 작품의 동적인 요소를 강화. Unreal Engine에서 캐릭터 애니메이션 리깅 및 모션 적용 시간을 단축할 수 있을 것으로 기대.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tlicsl/talk_ft_sara_silkin_ai_motion_capture_experiment/",
+    "date": "2026-05-24",
+    "original_title": "\"Talk\" [ft. Sara Silkin] - AI Motion Capture Experiment Nº3"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "사용자의 독창적인 프롬프트에 대한 Midjourney의 고품질 이미지 생성 능력 지속 확인",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "바로크 양식의 초현실적 공간 컨셉 이미지 제작에 활용하여 VR/AR 콘텐츠의 초기 디자인 단계 단축. 프로젝션 매핑이나 미디어아트 전시의 독특한 시각적 테마 아이디어 구상에 영감 제공.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tlf2l9/baroque_hibernation_pod/",
+    "date": "2026-05-24",
+    "original_title": "Baroque hibernation pod"
+  },
+  {
+    "model_name": "정보 없음",
+    "core_insight": "제공된 기사 내용이 부족하여 AI 플랫폼 업데이트 정보 파악 불가",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사 내용이 AI 플랫폼 업데이트와 무관하여 실무 적용 아이디어 도출 불가.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tld1w2/only_one_of_these_is_actually_ai/",
+    "date": "2026-05-24",
+    "original_title": "Only one of these is actually AI"
+  },
+  {
+    "model_name": "GPT-5.5",
+    "core_insight": "GPT-5.5의 내부 추론 과정이 '원시인 모드'와 유사하게 유출됨",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만 TouchDesigner/Unreal 프로젝트의 스크립트 작성·디버깅 보조로는 생산성 향상 기대.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tljrtk/gpt_55_secret_sauce_is_just_having_the_thinking/",
+    "date": "2026-05-24",
+    "original_title": "GPT 5.5 \"secret sauce\" is just having the thinking be some stupid caveman mode?"
+  },
+  {
+    "model_name": "LLM 기술 트렌드",
+    "core_insight": "LLM 커뮤니티 활동 및 검색량 감소, 관심도 하락 추세",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "LLM 기술에 대한 과도한 기대가 줄어들면서, LLM 기반 인터랙티브 전시 콘텐츠 기획 시 현실적인 사용자 경험 설계가 중요해짐. 단순한 대화형 기능보다는 특정 목적에 맞는 정보 제공이나 스토리텔링 보조 역할에 집중하여, 기술의 한계를 명확히 인지하고 프로젝트를 진행해야 함.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tlcars/have_we_passed_the_peak_of_inflated_expectations/",
+    "date": "2026-05-24",
+    "original_title": "Have we passed the peak of inflated expectations?"
+  },
+  {
+    "model_name": "GPU 하드웨어 (NVIDIA RTX 5060 Ti)",
+    "core_insight": "GPU 다중 장착 시 간격 및 언더볼팅이 하드웨어 수명에 미치는 영향 논의",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 시 Unreal Engine, TouchDesigner 등 고성능 GPU를 활용하는 작업 환경에서 하드웨어 안정성 및 수명 관리에 대한 참고 자료로 활용 가능. 특히 다수의 GPU를 사용하는 시스템 구축 시 발열 및 전력 효율을 고려한 설계는 장기적인 프로젝트 운영에 필수적.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tlonbw/does_gpu_spacing_matter_if_were_undervolting/",
+    "date": "2026-05-24",
+    "original_title": "Does GPU spacing matter if we’re undervolting anyways?"
+  },
+  {
+    "model_name": "LongCat-Video-Avatar 1.5",
+    "core_insight": "오픈소스 기반 아바타 영상 생성 모델, 립싱크 정확도 및 장시간 영상 안정성 대폭 개선",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "V2V",
+      "립싱크/캐릭터",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시 안내 캐릭터나 인터랙티브 체험존의 가상 인물 생성 시, 정교한 립싱크와 장시간 안정성을 바탕으로 고품질의 다국어 안내 영상을 제작할 수 있음. AfterEffects나 Premiere에서 수동으로 진행하던 립싱크 및 캐릭터 애니메이션 후처리 시간을 대폭 단축하여 제작 효율을 높일 수 있음. 애니메이션 스타일도 지원하여 다양한 컨셉의 공간 콘텐츠에 적용 가능.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tl4wpi/meituanlongcatlongcatvideoavatar15_hugging_face/",
+    "date": "2026-05-24",
+    "original_title": "meituan-longcat/LongCat-Video-Avatar-1.5 · Hugging Face"
+  },
+  {
+    "model_name": "Gemma4 26B A4B Apex Quant",
+    "core_insight": "Gemma4 26B A4B 모델, Apex 양자화로 성능 향상 및 용량 감소",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "로컬 환경에서 대규모 언어 모델(LLM)을 효율적으로 운영할 수 있게 되어, TouchDesigner나 Unreal Engine 프로젝트의 복잡한 스크립트 작성 및 디버깅 보조에 활용 가능. 인터랙티브 전시의 동적 텍스트 콘텐츠 생성이나 챗봇 기반 안내 시스템 개발 시 비용 효율적인 대안으로 고려될 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tl9woz/gemma4_26b_a4b_apex_quant_is_quite_good/",
+    "date": "2026-05-24",
+    "original_title": "Gemma4 26b a4b Apex quant is quite good"
+  },
+  {
+    "model_name": "QWEN 3.6",
+    "core_insight": "256MB RAM 환경 로컬 구동 가능한 397B급 LLM 부재 확인",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "저사양 임베디드 시스템 기반 인터랙티브 전시물에서 실시간 대화형 AI 구현에 제약이 있음. 256MB RAM 환경 로컬 LLM이 있다면, 현장 키오스크나 안내 로봇에 활용하여 사용자 경험을 크게 향상시킬 수 있을 것.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tl43xu/397b_competitor_that_fits_in_256_ram/",
+    "date": "2026-05-24",
+    "original_title": "397B competitor that fits in 256 RAM?"
+  },
+  {
+    "model_name": "llama.cpp server",
+    "core_insight": "llama.cpp 서버에 파일/쉘 명령 내장 도구 추가, 에이전트 기능 강화",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "Unreal Engine이나 TouchDesigner 프로젝트에서 복잡한 스크립트 작성 및 디버깅 시 로컬 LLM 에이전트가 코드 생성 및 파일 수정 작업을 보조하여 개발 효율을 높일 수 있음. 미디어아트 설치물에서 사용자 입력에 따라 동적으로 스크립트를 실행하거나 파일을 조작하여 인터랙티브한 경험을 제공하는 데 활용 가능. 다만, 직접적인 영상/이미지/3D 자산 생성과는 거리가 있어 전시/미디어아트 콘텐츠 자체 제작에 미치는 영향은 간접적임.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tluma3/llamacpp_server_have_builtin_native_tools_exec/",
+    "date": "2026-05-24",
+    "original_title": "llama.cpp server have built-in native tools (exec_shell, edit_file, etc.)"
+  },
+  {
+    "model_name": "Qwen 3.6 35b a3b",
+    "core_insight": "Qwen 3.6 모델 비전 기능 제거로 VRAM 절약 및 텍스트 성능 유지 여부 논의",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "로컬 LLM을 활용한 TouchDesigner/Unreal Engine 스크립트 작성 및 디버깅 시 VRAM 절약 방안으로 참고 가능. 비전 기능이 필요 없는 작업에서 리소스 효율성을 높여 복잡한 공간 콘텐츠 제작 환경에서 안정적인 운영에 기여할 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tlhkts/removing_vision_from_model/",
+    "date": "2026-05-24",
+    "original_title": "Removing Vision from model"
+  },
+  {
+    "model_name": "소형 언어 모델 (GPU-less)",
+    "core_insight": "GPU 없이 구동 가능한 소형 언어 모델의 성능 및 활용 방안 논의",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "현장 설치형 인터랙티브 전시에서 저사양 하드웨어로도 동적인 텍스트 기반 상호작용 구현에 유리함. 클라우드 API 의존도를 줄여 비용 절감 및 응답 속도 향상에 기여하며, VR/AR 콘텐츠 내 캐릭터 대사 생성에도 활용 가능.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tli757/what_is_the_current_best_small_language_model/",
+    "date": "2026-05-24",
+    "original_title": "What is the current best Small Language Model that can be run without GPU?"
+  },
+  {
+    "model_name": "Chrome Gemma4 (Gemini Nano)",
+    "core_insight": "GPU 없이 크롬에서 로컬로 Gemma4(Gemini Nano) 실행 가능, 빠른 처리 속도 제공",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 기획 단계에서 아이디어 발상 및 텍스트 초안 작성에 활용하여 기획 시간 단축. TouchDesigner나 Unreal Engine 프로젝트의 스크립트 작성 및 디버깅 보조 도구로 활용 가능. GPU 없이 로컬에서 빠르게 실행되므로, 인터넷 연결이 불안정한 현장에서도 자료 요약이나 스크립트 검토에 유용.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tlnqzj/run_chromes_tiny_gemma4_aka_gemini_nano_directly/",
+    "date": "2026-05-24",
+    "original_title": "Run Chrome’s tiny Gemma4 (aka Gemini Nano) directly on PC without GPU"
+  },
+  {
+    "model_name": "해당 없음",
+    "core_insight": "제공된 기사는 AI 플랫폼 업데이트와 무관한 항공사 미디어 파트너십에 관한 내용임.",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사는 AI 트렌드와 무관하므로, 공간 콘텐츠 제작 실무에 적용할 아이디어를 도출할 수 없음.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY2owOVdEbHFqWW1VczctY01DUGpSakNFcFNCSzFQVlFiUGhZOTd3eXoyR21ub19lSDJSYjBHQTNXeDNlS3FfeTJzYUdBN01GUDNIVGI3bEd5c2hmZXQxYlRENEtYY1NBN3VnbUVnc3Zrb3VyMkltajhjNmVuenlyQ19MZklrQzBkSFR1UDZ4eFFTSThTaWNQQXVKRVNlU25PVjhz?oc=5",
+    "date": "2026-05-24",
+    "original_title": "Press Release: Austrian partners with Spafax on inflight and lounge media - Runway Girl"
+  },
+  {
+    "model_name": "Kling AI",
+    "core_insight": "애니메이션 영화 'Minibots' 제작 파트너십 및 칸 영화제 영화 제작자 이니셔티브 공개",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "Kling AI의 장편 애니메이션 영화 제작 참여는 AI 기반 스토리텔링 및 캐릭터 구현 가능성을 시사함. 전시 내러티브 영상, VR/AR 콘텐츠 내 캐릭터 애니메이션 제작 시 Kling AI를 활용한 파이프라인을 고려하여 제작 시간 단축 및 품질 향상을 기대할 수 있음. 특히 Unreal Engine 기반의 인터랙티브 캐릭터 구현 시 립싱크 및 애니메이션 후처리 부담을 줄일 수 있을 것.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDTlBuTUFBaUVDa3g2RE1fWS14WjNmZ0RQY05zU3E0T3ZoSDRQbW1FZlNweklQVkhSYTktaFVta0pFRDN5ZzhudUJ4VVFhT1cxNjk0YzgxSUdyVUFjUmVfYmxUOHY?oc=5",
+    "date": "2026-05-24",
+    "original_title": "Kling AI Partners With Evolutionary Films on Animated Feature ‘Minibots,’ Unveils Filmmaker Initiative at Cannes Market - IMDb"
+  }
+]
