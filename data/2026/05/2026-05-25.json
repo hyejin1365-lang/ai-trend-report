@@ -1,0 +1,337 @@
+[
+  {
+    "model_name": "AI 보안",
+    "core_insight": "AI 보안, 모든 기업이 실시간으로 대응하는 전환기",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "AI 보안 동향은 직접적인 제작 도구 활용보다는 장기적인 프로젝트 기획 및 데이터 관리 측면에서 고려할 사항. AI 활용 시 발생할 수 있는 보안 취약점 및 데이터 유출 위험을 인지하고, 콘텐츠 제작 과정에서 사용되는 AI 도구 및 데이터 관리 방안을 수립하는 데 참고.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "date": "2026-05-25",
+    "original_title": "Everyone is navigating AI security in real time — even Google"
+  },
+  {
+    "model_name": "Amazon Bee",
+    "core_insight": "AI 웨어러블 'Bee' 출시, 편리함과 개인 정보 보호 우려 공존",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 제작 맥락에서는 직접적인 콘텐츠 생성 도구로서의 영향은 낮음. 다만, 미래에 관람객의 실시간 반응이나 행동 데이터를 수집하여 인터랙티브 콘텐츠의 개인화된 경험을 제공하는 데 활용될 가능성을 탐색해볼 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "date": "2026-05-25",
+    "original_title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out"
+  },
+  {
+    "model_name": "ComfyUI_SamplingUtils + Klein_9B",
+    "core_insight": "ComfyUI 노드와 Klein_9B 모델로 이미지 스타일을 빠르고 효율적으로 변경",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시 컨셉 아트 제작 시 다양한 시각적 스타일을 빠르게 탐색하고 적용하여 기획 단계를 단축할 수 있음. Unreal Engine에서 3D 모델의 텍스처나 배경 요소 생성 시 특정 스타일을 효율적으로 적용하여 작업 시간을 절감.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tm6wbt/comfyui_samplingutils_plus_klein_9b_for_quick/",
+    "date": "2026-05-25",
+    "original_title": "ComfyUI_SamplingUtils plus Klein_9B for quick style change"
+  },
+  {
+    "model_name": "AI Acting Performance (LTX 기반)",
+    "core_insight": "AI 연기 성능 개선, 자연스러운 음성 및 영상 생성 실험 공개",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V",
+      "립싱크/캐릭터",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시 공간 내 가상 도슨트나 인터랙티브 캐릭터 제작 시, 대본 입력만으로 자연스러운 연기와 음성을 갖춘 캐릭터 영상을 생성하여 제작 시간을 단축할 수 있음. Unreal Engine 기반의 VR/AR 콘텐츠에서 캐릭터 애니메이션 및 립싱크 작업 부담을 줄여 몰입감 있는 서사 전달에 활용 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tmqjej/brad_pitt_casts_elliot_for_achilles_an_ai_acting/",
+    "date": "2026-05-25",
+    "original_title": "Brad Pitt casts Elliot for Achilles - an Ai acting performance experiment"
+  },
+  {
+    "model_name": "ComfyUI-Flux2Klein-Enhancer Final",
+    "core_insight": "다중 참조 이미지 처리 워크플로우 간소화, Identity Feature Transfer 노드 개선",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I"
+    ],
+    "application_idea": "VR/AR 콘텐츠 내 캐릭터나 오브젝트의 일관된 비주얼 아이덴티티를 유지하며 다양한 포즈/표정/변형 이미지를 생성하는 데 활용. 여러 레퍼런스 이미지를 활용한 컨셉 아트 제작 시 Photoshop 작업 시간을 단축하고, Unreal Engine용 텍스처 또는 캐릭터 스킨 베리에이션 생성에 유용.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tmmvyh/comfyuiflux2kleinenhancer_final_i_promise/",
+    "date": "2026-05-25",
+    "original_title": "ComfyUI-Flux2Klein-Enhancer Final (I promise)"
+  },
+  {
+    "model_name": "LongCat-Video-Avatar 1.5",
+    "core_insight": "Whisper-Large 기반 립싱크 자연도 향상, 전신 안정성 및 다양한 스타일 지원",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "V2V",
+      "립싱크/캐릭터",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시 안내 캐릭터 영상 제작 시, Whisper-Large 기반의 자연스러운 립싱크와 전신 안정성으로 고품질의 아바타 영상을 효율적으로 생성 가능. 애니메이션 또는 동물 캐릭터를 활용한 미디어아트 콘텐츠 제작 시, 다양한 스타일과 장면에 일관된 캐릭터 애니메이션을 적용하여 제작 시간을 단축하고 퀄리티를 높일 수 있음. 오픈소스 기반이므로 Unreal Engine 등과 연동하여 실시간 인터랙티브 콘텐츠의 캐릭터 애니메이션 파이프라인에 통합 가능성을 탐색할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tm5oxh/longcatvideoavatar_15_release/",
+    "date": "2026-05-25",
+    "original_title": "LongCat-Video-Avatar 1.5 Release"
+  },
+  {
+    "model_name": "ComfyUI",
+    "core_insight": "ComfyUI용 프론트엔드 48개로 확장, 사용자 접근성 및 활용성 증대",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "T2V",
+      "I2V",
+      "V2V"
+    ],
+    "application_idea": "다양한 ComfyUI 프론트엔드 덕분에 팀원들이 각자의 숙련도와 작업 스타일에 맞는 인터페이스를 선택하여 이미지/영상 생성 효율을 높일 수 있다. 특히 모바일 프론트엔드는 현장 답사 중 컨셉 이미지 생성이나 아이디어 스케치에 활용하여 기획 단계의 속도를 높일 수 있다. Unreal Engine이나 TouchDesigner에서 활용할 텍스처, 배경 이미지, 미디어아트 소스 등을 ComfyUI의 강력한 기능을 유지하면서도 더 직관적으로 생성하고 관리하는 데 기여할 것이다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tm25k8/48_frontends_for_comfy/",
+    "date": "2026-05-25",
+    "original_title": "48 frontends for Comfy!"
+  },
+  {
+    "model_name": "MooshieUI (ComfyUI Front-end)",
+    "core_insight": "ComfyUI의 복잡한 노드 편집을 간소화, 초보자 친화적 UI 제공",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "복잡한 ComfyUI 노드 그래프 없이도 고품질의 애니메이션 스타일 캐릭터 및 배경 이미지를 빠르게 생성하여 전시 컨셉 아트나 VR/AR 콘텐츠의 3D 자산 텍스처로 활용 가능. 특히 캐릭터 브라우저를 통해 일관된 스타일의 캐릭터를 손쉽게 제작, Unreal Engine 기반의 인터랙티브 캐릭터 애니메이션 제작 파이프라인을 단축.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tmchg1/mooshieui_a_beginnerfriendly_comfyui_frontend/",
+    "date": "2026-05-25",
+    "original_title": "MooshieUI: a beginner-friendly ComfyUI front-end with strong Anima support"
+  },
+  {
+    "model_name": "Microsoft Lens-Base",
+    "core_insight": "Lens-Base, 생성 이미지에 학습 데이터 워터마크 포함 문제 발견",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Lens-Base 모델 사용 시 생성 이미지에 워터마크가 포함될 수 있어, 전시/미디어아트 콘텐츠의 배경 이미지, 텍스처, 컨셉 아트 등으로 직접 활용하기 어려움. 추가적인 워터마크 제거 작업이 필요하거나, 워터마크 문제가 없는 다른 T2I 모델을 고려해야 함. 이는 Photoshop을 이용한 후처리 작업 증가로 이어질 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tmspf4/microsoft_lens_why_train_models_on_images_with/",
+    "date": "2026-05-25",
+    "original_title": "Microsoft Lens - Why train models on images with intrusive watermarks?"
+  },
+  {
+    "model_name": "Anima-Base v1.0",
+    "core_insight": "미쿠/테토 등 특정 애니메이션 캐릭터 이미지 생성에 특화된 신규 모델 출시",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "VR/AR 콘텐츠 내 애니메이션 캐릭터 자산 제작 시 활용 가능. 특정 캐릭터의 다양한 포즈나 표정의 컨셉 이미지를 빠르게 생성하여 디자인 초기 단계 효율을 높일 수 있음. 미디어아트 전시에서 특정 캐릭터를 활용한 비주얼 요소 제작에 용이.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tm78q9/beautiful_miku_teto_images_generated_with/",
+    "date": "2026-05-25",
+    "original_title": "Beautiful Miku & Teto Images Generated with Anima-Base v1.0"
+  },
+  {
+    "model_name": "Z-Image 6B",
+    "core_insight": "텐센트 Z-Image 6B, VAE 없이 픽셀 공간 기반 1K 해상도 이미지 생성",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Z-Image 6B의 VAE 없는 픽셀 공간 생성 방식은 기존 T2I 모델과 차별화된 독특한 이미지 스타일을 제공할 수 있음. 이를 활용하여 미디어아트 작품의 추상적 배경이나 프로젝션 매핑용 비정형 패턴을 생성, 새로운 미학적 가능성을 탐색할 수 있음. 1K 해상도는 초기 컨셉 아트나 저해상도 미디어월 배경 요소 제작에 적합하여 Photoshop 작업 전 아이데이션 단계에 활용 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tmfc4a/sdwebuicodex_zimage_6b_with_pixel_space_gen_no/",
+    "date": "2026-05-25",
+    "original_title": "SD-WebUI-Codex + \"Z-Image 6B with pixel space gen. No VAE..\" thread"
+  },
+  {
+    "model_name": "Anima",
+    "core_insight": "Anima 모델, 애니메이션 외 다양한 스타일 이미지 생성 가능성 시사",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시 컨셉 아트 제작 시 특정 스타일에 갇히지 않고 다양한 시각적 테마를 빠르게 탐색 가능. 프로젝션 매핑이나 미디어월 배경 이미지 생성 시, 짧은 프롬프트로도 독특하고 비정형적인 결과물을 얻어 AfterEffects/Photoshop에서 후처리할 기반을 마련. Lora 활용 가능성이 언급되어 맞춤형 2D 아트워크 제작에 잠재력.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tmrh0l/the_not_so_anime_anima/",
+    "date": "2026-05-25",
+    "original_title": "The not so anime Anima"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "새로운 'Comfort for the dead' 테마/스타일 이미지 생성 기능 확인",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 제작 시 특정 분위기의 이미지 레퍼런스 생성에 활용. 기존 Photoshop 작업의 컨셉 스케치 단계를 대체하여 초기 아이디어 구체화 시간을 단축할 수 있음.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tmdlwf/comfort_for_the_dead/",
+    "date": "2026-05-25",
+    "original_title": "Comfort for the dead"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "Midjourney의 인물 이미지 생성 품질이 사용자 커뮤니티에서 높은 평가를 받음",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 제작 시 다양한 인물 캐릭터의 시안을 빠르게 생성하여 기획 단계 단축. 미디어아트 프로젝트에서 특정 인물의 표정이나 자세를 가진 이미지를 생성하여 배경 요소로 활용 가능. VR/AR 콘텐츠 내 가상 인물 모델의 초기 디자인 스케치에 활용하여 반복 작업 효율 증대.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tmo5vd/portraits_i/",
+    "date": "2026-05-25",
+    "original_title": "Portraits I"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "Midjourney 사용자가 세인트 어거스틴 명소 테마 이미지 생성 결과 공유",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "프로젝션 매핑 또는 미디어월 배경 영상 제작 시 특정 도시 또는 장소 테마의 컨셉 이미지 시안을 빠르게 생성하여 디자인 방향 설정에 활용. VR/AR 콘텐츠 내 가상 환경 구축을 위한 초기 아이디어 스케치 및 레퍼런스 이미지로 활용하여 제작 시간 단축. Photoshop에서 컨셉 아트를 그리는 시간을 절약하고, 다양한 구도와 스타일의 이미지를 신속하게 탐색 가능.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tmdbh1/st_augustin_foggy_sunrise/",
+    "date": "2026-05-25",
+    "original_title": "St. Augustin Foggy Sunrise"
+  },
+  {
+    "model_name": "오픈소스 AI 연기 기술",
+    "core_insight": "오픈소스 AI로 특정 배우의 연기 스타일 구현 및 가상 캐스팅 가능성 시연",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "립싱크/캐릭터",
+      "V2V"
+    ],
+    "application_idea": "Unreal Engine 기반의 가상 캐릭터에 실제 배우의 연기 스타일을 학습시켜 인터랙티브 전시 콘텐츠의 몰입도를 높일 수 있음. 미디어아트 작품에서 특정 배우의 연기를 재해석하거나, 다중 인물 캐스팅 시 AI를 활용해 배우의 연기 톤을 일관되게 유지하는 데 기여.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tmpo9w/bradd_pitt_casts_elliot_page_for_achilles_ai/",
+    "date": "2026-05-25",
+    "original_title": "Bradd Pitt casts Elliot Page for Achilles - Ai acting performance (open source)"
+  },
+  {
+    "model_name": "정보 없음",
+    "core_insight": "제공된 기사에서 AI 플랫폼 업데이트 관련 정보 발견 불가",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사 내용이 AI 플랫폼 업데이트와 무관하여 공간 콘텐츠 제작 실무 적용 아이디어 도출 불가. 따라서 현재로서는 팀의 작업 흐름에 직접적인 영향을 미치지 않는다. 향후 관련 정보가 있을 경우 다시 분석이 필요하다.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tm8duw/i_downloaded_the_wrong_mortal_kombat_again/",
+    "date": "2026-05-25",
+    "original_title": "I downloaded the wrong Mortal Kombat, again!"
+  },
+  {
+    "model_name": "AI 영상 생성 기술",
+    "core_insight": "AI로 15분 시네마틱 영화 제작 공개, 장편 영상 제작 가능성 입증",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "V2V",
+      "립싱크/캐릭터",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시 공간 내 역사적 사건 재현 영상 제작 시, 복잡한 스토리라인과 다수의 캐릭터가 등장하는 15분 내외의 시네마틱 영상을 단기간에 제작 가능. 프로젝션 매핑이나 미디어월 콘텐츠 제작 시, 기존 수작업 애니메이션 대비 제작 시간과 비용을 획기적으로 절감할 수 있음. Unreal Engine 기반의 VR/AR 콘텐츠에서 스토리텔링 요소를 강화하는 데 활용 가능.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tm53zw/fall_of_constantinople_1453_15min_ai_cinematic/",
+    "date": "2026-05-25",
+    "original_title": "Fall of Constantinople 1453 - 15min AI Cinematic Movie About the Last Day of Rome"
+  },
+  {
+    "model_name": "AI 영상 생성 기술 (일반)",
+    "core_insight": "AI로 제작된 단편 영화 트레일러 공개, 영상 생성 기술의 발전 시사",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2V"
+    ],
+    "application_idea": "전시 도입부 영상이나 미디어아트 작품의 스토리텔링 요소로 AI 생성 영상을 활용하여 제작 시간 단축 및 비용 절감 가능. Unreal Engine 기반의 인터랙티브 콘텐츠에서 실시간 배경 영상이나 캐릭터 애니메이션 소스로 활용하여 다채로운 시각적 경험 제공.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tm9wxc/mothers_bell_a_short_film_trailer/",
+    "date": "2026-05-25",
+    "original_title": "Mother's Bell - A short film trailer"
+  },
+  {
+    "model_name": "Qwen3.6-35B-A3B / Gemma4-26B-A4B",
+    "core_insight": "Qwen은 좋은 결과, Gemma4는 빠른 추론 속도 제공 (사용자 경험)",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 콘텐츠 기획 단계에서 아이디어 발상 및 자료 조사 보조에 활용 가능. 특히 Gemma4의 빠른 추론 속도는 TouchDesigner/Unreal Engine 스크립트 작성 및 디버깅 시 즉각적인 피드백을 제공하여 작업 효율을 높일 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tmbola/qwen3635ba3b_vs_gemma426ba4b/",
+    "date": "2026-05-25",
+    "original_title": "Qwen3.6-35B-A3B vs Gemma4-26B-A4B"
+  },
+  {
+    "model_name": "BitCPM-CANN",
+    "core_insight": "화웨이 NPU에서 1.58비트 LLM 학습 시스템 개발, 메모리 8배 절감",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서 직접 영향은 낮음. 온디바이스 AI 기반 인터랙티브 체험존에서 경량화된 LLM을 활용한 대화형 AI 구현 시, 시스템 구축 비용 절감 및 반응 속도 향상에 기여할 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tmf63y/bitcpmcann_native_158bit_large_language_model/",
+    "date": "2026-05-25",
+    "original_title": "BitCPM-CANN: Native 1.58-Bit Large Language Model Training on Ascend NPU"
+  }
+]
