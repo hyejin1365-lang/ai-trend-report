@@ -1,0 +1,361 @@
+[
+  {
+    "model_name": "ChatGPT",
+    "core_insight": "ChatGPT에 브라질 언론사 콘텐츠 통합, 출처 명시 및 투명성 강화",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, 특정 지역(브라질)의 시사/문화 관련 전시 콘텐츠 기획 시, ChatGPT를 통해 신뢰성 있는 현지 뉴스 데이터를 참고하여 스크립트 작성이나 배경 정보 조사에 활용 가능.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "date": "2026-05-26",
+    "original_title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership"
+  },
+  {
+    "model_name": "AI Agent 개념",
+    "core_insight": "AI 에이전트 핵심 용어(Harness, Scaffold) 개념 정리",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. AI 에이전트 기술 동향 이해 및 향후 프로젝트 기획 시 개념 정립에 참고.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/agent-glossary",
+    "date": "2026-05-26",
+    "original_title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right"
+  },
+  {
+    "model_name": "ClickUp AI Agents",
+    "core_insight": "수백 명의 직원을 수천 개의 AI 에이전트로 대체하여 운영 효율화",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "우리 팀의 프로젝트 관리, 문서화, 자산 분류 등 반복적인 업무에 AI 에이전트를 도입하여 인력 효율성을 높일 수 있음. 특히 Unreal Engine 프로젝트의 복잡한 파일 구조 관리나 TouchDesigner 모듈 간 연결 문서화에 활용하여 작업 시간을 단축하고 휴먼 에러를 줄일 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "date": "2026-05-26",
+    "original_title": "What ClickUp’s mass layoff tells us about the future of work"
+  },
+  {
+    "model_name": "AI 윤리 및 사회적 영향 논의",
+    "core_insight": "교황청, AI로 인한 권력 집중 및 민주주의 침해 문제 제기",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 실무에 직접적인 기술 적용 영향은 낮음. 다만, AI 활용 콘텐츠 제작 시 윤리적 고려사항 및 사회적 책임에 대한 인식을 높이는 계기가 될 수 있음. AI 생성 콘텐츠의 저작권, 데이터 편향성 등 잠재적 문제에 대한 논의의 필요성을 상기시킴.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "date": "2026-05-26",
+    "original_title": "The pope’s AI encyclical isn’t really about AI"
+  },
+  {
+    "model_name": "Nvidia Pixel Diffusion (PiD)",
+    "core_insight": "Nvidia, VAE 개선으로 고해상도 이미지 생성 속도 및 품질 향상",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시/미디어아트 컨셉 이미지 제작 시 고해상도 결과물을 더 빠르게 얻을 수 있어 기획 단계 효율성 증대. Unreal Engine에서 사용할 3D 오브젝트의 PBR 텍스처 생성 시간을 단축하고 품질을 향상시켜 제작 파이프라인 가속화.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tn3m6n/nvidia_solved_vae_fast_and_highresolution_latent/",
+    "date": "2026-05-26",
+    "original_title": "Nvidia solved VAE? Fast and High-Resolution Latent Decoding with Pixel Diffusion"
+  },
+  {
+    "model_name": "Z-Image Turbo/Base",
+    "core_insight": "Z-Image Turbo/Base에서 사실적인 거울 셀카 생성 프롬프트 공개",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "VR/AR 콘텐츠 내 현실적인 인물 캐릭터나 아바타의 컨셉 이미지 제작에 활용. 특정 표정이나 포즈의 인물 이미지를 빠르게 생성하여 Unreal Engine의 디지털 휴먼 에셋 제작 시 레퍼런스로 사용하거나, Photoshop에서 전시 컨셉 아트의 인물 요소를 구성하는 데 도움을 줄 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tmz5bf/realistic_selfie_prompts_for_zimage_turbobase/",
+    "date": "2026-05-26",
+    "original_title": "Realistic selfie prompts for Z-Image Turbo/Base"
+  },
+  {
+    "model_name": "LTX 2.3 Director Node (ComfyUI)",
+    "core_insight": "ComfyUI용 타임라인 편집 노드, 다양한 영상 생성 워크플로우 통합 및 제어 강화",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "멀티모달"
+    ],
+    "application_idea": "미디어아트의 동적 배경이나 프로젝션 매핑용 애니메이션 텍스처 생성 시, 타임라인 기반 정밀 제어로 원하는 시퀀스를 손쉽게 구현 가능. ComfyUI 파이프라인 내에서 T2V, I2V 등 여러 영상 생성 워크플로우를 통합하여 작업 효율성을 크게 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tncun2/ltx_23_12gb_gguf_director_workflows_what_a_great/",
+    "date": "2026-05-26",
+    "original_title": "LTX 2.3 12GB GGUF Director Workflows! What a great node this one is!"
+  },
+  {
+    "model_name": "NVIDIA PiD",
+    "core_insight": "NVIDIA PiD 디코더, 이미지 생성 모델 결과물 품질 향상 가능성 확인",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Unreal Engine에서 사용될 고해상도 3D 환경 텍스처나 배경 이미지 생성 시, PiD 디코더를 활용하여 AI 생성물의 디테일과 선명도를 향상시킬 수 있음. 이를 통해 Photoshop에서의 후처리 작업 부담을 줄이고, 미디어월이나 프로젝션 매핑용 대형 이미지 콘텐츠 제작 시 품질 저하 없이 확대 적용 가능성을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tnk3hg/testing_zit_and_flux1_with_nvidia_pid_pixel/",
+    "date": "2026-05-26",
+    "original_title": "Testing ZIT and Flux-1 with \"NVIDIA PiD — Pixel Diffusion Decoder\""
+  },
+  {
+    "model_name": "NVIDIA PiD (ComfyUI Node)",
+    "core_insight": "ComfyUI에 NVIDIA PiD 노드 추가, 잠재 공간 디코딩과 업스케일링 동시 처리로 4K 이미지 생성",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "프로젝션 매핑이나 미디어월 등 대형 디스플레이용 고해상도 배경 이미지 또는 컨셉 아트 제작 시 유용. 기존 ComfyUI 워크플로우에서 VAE 디코딩 후 별도 업스케일링 단계를 거치지 않고 4K 결과물을 바로 얻을 수 있어 Photoshop 후처리 작업 시간 단축 기대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tneayo/comfyui_node_for_nvidia_pid_pixel_diffusion/",
+    "date": "2026-05-26",
+    "original_title": "ComfyUI node for NVIDIA PiD pixel diffusion decoding"
+  },
+  {
+    "model_name": "Stable Diffusion Pixel Diffusion Decoder",
+    "core_insight": "기존 VAE/RAE 디코더를 대체하는 새 픽셀 디퓨전 디코더 공개",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "고품질 컨셉 이미지 및 텍스처 생성 시 기존 디코더 대비 향상된 디테일과 사실감을 제공. Unreal Engine이나 TouchDesigner에서 사용할 3D 자산의 텍스처 작업 효율성을 증대시키고, 미디어아트 전시의 배경 이미지나 프로젝션 매핑 소스 제작 시 이미지 품질을 향상시킬 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tmwvlb/a_plugandplay_pixel_diffusion_decoder_that/",
+    "date": "2026-05-26",
+    "original_title": "A plug-and-play pixel diffusion decoder that replaces VAE/RAE decoders"
+  },
+  {
+    "model_name": "Wan 2.2",
+    "core_insight": "Wan 2.2 I2V 모델로 캐릭터 일관성 유지하며 이미지 포즈 제어 가능",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I",
+      "I2V",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "VR/AR 콘텐츠 내 캐릭터의 다양한 포즈를 일관된 스타일로 빠르게 생성하여 개발 시간 단축. 전시 안내 캐릭터의 특정 동작 시퀀스를 제작할 때, 매번 새로운 캐릭터를 만들 필요 없이 기존 캐릭터의 포즈만 변경하여 효율적인 작업 가능. AfterEffects에서 캐릭터 애니메이션 작업 시 레퍼런스 이미지 기반으로 포즈를 생성하여 수작업 부담을 줄일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tnbikd/want_to_pose_your_characters_heres_wan_22_pose/",
+    "date": "2026-05-26",
+    "original_title": "Want to pose your characters? Here's Wan 2.2 Pose Control workflow"
+  },
+  {
+    "model_name": "Anima Style/LoRA Explorer (ComfyUI)",
+    "core_insight": "ComfyUI용 Anima 스타일/LoRA 탐색 노드 출시, Civitai 연동 다운로드 및 실시간 프롬프트 제어 지원",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 공간의 컨셉 아트나 미디어월 배경 이미지 제작 시, ComfyUI 내에서 Anima 스타일과 캐릭터 LoRA를 탐색하고 즉시 적용하여 일관된 비주얼 톤을 유지할 수 있음. Civitai 연동으로 필요한 LoRA를 빠르게 다운로드하고 실시간 프롬프트 제어로 디테일한 시안 작업을 효율적으로 진행하여 Adobe Photoshop에서의 컨셉 이미지 제작 시간을 단축.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tnlz59/anima_style_explorer_anima_lora_explorer/",
+    "date": "2026-05-26",
+    "original_title": "Anima style explorer + Anima lora explorer"
+  },
+  {
+    "model_name": "Anima base model",
+    "core_insight": "애니마 베이스 모델, LoRA 학습 및 상세 프롬프트로 비(非)애니 스타일 생성 가능",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "애니마 베이스 모델의 광범위한 스타일 생성 능력은 전시 컨셉 기획 단계에서 다양한 시안 이미지를 빠르게 제작하는 데 유용하다. 특정 시대나 예술 사조를 반영한 미디어아트 배경 이미지, 프로젝션 매핑용 텍스처 등 기존 애니메이션 편향을 넘어선 독창적인 시각 자료를 Photoshop 작업 전 단계에서 효율적으로 확보할 수 있다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tn39e4/my_experience_with_generating_non_anime_art_with/",
+    "date": "2026-05-26",
+    "original_title": "my experience with generating non anime art with the anima base model so far"
+  },
+  {
+    "model_name": "ScreenDiffusion V0.2",
+    "core_insight": "데스크톱 화면을 실시간 AI 이미지 생성에 활용, 오픈소스 및 쉬운 설치 지원",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "데스크톱 화면을 실시간으로 AI 이미지 생성에 활용하여, 프로젝션 매핑이나 미디어월의 동적인 배경 콘텐츠를 즉석에서 생성하고 테스트할 수 있음. Unreal Engine이나 TouchDesigner에서 실시간으로 생성된 이미지를 텍스처나 비주얼 이펙트 소스로 활용하여 인터랙티브 콘텐츠의 즉흥성을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tnkab6/screendiffusion_v02_released_major_refactoring_of/",
+    "date": "2026-05-26",
+    "original_title": "ScreenDiffusion V0.2 Released - Major Refactoring of V0.1 - Easy Install - Open Source."
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "Midjourney, 'Another Asia' 테마의 정교한 이미지 생성 능력 시연",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "아시아 테마 전시나 미디어아트 프로젝트의 초기 컨셉 이미지 및 레퍼런스 생성에 활용 가능. Unreal Engine 기반의 가상 공간 디자인 시 배경 텍스처나 오브젝트 스타일을 빠르게 탐색하고 시각화하는 데 도움을 줄 수 있음.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tn9rhn/another_asia/",
+    "date": "2026-05-26",
+    "original_title": "Another Asia"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "Midjourney의 인물 이미지 생성 기능이 높은 수준으로 운영되고 있음을 시사",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "VR/AR 콘텐츠 내 가상 인물 캐릭터의 컨셉 아트 및 레퍼런스 이미지 생성에 활용. 미디어월이나 인터랙티브 전시에서 다양한 인물 군상의 배경 이미지 또는 디지털 아바타의 초기 디자인 자료로 활용 가능. Photoshop을 이용한 컨셉 아트 작업 시간을 단축.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tn56o2/protraits_ii_beautiful_people_for_a_beautiful/",
+    "date": "2026-05-26",
+    "original_title": "Protraits II: Beautiful People for a Beautiful World"
+  },
+  {
+    "model_name": "AI Video Model (미상)",
+    "core_insight": "AI 생성 영상에서 예측 불가능한 상호작용 및 유머러스한 연출 가능성 확인",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V"
+    ],
+    "application_idea": "인터랙티브 미디어아트에서 관객의 반응에 따라 변형되는 유머러스한 캐릭터 애니메이션 요소로 활용 가능. 예측 불가능한 AI 영상 특성을 활용하여 전시 공간에 재미와 놀라움을 더하는 콘텐츠 제작에 기여.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tn4pxl/ai_cat_vs_husky_the_sausage_throw_goes_off_the/",
+    "date": "2026-05-26",
+    "original_title": "AI cat vs husky: the sausage throw goes off the rails"
+  },
+  {
+    "model_name": "Grok Imagine",
+    "core_insight": "Grok Imagine으로 1분 길이의 공포 장르 영상 초안 생성 가능",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V"
+    ],
+    "application_idea": "공포 테마의 인터랙티브 체험존이나 미디어아트 전시에서 1분 길이의 분위기 조성용 배경 영상 및 짧은 스토리 시퀀스를 빠르게 제작 가능. Unreal Engine이나 AfterEffects에서 후처리할 초안 영상 제작 시간을 단축하여 컨셉 검증에 유리.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tn30es/the_forest_1_min_draft_horror_scene_grok_imagine/",
+    "date": "2026-05-26",
+    "original_title": "The Forest - 1 min draft horror scene (Grok Imagine)"
+  },
+  {
+    "model_name": "Heretic",
+    "core_insight": "Meta Llama 3.3 모델의 가드레일을 10분 이내 제거 가능한 도구 확산",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 내러티브 또는 인터랙티브 캐릭터 대사 생성 시, 기존 LLM의 제약 없이 자유로운 표현과 비판적 관점의 콘텐츠를 구현할 수 있음. 미디어아트 작업에서 사회적 금기나 논쟁적 주제를 다루는 스크립트 초안 작성에 활용하여 창작의 폭을 넓힐 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tna22m/the_financial_times_has_published_an_article/",
+    "date": "2026-05-26",
+    "original_title": "The Financial Times has published an article about Heretic"
+  },
+  {
+    "model_name": "Grok-3 / 0.5T 모델",
+    "core_insight": "Grok-3 오픈소스 공개 및 차기 0.5T 규모 모델 출시 예고",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 내러티브 및 인터랙티브 콘텐츠의 대화 스크립트 생성에 활용하여 기획 시간을 단축. Unreal Engine이나 TouchDesigner 기반의 인터랙티브 미디어아트에서 사용자 입력에 대한 동적 응답 생성 로직을 구현하는 데 핵심적인 역할을 할 수 있음. 오픈소스화로 커스터마이징 및 자체 서버 구축을 통한 보안 강화도 가능.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tn31d8/next_year_were_getting_05t_model_from_grok/",
+    "date": "2026-05-26",
+    "original_title": "Next year we're getting 0.5T model from Grok"
+  },
+  {
+    "model_name": "Qwen3.6 35B A3B",
+    "core_insight": "Qwen3.6 35B A3B 모델이 로컬 에이전트 활용에 있어 경쟁 모델 대비 뛰어난 성능을 보임",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "로컬 환경에서 Qwen3.6 에이전트를 활용하여 Unreal Engine 또는 TouchDesigner의 복잡한 스크립트 자동 생성 및 디버깅에 활용 가능. 미디어아트 작품의 인터랙티브 로직 설계 시 아이디어 구체화 및 코드 초안 작성 보조 역할 수행으로 제작 효율을 높일 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tnbz23/is_qwen36_current_king_for_local_agentic_use/",
+    "date": "2026-05-26",
+    "original_title": "Is Qwen3.6 current king for local agentic use?"
+  },
+  {
+    "model_name": "LLaMA.cpp (Vulkan)",
+    "core_insight": "오래된 Mac Pro D700 GPU, Vulkan 드라이버로 LLM 구동 가능, Claude Sonnet 4.6 능가.",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "오래된 장비를 활용하여 저비용으로 LLM 기반의 인터랙티브 전시 콘텐츠 기획 및 스크립트 초안 생성에 활용 가능. TouchDesigner나 Unreal Engine 프로젝트 내에서 필요한 스크립트나 로직 아이디어 생성 시 개발 보조 도구로 활용하여 비용 효율적인 개발 환경 구축.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tn7csy/old_mac_pro_still_proving_its_worth/",
+    "date": "2026-05-26",
+    "original_title": "Old Mac Pro still proving its worth"
+  },
+  {
+    "model_name": "정보 없음",
+    "core_insight": "항공기 VVIP 인테리어 계약 소식, AI 트렌드와 무관",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사는 AI 트렌드와 무관하여 공간 콘텐츠 제작에 적용할 아이디어를 도출할 수 없음.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVnYxYnFERjJqN2dzSHJVUzdEWjhROGNRdm5oN2wxSE8zRjc5QmRSdlY4dlZWMlBGd1kzLXUxdTZUbGRpV2VPR19YRDdpZ19kR09KclRoOHJIWGNFemJRS0xwdXBaX2RFTUlCUFFQR1ZZNC1qQlZNSFlCakhuSzNtU0hQSkplVko0cE1OVEowbw?oc=5",
+    "date": "2026-05-26",
+    "original_title": "Press Release: Greenpoint awarded BBJ 787-9 VVIP interior completion - Runway Girl"
+  },
+  {
+    "model_name": "Gemini 3.5",
+    "core_insight": "AI 기반 검색 도입, 상시 작동하는 정보 에이전트 추가",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "프로젝트 기획 단계에서 특정 주제에 대한 심층 정보나 레퍼런스를 상시 탐색하고 요약하는 데 활용. 미디어아트 컨셉 개발 시 복잡한 주제에 대한 다양한 관점과 데이터를 빠르게 수집하여 아이디어를 구체화. Unreal Engine/TouchDesigner 작업 중 기술 문제 해결을 위한 실시간 정보 검색 및 코드 스니펫 제안에 유용.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU0Y2SzZHeXFESnpRQjFYMk0xaGpQaXg3Um10LU91VTdMRE1JSjlpQ0lqbGdlTjFZTWNrSC1zS25UdFpsRG9BSHQwdnducUJva2lRUS1kUElSZkhpOEE3dUJHRV8tSjlKbGxmTW1ZRERmTXlKU2Fkd2RtaDRjZUFFbDlWZHM5MFoydjZqZko1TFlVZWR5UU9kRjB5RGI?oc=5",
+    "date": "2026-05-26",
+    "original_title": "Google debuts AI‑first Search with Gemini 3.5 and always‑on ‘information agents’ - MLQ.ai"
+  }
+]
