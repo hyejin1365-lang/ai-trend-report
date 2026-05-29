@@ -1,0 +1,334 @@
+[
+  {
+    "model_name": "OpenAI Frontier Governance Framework",
+    "core_insight": "AI 안전·보안·리스크 관리 프레임워크 공개, 규제 준수 강화",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 제작 영향은 낮음. 다만, AI 활용 콘텐츠 제작 시 발생할 수 있는 윤리적, 법적 문제에 대한 이해를 높여 프로젝트 기획 단계에서 잠재적 리스크를 관리하는 데 참고할 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/openai-frontier-governance-framework",
+    "date": "2026-05-29",
+    "original_title": "OpenAI’s Frontier Governance Framework"
+  },
+  {
+    "model_name": "Glean",
+    "core_insight": "기업용 AI 검색 Glean, 연 매출 3억 달러 돌파, AI 비용 절감 강점",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 실무에 직접적인 영향은 낮음. 다만, 내부 프로젝트 자료, 레퍼런스 이미지/영상, 기술 문서 등 방대한 사내 데이터를 효율적으로 검색하고 관리하는 데 활용하여 기획 및 제작 단계의 리서치 시간을 단축할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "date": "2026-05-29",
+    "original_title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point"
+  },
+  {
+    "model_name": "클라우드 인프라",
+    "core_insight": "클라우드 인프라, AI 에이전트 트래픽 중심으로 재설계",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "AI 기반 인터랙티브 콘텐츠의 실시간 처리 및 확장성 향상에 기여. VR/AR/XR 환경에서 AI 에이전트의 안정적인 운영을 보장하여, 복잡한 AI 모델을 활용한 미디어아트 및 전시 콘텐츠 개발에 유리한 환경을 제공.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "date": "2026-05-29",
+    "original_title": "The internet is being rebuilt for machines"
+  },
+  {
+    "model_name": "StackAI (Asana)",
+    "core_insight": "Asana, 노코드 AI 에이전트 빌더 StackAI 인수, AI 워크플로우 강화",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 프로젝트의 복잡한 워크플로우 관리 및 자동화에 활용 가능. 특정 에셋의 버전 관리나 팀원 간의 작업 진행 상황 알림 에이전트를 노코드 방식으로 구축하여 프로젝트 관리 효율을 높일 수 있음. Unreal Engine 프로젝트의 에셋 업로드/다운로드 자동화나 Adobe Creative Suite 파일 정리 등에 간접적으로 기여할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "date": "2026-05-29",
+    "original_title": "Asana acquires no-code agent-builder StackAI"
+  },
+  {
+    "model_name": "Claude (Anthropic)",
+    "core_insight": "Anthropic, 650억 달러 투자 유치로 IPO 전 1조 달러 기업 가치 근접",
+    "update_type": "가격/플랜",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, Anthropic의 막대한 자금력은 Claude 등 AI 모델의 지속적인 발전과 신기술 도입을 가속화할 것으로 예상됨. 이는 장기적으로 영상 생성, 3D 자산 생성 등 우리 팀의 관심 영역에 활용될 잠재적 도구의 성능 향상으로 이어질 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "date": "2026-05-29",
+    "original_title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO"
+  },
+  {
+    "model_name": "AI 토큰 파생상품 시장",
+    "core_insight": "AI 토큰 선물 거래 상품 출시 예정, AI를 원자재로 인식",
+    "update_type": "가격/플랜",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "AI 토큰 선물 시장의 등장은 장기적으로 AI 서비스 이용 비용의 예측 가능성과 변동성을 높일 수 있음. 대규모 AI 기반 콘텐츠 제작 프로젝트 기획 시, AI 자원 확보 및 비용 산정 전략에 영향을 미칠 수 있으므로, AI 컴퓨팅 자원 확보 계획 수립 시 시장 동향을 면밀히 주시해야 함.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+    "date": "2026-05-29",
+    "original_title": "Just like gold and oil, we’ll soon be able to trade AI token futures"
+  },
+  {
+    "model_name": "Anthropic Opus 4.8",
+    "core_insight": "새로운 '다이내믹 워크플로우' 도구로 서브 에이전트 협업 기능 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "복잡한 미디어아트 프로젝트에서 여러 AI 에이전트가 협력하여 컨셉 이미지 생성, 3D 모델링, 애니메이션 스크립트 작성 등 파이프라인의 여러 단계를 자동화할 수 있음. 특히 Unreal Engine이나 TouchDesigner에서 인터랙티브 콘텐츠 제작 시, 반복적인 자산 생성 및 배치 작업을 효율적으로 처리하여 개발 시간을 단축할 수 있을 것.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+    "date": "2026-05-29",
+    "original_title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool"
+  },
+  {
+    "model_name": "Anthropic 컴퓨팅 자원 계약",
+    "core_insight": "xAI/Anthropic의 스페이스X 컴퓨팅 계약 기간 관련 논란 발생",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 대규모 컴퓨팅 자원 확보의 불확실성은 장기적으로 AI 모델 개발 속도 및 안정성에 영향을 미쳐, 향후 우리 팀이 활용할 수 있는 AI 도구의 발전 로드맵에 간접적인 영향을 줄 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+    "date": "2026-05-29",
+    "original_title": "How long is Anthropic’s lease with SpaceX? Opinions vary"
+  },
+  {
+    "model_name": "Apple Siri (iOS 27)",
+    "core_insight": "Siri 앱 독립 및 AI 기능 대폭 강화로 ChatGPT 경쟁력 확보",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시 공간 내 인터랙티브 체험존에서 관람객의 음성 명령을 더욱 정교하게 인식하고 처리하여 몰입감 높은 상호작용을 구현 가능. VR/AR 콘텐츠에서 자연어 기반의 캐릭터 대화 시스템을 구축하여 사용자 경험을 풍부하게 만들 수 있을 것.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+    "date": "2026-05-29",
+    "original_title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more"
+  },
+  {
+    "model_name": "AI 기술 전반",
+    "core_insight": "졸업생들이 AI에 대한 비판적 시각을 표출, 기술 수용도 변화 주목",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만 AI 기술의 사회적 수용도 변화를 인지하고, 콘텐츠 기획 시 윤리적/사회적 함의를 고려하는 데 참고할 수 있음.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "date": "2026-05-29",
+    "original_title": "The AI Hype Index: AI gets booed in graduation season"
+  },
+  {
+    "model_name": "anima base 1.0 (LoRA)",
+    "core_insight": "anima base 1.0 모델에 커스텀 LoRA 적용 시 이미지 품질 대폭 향상",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시 공간의 특정 컨셉이나 캐릭터에 맞는 고품질 이미지 에셋을 일관된 스타일로 생성 가능. 미디어아트 작품의 시각적 통일성을 확보하고, Unreal Engine 기반 VR/AR 콘텐츠 제작 시 필요한 고유한 텍스처나 오브젝트 이미지를 효율적으로 제작하여 Photoshop 후처리 시간을 단축.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tpx4kg/tried_custom_lora_for_anima_base_10_and_its/",
+    "date": "2026-05-29",
+    "original_title": "Tried custom lora for anima base 1.0 and its absolutely amazing."
+  },
+  {
+    "model_name": "Wan2.2-NVFP4-Sparse",
+    "core_insight": "Wan2.2-NVFP4-Sparse 모델, 비디오 생성 속도 50배 이상 향상",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V"
+    ],
+    "application_idea": "미디어아트 및 프로젝션 매핑 콘텐츠의 초기 컨셉 영상 제작 시 빠른 시안 확인에 유용. 50배 이상 빨라진 속도로 다양한 아이디어를 즉시 시도하고, AfterEffects에서 합성할 배경 요소나 루프 영상의 초안을 빠르게 생성하여 작업 효율을 높일 수 있음. 다만, 언급된 모션 품질 저하 가능성을 고려하여 최종 결과물보다는 중간 단계 검토용으로 활용.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tpyydh/lightx2v_just_released_nvfp4_ckpt_for_wan_22_14b/",
+    "date": "2026-05-29",
+    "original_title": "Lightx2v just released NVFP4 ckpt for WAN 2.2 14b"
+  },
+  {
+    "model_name": "ComfyUI",
+    "core_insight": "ComfyUI 등 AI 모델 실행 시 심각한 보안 위험 존재, 격리 환경 구축 필수",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "ComfyUI를 활용하여 전시 컨셉 이미지나 미디어아트 소스를 제작할 경우, 반드시 Docker/WSL2와 같은 격리된 환경에서 운영하여 잠재적 멀웨어 및 시스템 침해 위험을 차단해야 함. GPU 자원 무단 사용 및 내부 네트워크 보안 유지를 위해 필수적인 실무 지침으로 적용.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tq46q0/guide_how_to_securely_run_comfyui_on_windows/",
+    "date": "2026-05-29",
+    "original_title": "[Guide] How to securely run ComfyUI on Windows (Docker>WSL2) [RTX 3090, logic can be applied to other hardware]"
+  },
+  {
+    "model_name": "InvokeAI 6.13.0",
+    "core_insight": "Qwen, Anima 등 다양한 외부 이미지 모델 지원 및 캔버스/워크플로우 UI 대폭 개선",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어아트 배경 이미지 제작 시 다양한 외부 모델을 활용하여 폭넓은 스타일과 고품질 이미지를 얻을 수 있음. 캔버스 내 라쏘 툴 등 편집 기능 강화로 Photoshop으로의 이동 없이 빠른 이미지 수정 및 합성이 가능해 초기 시안 제작 시간을 단축.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tq6fwy/invokeai_6130_released/",
+    "date": "2026-05-29",
+    "original_title": "InvokeAI 6.13.0 Released"
+  },
+  {
+    "model_name": "Film Auteur (LTXV) 2.0.5 (ComfyUI)",
+    "core_insight": "ComfyUI용 LTXV 노드, T2V/I2V/A2V 통합 및 무한 길이 영상 생성 지원",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "V2V",
+      "립싱크/캐릭터",
+      "사운드/음성"
+    ],
+    "application_idea": "미디어월이나 프로젝션 매핑용 무한 루프 배경 영상 제작 시, 긴 시퀀스를 단일 노드로 처리하여 작업 효율을 극대화할 수 있음. 오디오 레퍼런스를 활용해 사운드스케이프에 맞춰 영상 분위기를 자동 생성하거나, 캐릭터 영상의 립싱크 및 얼굴 디테일을 개선하여 고품질의 안내 콘텐츠를 제작하는 데 유용.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tqgzi7/film_auteur_ltxv_version_205_update/",
+    "date": "2026-05-29",
+    "original_title": "Film Auteur (LTXV) version 2.0.5 update"
+  },
+  {
+    "model_name": "고성능 로컬 이미지/영상 AI 모델",
+    "core_insight": "고성능 GPU로 로컬 환경에서 최고 품질 AI 모델 구동 가능",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "T2V",
+      "I2V"
+    ],
+    "application_idea": "고해상도 프로젝션 매핑을 위한 배경 이미지 및 영상 에셋을 로컬에서 빠르게 생성하고 반복 작업 가능. Unreal Engine이나 TouchDesigner에서 사용할 고품질 텍스처 및 3D 자산 생성 시 복잡한 모델도 지연 없이 활용하여 작업 효율 증대. 클라우드 비용 부담 없이 다양한 AI 모델과 ComfyUI 워크플로우를 실험하며 최적의 결과물을 도출할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tq9ld4/upgraded_from_12gb_vram_to_rtx_5090_64gb_ram_what/",
+    "date": "2026-05-29",
+    "original_title": "Upgraded from 12GB VRAM to RTX 5090 + 64GB RAM — what are the highest quality AI image/video models I can realistically run now?"
+  },
+  {
+    "model_name": "Qwen Edit 2511 (ComfyUI)",
+    "core_insight": "ComfyUI 내 Qwen Edit 2511의 고해상도/고품질 출력 및 프롬프트 준수도 대폭 개선",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "VR/AR 콘텐츠 내 등장하는 캐릭터의 일관된 외형을 유지하며 다양한 장면과 포즈를 생성하는 데 유용. 고해상도 이미지 편집으로 미디어월, 프로젝션 매핑용 배경 및 텍스처 제작 시 디테일과 프롬프트 준수도를 높여 Photoshop 컨셉 아트 작업 시간을 단축할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tqm8ic/cracked_the_case_on_high_res_quality_qwen_edit/",
+    "date": "2026-05-29",
+    "original_title": "Cracked the case on high res + quality Qwen Edit 2511 outputs, here are minimalistic workflows & lots of info on how/why"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "Midjourney로 매크로 꽃 구도와 환각적 색감의 이미지 생성 기법 시연",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "미디어아트 전시에서 몽환적인 분위기의 배경 영상 소스로 활용 가능. 프로젝션 매핑 시 특정 공간에 환상적인 시각 효과를 부여하는 데 적합. Unreal Engine이나 TouchDesigner에서 컨셉 아트 및 초기 비주얼 개발 단계에서 영감을 얻거나 직접적인 이미지 소스로 활용하여 제작 시간을 단축.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tq8dld/psychedelic_botanica/",
+    "date": "2026-05-29",
+    "original_title": "Psychedelic Botanica"
+  },
+  {
+    "model_name": "Midjourney Spot",
+    "core_insight": "Midjourney 커뮤니티 내 'Spot' 관련 미공개 정보 논의 시작",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 'Spot' 기능의 구체적인 내용이 공개되면, 이미지 특정 영역 편집 또는 생성 기능 활용 가능성 재평가 필요.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tq2aj3/spot/",
+    "date": "2026-05-29",
+    "original_title": "Spot"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "Midjourney 영화적 샷/프레이밍 일관성 유지 기법 및 영상화 힌트 공유",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "T2V"
+    ],
+    "application_idea": "전시 영상이나 VR 스토리텔링 콘텐츠 제작 시, 일관된 시네마틱 샷과 프레이밍을 유지하여 영상의 완성도를 높일 수 있음. Midjourney로 생성된 고품질의 움직임 힌트가 있는 스틸 이미지를 활용하여 AfterEffects나 Premiere에서 영상 전환 및 합성을 효율적으로 진행 가능. 특정 렌즈 효과를 프롬프트에 적용해 미디어아트 컨셉 이미지의 시각적 통일성을 확보하는 데 기여.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tpx9yp/cinematic_shot_sizes_and_framing_for_generating/",
+    "date": "2026-05-29",
+    "original_title": "Cinematic shot sizes and framing for generating AI films"
+  },
+  {
+    "model_name": "정보 없음",
+    "core_insight": "AI 플랫폼 업데이트 정보 부족으로 핵심 인사이트 도출 불가",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "V2V"
+    ],
+    "application_idea": "제공된 정보가 특정 AI 모델 업데이트가 아니므로, 공간 콘텐츠 제작에 직접 적용할 구체적인 시나리오 도출 어려움. 일반적인 AI 영상 생성 도구를 활용한 미디어아트 배경 영상 제작 등에는 참고 가능.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tpz1qo/hellraiser_the_seamstress/",
+    "date": "2026-05-29",
+    "original_title": "Hellraiser - The Seamstress"
+  },
+  {
+    "model_name": "StepFun 3.7 Flash",
+    "core_insight": "196B MoE 모델, 128GB RAM 로컬 실행, 비전 및 코딩 성능 강화",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "로컬에서 실행 가능하므로, 보안이 중요한 프로젝트의 컨셉 기획 단계에서 이미지 자료를 분석하고 아이디어를 도출하는 데 활용 가능. TouchDesigner나 Unreal Engine 프로젝트의 복잡한 스크립트 작성 및 디버깅 보조 도구로 활용하여 개발 시간을 단축할 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tqloii/stepfun_37_flash/",
+    "date": "2026-05-29",
+    "original_title": "StepFun 3.7 Flash"
+  }
+]
