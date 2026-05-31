@@ -1,0 +1,358 @@
+[
+  {
+    "model_name": "AI 컴퓨팅 인프라 (SoftBank)",
+    "core_insight": "소프트뱅크, 프랑스에 750억 유로 투자, 5GW 데이터센터 구축 추진",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "AI 모델 학습 및 추론 인프라 확충으로 장기적으로 AI 서비스 비용 하락 및 성능 향상 기대. 대규모 3D 자산 생성이나 고해상도 영상 생성 AI 활용 시 처리 속도 개선 및 비용 효율 증대 가능성.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "date": "2026-05-31",
+    "original_title": "SoftBank says it will invest up to €75 billion to build French data centers"
+  },
+  {
+    "model_name": "Meta AI Pendant",
+    "core_insight": "메타, AI 기반 웨어러블 펜던트 개발 중으로 보도됨",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서 직접적인 콘텐츠 제작 도구로의 활용은 낮음. 하지만 관람객 대상의 개인화된 오디오 가이드나 인터랙티브 체험 시 음성 명령 인터페이스로 활용될 가능성 있음. 향후 공간 인식 기능이 강화되면 AR/XR 콘텐츠와 연동하여 새로운 형태의 몰입형 경험을 제공할 수도 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+    "date": "2026-05-31",
+    "original_title": "Meta is reportedly developing an AI pendant"
+  },
+  {
+    "model_name": "Gemini Spark",
+    "core_insight": "일상 업무 자동화 지원, 이메일 요약 및 일정 관리 기능 제공",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 콘텐츠 제작 자체에는 직접적인 영향이 낮음. 다만, 팀의 일상적인 행정 업무(이메일 요약, 회의록 정리, 일정 관리 등)를 자동화하여 프로젝트 관리 및 운영 효율성을 높이는 데 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+    "date": "2026-05-31",
+    "original_title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful"
+  },
+  {
+    "model_name": "웹 브라우저 시장 동향",
+    "core_insight": "크롬/사파리 대안 브라우저 경쟁 심화 및 주요 제품 개요",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "AI 플랫폼 업데이트와 직접적인 관련성은 낮음. 다만, 웹 기반 인터랙티브 미디어아트나 VR/AR 콘텐츠를 제작할 경우, 다양한 브라우저 환경에서의 호환성 및 성능 테스트 시 참고 자료로 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "date": "2026-05-31",
+    "original_title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026"
+  },
+  {
+    "model_name": "Anima (Stable Diffusion)",
+    "core_insight": "Anima 모델, 몽환적 캐릭터 일러스트 고품질 생성 프롬프트 공개",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "VR/AR 콘텐츠 내 가이드 캐릭터의 컨셉 아트 및 초기 디자인 시안을 빠르게 생성할 수 있음. 미디어월이나 디지털 사이니지에 활용될 몽환적 분위기의 배경 또는 캐릭터 이미지 제작에 활용하여 Photoshop 작업 시간을 단축할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ts0byp/anima_sharing_some_prompts_and_results/",
+    "date": "2026-05-31",
+    "original_title": "Anima – Sharing Some Prompts and Results"
+  },
+  {
+    "model_name": "Runpod 서비스",
+    "core_insight": "Runpod GPU 서비스 가용성 급감, 사용자 접속 및 작업 지연 발생",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "3D"
+    ],
+    "application_idea": "Runpod을 활용한 Stable Diffusion 기반 컨셉 아트, 미디어아트 소스 제작 등 AI 이미지 생성 작업에 차질 발생. GPU 자원 확보에 어려움이 예상되므로, 프로젝트 일정에 맞춰 대체 클라우드 서비스 검토 또는 작업 계획 조정이 필요함.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1trzex3/damn_did_all_of_you_who_use_runpod_have_very_low/",
+    "date": "2026-05-31",
+    "original_title": "Damn... did all of you who use Runpod have very low to 0 availability?"
+  },
+  {
+    "model_name": "NVIDIA PiD",
+    "core_insight": "1K-4K 해상도 한계 넘어 64MP 출력 지원, 창의적 이미지 보정 및 향상에 특화",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "I2I"
+    ],
+    "application_idea": "프로젝션 매핑이나 대형 미디어월 콘텐츠 제작 시, 저해상도 원본 이미지를 64MP급으로 확대하여 고품질 결과물을 얻을 수 있음. AI 생성 이미지의 디테일을 보강하거나 컨셉 아트의 해상도를 높여 Photoshop 작업 효율을 극대화할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ts3ofu/nvidia_pid_preview_inside_a_nextgen_tiled/",
+    "date": "2026-05-31",
+    "original_title": "NVIDIA PiD Preview Inside a Next-Gen Tiled Upscaler & Enhancer"
+  },
+  {
+    "model_name": "Stable Audio Studio",
+    "core_insight": "로컬 오디오 생성을 위한 전용 앱 출시, 오프라인 작업 지원",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성"
+    ],
+    "application_idea": "인터랙티브 전시 콘텐츠 제작 시, 사용자 동작에 반응하는 커스텀 사운드 이펙트를 오프라인에서 빠르게 생성하고 반복 작업 가능. VR/AR 콘텐츠의 배경음악이나 앰비언트 사운드를 저작권 걱정 없이 로컬에서 직접 제작하여 Unreal Engine 프로젝트에 즉시 적용 가능. 민감한 클라이언트 프로젝트의 사운드 디자인 시 보안 유지에 유리.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1trzjgx/presenting_stable_audio_studio_a_dedicated_app/",
+    "date": "2026-05-31",
+    "original_title": "Presenting Stable Audio Studio: A dedicated app for running Stable Audio models locally"
+  },
+  {
+    "model_name": "FLUX.2-dev 8단계 증류 모델",
+    "core_insight": "FLUX.2-dev 모델 8단계 증류로 이미지 생성 속도 대폭 개선",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Photoshop 컨셉 이미지 제작 시 시안 생성 속도 향상으로 아이디어 구체화 시간 단축. 미디어아트 배경 이미지, 프로젝션 매핑 소스 등 대량의 이미지 에셋을 빠르게 생성하여 제작 파이프라인 효율 증대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1trx9es/8step_flux2dev_dmd2_distillation/",
+    "date": "2026-05-31",
+    "original_title": "8-step FLUX.2-dev DMD2 distillation"
+  },
+  {
+    "model_name": "Anima-6steps (Turbo Lora v0.2 기반)",
+    "core_insight": "6단계 만에 고품질 이미지 생성, 5초 이내 초고속 출력 지원",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어월 배경 이미지 제작 시 빠른 시안 생성이 가능하여 디자인 초기 단계의 반복 작업 시간을 획기적으로 단축. Unreal Engine이나 TouchDesigner 프로젝트에 필요한 텍스처나 UI 요소의 다양한 스타일을 5초 이내로 빠르게 생성하여 즉각적인 시각화 및 피드백 반영에 유리.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1trqncp/anima6steps_modle/",
+    "date": "2026-05-31",
+    "original_title": "Anima-6steps modle"
+  },
+  {
+    "model_name": "Stable Diffusion",
+    "core_insight": "스테이블 디퓨전 특정 스타일 구현 시 모델, LoRA, 설정 가이드 필요성 부각",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "스테이블 디퓨전으로 특정 컨셉의 전시 배경 이미지나 미디어아트 요소를 제작할 때, 원하는 스타일을 정확히 구현하기 위한 구체적인 모델, LoRA, 프롬프트 조합 노하우가 중요함을 시사. 팀 내 스타일 가이드라인 확립 및 공유를 통해 컨셉 아트 제작 효율을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tsfg8l/help_needed_how_to_create_this_type_of_art_in/",
+    "date": "2026-05-31",
+    "original_title": "Help Needed: How to create this type of art in Stable Diffusion? (Models, LoRA & settings)"
+  },
+  {
+    "model_name": "Orion4D Generative Paint (ComfyUI Custom Node)",
+    "core_insight": "ComfyUI에 브라우저 기반 고급 페인팅 인터페이스 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I"
+    ],
+    "application_idea": "Unreal Engine이나 TouchDesigner에서 사용할 3D 자산의 텍스처나 컨셉 이미지를 ComfyUI 내에서 직접 페인팅하여 생성 및 수정 가능. 기존 Photoshop/AfterEffects에서 진행하던 이미지 편집 작업을 AI 생성 워크플로우에 통합하여, 미디어아트 배경이나 프로젝션 매핑 소스 제작 시 반복적인 수정 단계를 단축할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1try64e/github_orion4dorion4d_generative_paint_generative/",
+    "date": "2026-05-31",
+    "original_title": "GitHub - orion4d/Orion4D_generative_paint: Generative Paint is a custom node for ComfyUI that adds an advanced painting interface directly usable from the browser."
+  },
+  {
+    "model_name": "Anima",
+    "core_insight": "Anima 모델의 최적 해상도 및 CivitAI 이미지의 세로 비율에 대한 사용자 문의",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Anima와 같은 이미지 생성 AI 사용 시 최적 해상도 및 종횡비에 대한 이해는 미디어월, 디지털 사이니지 등 특정 디스플레이 환경에 맞는 고품질 이미지 에셋 제작에 필수적임. CivitAI에서 세로 이미지가 많은 경향은 모바일 AR 콘텐츠나 수직형 전시 패널 디자인 시 레퍼런스 및 효율적인 에셋 제작 가이드로 활용 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ts6e5t/what_are_the_recommended_resolutions_for_anima/",
+    "date": "2026-05-31",
+    "original_title": "What are the recommended resolutions for Anima? Why are all the CivitAI images vertical?"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "이미지 생성 시 구도 및 요소 배치 정밀도 향상 기능 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "프로젝션 매핑, 미디어월 등 특정 구도와 비율이 중요한 공간 콘텐츠 제작 시, 원하는 레이아웃에 맞춰 정밀한 이미지를 생성할 수 있어 AfterEffects 후처리 시간을 단축. 컨셉 아트 단계부터 디자인 일관성을 확보하는 데 유용.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1trxk7b/gridlines/",
+    "date": "2026-05-31",
+    "original_title": "Gridlines"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "Midjourney 망가풍 이미지 제작 시 디더링 기법 활용으로 독특한 질감 표현",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "미디어월, 프로젝션 매핑 등 대형 스크린에 망가풍 배경 이미지 구현 시 디더링 기법을 활용하여 독특하고 예술적인 질감을 표현할 수 있음. 특히 저해상도 환경이나 특정 레트로 컨셉의 전시 공간에서 시각적 흥미를 더하는 요소로 활용 가능. Photoshop 후처리 없이 Midjourney 단계에서 원하는 스타일을 구현하여 작업 효율성 증대.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1ts0las/mangalicious_warning_some_horror_imagery/",
+    "date": "2026-05-31",
+    "original_title": "Mangalicious (Warning: some horror imagery)"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "타사 이미지 생성 AI 대비 Midjourney의 차별점 및 가치 재평가 논의",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Photoshop을 활용한 전시 컨셉 이미지 제작 시, Midjourney의 고유한 스타일과 품질이 여전히 경쟁력이 있는지 재평가하는 데 활용. 특히 미디어아트나 프로젝션 매핑을 위한 독창적인 비주얼 생성에 있어 Midjourney의 제어 가능성과 표현력을 타사 AI와 비교하여 최적의 도구를 선택하는 기준 마련.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1ts9ay1/why_is_midjourney_still_worth_it/",
+    "date": "2026-05-31",
+    "original_title": "Why is Midjourney still worth it?"
+  },
+  {
+    "model_name": "AI Video Generation Tool (Reddit)",
+    "core_insight": "백룸 스타일 파운드 푸티지 영상 생성 가능성 확인",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V"
+    ],
+    "application_idea": "몰입형 전시 콘텐츠 제작 시 특정 분위기 연출을 위한 배경 영상으로 활용 가능. 특히 파운드 푸티지 특유의 거친 질감과 불안정한 카메라 워크를 AI로 구현하여 미디어아트의 시각적 충격을 강화할 수 있음.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1ts0gbc/backrooms_style_found_footage_video/",
+    "date": "2026-05-31",
+    "original_title": "Backrooms Style Found Footage Video"
+  },
+  {
+    "model_name": "Qwen3.6 q4xl (on 2x 4060ti)",
+    "core_insight": "Qwen3.6 q4xl, 저가형 GPU로 고성능 LLM 추론 및 비용 효율성 확보",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 내 인터랙티브 콘텐츠의 동적 대화 시스템 구축 시, 클라우드 API 의존도를 낮춰 운영 비용 절감. Unreal Engine이나 TouchDesigner 프로젝트에서 필요한 스크립트나 셰이더 코드 생성 보조 도구로 활용하여 개발 생산성 향상. 미디어아트 작품의 내러티브 생성 및 다국어 번역 자동화에도 기여 가능.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tryp2q/125_toks_for_qwen36_q4xl_on_2x_4060ti_is_insane/",
+    "date": "2026-05-31",
+    "original_title": "125 tok/s for Qwen3.6 q4xl on 2x 4060ti is insane perf/dollar"
+  },
+  {
+    "model_name": "NVIDIA Qwen3.6-35B-A3B-NVFP4",
+    "core_insight": "Qwen3.6-35B 모델의 NVFP4 양자화 버전 출시, GPU 메모리 3배 절감",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만 TouchDesigner나 Unreal Engine 프로젝트의 스크립트 작성 및 디버깅 보조에 활용 가능. 경량화된 모델이므로 로컬 환경에서 더 효율적으로 구동하여 개발 생산성 향상에 기여할 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ts6j6j/nvidiaqwen3635ba3bnvfp4_hugging_face/",
+    "date": "2026-05-31",
+    "original_title": "nvidia/Qwen3.6-35B-A3B-NVFP4 · Hugging Face"
+  },
+  {
+    "model_name": "NVIDIA DGX Spark 클론",
+    "core_insight": "NVIDIA DGX Spark 클론 AI 워크스테이션 사양 비교표 공개",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시 공간 내 인터랙티브 체험존에서 실시간 AI 추론 기반 콘텐츠를 구동할 때, 클라우드 의존성 없이 현장에서 직접 처리할 수 있는 소형 AI 워크스테이션으로 활용 가능. 특히 Unreal Engine이나 TouchDesigner 기반의 실시간 미디어아트 프로젝트에서 온디바이스 AI 모델을 구동하여 반응성을 높이는 데 기여할 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trms2k/all_dgx_spark_clones_side_by_side_in_one_image/",
+    "date": "2026-05-31",
+    "original_title": "All DGX Spark clones side by side in one image"
+  },
+  {
+    "model_name": "Gryphe/Pantheon-Reasoning-27B",
+    "core_insight": "롤플레이 캐릭터의 추론 능력 강화, 내러티브 및 반응의 정교함 향상",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 시각/청각 콘텐츠 생성 영향은 낮음. 하지만 VR/AR 콘텐츠 내 인터랙티브 캐릭터의 대화 스크립트나 복잡한 내러티브 흐름을 기획할 때 활용 가능. 특히 캐릭터의 일관된 성격과 반응을 유지하며 스토리라인을 전개하는 데 도움을 줄 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trvo30/gryphepantheonreasoning27b_hugging_face/",
+    "date": "2026-05-31",
+    "original_title": "Gryphe/Pantheon-Reasoning-27B · Hugging Face"
+  },
+  {
+    "model_name": "VTS",
+    "core_insight": "음성 모방과 텍스트 입력으로 원하는 효과음 생성",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "인터랙티브 체험존이나 VR/AR 콘텐츠 제작 시, 머릿속의 특정 효과음을 직접 음성으로 모방하여 빠르게 생성할 수 있음. 기존 사운드 라이브러리 검색이나 수작업 제작 시간 단축에 기여. 미디어아트 작품의 독특한 사운드스케이프를 실험적으로 구현하는 데 유용.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trve9e/open_source_turning_vocal_imitations_into_sound/",
+    "date": "2026-05-31",
+    "original_title": "Open source : Turning vocal imitations into sound effects. (New UX for sound generation)"
+  },
+  {
+    "model_name": "MOSS-TTS v1.5",
+    "core_insight": "MOSS-TTS v1.5, 고품질 음성 복제 기능과 상업적 이용 지원",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성"
+    ],
+    "application_idea": "전시 안내 캐릭터나 VR/AR 콘텐츠 내 인물 음성 생성 시, 성우 한 명의 목소리로 다양한 캐릭터 보이스를 복제하여 활용 가능. 상업적 이용이 허용되어 프로젝트 라이선스 문제 없이 자유롭게 적용할 수 있으며, 다국어 버전 제작 시 효율적인 음성 콘텐츠 파이프라인 구축에 기여.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1trq8kq/this_new_moss_tts_15_is_damn_good_with_voice/",
+    "date": "2026-05-31",
+    "original_title": "this new Moss tts 1.5 is damn good with voice cloning"
+  },
+  {
+    "model_name": "Anthropic",
+    "core_insight": "Anthropic, OpenAI 제치고 최고 가치 AI 스타트업 등극",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, AI 시장의 주요 플레이어 동향 파악 및 장기적인 기술 투자 방향 예측에 참고할 수 있음.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSi1XZmpReGJ1X3dWZ0JsQ1BHXzloYm93YjV2N09HX0VlRTFDa2huRE9jX3h6cWxQSDJDdVhnR1Awc01WZDRtVW13Zk50T3dINkJvSS13RkQ3WTM3d2NhRWpZWDV5VEhwV0FQMGRwNEJCdy1idFhIZXBqR3hUX0RHOHdEOU9lZU1GNXc?oc=5",
+    "date": "2026-05-31",
+    "original_title": "Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up - The New York Times"
+  }
+]
