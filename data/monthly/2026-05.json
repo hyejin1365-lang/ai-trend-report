@@ -1,0 +1,194 @@
+{
+  "kind": "monthly",
+  "period_id": "2026-05",
+  "start_date": "2026-05-01",
+  "end_date": "2026-05-31",
+  "card_count": 682,
+  "data_insufficient": false,
+  "data_insufficient_reason": null,
+  "synthesis": {
+    "period_id": "2026-05",
+    "period_label": "2026년 5월",
+    "summary_one_liner": "생성 AI 고도화, 에이전트 확산, 오픈소스/로컬 AI 경쟁 심화",
+    "monthly_trajectory": "AI 모델의 성능과 자율성이 전례 없이 가속화되는 한 달이었습니다. 특히 멀티모달 생성 AI와 에이전트 기술이 빠르게 발전하며, 기업 및 개인의 AI 활용 패러다임이 전환되고 있습니다. 동시에 오픈소스 생태계의 성장이 로컬 AI 활용을 촉진하나, 보안 및 인프라 문제가 동반되는 전환 구간입니다.",
+    "trends": [
+      {
+        "title": "생성 AI 초고도화 및 전문화",
+        "description": "이미지, 영상, 오디오 생성 모델들이 품질, 속도, 제어력 면에서 비약적인 발전을 이루고 있습니다. 특히 3D 자산 생성, 오디오-비디오 동시 생성, 실시간 처리 기능이 주목받으며, 특정 도메인에 특화된 모델 출시가 활발합니다. 동시에 저사양/로컬 환경을 위한 모델 경량화 및 최적화 기술도 빠르게 발전하고 있습니다.",
+        "related_models": [
+          "Anima",
+          "HiDream-O1",
+          "AsymFlow",
+          "Lance",
+          "Pixal3D",
+          "Stable Audio 3",
+          "DEMON",
+          "NAVA",
+          "NVIDIA Pixel Diffusion (PiD)",
+          "AniMatrix",
+          "SenseNova U1",
+          "Microsoft Lens"
+        ],
+        "team_implication": "고품질 3D 자산 생성 및 오디오-비디오 동기화 기술을 활용하여 몰입형 미디어아트, 프로젝션 매핑 콘텐츠 제작에 적극 도입해야 합니다. Unreal Engine, TouchDesigner와 연동 가능한 모델 및 워크플로우를 탐색하고, 로컬 환경에서 고성능 모델을 효율적으로 운영하는 방안을 모색해야 합니다."
+      },
+      {
+        "title": "AI 에이전트 전방위 확산",
+        "description": "AI 에이전트가 기업 업무 자동화를 넘어 개인의 일상, 디바이스, 심지어 검색 경험까지 전방위적으로 통합되고 있습니다. AI가 사용자의 의도를 예측하고 능동적으로 작업을 수행하는 자율성이 강화되며, 클라우드 인프라 역시 에이전트 트래픽 중심으로 재설계되는 추세입니다. 이는 AI가 단순 도구를 넘어 능동적인 조력자로 진화하고 있음을 시사합니다.",
+        "related_models": [
+          "Gemini AI",
+          "Siri",
+          "Alexa for Shopping",
+          "Google AI Agents",
+          "Claude Code and Cowork",
+          "Anthropic Opus 4.8",
+          "OpenAI AI Agents",
+          "IrisGo Iris",
+          "Hark",
+          "Adobe Firefly (Agentic AI)"
+        ],
+        "team_implication": "콘텐츠 기획 및 제작 과정에 AI 에이전트를 도입하여 아이디어 발상, 자료 조사, 스크립트 작성, 초기 시안 생성 등 반복 업무를 자동화해야 합니다. 특히 사용자 인터랙션이 필요한 VR/AR/XR 콘텐츠에서 AI 에이전트 기반의 능동적인 반응 시스템을 설계하는 방안을 고려해야 합니다."
+      },
+      {
+        "title": "오픈소스/로컬 AI 성장과 보안",
+        "description": "주요 AI 모델들이 오픈소스로 공개되고, ComfyUI, llama.cpp 등 로컬 환경에서 고성능 AI를 구동하기 위한 도구와 워크플로우가 빠르게 발전하고 있습니다. 저사양 GPU 및 Apple Silicon 지원이 강화되며, 커뮤니티 주도의 개발 및 공유 문화가 활성화되고 있습니다. 다만, 오픈소스 활용에 따른 보안 위험에 대한 경고도 커지고 있습니다.",
+        "related_models": [
+          "AniMatrix",
+          "Sulphur 2",
+          "FLUX",
+          "Pixal3D",
+          "Stable Audio 3",
+          "Grok-3",
+          "ComfyUI",
+          "llama.cpp",
+          "Microsoft Lens",
+          "Anima",
+          "InvokeAI",
+          "Qwen3.6"
+        ],
+        "team_implication": "팀의 주력 도구(Adobe, Unreal, TouchDesigner)와 연동 가능한 오픈소스 모델 및 ComfyUI 워크플로우를 적극적으로 탐색하고, 로컬 환경에서 테스트하여 비용 효율적인 제작 파이프라인을 구축해야 합니다. 오픈소스 활용 시 보안 가이드라인을 수립하고 격리된 환경에서 작업하는 것이 중요합니다."
+      }
+    ],
+    "platform_activity": [
+      {
+        "platform": "OpenAI",
+        "card_count": 37,
+        "key_releases": [
+          "AI 에이전트(PwC 협력)로 기업 재무 자동화",
+          "AI 모델, 80년 난제 해결 (이산 기하학)",
+          "ChatGPT Enterprise, MUFG 도입으로 업무 효율화"
+        ]
+      },
+      {
+        "platform": "Google DeepMind",
+        "card_count": 6,
+        "key_releases": [
+          "의료 분야 AI 공동 임상의 개발 착수",
+          "Project Genie, 스트리트 뷰 기반 실제 장소 시뮬레이션",
+          "싱가포르와 협력, 보건/교육 AI 적용"
+        ]
+      },
+      {
+        "platform": "TechCrunch",
+        "card_count": 88,
+        "key_releases": [
+          "Anthropic, 9천억 달러 이상 기업 가치 평가 및 투자 유치",
+          "iOS 27, 서드파티 AI 모델 선택 및 활용 기능 제공",
+          "Google/SpaceX, AI 연산용 궤도 데이터센터 구축 논의"
+        ]
+      },
+      {
+        "platform": "Reddit - StableDiffusion",
+        "card_count": 105,
+        "key_releases": [
+          "캐릭터 시트 입력으로 일관된 캐릭터 생성 및 유지 기능 강화",
+          "텐센트, 애니메이션 특화 비디오 모델 'AniMatrix' 공개",
+          "Stable Audio 3, 텍스트 기반 음악/효과음 생성 모델 출시"
+        ]
+      },
+      {
+        "platform": "Reddit - LocalLLaMA",
+        "card_count": 35,
+        "key_releases": [
+          "Hugging Face 'Open-OSS/privacy-filter' 악성코드 발견",
+          "Qwen3.6-27B, 단일 3090 GPU에서 고성능 에이전트 검색 달성",
+          "Grok-3 오픈소스 공개 및 차기 0.5T 모델 출시 예고"
+        ]
+      },
+      {
+        "platform": "Reddit - midjourney",
+        "card_count": 20,
+        "key_releases": [
+          "Midjourney v8.1, 고해상도 3D 셀 셰이딩 및 SF적 미학 표현",
+          "AI 모션 캡처 기술로 고품질 캐릭터 움직임 구현 실험",
+          "이미지 생성 시 구도 및 요소 배치 정밀도 향상 기능 추가"
+        ]
+      },
+      {
+        "platform": "Reddit - aivideo",
+        "card_count": 19,
+        "key_releases": [
+          "복잡한 캐릭터 액션 및 무술 동작 영상 생성 기능 추가",
+          "텐센트, 애니메이션 특화 비디오 모델 'AniMatrix' 공개",
+          "AI 기술의 장편 영화 제작 가능성에 대한 업계 논의 본격화"
+        ]
+      },
+      {
+        "platform": "MIT Technology Review",
+        "card_count": 19,
+        "key_releases": [
+          "AGI의 예측 불가능성 경고 및 안전장치 필요성 강조",
+          "AI 딥페이크 포르노 및 안면 인식 오용으로 사생활 침해 심화",
+          "AI가 외부 세계를 이해하는 '월드 모델' 논의 부상"
+        ]
+      },
+      {
+        "platform": "Hugging Face Blog",
+        "card_count": 6,
+        "key_releases": [
+          "LLM 효율성 및 성능 향상을 위한 전문가 혼합 아키텍처 연구",
+          "확산 언어 모델 기반 초고속 텍스트 생성 기술 도입",
+          "특정 AI 작업에 대규모보다 전문화된 AI 도입의 전략적 이점"
+        ]
+      },
+      {
+        "platform": "Google News - LLM",
+        "card_count": 9,
+        "key_releases": [
+          "Claude Mythos, 자율적으로 보안 취약점 발견 (출시 보류)",
+          "OpenAI 실시간 음성 에이전트, GPT-5급 추론 능력 대폭 향상",
+          "Anthropic, OpenAI 제치고 최고 가치 AI 스타트업 등극"
+        ]
+      },
+      {
+        "platform": "Google News - 이미지 AI",
+        "card_count": 3,
+        "key_releases": [
+          "Adobe Firefly에 에이전트 AI 기능 확장 및 Gemini, Claude 통합"
+        ]
+      },
+      {
+        "platform": "Google News - 영상 AI",
+        "card_count": 8,
+        "key_releases": [
+          "AI 스마트 안경 'Luma Glasses' 공개",
+          "Kling AI, 애니메이션 영화 'Minibots' 제작 파트너십 공개"
+        ]
+      },
+      {
+        "platform": "GitHub - ComfyUI Releases",
+        "card_count": 1,
+        "key_releases": [
+          "ComfyUI v0.20.2, OneTainer ERNIE LoRA 지원 추가"
+        ]
+      },
+      {
+        "platform": "VentureBeat",
+        "card_count": 1,
+        "key_releases": [
+          "Google AI Search Box, 멀티모달 입력 지원 대화형 AI로 전환"
+        ]
+      }
+    ]
+  },
+  "generated_at": "2026-06-01T02:02:49.072951+00:00"
+}
