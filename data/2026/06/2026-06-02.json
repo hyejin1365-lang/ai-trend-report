@@ -1,0 +1,390 @@
+[
+  {
+    "model_name": "OpenAI AI 정책",
+    "core_insight": "AI 정책 및 규제에 대한 투명한 입장 표명 및 안전 강조",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, AI 기술의 윤리적 사용과 규제 방향에 대한 이해를 높여, 향후 AI 기반 콘텐츠 제작 시 발생할 수 있는 법적/윤리적 리스크를 사전에 검토하고 대응하는 데 참고할 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "date": "2026-06-02",
+    "original_title": "Our views on AI policy and political advocacy"
+  },
+  {
+    "model_name": "OpenAI Stargate 프로젝트",
+    "core_insight": "OpenAI, 미시간에 1GW급 데이터센터 건설 착수",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "OpenAI의 미래 AI 모델 개발 및 서비스 확장 기반을 강화하는 투자. 당장 실무에 직접적인 영향은 없으나, 향후 더 강력하고 빠른 영상/이미지 생성 AI 모델 출시로 이어져 AfterEffects, Unreal Engine 등에서 활용할 고품질 자산 확보 및 작업 속도 향상에 간접적으로 기여할 것으로 기대됨.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/stargate-michigan-data-center",
+    "date": "2026-06-02",
+    "original_title": "Building the infrastructure for the Intelligence Age in Michigan"
+  },
+  {
+    "model_name": "OpenAI frontier models & Codex",
+    "core_insight": "OpenAI 최신 모델 및 Codex, AWS를 통해 기업 고객에게 정식 제공",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "AWS 환경을 사용하는 경우, OpenAI의 LLM을 활용하여 전시 내러티브 스크립트나 인터랙티브 콘텐츠의 대화 흐름을 자동 생성하는 데 용이. Codex를 통해 Unreal Engine 또는 TouchDesigner 프로젝트의 복잡한 스크립트 작성 및 디버깅 작업을 효율화할 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "date": "2026-06-02",
+    "original_title": "OpenAI frontier models and Codex are now available on AWS"
+  },
+  {
+    "model_name": "Mellum2",
+    "core_insight": "JetBrains에서 120억 파라미터 규모의 MoE 기반 LLM Mellum2 공개",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 내러티브 구성 및 인터랙티브 콘텐츠의 대화 스크립트 초안 생성에 활용. Unreal Engine 또는 TouchDesigner 프로젝트 개발 시 코드 작성 및 디버깅 보조 도구로 생산성 향상 기대.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "date": "2026-06-02",
+    "original_title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains"
+  },
+  {
+    "model_name": "AI Agent Logic (개념)",
+    "core_insight": "기업 AI 도입 확장을 위해 LLM을 넘어선 에이전트 로직의 중요성 강조",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 공간용 인터랙티브 콘텐츠 제작 시, 에이전트가 텍스트 프롬프트 기반으로 컨셉 이미지 생성, 3D 자산 모델링, 캐릭터 애니메이션, 배경 사운드 디자인 등 여러 AI 도구를 연동하여 초기 시안을 자동 생성하고 반복적인 수정 작업을 지시할 수 있음. 이는 Unreal Engine이나 TouchDesigner에서 복잡한 콘텐츠를 구성할 때 필요한 다양한 자산 준비 과정을 크게 단축시킬 수 있음.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "date": "2026-06-02",
+    "original_title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic"
+  },
+  {
+    "model_name": "NVIDIA Cosmos 3",
+    "core_insight": "물리적 AI 추론 및 행동을 위한 최초의 개방형 옴니 모델 공개",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "3D",
+      "멀티모달"
+    ],
+    "application_idea": "물리적 공간에 대한 AI의 추론 및 행동 능력을 활용하여, 인터랙티브 전시에서 관람객의 움직임과 환경 변화에 실시간으로 반응하는 미디어아트 콘텐츠를 제작할 수 있음. 또한, VR/AR/XR 환경에서 실제와 유사한 물리적 상호작용이 가능한 3D 자산을 생성하거나, 가상 캐릭터가 환경을 이해하고 자율적으로 행동하는 시나리오 구현에 활용하여 Unreal Engine 기반 콘텐츠 개발을 가속화할 수 있음.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "date": "2026-06-02",
+    "original_title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action"
+  },
+  {
+    "model_name": "Alphabet AI 서비스",
+    "core_insight": "AI 수요 급증에 따라 800억 달러 규모의 AI 인프라 투자 계획",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "Alphabet의 AI 투자 확대는 향후 더 강력한 영상/이미지 생성 및 3D 자산 생성 도구 출시로 이어질 가능성이 높음. 이는 Unreal Engine이나 TouchDesigner 기반의 인터랙티브 콘텐츠 제작 시 필요한 고품질 미디어 소스 확보에 기여할 것임. 장기적으로는 우리 팀의 콘텐츠 제작 파이프라인 전반의 효율성을 높일 수 있는 잠재력을 가짐.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+    "date": "2026-06-02",
+    "original_title": "Alphabet plans to raise $80B to pay for AI buildout"
+  },
+  {
+    "model_name": "Nvidia AI Agent PC",
+    "core_insight": "Nvidia, MS/Dell/HP와 협력해 AI 에이전트 PC 시장 진출",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "로컬 AI 에이전트 PC는 Unreal Engine 및 TouchDesigner 기반의 인터랙티브 콘텐츠 개발 시 실시간 데이터 처리 및 동적 콘텐츠 생성 성능을 향상시킬 수 있음. 또한, 미디어아트 설치물의 복잡한 운영 및 모니터링 작업을 자동화하여 유지보수 효율을 높이고, 관람객 맞춤형 반응을 더 빠르고 안정적으로 구현하는 데 기여할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "date": "2026-06-02",
+    "original_title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP"
+  },
+  {
+    "model_name": "ChatGPT",
+    "core_insight": "플로리다 주, 폭력 사건 연루 혐의로 OpenAI/ChatGPT 고소",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 기술적 영향은 낮음. 다만 AI 윤리 및 책임에 대한 사회적 논의가 심화될 수 있으므로, 콘텐츠 제작 시 AI 활용의 윤리적 측면을 더욱 신중하게 고려해야 함. 향후 AI 사용 정책 및 규제 변화에 대한 지속적인 모니터링이 필요.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "date": "2026-06-02",
+    "original_title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents"
+  },
+  {
+    "model_name": "Anthropic",
+    "core_insight": "Anthropic, 기업 공개(IPO) 추진 발표",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작 실무에 직접적인 영향은 낮음. 다만, Anthropic의 기업 공개는 AI 산업 전반의 투자 확대로 이어져 장기적으로 더 발전된 AI 도구의 등장을 가속화할 수 있음. 이는 향후 영상 생성, 3D 자산 생성 등 우리 팀의 주력 분야에 간접적인 긍정적 영향을 줄 가능성이 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "date": "2026-06-02",
+    "original_title": "Anthropic files to go public"
+  },
+  {
+    "model_name": "WindBorne 기상 예측 모델",
+    "core_insight": "풍선 데이터 수집 및 모델 통합 방식 개선으로 기상 예측 정확도 향상",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 제작에 직접적인 영향은 낮음. 다만, 실시간 기상 데이터를 활용한 인터랙티브 전시나 환경 시뮬레이션 콘텐츠 제작 시, 정확도 높은 예측 데이터를 동적으로 반영하는 데 활용 가능. 예를 들어, 특정 지역의 바람, 기온 변화를 시각화하는 미디어아트 작품이나, VR 환경에서 실제 날씨를 반영한 몰입형 체험을 구현할 때 데이터 소스로 고려될 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "date": "2026-06-02",
+    "original_title": "This AI weather startup is out-forecasting government agencies"
+  },
+  {
+    "model_name": "DuckDuckGo '노 AI' 웹 확장 프로그램",
+    "core_insight": "DuckDuckGo, '노 AI' 검색 엔진 웹 확장 프로그램을 크롬/파이어폭스에 출시",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 콘텐츠 제작 파이프라인에는 직접적인 영향이 낮음. 다만, AI 관련 기술 동향이나 레퍼런스 조사를 할 때 AI에 의해 생성되거나 편향된 정보를 걸러내고 순수한 정보를 탐색하는 데 보조적으로 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "date": "2026-06-02",
+    "original_title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms"
+  },
+  {
+    "model_name": "AI 산업 투자 동향",
+    "core_insight": "AI 스타트업 투자 열기 과열, 젊은 창업가에 대한 투자 활발",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, AI 기술 발전 가속화 및 신규 도구 출현 가능성을 시사하므로, 장기적인 기술 동향 파악에 참고할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+    "date": "2026-06-02",
+    "original_title": "The groupthink boom: what 3 top VCs really think about the AI frenzy"
+  },
+  {
+    "model_name": "Anima (Stable Diffusion LoRA)",
+    "core_insight": "다크 스타일 애니메이션 이미지 생성 LoRA 'Anima'의 효과적 활용과 고해상도 인체 비례 문제점.",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "다크 스타일 애니메이션 테마의 미디어아트 전시 컨셉 아트 제작 시 캐릭터 및 배경 이미지 생성에 활용 가능. 생성된 이미지는 Photoshop에서 후처리하여 컨셉 디자인을 구체화하거나, Unreal Engine의 3D 캐릭터 모델링 레퍼런스로 활용할 수 있음. 단, 고해상도 이미지 생성 시 인체 비례 문제가 발생할 수 있으므로 추가적인 수정 작업이 필요함.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ttnnzu/anima_with_dark_style_anime_lora_is_pretty_good/",
+    "date": "2026-06-02",
+    "original_title": "Anima with dark style anime lora is pretty good. Tried with some Sailor girls."
+  },
+  {
+    "model_name": "Kezmark ErniePEUnleashed",
+    "core_insight": "영화적 장면 묘사 프롬프트 생성 지원, T2V/T2I 효율 증대",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "T2V"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 콘텐츠 생성보다는 기획 단계에서 T2V/T2I 모델용 프롬프트 작성 효율을 높이는 데 기여. 복잡한 장면 구성이나 특정 분위기 연출을 위한 프롬프트 엔지니어링 시간을 단축하여 컨셉 시각화 속도를 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ttpi6d/local_ai_news_you_missed_may_2026/",
+    "date": "2026-06-02",
+    "original_title": "Local AI News You Missed - May 2026"
+  },
+  {
+    "model_name": "Nvidia Cosmos3-Super-Image2Video",
+    "core_insight": "Nvidia, 640억 파라미터 규모의 이미지-영상 변환 모델 공개",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "I2V"
+    ],
+    "application_idea": "전시 컨셉 아트나 스틸 이미지를 기반으로 미디어월, 프로젝션 맵핑용 동적 배경 영상을 빠르게 생성할 수 있음. AfterEffects에서 수작업으로 움직임을 추가하는 시간을 단축하고, VR/AR 콘텐츠 내 정적인 배경 요소에 생동감 있는 루프 영상을 쉽게 적용하여 시각적 풍부함을 더할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ttjuc0/nvidia_releases_cosmos3superimage2video_64b/",
+    "date": "2026-06-02",
+    "original_title": "Nvidia releases Cosmos3-Super-Image2Video . 64B parametres"
+  },
+  {
+    "model_name": "Bernini",
+    "core_insight": "통합 비디오 생성 및 편집 모델 출시",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "V2V"
+    ],
+    "application_idea": "미디어월, 프로젝션 매핑 등 다양한 공간 콘텐츠에 필요한 영상 소스를 생성하고, 같은 모델 내에서 편집까지 가능하여 후반 작업 파이프라인을 크게 단축할 수 있음. Unreal Engine이나 TouchDesigner에서 활용될 배경 영상이나 특수 효과 클립 제작 시, 생성부터 편집까지 일관된 워크플로우로 효율성을 극대화할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ttn2kd/bernini_released_unified_video_generation_and/",
+    "date": "2026-06-02",
+    "original_title": "Bernini released. Unified Video generation and editing model. Built on Wan-2.2"
+  },
+  {
+    "model_name": "Cosmos3-Super-Text2Image",
+    "core_insight": "Nvidia의 640억 파라미터 텍스트-이미지 신모델 출시",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어아트 초기 시안 제작 시간을 단축. Unreal Engine/TouchDesigner 프로젝트의 배경 텍스처나 오브젝트 표면 이미지 생성에 활용하여 디자인 반복 작업 효율 증대. Photoshop 기반의 컨셉 이미지 제작 파이프라인을 가속화할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ttjrip/nvidia_releasescosmos3supertext2image_model_64/",
+    "date": "2026-06-02",
+    "original_title": "Nvidia releasesCosmos3-Super-Text2Image model . 64 billion paramteres"
+  },
+  {
+    "model_name": "Anima V1.0",
+    "core_insight": "Anima V1.0 이미지 재현 난이도 높음, ComfyUI 워크플로우 적용 문제",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Anima V1.0은 이미지 재현의 일관성이 낮아 전시/미디어아트의 컨셉 아트나 시안 제작에 활용하기 어렵다. 특정 스타일의 반복적인 이미지 생성이 필요한 경우, 결과 예측이 어려워 프로젝트 안정성을 해칠 수 있다. ComfyUI 워크플로우 호환성 문제로 기존 제작 파이프라인에 통합하기 어려워 실무 적용성이 낮다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tu4zsy/ive_been_trying_to_replicate_this_anima_v10_image/",
+    "date": "2026-06-02",
+    "original_title": "I've been trying to replicate this Anima V1.0 image all day but I can't manage it. Maybe I need a special workflow or something?"
+  },
+  {
+    "model_name": "FLUX.2-klein-base-9B ControlLight LoRA",
+    "core_insight": "사진 조명 변경을 위한 ControlLight LoRA 출시",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I"
+    ],
+    "application_idea": "전시 컨셉 이미지 제작 시, 생성된 이미지의 조명 환경을 빠르고 유연하게 변경하여 다양한 시안을 즉시 비교 가능. 미디어아트 작품의 스틸컷이나 프로젝션 매핑용 배경 이미지의 특정 시간대/분위기 연출을 위해 Photoshop에서 수동으로 조명 효과를 주는 대신, LoRA를 활용하여 효율적으로 조명 변화를 적용할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ttfv5z/flux2kleinbase9b_controllight_lora_release_for/",
+    "date": "2026-06-02",
+    "original_title": "FLUX.2-klein-base-9B ControlLight LoRA Release for changing lighting of a photo"
+  },
+  {
+    "model_name": "Cosmos omnimodel family",
+    "core_insight": "언어, 이미지, 영상, 오디오, 행동 시퀀스 통합 처리 및 생성 가능한 옴니모델 출시",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "I2V",
+      "T2V",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "미디어아트 설치물에서 텍스트 입력만으로 시각(이미지/영상), 청각(오디오), 캐릭터 행동이 동기화된 복합 콘텐츠를 실시간 생성하여 인터랙티브 경험을 강화할 수 있다. VR/AR 환경에서 동적으로 변화하는 가상 세계와 캐릭터 반응을 통합적으로 구현하여 몰입감 높은 체험을 제공하며, Unreal Engine/TouchDesigner 파이프라인에서 복잡한 멀티모달 에셋 생성 효율을 높일 수 있다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ttka77/the_cosmos_omnimodel_family_of_models_3_variants/",
+    "date": "2026-06-02",
+    "original_title": "The Cosmos omnimodel family of models - 3 variants Edge(4B) , Nano(16B) , Super (64B)"
+  },
+  {
+    "model_name": "Cosmos3 Nano",
+    "core_insight": "I2V는 준수하나 T2V 품질 낮고 고해상도 디코딩 시 OOM 발생",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V",
+      "I2V"
+    ],
+    "application_idea": "I2V 품질이 준수하므로, 기존 컨셉 이미지(Photoshop)를 활용하여 짧은 미디어아트 루프 영상의 초기 아이디어를 빠르게 시각화하는 데 활용 가능. 다만 'Nano' 모델의 한계로 고품질 최종 결과물보다는 아이디어 스케치나 레퍼런스 영상 제작에 적합. 고해상도 영상 디코딩 시 OOM 문제가 있어 프로젝션 매핑 등 대형 스크린 콘텐츠에는 직접 적용이 어려움.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tttwgu/cosmos3_nano_testing_with_vllmomni/",
+    "date": "2026-06-02",
+    "original_title": "Cosmos3 Nano testing with vllm-omni"
+  },
+  {
+    "model_name": "FLUX.2 Klein 9B Schematic LoRA",
+    "core_insight": "FLUX.2 Klein에 깊이, 자세, 분할 등 CV 작업 LoRA 적용 연구, 실용화엔 부족",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "I2I",
+      "3D",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "현재는 실무 적용에 한계가 있지만, 향후 발전 시 3D 자산 생성 및 캐릭터 애니메이션 전처리 단계에서 수작업을 크게 줄일 잠재력이 있음. Unreal Engine이나 TouchDesigner에서 실시간 렌더링을 위한 깊이/법선 맵, 캐릭터 포즈 데이터 추출에 활용될 가능성을 주시해야 함.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ttpbl3/flux2_klein_9b_schematic_lora_depth_normal_pose/",
+    "date": "2026-06-02",
+    "original_title": "FLUX.2 Klein 9B Schematic LoRA - Depth, Normal, Pose, and Segmentation"
+  },
+  {
+    "model_name": "MiniMax",
+    "core_insight": "차세대 MiniMax 모델 약 10일 내 출시 예정",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서 직접적인 영상/이미지 생성 영향은 낮음. 하지만 전시 기획 단계에서 컨셉 아이디어 도출, 스토리라인 및 대사 작성, TouchDesigner나 Unreal Engine 스크립트 작성 보조 등 간접적인 업무 효율 향상에 기여할 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ttkz1c/next_minimax_will_be_released_in_10_days/",
+    "date": "2026-06-02",
+    "original_title": "next MiniMax will be released in ~10 Days"
+  },
+  {
+    "model_name": "AI 관련 없음",
+    "core_insight": "항공 활주로 상태 평가 매트릭스 업데이트 권고 (AI와 무관)",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사는 NTSB의 항공 활주로 상태 평가 매트릭스 업데이트 권고에 관한 내용으로, AI 플랫폼 업데이트와는 직접적인 관련이 없습니다. 따라서 공간 콘텐츠 제작 실무에 적용할 아이디어를 도출하기 어렵습니다.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LZFpxWkJlOXN6c3dqSWUzNnFXSW1PZzM4QldaOXhMTm1odGlnRDRLTXV5ME1VYUx1aDJLcHZOWkV5Xy1qbWJ2UEdEOFl1RUhRX0tnNlZKdmtrSkxPODVlcjZxWW9EMTY2RXZ2OHQ0V2ZvQjBDVVdEQm5PczIxUQ?oc=5",
+    "date": "2026-06-02",
+    "original_title": "NTSB Recommends FAA Update Runway Condition Assessment Matrix - General Aviation News"
+  },
+  {
+    "model_name": "MiniMax M3",
+    "core_insight": "백만 토큰 컨텍스트의 오픈웨이트 모델 출시, 독점 모델에 도전",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "오픈웨이트 모델이므로 팀의 특정 프로젝트 데이터로 파인튜닝하여 맞춤형 스토리텔링 AI를 구축 가능. 백만 토큰 컨텍스트를 활용해 방대한 전시 자료를 학습시켜 복잡한 인터랙티브 내러티브나 가이드 스크립트 생성에 활용. TouchDesigner/Unreal Engine 프로젝트의 스크립트 작성 및 디버깅 보조 역할로도 유용하여 개발 생산성을 높일 수 있음.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVGdwY0FSbmFTRmlRTDJtaWNlSVpDei1vSERmb2JQdXVqTkVVc0t2NXRUbThvUFFVSDJTZUJMNWRCVFo5aE1Hay1yN2l6aGtyTmNtZUFIelE5WkVYS0Q2NDg0ZkI3VnVoZi1zeC0yLTZYUElDZVEtLThJRzJIM05QWmd0S0lON29MZjhTU25yYmJXNVFXTHdudTFPbWt0N1JlS185NzJDOG9faEhpcjZjb2pRVQ?oc=5",
+    "date": "2026-06-02",
+    "original_title": "MiniMax M3: Open-weight model with a million-token context challenges proprietary leaders - the-decoder.com"
+  }
+]
