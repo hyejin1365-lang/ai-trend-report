@@ -1,0 +1,32 @@
+[
+  {
+    "model_name": "Travelers Claim Assistant (Powered by OpenAI)",
+    "core_insight": "Travelers, OpenAI 기반 AI 클레임 어시스턴트 전국 배포로 24/7 고객 지원 및 운영 효율화",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 콘텐츠 제작에 직접적인 영향은 낮으나, 인터랙티브 전시에서 관람객 질문 응답 및 정보 제공용 AI 안내 시스템 구축 시 참고 가능. 또한, 프로젝트 기획 단계에서 아이디어 발상 및 자료 조사 보조 도구로 활용 가능성을 시사함.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/travelers",
+    "date": "2026-06-03",
+    "original_title": "Travelers deploys AI-powered claims countrywide with OpenAI"
+  },
+  {
+    "model_name": "Codex plugins",
+    "core_insight": "다양한 직군 생산성 향상을 위한 코덱스 플러그인, 사이트, 주석 기능 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 기획 단계에서 아이디어 발상 및 컨셉 문서 작성 보조에 활용 가능. TouchDesigner나 Unreal Engine 프로젝트의 스크립트 작성 및 디버깅 생산성 향상. 미디어아트 작품의 인터랙션 로직 설계 시 코드 초안 생성에 도움.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "date": "2026-06-03",
+    "original_title": "Codex for every role, tool, and workflow"
+  }
+]
