@@ -1,0 +1,247 @@
+[
+  {
+    "model_name": "ChatGPT Enterprise",
+    "core_insight": "AI 에이전트와 ChatGPT Enterprise로 SW 개발 가속, 워크플로우 자동화",
+    "update_type": "API/통합",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "Unreal Engine, TouchDesigner 프로젝트의 스크립트 작성 및 디버깅 보조에 ChatGPT Enterprise를 활용하여 개발 시간을 단축할 수 있음. 반복적인 데이터 처리나 문서화 작업 자동화로 팀의 전반적인 생산성 향상 기대.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/endava-frontiers",
+    "date": "2026-06-05",
+    "original_title": "How Endava is redesigning software delivery around AI agents"
+  },
+  {
+    "model_name": "ChatGPT",
+    "core_insight": "ChatGPT에 새로운 기억 시스템 도입, 대화 간 사용자 선호도 및 맥락 유지",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 컨셉 기획 및 스토리보드 작성 시, 이전 대화 내용을 기억하여 일관된 아이디어 발전과 세부 디자인 방향 설정에 도움을 줌. Unreal Engine이나 TouchDesigner 스크립트 디버깅 과정에서 이전 질문과 코드 맥락을 유지하여 더 정확하고 연속적인 문제 해결을 지원할 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/chatgpt-memory-dreaming",
+    "date": "2026-06-05",
+    "original_title": "Dreaming: Better memory for a more helpful ChatGPT"
+  },
+  {
+    "model_name": "OpenAI Biodefense Initiative",
+    "core_insight": "AI 기반 생물학적 복원력 강화를 위한 행동 계획 발표",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, AI 기술의 사회적 책임과 윤리적 사용에 대한 OpenAI의 접근 방식을 이해하는 데 참고할 수 있으며, 미래 콘텐츠 제작 시 AI 윤리 가이드라인 수립에 간접적으로 기여할 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "date": "2026-06-05",
+    "original_title": "Biodefense in the Intelligence Age"
+  },
+  {
+    "model_name": "Nemotron 3.5 Content Safety",
+    "core_insight": "기업용 멀티모달 AI 콘텐츠의 안전성 강화 및 맞춤형 필터링 기능 제공",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시, 미디어아트 등 대중 대상 공간 콘텐츠 제작 시 AI 생성물의 부적절한 내용 필터링에 활용. 특히 인터랙티브 체험존에서 사용자 입력 기반 콘텐츠 생성 시 안전성 확보에 기여. Unreal Engine이나 AfterEffects로 가져오기 전 단계에서 콘텐츠 검수 자동화에 도움을 줄 수 있어 제작 파이프라인의 안정성을 높임.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "date": "2026-06-05",
+    "original_title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI"
+  },
+  {
+    "model_name": "EVA-Bench Data 2.0",
+    "core_insight": "LLM 도구 사용 능력 평가 벤치마크 확장 및 고도화",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "미디어아트/전시 콘텐츠 제작 시, LLM이 Unreal Engine이나 TouchDesigner 같은 주력 도구의 스크립팅, 플러그인 연동, 자동화 작업에 더 정교하게 활용될 수 있음을 시사. 복잡한 인터랙티브 시스템 구축 시 개발 효율성 향상 기대.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "date": "2026-06-05",
+    "original_title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios"
+  },
+  {
+    "model_name": "Anthropic",
+    "core_insight": "Anthropic 연간 매출 470억 달러 돌파, 급격한 성장세 지속",
+    "update_type": "가격/플랜",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. Anthropic의 재정적 안정성 증가는 장기적으로 Claude 모델의 지속적인 개발과 서비스 안정성을 기대하게 하지만, 당장 실무에 적용할 구체적인 시나리오는 없음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "date": "2026-06-05",
+    "original_title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns"
+  },
+  {
+    "model_name": "Airbnb AI Lab",
+    "core_insight": "에어비앤비, 외부 LLM 대신 자체 AI 연구소 설립 계획 발표",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "에어비앤비가 공간 관련 AI 기술(예: 3D 공간 스캔, 가상 투어 생성)을 개발할 경우, 전시 공간 디자인 및 VR/AR 콘텐츠 제작에 필요한 3D 자산 생성 파이프라인에 새로운 도구로 활용될 가능성 있음. 특히 실제 공간 데이터를 기반으로 한 사실적인 디지털 트윈 제작에 기여할 수 있을 것으로 기대됨.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "date": "2026-06-05",
+    "original_title": "Airbnb’s Brian Chesky plans to launch a new AI lab"
+  },
+  {
+    "model_name": "Poke on Apple Messages for Business",
+    "core_insight": "AI 에이전트 'Poke', Apple 비즈니스 메시지 플랫폼에 통합",
+    "update_type": "API/통합",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 전시 관람객 대상 사전 안내, 티켓팅, FAQ 응대 등 비즈니스 커뮤니케이션 채널에 AI 에이전트를 도입하여 운영 효율성을 높일 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+    "date": "2026-06-05",
+    "original_title": "Apple approves Poke as the first AI agent on its Messages for Business platform"
+  },
+  {
+    "model_name": "Meta AI Creator Assistant",
+    "core_insight": "크리에이터를 위한 게시물 최적화 및 댓글 분석 AI 비서 출시",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 콘텐츠 제작 파이프라인에는 직접적인 영향이 낮음. 다만, 완성된 공간 콘텐츠를 페이스북 등 소셜 미디어 채널에 홍보할 때, 게시물 최적화 및 사용자 반응 분석을 통해 마케팅 전략을 수립하는 데 간접적으로 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+    "date": "2026-06-05",
+    "original_title": "Meta rolls out a new AI creator assistant on Facebook"
+  },
+  {
+    "model_name": "Hello Robot Stretch 4세대",
+    "core_insight": "가정용 보조 로봇 'Stretch' 4세대 출시",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 콘텐츠 제작 도구로 활용하기는 어려움. 다만, 미래 주거 환경이나 AI 로봇과의 공존을 주제로 하는 인터랙티브 전시에서 실제 로봇을 활용한 시연 또는 레퍼런스 자료로 고려해볼 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+    "date": "2026-06-05",
+    "original_title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is."
+  },
+  {
+    "model_name": "Apple App Store",
+    "core_insight": "App Store 연간 매출 1.4조 달러 달성, 디지털 상품 매출 1490억 달러 기록",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 콘텐츠 제작 파이프라인에 직접적인 영향은 없음. 다만, Apple Vision Pro 등 Apple 생태계 기반의 XR 콘텐츠 개발 및 유통 전략 수립 시, App Store의 시장 규모와 디지털 콘텐츠 매출 성장세를 간접적으로 참고할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+    "date": "2026-06-05",
+    "original_title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission"
+  },
+  {
+    "model_name": "Z-Image Turbo",
+    "core_insight": "Z-Image, 사실적 이미지 외 애니메이션 스타일 이미지 생성 능력 탁월함 확인",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "애니메이션 스타일 전시 컨셉 아트 및 캐릭터 디자인 초기 시안 제작에 활용. 미디어아트 배경 이미지나 VR/AR 콘텐츠 내 2D 요소 생성 시 빠른 스타일 탐색 및 시각화 가능. Photoshop 작업 전 다양한 애니메이션풍 레퍼런스 이미지 확보에 유용.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1twvlja/zimage_is_unbelievably_good_at_anime_prompts_given/",
+    "date": "2026-06-05",
+    "original_title": "Z-Image is unbelievably good at anime (Prompts Given)"
+  },
+  {
+    "model_name": "ComfyUI KSampler Matrix Lab",
+    "core_insight": "ComfyUI에서 여러 샘플러/스케줄러 동시 비교, 최적 설정 탐색 간소화",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "미디어아트/전시 컨셉 이미지 제작 시, 특정 스타일이나 질감에 맞는 최적의 Stable Diffusion 설정값을 빠르게 찾아낼 수 있음. 여러 파라미터 조합을 한눈에 비교하여 시행착오를 줄이고, Photoshop에서의 후처리 시간을 단축하는 데 기여.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1twjl1k/comfyui_node_to_compare_multiple_samplers_and/",
+    "date": "2026-06-05",
+    "original_title": "ComfyUI node to compare multiple samplers and schedulers at once"
+  },
+  {
+    "model_name": "Comfy Desktop",
+    "core_insight": "ComfyUI 워크플로우 관리 앱 출시, 다중 인스턴스 및 자동 스냅샷 지원",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "ComfyUI를 활용한 미디어아트 컨셉 이미지 및 텍스처 생성 시, 복잡한 노드 관리와 업데이트로 인한 오류 발생 위험을 줄여줌. 여러 ComfyUI 인스턴스를 동시에 운영하며 다양한 스타일의 이미지/영상 소스를 효율적으로 실험하고 제작할 수 있어, Photoshop 컨셉 작업 및 Unreal Engine 텍스처 파이프라인의 생산성을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tx4wsm/announcing_comfy_desktop_one_app_for_every_comfy/",
+    "date": "2026-06-05",
+    "original_title": "Announcing Comfy Desktop: One App for every Comfy, rolling out 100% by Monday June 8"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "Midjourney의 복잡한 프롬프트 해석 및 특정 테마 이미지 생성 능력 시연",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 제작 시 복잡한 세계관이나 특정 분위기를 묘사하는 레퍼런스 이미지 생성에 활용 가능. 미디어아트 프로젝트의 초기 시각화 단계에서 다양한 실험적 아이디어를 빠르게 구체화하여 Adobe Photoshop 작업 시간을 단축할 수 있음.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tx0qgq/various_corporate_experiments/",
+    "date": "2026-06-05",
+    "original_title": "Various Corporate Experiments"
+  },
+  {
+    "model_name": "AI 영상 생성 기술 (사용자 제작 사례)",
+    "core_insight": "AI 영상 생성 기술의 사용자 활용 범위 확장 및 복합 콘텐츠 제작 가능성 입증",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "V2V",
+      "사운드/음성"
+    ],
+    "application_idea": "AI 영상 생성 기술로 장편 스토리텔링이 가능해짐을 보여줌. 전시 공간 내 서사적 미디어아트 영상, 프로젝션 매핑 스토리라인 제작 시 긴 호흡의 시퀀스를 AI로 구성하여 제작 시간 단축 기대. 복잡한 캐릭터 애니메이션이나 배경 영상 제작에도 활용하여 몰입감 있는 체험 콘텐츠 구현에 기여.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1twses7/humanbug_skirmish_my_longawaited_passion_project/",
+    "date": "2026-06-05",
+    "original_title": "Human-Bug Skirmish: My long-awaited passion project finished | AI Short Film [Free to Share]"
+  },
+  {
+    "model_name": "AI 영상 생성 도구 (미상)",
+    "core_insight": "AI를 활용하여 개인의 꿈을 영상으로 재현한 사례 공개",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2V"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 플랫폼 업데이트가 아니므로 영향이 낮음. 다만, 관람객의 추상적인 아이디어나 기억을 즉석에서 시각화하는 인터랙티브 콘텐츠 아이디어 탐색에 참고 가능. Unreal Engine이나 TouchDesigner에서 실시간으로 생성된 영상을 활용하는 방안을 연구해볼 수 있음.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1twqpra/i_recreated_a_dream_using_ai_more_info_in_comments/",
+    "date": "2026-06-05",
+    "original_title": "I recreated a dream, using AI - [more info in comments]"
+  }
+]
