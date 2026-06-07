@@ -1,0 +1,45 @@
+[
+  {
+    "model_name": "OpenAI (기업)",
+    "core_insight": "트럼프 행정부, OpenAI 지분 인수 논의 중",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, OpenAI의 장기적인 개발 방향이나 서비스 정책에 정부의 영향력이 커질 수 있어, 향후 모델 접근성이나 기능 개발 우선순위에 간접적인 변화가 있을 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "date": "2026-06-07",
+    "original_title": "The Trump administration might take an equity stake in OpenAI"
+  },
+  {
+    "model_name": "Ideogram 4",
+    "core_insight": "오픈소스 모델 중 최고 수준의 이미지 품질 달성 (선별적)",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "오픈소스 모델 중 최고 수준의 이미지 품질을 제공하므로, 전시 컨셉 아트나 미디어월 배경 이미지 제작 시 초기 시안 생성 도구로 활용 가능. 특히 저작권 이슈에 민감한 프로젝트에서 상업적 활용이 자유로운 오픈소스 모델의 대안으로 고려할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tyfvo0/ideogram_4_can_product_great_stuff_sometimes/",
+    "date": "2026-06-07",
+    "original_title": "Ideogram 4 can product great stuff sometimes"
+  },
+  {
+    "model_name": "Ideogram 4.0",
+    "core_insight": "Ideogram 4.0 출시, 이미지 생성 품질 및 프롬프트 지원 대폭 개선",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "새로운 전시 컨셉 아트 및 미디어아트 시안 제작 시 고품질 이미지 생성으로 기획 단계 효율 증대. 프롬프트 지원 기능으로 원하는 스타일과 분위기를 빠르게 구현하여 Photoshop 작업 시간 단축. Unreal Engine용 텍스처나 배경 이미지 생성에도 활용 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ty9uzs/ideogram_40_examples_with_prompt_assist/",
+    "date": "2026-06-07",
+    "original_title": "Ideogram 4.0 Examples with prompt assist"
+  }
+]
