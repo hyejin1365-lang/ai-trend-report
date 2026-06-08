@@ -1,0 +1,296 @@
+[
+  {
+    "model_name": "Hugging Face (프로젝트명: Amazing Digital Dentures)",
+    "core_insight": "디지털 의치 개발 프로젝트 실패로 관련 AI 기술 상용화 지연 예상",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 기사 내용 부족으로 구체적인 AI 기술 활용 방안 제안 불가.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+    "date": "2026-06-08",
+    "original_title": "Amazing Digital Dentures (a failed project)"
+  },
+  {
+    "model_name": "AI 서비스 전반",
+    "core_insight": "주요 AI 기업 상장 임박, 토큰/API 사용료 전반적 인상 전망",
+    "update_type": "가격/플랜",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "AI 도구 사용 비용 증가에 대비하여 프로젝트 예산 계획 시 AI 활용 비용을 상향 조정해야 함. 특히 영상 생성, 3D 자산 생성 등 고비용 작업의 경우, 여러 플랫폼의 가격 변동을 주시하며 비용 효율적인 대안을 적극적으로 모색해야 함.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+    "date": "2026-06-08",
+    "original_title": "Is this the dawn of the Tokenpocalypse?"
+  },
+  {
+    "model_name": "Notion AI (Anthropic)",
+    "core_insight": "노션 내 앤트로픽 AI 서비스 중단 후 접근 복구",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "노션 내 앤트로픽 AI를 활용하여 전시 기획안, 미디어아트 컨셉 스크립트 작성 및 아이디어 발상에 다시 활용 가능. 프로젝트 문서화 및 팀 커뮤니케이션 효율성 증대.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+    "date": "2026-06-08",
+    "original_title": "Notion restores access to Anthropic after service disruption"
+  },
+  {
+    "model_name": "OpenAI Super App",
+    "core_insight": "OpenAI가 채팅 중심에서 벗어나 통합 '슈퍼 앱' 개발에 집중",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "다양한 AI 기능을 한 앱에서 통합하여 전시/미디어아트 콘텐츠 제작 파이프라인을 간소화할 수 있음. 컨셉 기획부터 이미지, 영상, 사운드 등 다양한 자산 생성을 한 곳에서 처리하여 Unreal Engine/TouchDesigner 작업 전 단계를 효율화. 특히 여러 AI 도구 간 전환 없이 일관된 스타일과 톤으로 콘텐츠를 제작하는 데 유리할 것.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "date": "2026-06-08",
+    "original_title": "OpenAI is still working on that ‘super app’"
+  },
+  {
+    "model_name": "Ideogram 4",
+    "core_insight": "검열 우회 방법 발견, 이미지 생성 제약 해소로 표현의 자유 확대",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "미디어아트 및 전시 콘텐츠 기획 시 검열 제약 없이 자유로운 컨셉 이미지 생성 가능. 특정 주제나 표현에 대한 제한 없이 다양한 시안을 빠르게 제작하여 아이디어 구체화에 도움. Photoshop을 활용한 최종 이미지 합성 전 초기 시각화 작업 효율을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tz4fnf/ideogram_4_a_solution_for_removing_the_annoying/",
+    "date": "2026-06-08",
+    "original_title": "Ideogram 4: a solution for removing the annoying censorship has been found."
+  },
+  {
+    "model_name": "Ideogram 4",
+    "core_insight": "상세한 프롬프트로 이미지 내 객체 배치, 색상, 깊이 정밀 제어 가능",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "프로젝션 매핑이나 미디어월용 컨셉 이미지 제작 시, 특정 객체의 위치, 색상, 깊이감을 사전에 정밀하게 지정하여 원하는 구도를 빠르게 구현 가능. Photoshop에서 초기 컨셉 스케치 단계를 대체하여 작업 효율을 높일 수 있음. 복잡한 장면 구성이 필요한 전시 배경 이미지 생성에 유용.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tzmord/ideogram_4_star_wars_poster/",
+    "date": "2026-06-08",
+    "original_title": "Ideogram 4 Star Wars poster"
+  },
+  {
+    "model_name": "ComfyUI 커스텀 노드 (보안 경고)",
+    "core_insight": "ComfyUI 커스텀 노드로 위장한 악성코드 유포 주의보",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "ComfyUI를 활용한 이미지/영상 생성 워크플로우에서 커스텀 노드 설치 시 각별한 주의가 필요함. 출처 불분명한 GitHub 저장소는 반드시 검토 후 사용해야 하며, 팀 내 보안 가이드라인 강화 논의가 필요함. 특히 3D 자산 텍스처나 미디어아트 소스 이미지 생성 시 악성코드 감염으로 인한 프로젝트 지연 및 데이터 손실 방지를 위해 사전 검증 절차 마련이 중요함.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tzq7js/psa_a_possible_malware_disguised_as_comfyui/",
+    "date": "2026-06-08",
+    "original_title": "PSA: A possible malware disguised as ComfyUI custom node Claude skills on GitHub"
+  },
+  {
+    "model_name": "Ideogram v4",
+    "core_insight": "바운딩 박스로 만화책 페이지 레이아웃 정밀 제어, 일관된 캐릭터 생성",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 스토리보드 및 컨셉 아트 제작 시, 특정 장면의 구도와 패널 구성을 바운딩 박스로 정밀하게 제어하여 시각화 효율 증대. 미디어월이나 인터랙티브 키오스크용 내러티브 콘텐츠의 시퀀스 이미지 생성에 활용하여 제작 시간 단축. Unreal Engine이나 TouchDesigner에서 사용할 텍스처 아틀라스나 UI 요소 배치 아이디어 구상에도 도움.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tz6vz2/ideogram_4_is_amazing_for_comic_book_pages/",
+    "date": "2026-06-08",
+    "original_title": "Ideogram 4 is amazing for comic book pages"
+  },
+  {
+    "model_name": "Ideogram 4.0 LORA (Arcane style)",
+    "core_insight": "Ideogram 4.0 기반 아케인 스타일 LORA 공개, Huggingface에서 다운로드 가능",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "미디어아트 전시의 컨셉 이미지 제작 시, '아케인' 스타일의 독특한 비주얼을 빠르게 구현하여 초기 디자인 단계의 효율성을 높일 수 있음. Unreal Engine 기반의 VR/AR 콘텐츠 제작 시 배경이나 캐릭터 디자인에 일관된 스타일을 적용하여 시각적 완성도를 높이는 데 활용 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tzjp4y/arcane_style_ideogram_40_lora_experimental/",
+    "date": "2026-06-08",
+    "original_title": "Arcane style - Ideogram 4.0 LORA - Experimental"
+  },
+  {
+    "model_name": "Ideogram 4",
+    "core_insight": "Ideogram 4 검열 우회 및 활용법 논의 활발",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트나 미디어아트 시안 제작 시, 기존 모델의 검열로 인해 표현이 어려웠던 특정 주제나 스타일의 이미지를 생성하는 데 활용 가능. Photoshop에서 후처리하기 전, 원하는 원본 이미지를 얻는 데 도움이 될 것.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1tz2qkj/uncensoring_ideogram_4_whats_the_consensus_whats/",
+    "date": "2026-06-08",
+    "original_title": "Uncensoring Ideogram 4: Whats the Consensus, Whats the best Practice(s)? Discuss Here :)"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "Midjourney 사용자 작품 공유, 이미지 생성 품질 지속적 개선 확인",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Midjourney의 최신 이미지 생성 트렌드를 파악하여 전시 컨셉 아트 및 미디어월 배경 이미지 제작에 활용. 'Pearl's Girl'과 같은 특정 스타일의 작품을 참고하여 Photoshop 컨셉 이미지 작업의 레퍼런스로 사용, 프로젝트 초기 시각화 단계에서 아이디어를 구체화.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tyztus/pearls_girl/",
+    "date": "2026-06-08",
+    "original_title": "Pearl’s Girl"
+  },
+  {
+    "model_name": "Midjourney v8.1",
+    "core_insight": "프롬프트 거부 메시지 변경 및 무작위 이미지 생성 현상 발생",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "미디어아트 컨셉 이미지 제작 시, 복잡하거나 민감한 프롬프트 입력 시 기존과 다른 거부 메시지와 함께 무작위 이미지가 생성될 수 있음. Photoshop을 활용한 컨셉 시안 작업 시, Midjourney의 프롬프트 제약 사항을 고려하여 명확하고 간결한 지시어를 사용하는 전략이 필요함.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tzpbj2/im_not_able_to_help_with_this_request/",
+    "date": "2026-06-08",
+    "original_title": "I'm not able to help with this request"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "Midjourney의 다양한 이미지 생성 주제(Hog)에 대한 사용자 활용 사례 확인",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "제공된 정보는 Midjourney의 특정 주제(Hog) 이미지 생성 사례이며, 구체적인 업데이트 내용은 포함되어 있지 않음. 전시 컨셉 아트나 미디어아트 배경 이미지 제작 시 Midjourney의 폭넓은 T2I 능력을 활용하여 다양한 시안을 빠르게 탐색하는 데 참고 가능.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tza6mx/hog/",
+    "date": "2026-06-08",
+    "original_title": "Hog"
+  },
+  {
+    "model_name": "Midjourney",
+    "core_insight": "도자기 질감 및 섬세한 예술적 표현 능력 강화",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 공간 내 오브제, 조형물 컨셉 이미지 제작 시 사실적인 도자기 질감 표현이 가능. 미디어아트 배경 요소나 가상 박물관 콘텐츠 제작 시 고품질의 전통 공예품 이미지를 빠르게 생성하여 디자인 초기 단계 효율을 높일 수 있음.",
+    "source": "Reddit - midjourney",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/midjourney/comments/1tz329f/porcelain/",
+    "date": "2026-06-08",
+    "original_title": "Porcelain"
+  },
+  {
+    "model_name": "AI 영상 생성 기술 (사용자 프로젝트)",
+    "core_insight": "사이버펑크 AI 영상 제작 노하우 및 렌더링 문제 해결법 공유",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "V2V",
+      "립싱크/캐릭터",
+      "3D"
+    ],
+    "application_idea": "복잡한 테마의 AI 영상 제작 시 필요한 워크플로우와 고급 기술을 학습하는 데 활용. '무한 렌더'와 같은 기술적 난관 해결 사례를 통해 Unreal Engine 등 3D 툴 연동 시 발생할 수 있는 문제에 대한 인사이트 확보. 미디어아트 전시의 고품질 시퀀스 제작에 응용 가능.",
+    "source": "Reddit - aivideo",
+    "category": "영상",
+    "link": "https://www.reddit.com/r/aivideo/comments/1tz6fyg/cyberpunk_2077_fashion_show_backstage_full/",
+    "date": "2026-06-08",
+    "original_title": "Cyberpunk 2077 Fashion Show (Backstage) Full breakdown & the \"infinite render\" story in the comments"
+  },
+  {
+    "model_name": "gemma-4-26B-A4B",
+    "core_insight": "Gemma-4-26B-A4B 모델, 구형 CPU에서 GPU 없이 고성능 구동 가능",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서 인터랙티브 텍스트 생성 시스템을 저렴한 하드웨어로 구축 가능. TouchDesigner나 Unreal Engine 기반 프로젝트에서 스크립트 보조 및 디버깅용 로컬 LLM으로 활용하여 개발 효율 증대.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tz5ffp/you_dont_need_a_gpu_to_run_gemma426ba4b/",
+    "date": "2026-06-08",
+    "original_title": "You don't need a GPU to run gemma-4-26B-A4B"
+  },
+  {
+    "model_name": "Qwen 3.6 27B",
+    "core_insight": "Qwen 3.6 27B 모델의 KV 캐시 양자화 벤치마크 공개, 장문 처리 효율 개선",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만 TouchDesigner/Unreal 프로젝트의 복잡한 스크립트 작성 및 디버깅 시 긴 컨텍스트 처리 능력이 향상되어 개발 생산성 증대. 인터랙티브 전시의 내러티브 생성이나 사용자 질의응답 시스템 구축 시 더 길고 복잡한 대화 흐름을 효율적으로 처리 가능.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tza4ji/qwen_36_27b_kv_cache_quant_benchmarks_75_pairs/",
+    "date": "2026-06-08",
+    "original_title": "Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ"
+  },
+  {
+    "model_name": "programasweights Avatar Controller",
+    "core_insight": "언어로 3D 아바타 제어, 복합 동작도 자연어 지시로 구현",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "3D",
+      "립싱크/캐릭터",
+      "멀티모달"
+    ],
+    "application_idea": "전시 내 인터랙티브 체험존에서 관람객의 자연어 질문에 따라 3D 캐릭터 안내원이 즉흥적인 동작으로 반응하도록 구현 가능. VR/AR 콘텐츠 내 NPC의 복잡한 행동 패턴을 스크립트 없이 실시간으로 생성하여 몰입도를 높일 수 있음. 기존 캐릭터 애니메이션 작업 시 반복적인 동작 스크립팅 시간을 대폭 단축.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzgn87/control_a_3d_avatar_with_language_instead_of/",
+    "date": "2026-06-08",
+    "original_title": "Control a 3D avatar with language instead of buttons"
+  },
+  {
+    "model_name": "비-LLM AI 툴 (커뮤니티 논의)",
+    "core_insight": "일상에서 활용되는 특이하거나 저평가된 비-LLM AI 툴 발굴 논의",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "T2V",
+      "I2V",
+      "V2V",
+      "3D",
+      "립싱크/캐릭터",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "이러한 커뮤니티 논의를 통해 우리 팀이 간과했을 수 있는 니치 AI 툴을 발굴하고, 기존 워크플로우의 특정 병목 현상을 해결할 새로운 접근법을 모색할 수 있음. 특히 영상 생성, 이미지 편집, 3D 자산 생성 등 주력 분야에서 효율성을 높일 비주류 솔루션 탐색에 활용.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1tzbxsm/whats_your_most_unusual_nonllm_ai_you_actually/",
+    "date": "2026-06-08",
+    "original_title": "What’s your most unusual non-LLM AI you actually use daily?"
+  }
+]
