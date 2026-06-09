@@ -1,0 +1,15 @@
+[
+  {
+    "model_name": "OpenAI",
+    "core_insight": "OpenAI, 미 SEC에 S-1 서류 비공개 제출 확인",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "OpenAI의 잠재적 IPO는 장기적으로 AI 모델 개발에 더 많은 자금을 투입할 수 있게 하여, Sora, DALL-E 등 우리 팀이 사용하는 도구들의 발전 속도를 가속화할 수 있음. 당장 직접적인 영향은 없으나, 미래 기술 로드맵에 긍정적 신호로 해석 가능.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/openai-submits-confidential-s-1",
+    "date": "2026-06-09",
+    "original_title": "Confidential submission of draft S-1 to the SEC"
+  }
+]
