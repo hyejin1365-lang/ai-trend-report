@@ -1,0 +1,17 @@
+[
+  {
+    "model_name": "DiffusionGemma",
+    "core_insight": "텍스트를 이미지 스타일 확산 모델로 생성, 블록 단위 처리 및 실시간 오류 수정",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "TouchDesigner나 Unreal Engine 기반의 인터랙티브 콘텐츠 개발 시, 복잡한 스크립트나 코드 생성 및 디버깅을 로컬 환경에서 고속으로 지원하여 개발 효율을 높일 수 있음. 실시간 오류 수정 기능으로 안정적인 코드 제안이 가능해, 개발 과정의 시행착오를 줄여줄 것으로 기대됨. 또한, 전시 내 동적 텍스트나 캐릭터 대사 생성에 활용하여 콘텐츠의 유연성을 확보할 수 있음.",
+    "source": "Reddit - LocalLLaMA",
+    "category": "LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1u29mlk/deepmind_just_dropped_diffusiongemma_text/",
+    "date": "2026-06-11",
+    "original_title": "DeepMind Just Dropped \"DiffusionGemma\" — Text Generation via Image-Style Diffusion Model"
+  }
+]
