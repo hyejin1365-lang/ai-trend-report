@@ -1,0 +1,48 @@
+[
+  {
+    "model_name": "Ideogram 4 (인페인팅 LoRA)",
+    "core_insight": "Ideogram 4, 커뮤니티 LoRA 활용 이미지 편집/인페인팅 가능성 발견",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "미디어아트 전시용 컨셉 이미지 제작 시, 특정 영역의 오브젝트나 배경을 정교하게 수정/교체하여 반복적인 디자인 작업 시간을 단축할 수 있음. 프로젝션 매핑 콘텐츠 제작을 위한 배경 이미지 생성 후, 특정 건물이나 지형지물에 맞춰 세부적인 디테일을 인페인팅하여 합성 품질을 높이는 데 활용 가능. 현재는 초기 단계이나, 향후 안정화되면 Photoshop 작업의 일부를 대체하여 워크플로우 효율성을 높일 잠재력이 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1u5f0he/ideogram_4_can_be_taught_to_edit_inpaint_with_a/",
+    "date": "2026-06-15",
+    "original_title": "Ideogram 4 Can be Taught to Edit / Inpaint with a LoRA (and some tweaks)"
+  },
+  {
+    "model_name": "New LTX Model",
+    "core_insight": "새로운 LTX 모델 개발 및 훈련 진행 중",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "새로운 이미지 생성 AI 모델의 등장은 전시 컨셉 아트 및 미디어아트 초기 시안 제작 단계에서 활용될 가능성이 높음. Unreal Engine이나 TouchDesigner 프로젝트를 위한 텍스처, 스카이박스 등 2D 자산 생성에 기여하여 초기 개발 속도를 높일 수 있음. 기존 Photoshop 작업의 컨셉 이미지 생성 단계를 대체하여 아이디어 구체화 시간을 단축할 수 있을 것으로 기대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1u5y34w/training_underway_for_the_new_ltx_model/",
+    "date": "2026-06-15",
+    "original_title": "Training Underway for the New LTX Model"
+  },
+  {
+    "model_name": "Ideogram 4",
+    "core_insight": "소비자 하드웨어 구동 가능한 오픈소스 이미지 모델, 저사양 GPU 지원",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "저사양 GPU에서도 구동 가능하므로, 초기 컨셉 아트나 미디어아트 프로젝트의 단순 배경 이미지 생성에 활용하여 클라우드 비용 절감. ComfyUI 워크플로우를 통해 AfterEffects/Photoshop 작업 전 다양한 스타일 및 구도 실험에 용이하며, 팀 내 개인 작업자의 리소스 부담을 줄일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1u5h3ag/ideogram_4_is_crazy_good/",
+    "date": "2026-06-15",
+    "original_title": "Ideogram 4 is crazy good."
+  }
+]
