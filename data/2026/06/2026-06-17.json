@@ -1,0 +1,236 @@
+[
+  {
+    "model_name": "OpenAI Deployment Simulation",
+    "core_insight": "실제 대화 데이터로 AI 모델 출시 전 안전성 및 정확도 예측",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, OpenAI의 향후 모델(Sora, DALL-E 등)이 더 높은 안전성과 예측 가능성을 가지고 출시될 것이므로, 프로젝트에 활용 시 예상치 못한 문제 발생 위험이 줄어들 것으로 기대됨.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/deployment-simulation",
+    "date": "2026-06-17",
+    "original_title": "Predicting model behavior before release by simulating deployment"
+  },
+  {
+    "model_name": "Google DeepMind 주택 건설 AI 프로토타입",
+    "core_insight": "영국 주택 건설 인허가 절차 AI로 가속화 시도",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 도시 계획이나 건축 관련 전시 콘텐츠 제작 시, AI 기반의 데이터 분석 및 시뮬레이션 과정을 시각화하는 미디어아트 작품 아이디어로 활용 가능. 또한, AI가 복잡한 데이터를 처리하고 의사결정을 돕는 방식은 향후 공간 콘텐츠 제작 파이프라인 최적화 연구에 영감을 줄 수 있음.",
+    "source": "Google DeepMind",
+    "category": "LLM",
+    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "date": "2026-06-17",
+    "original_title": "Unlocking UK house-building with AI-accelerated planning"
+  },
+  {
+    "model_name": "Google Gemini (Android/Pixel)",
+    "core_insight": "최신 Gemini AI 모델이 안드로이드 기기에 통합되어 온디바이스 AI 기능 확장",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 현장 답사 시 아이디어 스케치나 레퍼런스 이미지/영상 촬영 후 즉석에서 AI 편집 기능을 활용하여 컨셉 시안을 빠르게 생성하는 보조 도구로 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "date": "2026-06-17",
+    "original_title": "Android 17 launches with new multitasking tools as Google expands Gemini features"
+  },
+  {
+    "model_name": "AI 브랜드 메시징",
+    "core_insight": "미국 소비자 60%가 브랜드 메시지의 'AI' 언급에 거부감 표명",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 콘텐츠 기획 및 홍보 시, AI 활용 사실을 전면에 내세우기보다 결과물의 창의성과 몰입감에 집중해야 함. 특히 관람객 대상의 안내 문구나 홍보 자료에서는 'AI'라는 단어 사용을 최소화하여 잠재적 거부감을 줄일 수 있음. 내부 제작 효율성 증대에는 AI를 적극 활용하되, 대외 커뮤니케이션 전략에서는 신중한 접근이 필요함.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+    "date": "2026-06-17",
+    "original_title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds"
+  },
+  {
+    "model_name": "xAI 운영 인프라",
+    "core_insight": "xAI 무허가 가스터빈 사용, 국가 안보 문제로 DOJ 조사",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "xAI의 인프라 관련 이슈는 직접적으로 공간 콘텐츠 제작에 영향을 주지 않음. 다만, AI 서비스의 안정성 및 비용에 간접적인 영향을 미칠 수 있으므로, 장기적인 AI 플랫폼 선택 시 기업의 운영 리스크도 고려해야 할 필요가 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+    "date": "2026-06-17",
+    "original_title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’"
+  },
+  {
+    "model_name": "Plaud AI Notetaker Software",
+    "core_insight": "Plaud AI 노트테이커 소프트웨어 사업 연간 매출 1억 달러 달성",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시 기획 회의록 자동 생성 및 요약에 활용하여 아이디어 도출 과정 효율화. 관람객 음성 피드백을 실시간 텍스트로 변환하여 인터랙티브 콘텐츠에 반영하거나, 전시 후 피드백 분석에 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+    "date": "2026-06-17",
+    "original_title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers"
+  },
+  {
+    "model_name": "AI 고용 시장 동향",
+    "core_insight": "로빈후드 CEO, AI를 해고 사유로 언급하지 않아 타사와 대조",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "AI의 고용 시장 영향에 대한 일반적인 동향으로, 공간 콘텐츠 제작 실무에 직접적인 기술 적용 아이디어는 없음. 다만, AI 도입에 따른 인력 운영 전략 수립 시 참고할 수 있는 간접적인 정보.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+    "date": "2026-06-17",
+    "original_title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it"
+  },
+  {
+    "model_name": "Probably AI",
+    "core_insight": "환각 및 사실 오류 방지, 결정론적 시스템 수준의 정확도 목표",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "전시 내러티브, 인터랙티브 체험존의 안내 문구, 캐릭터 대사 등 AI 생성 텍스트의 신뢰도를 높여 콘텐츠 오류 위험을 줄임. 3D 자산이나 영상 생성 시 사실 기반의 정확한 결과물을 얻어 후반 작업 수정 비용을 절감할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+    "date": "2026-06-17",
+    "original_title": "Probably raises $9M to build a more reliable kind of AI"
+  },
+  {
+    "model_name": "Cursor",
+    "core_insight": "SpaceX, AI 역량 강화를 위해 코딩 AI 플랫폼 Cursor 인수",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "Unreal Engine 및 TouchDesigner 프로젝트의 스크립트 작성 및 디버깅 시간을 단축. 복잡한 인터랙티브 로직 구현 시 AI의 코드 제안 및 최적화 기능을 활용하여 개발 효율성을 높일 수 있음. 새로운 API 학습 및 통합 과정에서 보조 도구로 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "date": "2026-06-17",
+    "original_title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO"
+  },
+  {
+    "model_name": "Archer (8 characters + style) Ideogram LORA",
+    "core_insight": "하나의 LORA로 8개 캐릭터와 스타일 동시 생성 및 개별 제어 가능",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "Photoshop 컨셉 이미지 단계에서 다수의 캐릭터가 등장하는 복잡한 장면을 빠르게 시각화. 프로젝션 매핑이나 미디어월 콘텐츠 제작 시, 여러 캐릭터의 상호작용이 필요한 연출을 위한 레퍼런스 이미지 생성에 활용. Unreal Engine 기반 VR/AR 콘텐츠의 초기 캐릭터 배치 및 구도 설정 단계에서 효율적인 아이디어 스케치 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1u7jlgb/potentially_the_most_insane_lora_youll_see_today/",
+    "date": "2026-06-17",
+    "original_title": "Potentially the most insane LORA you'll see today - Archer (8 characters + style) Ideogram LORA"
+  },
+  {
+    "model_name": "SCAIL-2 Infinity",
+    "core_insight": "무제한 길이 영상 생성 시 수동 샘플러 연결 불필요, Pusa LoRA 통합으로 품질 향상",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2V"
+    ],
+    "application_idea": "전시 미디어월, 프로젝션 매핑 등 장시간 재생되는 공간 콘텐츠의 배경 영상 제작 시 수동 연결 없이 연속적인 고품질 영상 생성 가능. 긴 서사적 전시 영상 제작 시 AfterEffects 등에서 클립 연결 및 일관성 유지 작업이 대폭 감소하여 제작 효율성 증대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1u7m255/scail2_infinity_a_single_node_for_unlimitedlength/",
+    "date": "2026-06-17",
+    "original_title": "SCAIL-2 Infinity — a single node for unlimited-length video (no more chaining samplers) + Pusa LoRA integration"
+  },
+  {
+    "model_name": "SCAIL-2",
+    "core_insight": "움직임 참조 영상 기반 스타일화된 비디오 생성, 고사양 및 긴 렌더링 시간 필요",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "V2V"
+    ],
+    "application_idea": "프로젝션 매핑이나 미디어월 배경 영상 제작 시, 특정 움직임 패턴을 기반으로 독특한 스타일의 영상을 생성하여 시각적 몰입감을 높일 수 있음. 기존 영상 소스를 활용해 미디어아트 작품의 특정 시퀀스에 예술적 변형을 가하거나, 캐릭터의 움직임을 참조하여 비현실적인 애니메이션을 구현하는 데 실험적으로 적용 가능. 다만 높은 렌더링 시간과 아티팩트 발생 가능성으로 인해, 최종 결과물에 대한 추가적인 후처리 작업이 필요할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1u7s5v4/the_incredible_sponge_made_with_scail2/",
+    "date": "2026-06-17",
+    "original_title": "The Incredible Sponge — made with SCAIL-2"
+  },
+  {
+    "model_name": "ComfyUI v0.25.0",
+    "core_insight": "WEBM 투명도 저장 및 3D 가우시안 스플랫/포인트 클라우드 미리보기 기능 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "V2V",
+      "3D",
+      "T2I",
+      "T2V",
+      "I2V",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "프로젝션 매핑 및 미디어월 콘텐츠 제작 시 WEBM 알파 채널 저장을 통해 배경 분리 객체 영상을 AfterEffects 합성 없이 바로 활용 가능. 3D 가우시안 스플랫/포인트 클라우드 미리보기 노드로 Unreal Engine용 3D 자산 생성 파이프라인의 중간 검토 효율성 증대. Krea 2 Turbo 모델 및 Gemini 텍스트 노드 연동으로 영상/이미지 생성 및 텍스트 기반 제어 옵션이 확장되어 다양한 컨셉 시안 제작에 유용.",
+    "source": "GitHub - ComfyUI Releases",
+    "category": "이미지",
+    "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.25.0",
+    "date": "2026-06-17",
+    "original_title": "v0.25.0"
+  },
+  {
+    "model_name": "해당 없음",
+    "core_insight": "AI 트렌드 분석 범위에 해당하지 않는 위성 통신 기업 인수 소식",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "이 기사는 AI 플랫폼 업데이트와 무관하여 공간 콘텐츠 제작 실무에 적용할 아이디어를 도출할 수 없음.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSEljNXRSUzZhRFkwMkc4VDJiaFRXR3hCRjZReHhuazFwelNhUkxWRWpyRzgtc1Jka0hSa05HN2lDb21VT3RxNnZ1c3U5ZV9YUUNJQl84RkhuYXpRY3JGQ2hDLTVxN3R3aWVQV2xnWlNpQ3NObVhPUnpoYkFycDZRSzI0MHZLdXNhcWtIeEhYcXVGaE9yamk1cXA4VQ?oc=5",
+    "date": "2026-06-17",
+    "original_title": "Press Release: Gilat to acquire Comtech satellite & space comms - Runway Girl"
+  },
+  {
+    "model_name": "Anthropic Claude",
+    "core_insight": "Anthropic AI의 외부 시스템 통합 및 개발자 지원 강화",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 콘텐츠 생성 영향은 낮음. 하지만 TouchDesigner, Unreal Engine 프로젝트 개발 시 스크립트 작성 및 디버깅 보조, 또는 복잡한 시스템 통합 설계 단계에서 LLM의 도움을 받아 생산성 향상 기대.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcy1ZZk9wNDc1WVRpTVl2enJKeHBsWmJwT3dwVUp5bVNieGc2OEhKaDlSdF9vZFlNN1Y0VUFKWWRjQWdJcTNzQlpqV2xXcnJ2eGlSMmZheVg2aXlWUWxZTmstTWZGS3pfN0ZxeUtqdXBJVUJNU0RRQXNYVU5Mb0NXRmFmN0tTeV9tMDljb3o4aWtSZ1d5R01XY0t2dGluUElKbE9fZXJKWldqcE5NbW1kNUN3WXg1RTJ1SVgzaExvTGNaeGgtWldMMGhtRHk0YlZabU1OWnBvMXR0aHV1?oc=5",
+    "date": "2026-06-17",
+    "original_title": "AI & Tech Brief: Anthropic’s army of AI integrators - The Washington Post"
+  },
+  {
+    "model_name": "GLM-5.2",
+    "core_insight": "장문 코딩 벤치마크에서 GPT-5.5 능가, 비용은 1/6 수준",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만 TouchDesigner나 Unreal Engine 프로젝트의 복잡한 스크립트 작성 및 디버깅 보조에 활용하여 개발 비용 절감 및 효율성 증대 기대.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWdHTVgtOTZYbHBKN1licHR2ajVhSnRJaVdoVWdRSW82SU5SVnJYNnhFYXlIRDlISDZJNm9xMUprb0JfekZpTUZSVENCay1vVDBkeTlhaEcwZU41Z2JSQUYtWHBHbVJBX2FmYlp0RDYwY3ZUU2EtaVM3eFk4anVBdXItNy1jczI2Z1kxSDFobnFtWTF6U2lxMEpaa1JXZWRkUFhORmtrNFV1TldvMmxFNUM3cjRMN2tDMkpmc3FxMG9QUnI4X3U0ZnQ5SFdGZHJyczRF?oc=5",
+    "date": "2026-06-17",
+    "original_title": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost - VentureBeat"
+  }
+]
