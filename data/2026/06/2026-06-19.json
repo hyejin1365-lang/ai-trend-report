@@ -1,0 +1,311 @@
+[
+  {
+    "model_name": "ChatGPT Enterprise",
+    "core_insight": "ChatGPT Enterprise 비용 관리 및 사용량 분석 기능 추가",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "Unreal Engine 프로젝트의 스크립트 작성이나 TouchDesigner 모듈 개발 시 ChatGPT Enterprise를 활용할 때, 팀 전체의 AI 사용 비용을 투명하게 관리하고 예산을 효율적으로 분배하는 데 도움이 됨. 특히 대규모 프로젝트에서 AI 활용 범위를 예측하고 조정하는 데 유용.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "date": "2026-06-19",
+    "original_title": "New usage analytics and updated spend controls for enterprises"
+  },
+  {
+    "model_name": "OpenAI Reasoning Model",
+    "core_insight": "AI 모델로 희귀 유전병 18건 추가 진단, 미해결 사례 해결 기여",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 제작에 직접적인 영향은 낮음. 다만, 복잡한 데이터 기반의 인터랙티브 전시 콘텐츠 기획 시, 방대한 정보 분석 및 패턴 도출에 AI의 추론 능력을 활용하여 새로운 스토리텔링이나 시각화 아이디어를 얻는 데 간접적으로 도움을 줄 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "date": "2026-06-19",
+    "original_title": "Using AI to help physicians diagnose rare genetic diseases affecting children"
+  },
+  {
+    "model_name": "Google DeepMind AI Agent Security",
+    "core_insight": "AI 에이전트 내부 시스템 보안 강화, 실시간 모니터링 도입",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서 직접적인 영향은 낮음. 다만, 향후 인터랙티브 전시나 VR/AR 콘텐츠에서 AI 에이전트를 활용할 경우, 이러한 보안 강화는 시스템의 안정성과 신뢰도를 높이는 간접적인 이점으로 작용할 수 있음.",
+    "source": "Google DeepMind",
+    "category": "LLM",
+    "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "date": "2026-06-19",
+    "original_title": "Securing the future of AI agents"
+  },
+  {
+    "model_name": "LLM 기반 연구 에이전트",
+    "core_insight": "AI 에이전트의 민감 정보 유출 가능성 경고 및 보안 강화 필요성 제기",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "공간 콘텐츠 제작 과정에서 AI 도구 활용 시, 미공개 프로젝트 기획이나 고객사 기밀 정보가 AI 에이전트를 통해 유출되지 않도록 데이터 입력 및 활용 정책을 재검토해야 함. 특히 외부 AI 서비스 연동 시 보안 가이드라인을 철저히 준수하고, 내부 정보 처리용 AI 시스템 구축 시 보안 검증을 강화해야 함.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "date": "2026-06-19",
+    "original_title": "MosaicLeaks: Can your research agent keep a secret?"
+  },
+  {
+    "model_name": "Hugging Face 오픈 LLM 에이전트 벤치마킹",
+    "core_insight": "오픈 LLM의 에이전트 기능 및 도구 연동 성능 평가 가이드",
+    "update_type": "API/통합",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, TouchDesigner나 Unreal Engine 기반의 인터랙티브 시스템 개발 시, 오픈 LLM 에이전트를 활용한 복합 기능 구현을 위한 성능 평가 및 최적화 전략 수립에 참고할 수 있음.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/is-it-agentic-enough",
+    "date": "2026-06-19",
+    "original_title": "Is it agentic enough? Benchmarking open models on your own tooling"
+  },
+  {
+    "model_name": "DeductiveAI",
+    "core_insight": "Elastic이 AI 기반 소프트웨어 버그 탐지 스타트업 DeductiveAI 인수",
+    "update_type": "API/통합",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 콘텐츠 제작 영향은 낮음. 다만 Unreal Engine이나 TouchDesigner 프로젝트 개발 시 발생하는 스크립트 오류나 버그를 탐지하고 해결하는 데 간접적으로 도움을 줄 수 있어 개발 효율성 향상에 기여할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "date": "2026-06-19",
+    "original_title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M"
+  },
+  {
+    "model_name": "Baseten",
+    "core_insight": "AI 추론 스타트업 Baseten, 130억 달러 가치로 15억 달러 투자 유치 임박",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "AI 추론 스타트업의 대규모 투자 유치는 장기적으로 AI 모델 운영 비용 절감 및 성능 향상으로 이어질 수 있음. 향후 커스텀 AI 모델을 활용한 인터랙티브 전시 콘텐츠 제작 시, 안정적이고 효율적인 추론 인프라를 기대할 수 있어 비용 효율성 증대 및 실시간 반응성 개선에 기여할 가능성 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "date": "2026-06-19",
+    "original_title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round"
+  },
+  {
+    "model_name": "Dotmo",
+    "core_insight": "Snap의 AI 영상 팀이 독립 회사 'Dotmo'로 분사, AI 영상 개발에 집중",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2V",
+      "I2V",
+      "V2V"
+    ],
+    "application_idea": "새로운 AI 영상 전문 기업의 등장은 향후 영상 생성 AI 시장에 새로운 경쟁과 혁신을 가져올 것으로 예상됨. 우리 팀은 Dotmo의 향후 제품 출시를 주시하며, Unreal Engine, AfterEffects 등 기존 파이프라인에 통합 가능한 새로운 영상 생성 및 편집 도구의 등장을 기대할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "date": "2026-06-19",
+    "original_title": "Snap spins off AI video team into new company, Dotmo, due to costs"
+  },
+  {
+    "model_name": "OpenAI (기업)",
+    "core_insight": "IPO 앞두고 트랜스포머 공동 개발자 등 핵심 인력 영입",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "이번 핵심 인력 영입은 OpenAI의 장기적인 AI 기술 발전 및 신규 모델 개발 역량 강화로 이어질 것으로 예상됨. 이는 향후 영상, 이미지, 3D 자산 생성 도구의 성능 향상으로 이어져, 미디어아트 및 전시 콘텐츠 제작 효율성을 간접적으로 높일 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "date": "2026-06-19",
+    "original_title": "OpenAI is bringing on some big guns in the lead-up to its IPO"
+  },
+  {
+    "model_name": "데이팅 앱 AI",
+    "core_insight": "미국 싱글 절반 가까이, 데이팅 앱 AI 사용에 부정적 인식",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. AI 기술에 대한 대중의 수용도와 부정적 인식을 이해하는 데 참고 자료가 될 수 있음. AI 활용 콘텐츠 제작 시 윤리적 고려사항이나 대중의 거부감을 줄이는 방안을 모색하는 데 간접적으로 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+    "date": "2026-06-19",
+    "original_title": "Almost half of US singles feel negatively about AI in dating, Match says"
+  },
+  {
+    "model_name": "AWS AI Chips",
+    "core_insight": "AWS, 자체 AI 칩을 다른 데이터센터에 판매 추진",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "AWS의 AI 칩 판매는 장기적으로 AI 서비스 시장의 경쟁을 심화시켜, 영상 생성, 이미지 편집 등 AI 기반 도구들의 성능 향상 및 비용 효율성 증대로 이어질 수 있음. 이는 Unreal Engine, TouchDesigner 등에서 활용될 AI 플러그인이나 클라우드 기반 렌더링 서비스 비용에 긍정적인 영향을 줄 가능성이 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "date": "2026-06-19",
+    "original_title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips"
+  },
+  {
+    "model_name": "AI 데이터센터 인프라",
+    "core_insight": "AI 데이터센터의 전력망 연결에 정부가 우선권을 부여",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "AI 서비스의 안정적인 운영 및 확장에 긍정적 영향을 줄 수 있음. 장기적으로 AI 모델 개발 속도 가속화 및 서비스 비용 안정화에 기여할 수 있으나, 전시/미디어아트 제작 실무에 미치는 직접적인 영향은 낮음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+    "date": "2026-06-19",
+    "original_title": "AI data centers just got a government-mandated fast lane to the grid"
+  },
+  {
+    "model_name": "Kē AI Digital Clone",
+    "core_insight": "카라모 브라운의 AI 클론 기반 웰니스 앱 출시, 개인 맞춤형 조언 제공",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "립싱크/캐릭터",
+      "사운드/음성"
+    ],
+    "application_idea": "VR/AR 전시 콘텐츠에서 관람객 맞춤형 안내 캐릭터로 활용 가능. 특정 상황에 대한 개인화된 조언이나 정보를 AI 클론이 실시간으로 제공하여 몰입감 있는 인터랙티브 경험을 구현할 수 있음. 기존 캐릭터 애니메이션 작업 부담을 줄이고 다국어 지원도 용이해짐.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+    "date": "2026-06-19",
+    "original_title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone"
+  },
+  {
+    "model_name": "General Intuition",
+    "core_insight": "20억 달러 가치로 3억 달러 투자 유치 논의, AI 모델 개발 가속화 기대",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [
+      "3D",
+      "T2V",
+      "V2V",
+      "멀티모달"
+    ],
+    "application_idea": "General Intuition의 세계 모델이 상용화되면 Unreal Engine 기반 VR/AR/XR 콘텐츠 제작 시 복잡한 3D 환경 및 상호작용 시뮬레이션 자동 생성에 활용 가능. 프로젝션 매핑이나 미디어아트에서 동적인 환경 반응형 콘텐츠 구현에 기여하여 제작 시간 단축 및 몰입감 증대 기대.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+    "date": "2026-06-19",
+    "original_title": "General Intuition in talks to raise $300M at around $2B valuation"
+  },
+  {
+    "model_name": "FLUX.2 [klein] ComfyUI Node",
+    "core_insight": "FLUX.2의 다양한 이미지 생성/편집 기능을 ComfyUI 단일 노드로 통합",
+    "update_type": "API/통합",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "ComfyUI를 활용한 컨셉 아트 및 텍스처 제작 워크플로우를 대폭 간소화. 프로젝션 매핑이나 VR/AR 콘텐츠의 배경 이미지, 오브젝트 텍스처를 빠르게 생성 및 수정하여 Unreal Engine/TouchDesigner 작업 효율을 높일 수 있음. 특히 인페인팅/아웃페인팅 기능으로 기존 이미지의 확장 및 수정이 용이.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1u9g3vy/i_built_a_single_comfyui_node_for_flux2_klein_t2i/",
+    "date": "2026-06-19",
+    "original_title": "I built a single ComfyUI node for FLUX.2 [klein]: T2I, I2I, Edit, Inpaint, Outpaint, Sketch, Faceswap and more"
+  },
+  {
+    "model_name": "Ideogram 4",
+    "core_insight": "Ideogram 4의 고품질 포토리얼리즘 이미지 생성 능력 시연",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어월 배경 이미지 제작 시 고품질의 포토리얼리즘 이미지를 빠르게 생성하여 초기 시안 작업 시간을 단축할 수 있음. ComfyUI에서 이미지 재현이 가능하므로, 특정 스타일의 이미지를 반복적으로 생성하거나 파이프라인에 통합하여 텍스처, 맵핑 소스 등으로 활용하기 용이함.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1u96hcv/ideogram_4_war_photojournalism/",
+    "date": "2026-06-19",
+    "original_title": "[Ideogram 4] War Photojournalism"
+  },
+  {
+    "model_name": "Boogu-Image-Edit-Turbo",
+    "core_insight": "새로운 이미지 편집 모델 'Boogu-Image-Edit-Turbo' 및 고해상도 'Turbo-2K' 공개",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I"
+    ],
+    "application_idea": "전시 컨셉 아트 제작 시 Photoshop 작업 전 단계에서 다양한 시안을 빠르게 생성하고 수정하는 데 활용. Unreal Engine 기반 3D 콘텐츠의 텍스처 제작 및 프로젝션 매핑용 배경 이미지의 디테일 편집 시간을 단축하여 작업 효율성을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1u9281p/booguimageeditturbo_announced_plus_a_turbo2k/",
+    "date": "2026-06-19",
+    "original_title": "Boogu-Image-Edit-Turbo announced, plus a Turbo-2K!"
+  },
+  {
+    "model_name": "Ideogram 4.0",
+    "core_insight": "기억 속 이미지나 저해상도 원본을 고품질로 재현 및 업스케일링",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시 콘텐츠 제작 시, 오래된 사진이나 저해상도 자료를 고품질 이미지로 복원하여 미디어월, 프로젝션 맵핑 등 대형 스크린에 활용 가능. 컨셉 아트 단계에서 구체적인 텍스트 묘사만으로 고해상도 이미지를 빠르게 생성하여 디자인 시안 작업 시간을 단축할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1u8zser/ideogram_40_helped_me_rediscover_and_upscale_a/",
+    "date": "2026-06-19",
+    "original_title": "Ideogram 4.0 helped me rediscover and upscale a lost poster from my childhood"
+  },
+  {
+    "model_name": "Boogu Turbo / Z_Image_Turbo",
+    "core_insight": "Boogu Turbo 및 Z_Image_Turbo 모델의 텍스트 포함 이미지 생성 성능 비교",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "전시 공간 내 디지털 사이니지 또는 미디어월에 삽입될 텍스트 포함 컨셉 이미지를 빠르게 생성하여 디자인 초기 단계의 Photoshop 작업 시간을 단축할 수 있다. VR/AR 콘텐츠 제작 시 특정 문구가 포함된 배경 에셋이나 캐릭터 안내 이미지 생성에 활용하여 Unreal Engine 또는 TouchDesigner 작업 전 시안 제작 효율을 높일 수 있다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1u9g3z5/boogu_turbo_vs_z_image_turbo_comparison/",
+    "date": "2026-06-19",
+    "original_title": "Boogu Turbo vs. Z_Image_Turbo comparison"
+  },
+  {
+    "model_name": "Flux.2-klein-4B",
+    "core_insight": "이미지 모델 Flux.2-klein을 활용해 광학 흐름 기반 영상 편집 및 인페인팅 가능성 확인",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I",
+      "V2V"
+    ],
+    "application_idea": "프로젝션 매핑이나 미디어월 콘텐츠 제작 시, 기존 영상 소스의 특정 영역을 AI로 자연스럽게 수정하거나 스타일을 변경하는 데 활용 가능. 특히 짧은 루프 영상에서 특정 오브젝트를 제거하거나 새로운 요소를 추가하는 인페인팅 작업에 AfterEffects나 Premiere Pro의 수작업을 보조하여 시간을 단축할 수 있음. Unreal Engine에서 렌더링된 시퀀스에 후처리 효과를 적용하거나, 특정 프레임의 디테일을 보강하는 용도로도 탐색해볼 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1u9lmzq/flux2klein_is_secretly_a_video_model_showing_some/",
+    "date": "2026-06-19",
+    "original_title": "Flux.2-klein is secretly a video model? (showing some experiment results)"
+  },
+  {
+    "model_name": "",
+    "core_insight": "제공된 기사는 AI 트렌드와 무관한 내용입니다.",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사는 항공사의 요리 파트너십에 대한 내용으로, AI 트렌드 분석 및 공간 콘텐츠 제작 실무에 적용할 아이디어를 도출할 수 없습니다.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcmF0SzZPUDNxckhPMG5CQnYzR21nSXNEV1QtNE16VEVPbzZTZUxVcFNGNnFBR1NwcmtYclRDeXBEVkRGaU5jOUxvTy1WUzdRUFV4UHlhWlQ0QnRaaFBLbzZodzhBdkxpc252cUdoNFlqaFByLVlHRFBVb2tfTHZqRmNidGFqUHVzWlRDd0RJVjloblVTQ3h6eUNIdnV2QkVH?oc=5",
+    "date": "2026-06-19",
+    "original_title": "Press Release: JetBlue introduces new culinary partners for Mint - Runway Girl"
+  }
+]
