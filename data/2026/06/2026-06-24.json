@@ -1,0 +1,392 @@
+[
+  {
+    "model_name": "OpenAI (AI 표준화 이니셔티브)",
+    "core_insight": "Appia 재단 통해 AI 평가·안전 표준 및 국제 협력 추진",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "Appia 재단을 통한 AI 표준화 노력은 장기적으로 AI 도구의 안정성과 신뢰성에 영향을 미칠 수 있음. 특히 전시 콘텐츠 제작 시 AI 생성물의 윤리적 사용 및 저작권 문제에 대한 가이드라인 변화를 주시해야 함.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "date": "2026-06-24",
+    "original_title": "Helping build shared standards for advanced AI"
+  },
+  {
+    "model_name": "OpenAI LLM Platform",
+    "core_insight": "Omio, OpenAI 활용해 대화형 여행 서비스 및 제품 개발 가속화",
+    "update_type": "API/통합",
+    "importance": "참고",
+    "capability_tags": [
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "전시 안내 캐릭터에 대화형 AI를 통합하여 관람객 질문에 실시간 응답. VR/AR 콘텐츠 내 가상 캐릭터와의 자연스러운 상호작용 구현으로 몰입감 증대. 복잡한 정보나 스토리텔링을 대화 형식으로 제공하여 관람객 이해도 향상.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/omio",
+    "date": "2026-06-24",
+    "original_title": "How Omio is building the future of conversational travel"
+  },
+  {
+    "model_name": "Hugging Face Hub",
+    "core_insight": "AI, 오픈 도구, 인간 검수를 통한 허깅페이스 허브 주간 업데이트",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 AI 모델 기능 변화는 아니지만, 허깅페이스 허브의 안정적인 주간 업데이트는 오픈소스 AI 모델 활용의 신뢰도를 높임. Unreal Engine 등에서 커스텀 AI 모델을 통합하거나 3D 자산 생성, 캐릭터 애니메이션을 위한 모델을 탐색할 때 최신 도구와 안정적인 접근성을 기대할 수 있음.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "date": "2026-06-24",
+    "original_title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop"
+  },
+  {
+    "model_name": "Transformers.js",
+    "core_insight": "Transformers.js, 웹 브라우저 내 AI 모델 저장 효율 및 성능 개선 시도",
+    "update_type": "API/통합",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "웹 기반 인터랙티브 전시 콘텐츠 제작 시, AI 모델을 브라우저에서 직접 실행하여 사용자 반응에 실시간으로 대응하는 데 활용 가능. 모델 로딩 시간 단축 및 데이터 관리 효율성 증대로 복잡한 AI 기능 구현이 용이해짐. 특히 AR/VR 웹 콘텐츠에서 온디바이스 AI 성능 향상에 기여할 수 있음.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/cross-origin-storage",
+    "date": "2026-06-24",
+    "original_title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js"
+  },
+  {
+    "model_name": "Local AI 모델 (OpenClaw)",
+    "core_insight": "오픈소스 저장소 관리(트리아지)에 로컬 AI 모델 무료 활용",
+    "update_type": "가격/플랜",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 콘텐츠 제작 자체에는 직접적인 영향이 낮음. 다만, Unreal Engine이나 TouchDesigner 프로젝트의 코드 및 에셋 관리, 내부 문서 정리 등 팀의 개발/운영 관련 저장소 트리아지에 로컬 AI 모델을 무료로 활용하여 내부 효율성을 높일 수 있음.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/local-models-pr-triage",
+    "date": "2026-06-24",
+    "original_title": "We got local models to triage the OpenClaw repo for FREE!*"
+  },
+  {
+    "model_name": "MoEngage AI Agents",
+    "core_insight": "기술 인수를 통해 개별 고객 맞춤형 AI 에이전트 활용",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 제작 실무에는 직접적인 영향이 낮음. 다만, 전시 방문객의 행동 데이터를 분석하여 개인화된 콘텐츠 추천이나 맞춤형 알림을 제공하는 마케팅 자동화 시스템 구축에 간접적으로 활용될 가능성은 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "date": "2026-06-24",
+    "original_title": "India’s MoEngage bets that the future of marketing is millions of AI agents"
+  },
+  {
+    "model_name": "Anthropic Claude Tag",
+    "core_insight": "Slack에 상시 대기 AI 동료 추가, 조직 지식 및 업무 흐름 학습",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "프로젝트별 과거 작업물, 기술 스택, 디자인 가이드라인 등을 학습하여 신규 프로젝트 기획 시 레퍼런스 검색 시간 단축. Unreal Engine, TouchDesigner 등 특정 도구 사용 중 발생하는 문제에 대한 팀 내 해결 사례를 즉시 찾아줘 개발 생산성 향상 기대.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "date": "2026-06-24",
+    "original_title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time"
+  },
+  {
+    "model_name": "Fika Jobs AI Agents",
+    "core_insight": "AI 에이전트가 후보자 면접 진행, 비디오 기반 채용 플랫폼 구축",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "립싱크/캐릭터",
+      "사운드/음성"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, AI 기반 인터뷰 에이전트의 캐릭터 구현 방식과 음성 상호작용 기술은 향후 전시 내 인터랙티브 캐릭터 개발 시 참고할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "date": "2026-06-24",
+    "original_title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates"
+  },
+  {
+    "model_name": "Krea 2",
+    "core_insight": "오픈소스 T2I 모델 Krea 2 출시, 미적 품질 및 제어/속도 특화",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어월 배경 이미지 제작 시 고품질 레퍼런스 이미지 생성에 활용. 특히 이미지 내 텍스트 삽입 기능으로 안내판이나 타이틀 디자인에 유용. 오픈소스이므로 팀의 특정 미디어아트 스타일에 맞춰 LoRA를 학습시켜 커스터마이징된 결과물을 얻을 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1udjzm6/krea_2_opensource_release/",
+    "date": "2026-06-24",
+    "original_title": "KREA 2: Open-Source Release"
+  },
+  {
+    "model_name": "Krea 2",
+    "core_insight": "Krea 2 모델의 내장 안전 필터 제거 기능 추가, 프롬프트 거부 문제 해결",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "미디어아트나 전시 콘텐츠 제작 시, AI 안전 필터로 인해 의도치 않게 거부되던 창의적인 컨셉 이미지나 추상적인 시각 요소를 자유롭게 생성할 수 있게 됨. 특히 프로젝션 매핑이나 VR 환경을 위한 독특한 질감, 패턴, 오브젝트를 만들 때 제약 없이 다양한 시도를 할 수 있어 컨셉 아트 단계의 효율성이 증대될 것.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1udhaio/this_custom_node_removes_the_builtin_krea_2/",
+    "date": "2026-06-24",
+    "original_title": "This custom node removes the built-in Krea 2 safety filter."
+  },
+  {
+    "model_name": "Krea 2",
+    "core_insight": "텍스트-이미지 모델 Krea 2의 코드와 가중치 오픈소스 공개",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 및 미디어아트 컨셉 이미지 제작 단계에서 아이디어 시각화를 가속화. 오픈소스이므로 팀 내부 서버에 구축하여 보안이 중요한 프로젝트의 컨셉 아트나 프로젝션 매핑용 배경 이미지 생성에 활용 가능. Unreal Engine에서 사용할 3D 모델의 텍스처 생성에도 유용.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1udnm0a/we_are_the_team_behind_krea_2_ask_us_anything/",
+    "date": "2026-06-24",
+    "original_title": "We are the team behind Krea 2. Ask us anything!"
+  },
+  {
+    "model_name": "Krea 2 Turbo & Raw (Quantized)",
+    "core_insight": "Krea 2 모델 출시, 다양한 GPU 환경에 최적화된 양자화 버전 무료 제공",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "미디어아트 컨셉 이미지 제작 시 Krea 2 Turbo를 활용해 2048px 고해상도 이미지를 빠르게 생성하여 시안 작업 시간을 단축할 수 있다. Krea 2 Raw로 특정 오브제나 스타일의 LoRA를 학습시켜 팀 고유의 미학이 반영된 이미지 자산을 생성하고, 이를 Photoshop 컨셉 아트나 Unreal Engine 텍스처 소스로 활용 가능하다. 다양한 GPU 환경에서도 최적화된 양자화 모델을 선택하여 작업 효율성을 높일 수 있다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1udcve8/as_promised_krea_2_turbo_raw_quantized_in_fp8/",
+    "date": "2026-06-24",
+    "original_title": "As promised Krea 2 Turbo + \"Raw\" Quantized in FP8, MXFP8, NVFP4, INT8 and Convrot INT8!"
+  },
+  {
+    "model_name": "Krea 2",
+    "core_insight": "Krea 2 모델 가중치 공개, ComfyUI 등 커스텀 환경에서 활용 가능",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "ComfyUI 워크플로우를 통해 전시 컨셉 아트, 미디어아트 배경 이미지, VR/AR 환경의 텍스처 및 오브젝트 소스 이미지 생성에 활용 가능. FP8/INT8 최적화 가중치로 로컬 환경에서 빠른 이미지 생성이 가능하여, 아이디어 스케치 및 반복적인 시안 제작 단계의 효율성을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ud8nf9/the_krea_2_weights_are_now_officially_available/",
+    "date": "2026-06-24",
+    "original_title": "The Krea 2 weights are now officially available on Hugging Face."
+  },
+  {
+    "model_name": "Krea 2",
+    "core_insight": "커스텀 워크플로우로 생성된 이미지 품질이 대폭 향상되어 '다음 단계' 수준에 도달",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어월 배경 이미지 제작 시 초기 시안의 품질을 크게 높일 수 있음. 커스텀 워크플로우를 활용하여 Unreal Engine이나 TouchDesigner에서 사용할 독특한 텍스처나 패턴을 빠르게 생성하여 제작 시간을 단축할 수 있음. Photoshop을 이용한 후처리 과정도 줄일 수 있을 것으로 기대됨.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1udosq0/krea_2_workflow_images_are_next_level/",
+    "date": "2026-06-24",
+    "original_title": "Krea 2 workflow images are next level"
+  },
+  {
+    "model_name": "Krea2 with Ideogram style bboxes",
+    "core_insight": "Krea2에 Ideogram 스타일 바운딩 박스 기능 통합으로 이미지 내 객체 및 텍스트 배치 정밀도 향상",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시 공간 내 미디어월이나 키오스크에 들어갈 UI/UX 컨셉 이미지 제작 시, 텍스트와 이미지 요소의 정확한 배치와 레이아웃을 사전에 지정하여 효율적인 시안 생성이 가능. 프로젝션 매핑을 위한 특정 건축 요소에 맞춰 이미지 내 객체들을 정밀하게 배치하는 데 활용하여 AfterEffects에서의 후처리 시간을 단축할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1udcxnf/krea2_with_ideogram_style_bboxes_source_kijai/",
+    "date": "2026-06-24",
+    "original_title": "Krea2 with Ideogram style bboxes Source: Kijai"
+  },
+  {
+    "model_name": "Krea 2",
+    "core_insight": "Krea 2 오픈소스 모델 출시, 기술 보고서 및 코드 공개",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "오픈소스 모델이므로 Unreal Engine이나 TouchDesigner에 직접 통합하여 실시간 인터랙티브 콘텐츠의 비주얼 요소 생성에 활용 가능. 전시 컨셉 아트 및 미디어월 배경 이미지 제작 파이프라인에 유연하게 적용하여 초기 디자인 단계 효율성 증대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uddokj/some_official_krea_2_links/",
+    "date": "2026-06-24",
+    "original_title": "Some official Krea 2 links"
+  },
+  {
+    "model_name": "Krea 2",
+    "core_insight": "Krea 2 모델 파일 내부에 흑백 이미지 이스터 에그 발견",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시/미디어아트 제작에 직접적인 활용 시나리오는 아님. AI 모델의 내부 구조에 대한 흥미로운 정보로, 모델의 '블랙박스'를 이해하는 데 참고할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1udnr75/krea_2_easter_egg/",
+    "date": "2026-06-24",
+    "original_title": "Krea 2 easter egg"
+  },
+  {
+    "model_name": "ComfyUI v0.26.0",
+    "core_insight": "Kling V3-Turbo, Luma Rays 3.2 등 신규 모델 및 3D 고급 로드 노드 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I",
+      "T2V",
+      "3D",
+      "사운드/음성",
+      "멀티모달"
+    ],
+    "application_idea": "Kling V3-Turbo 지원으로 미디어아트 영상의 텍스트-비디오 생성 품질을 높여 컨셉 시각화 및 빠른 프로토타이핑에 활용. Luma Rays 3.2 및 3D 고급 로드 노드 추가로 Unreal Engine용 3D 자산 생성 및 ComfyUI 내 3D 워크플로우를 강화하여 공간 콘텐츠 제작 효율 증대. Boogu-Image 및 SCAIL-2 멀티레퍼런스 기능을 활용해 Photoshop 컨셉 이미지 제작 및 AfterEffects 합성 시 레퍼런스 기반 이미지 생성으로 작업 시간을 단축할 수 있음.",
+    "source": "GitHub - ComfyUI Releases",
+    "category": "이미지",
+    "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.26.0",
+    "date": "2026-06-24",
+    "original_title": "v0.26.0"
+  },
+  {
+    "model_name": "N/A",
+    "core_insight": "애스펀 공항 활주로 폐쇄 계획 업데이트 행사 개최 (AI 관련 정보 없음)",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사는 AI 트렌드 분석과 무관하여 공간 콘텐츠 제작 실무에 적용할 아이디어를 도출할 수 없습니다.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEdEUWxoOWFNWmJqdmhjVWtOUUZ3ZzhUcFFEdks4cFBITlVwamQ1SXBjbm5uR0NlRGRjWmEzRklIbmdJZnJ2WEk4N25rbkxCV2VNbEUtQTNGd1pkUmtSd3V3SXlpaEdLOGhiNTJocUZjT00xb2E0MWlCdmpzNHRZSXVDZ29vcWJ0VjZ4TTJwdWNBMkw1MzRsRVBSQWliY1lVbVdMQmZTX05wN1JaMmc?oc=5",
+    "date": "2026-06-24",
+    "original_title": "‘Ready Together’ Aspen event to provide update on airport runway closure plans - AspenTimes.com"
+  },
+  {
+    "model_name": "Alibaba AI Video Model",
+    "core_insight": "Alibaba AI 영상 모델, 글로벌 랭킹 2위로 상승",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2V"
+    ],
+    "application_idea": "글로벌 랭킹 2위의 고품질 영상 생성 능력으로, 기존 Sora/Runway의 대안으로 활용 가능. 미디어월 배경 영상이나 프로젝션 매핑용 동적 텍스처 제작 시 안정적인 결과물을 기대할 수 있음. 다양한 스타일의 전시 영상 콘텐츠 제작 파이프라인에 추가하여 선택의 폭을 넓힐 수 있음.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORTk1SDdEUUxaVXBCMmllV3poVUkzUk9LMXdyeXpERDRrUHRMZVllMHR5amM1U2VORndlSTlySlV3V1pkMUFkazJVX08wN1o4QmQ3b3Z4SUlJUTdORWxaNTg1M1lPelRHUHh2cEFsdmFXUGNtTXd2MVQxN0pVQWRGTm1uRHIyd2dmVzBkemo0MTJyWGJCVkdQRy01VmVJRVMxeDY5N3Utd3VKVWJCNWI3ZnUwNTF2ci01NVZwUlhJY2tEa1JMWXRxby1KR2wyV0wxWDdpdWJLZjE?oc=5",
+    "date": "2026-06-24",
+    "original_title": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away - VentureBeat"
+  },
+  {
+    "model_name": "Qwable",
+    "core_insight": "무료 로컬 모델, Claude Fable 수준의 추론 능력 제공",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "VR/AR 콘텐츠 내 인터랙티브 내러티브 스크립트나 전시 안내 캐릭터 대사 생성에 활용. 로컬 환경에서 무료로 구동되어 민감한 프로젝트 정보 유출 우려 없이 아이디어 구상 및 초기 기획 단계에서 활용 가능. TouchDesigner/Unreal Engine 스크립트 작성 보조 역할도 기대.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVGNtUDVZcGJwNm9jN2FwMW1FWm5KWnN5QUloVnhzZ01pNThHRFhSMnR3MFdkQ1dXQ3pwdWZMM0haellmQ3JHTDJSMGgtREZvQkhkWm1FOGtKajllam9ySGVIb2NzRUJXTzROOU80c19GcVZKOTFLWm8xMm4yU21FNTYyQkR3UQ?oc=5",
+    "date": "2026-06-24",
+    "original_title": "Meet Qwable: The Free Local Model That Thinks Like Claude Fable - Decrypt"
+  },
+  {
+    "model_name": "GPT-5.6",
+    "core_insight": "GPT-5.6 출시 기대감 철회, 이번 주 발표 무산",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "GPT-5.6 출시 연기로 인해, 해당 모델 기반의 신규 기능 도입 계획은 당분간 보류. 기존 LLM 모델을 활용한 콘텐츠 기획 및 개발에 집중하며, 차기 모델 발표 시까지 기술 동향을 주시해야 함.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRklHYUhYU2VVOWxxQzFIb253d0QxUUwwN1lWUGEzYUIxODE3Q0lhOGxvR2VKRE15Y1Jmb1dleTJxdC15QUFLME1nemRFZVBmUENFamtXNDNYSTRYcFA3SjN6eFdWcUt6cURDa0twVW82bzFMSlFaTTNBSHhvbm1kY2lTblpXdUFYVmgwcDBsQUt2UWwx?oc=5",
+    "date": "2026-06-24",
+    "original_title": "Traders abandon bets on a GPT-5.6 launch this week - Yahoo Finance"
+  },
+  {
+    "model_name": "Gemini AI",
+    "core_insight": "TCL 유럽 TV에 Gemini AI 통합, 스마트 기능 및 사용자 경험 강화",
+    "update_type": "API/통합",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달",
+      "사운드/음성"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 스마트 디스플레이 기반의 인터랙티브 체험존 기획 시, AI 통합형 TV의 사용자 경험을 참고하여 관람객에게 더 직관적인 상호작용 방식을 제공하는 아이디어를 얻을 수 있음.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODZRcExJcXRXZFpCcTYwOHVEY3dJVVVvb0dzdXNsamhZRUpCdlBfb3QwcnFVWkhzTzJfeHNzUnhrd3RibWtDS19rclh6bTh4bVdKNnBsd3VvY0podmFUaVZhSUpTTEFkaFZYNzR2T0dJVjdjQlFFc2RORHVWRDFVOVB0OEU5Q3FFU0ZrU3plRWhjTGhM?oc=5",
+    "date": "2026-06-24",
+    "original_title": "TCL Adds Gemini AI To Its European TVs - Forbes"
+  },
+  {
+    "model_name": "GPT-5.5-Cyber and Codex Security",
+    "core_insight": "Daybreak 프로그램에 GPT-5.5-Cyber 및 Codex Security 모델 추가, 보안 기능 강화",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 제작 과정에서 사용되는 소프트웨어(Unreal Engine, TouchDesigner 등)의 보안 취약점 분석 및 코드 디버깅 보조에 간접적으로 활용 가능. 제작된 인터랙티브 콘텐츠의 잠재적 보안 위협을 사전에 검토하는 데 도움을 줄 수 있음.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0VXbjJUZUdJNnZBRUN4aWdPcDZBeU1NUGVjbEt0TXpWRnlPeTBudEZsTE93ODFsMWtvVko5WjE1Z2pyQVRhb0hXdFlleUtId281Z1RfRVVud2V1LXJYeFc0OTl5M2F1OHNzMVZHb0pOU2phajc2ZDVaai0waXZPX24zX3gxSzduLUstSTZ4OWhnSy1CQ3AydGgySlpkZzVuc29hSklPcG1lb3lFaTY4WGFtWDZBd211?oc=5",
+    "date": "2026-06-24",
+    "original_title": "OpenAI expands Daybreak with GPT-5.5-Cyber and Codex Security | ETIH EdTech News - EdTech Innovation Hub"
+  },
+  {
+    "model_name": "Claude Tag",
+    "core_insight": "기업용 협업 도구 'Claude Tag' 출시, 에이전트 워크플로우 지원",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 콘텐츠 제작 시 여러 AI 모델(영상, 이미지, 3D)을 활용하는 복합 워크플로우를 효율적으로 관리하고 팀원 간 협업을 강화할 수 있음. 예를 들어, 특정 컨셉에 맞춰 AI 에이전트들이 이미지, 영상, 3D 자산을 생성하고 이를 팀이 검토하며 수정 지시를 내리는 과정을 통합 관리.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMlEtc1NLbFotV1FWOW5VSHBrakJBZmpfc3VPdE9Qcm5sR0YybkNzNWtmTmlZajU4QkJZR1Y5eF81VjdIUTVuVFNhbzNpN29fNTEyLWVpdWhBZjE1YW54bTY1d2hoRnBMUXhVdUdWWkZGaW1qc1h2RmF3cnpWTEdMeWNjdHBtaWF5ZUxUeTRZRk1qcUk4SFp6NHBsSVRfZVNicjdZaG53VkVQQU1zMnNRWW1kVQ?oc=5",
+    "date": "2026-06-24",
+    "original_title": "Anthropic launches Claude Tag enterprise collaborative tool for agentic workflows - 9to5Mac"
+  },
+  {
+    "model_name": "GPT-5.5 Cyber AI",
+    "core_insight": "GPT-5.5 Cyber AI, 경쟁 모델 능가하며 사이버 보안 성능 개선",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, TouchDesigner나 Unreal Engine 프로젝트에서 보안 관련 스크립트 작성 및 디버깅 보조 도구로 활용하여 개발 생산성을 향상시킬 수 있음.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3dkVEptNXcxNFVtMGYtb3ZDSGgxTk1pWk90bDRfcDAzQXRLUnYwQWgyczlvaFplVUZscTZZbmpqNGJWbExfRWpPODhKaFNzRmhMeEhOamJnLXR4SEpmcGhNd25ONE1JOTJOMXFZaDFEd09tb1U1TzdhM3JBQ3RQdkIwVUktcGlhLUNwanhfONIBlwFBVV95cUxQLTI1ZnJLZHpBSm54R2xxYU1qeE5BY19XeS1jY3ctd1BTX29tLURsRmxxQldjVTNGWmJ1dmJfSG1kMGxxS1JMLWtOSHZCdzBQOEhOd0RoMzVQVjI5SDFIT2ZXcXhCaXRaWGdBQ29GVkZCOEdxMFBwSnNtRWRJVlM3azJxdWxzM2VTbDUwS1NnT1o5TG1JS1g0?oc=5",
+    "date": "2026-06-24",
+    "original_title": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down - Decrypt"
+  }
+]
