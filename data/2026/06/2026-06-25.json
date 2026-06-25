@@ -1,0 +1,285 @@
+[
+  {
+    "model_name": "OpenAI LLM 추론 칩 (Jalapeño)",
+    "core_insight": "OpenAI, LLM 추론 전용 커스텀 칩 'Jalapeño' 공개로 성능·효율 개선",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "LLM 기반 인터랙티브 콘텐츠의 응답 속도 및 처리량 향상으로, 관람객과의 실시간 대화형 미디어아트 구현이 더욱 원활해질 것. OpenAI API를 활용하는 TouchDesigner 기반의 제너레이티브 아트나 Unreal Engine 내 AI 에이전트 개발 시 비용 효율성 및 성능 개선 기대.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "date": "2026-06-25",
+    "original_title": "OpenAI and Broadcom unveil LLM-optimized inference chip"
+  },
+  {
+    "model_name": "NVIDIA NeMo AutoModel",
+    "core_insight": "트랜스포머 모델 미세 조정 속도 및 효율성 대폭 개선",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 내 인터랙티브 캐릭터의 대사 생성이나 관람객 질문 응답 시스템 개발 시, 특정 주제와 어조에 맞춰 LLM을 미세 조정하는 시간을 단축할 수 있음. 이를 통해 Unreal Engine이나 TouchDesigner 기반의 콘텐츠 개발 주기를 가속화하고, 맞춤형 AI 모델 도입 비용을 절감할 수 있음.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "date": "2026-06-25",
+    "original_title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel"
+  },
+  {
+    "model_name": "Cerebras",
+    "core_insight": "AI 칩 제조업체 Cerebras, 마진 전망 하향으로 주가 급락",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "AI 칩 공급 불안정성 증가 가능성. 장기적으로 AI 모델 학습 및 추론 비용 상승, 또는 AI 서비스 이용료 인상으로 이어질 수 있어 예산 계획 시 고려 필요. 특히 고성능 AI 연산이 필요한 3D 자산 생성 및 실시간 인터랙티브 콘텐츠 개발에 간접적인 영향 예상.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+    "date": "2026-06-25",
+    "original_title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood"
+  },
+  {
+    "model_name": "AI 고용 시장 동향",
+    "core_insight": "AI 산업 내 엔지니어 채용 비중 증가, 고용 시장 회복세",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 콘텐츠 제작 파이프라인에 직접적인 영향은 낮음. 다만, AI 기반 인터랙티브 콘텐츠 개발을 위한 Unreal Engine, TouchDesigner 전문 엔지니어 채용 시 인력 수급 동향을 파악하는 데 참고 자료로 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+    "date": "2026-06-25",
+    "original_title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient"
+  },
+  {
+    "model_name": "AI 연구 인력 동향",
+    "core_insight": "구글 핵심 AI 연구 인력, 앤트로픽 등 경쟁사로 이탈 지속",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "구글 핵심 AI 인력의 경쟁사 이탈은 장기적으로 앤트로픽 등 타사 AI 모델의 성능 향상으로 이어질 수 있음. 이는 향후 영상/이미지 생성, 3D 자산 생성 도구 선택의 폭을 넓히고, 특정 플랫폼에 대한 의존도를 줄이는 전략 수립에 참고할 만함.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "date": "2026-06-25",
+    "original_title": "AI researchers continue to leave Google for its rivals"
+  },
+  {
+    "model_name": "AI 서비스 전반",
+    "core_insight": "기업들이 직원들의 AI 사용 비용 절감을 위해 토큰 사용량 제한 시작",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "팀 내 AI 도구 사용 시 비용 효율성을 최우선으로 고려해야 함. 불필요한 AI 사용을 줄이고, 프로젝트별 예산 책정 및 사용량 관리가 중요해질 것. 특히 반복적이고 작은 작업에도 AI를 무분별하게 사용하지 않도록 내부 가이드라인 마련이 필요함.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+    "date": "2026-06-25",
+    "original_title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks"
+  },
+  {
+    "model_name": "Facebook AI Creator Companion App",
+    "core_insight": "크리에이터용 AI 동반 앱 출시, 특정 크리에이터 대상 테스트 중",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "T2V",
+      "I2I",
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 콘텐츠 기획 단계에서 아이디어 스케치 및 컨셉 이미지 생성 보조 도구로 활용 가능. 간단한 프로모션 영상이나 소셜 미디어용 콘텐츠 제작 시 빠른 초안 생성에 유용하여 AfterEffects/Premiere 작업 부담을 줄일 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+    "date": "2026-06-25",
+    "original_title": "Facebook rolls out an AI companion app for creators"
+  },
+  {
+    "model_name": "Agility Robotics",
+    "core_insight": "휴머노이드 로봇 기업 Agility Robotics, SPAC 통해 25억 달러 규모 상장 추진",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "3D",
+      "립싱크/캐릭터",
+      "멀티모달"
+    ],
+    "application_idea": "Agility Robotics의 상장은 휴머노이드 로봇의 상용화 및 기술 발전을 가속화할 것. 이는 전시 공간 내 물리적 인터랙티브 캐릭터 도입 가능성을 높여, 관람객과 직접 소통하는 안내 로봇이나 퍼포먼스 로봇을 활용한 새로운 형태의 몰입형 경험 기획에 기여할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+    "date": "2026-06-25",
+    "original_title": "Agility Robotics plans to go public via SPAC in a $2.5B deal"
+  },
+  {
+    "model_name": "Figma",
+    "core_insight": "AI 기반 플러그인 생성, 모션 및 셰이더 지원 기능 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2V",
+      "3D"
+    ],
+    "application_idea": "인터랙티브 전시의 UI/UX 디자인 단계에서 모션 및 셰이더 기능을 활용하여 실제와 유사한 프로토타입을 제작, 기획 단계에서 시각적 완성도를 높일 수 있음. 코드 레이어는 Unreal Engine/TouchDesigner 개발팀과의 협업 시 디자인-개발 간의 간극을 줄여 작업 효율성을 향상시킬 수 있음. AI 기반 플러그인은 반복적인 디자인 작업 자동화나 다양한 시안 생성에 활용하여 컨셉 아트 및 초기 디자인 단계의 시간을 단축할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+    "date": "2026-06-25",
+    "original_title": "Figma adds code layers, support for animations, more AI features in new update"
+  },
+  {
+    "model_name": "AI 웹 데이터 인프라",
+    "core_insight": "AI 모델 학습에 필요한 웹 데이터의 비정형성 및 접근성 한계 지적",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "AI 모델의 데이터 한계는 전반적인 AI 활용에 영향을 미치므로, 향후 고품질 데이터 확보가 AI 콘텐츠 제작의 핵심 경쟁력이 될 것임을 시사. 직접적인 제작 파이프라인 변화보다는 장기적인 관점에서 데이터 전략 수립에 참고할 만함.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "date": "2026-06-25",
+    "original_title": "The emergence of the web data infrastructure layer for AI"
+  },
+  {
+    "model_name": "Ideogram4 & Krea2",
+    "core_insight": "Ideogram4는 세부 묘사, Krea2는 속도와 범용성 강점 부각",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Ideogram4의 세부 묘사 및 구성 강점은 전시 컨셉 아트나 미디어월의 고해상도 배경 이미지 제작 시 Photoshop 작업 시간을 단축. Krea2의 빠른 생성 속도는 초기 아이디어 스케치나 다양한 시안을 빠르게 뽑아내는 기획 단계에 유용하며, 상업적 라이선스 활용도 용이. 두 모델의 강점을 조합하여 프로젝트 단계별 최적의 이미지 생성 도구로 활용 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uedbog/ideogram4_and_krea2_comparison/",
+    "date": "2026-06-25",
+    "original_title": "Ideogram4 and Krea2 Comparison"
+  },
+  {
+    "model_name": "Krea 2",
+    "core_insight": "복잡한 인물 구도, 표정, 텍스트 포함 이미지 생성 능력 시연",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 콘텐츠의 초기 컨셉 이미지나 스토리보드 제작 시, 복잡한 인물 구도와 감정 표현, 텍스트 요소를 포함한 이미지를 빠르게 생성하여 기획 단계의 시각화 효율을 높일 수 있음. 특히 미디어월이나 프로젝션 매핑용 배경 이미지에 특정 서사나 인물 상호작용을 담아야 할 때, Photoshop에서 수작업으로 그리던 시간을 단축하고 다양한 시안을 빠르게 검토 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ue6qsw/created_with_krea_2_prompt_below/",
+    "date": "2026-06-25",
+    "original_title": "Created with Krea 2, prompt below"
+  },
+  {
+    "model_name": "Krea 2",
+    "core_insight": "새로운 이미지 생성 모델 Krea 2 출시, 시네마틱 스틸 이미지 품질 향상",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어월 배경 이미지 제작 시 활용. 시네마틱 스타일의 고품질 이미지를 빠르게 생성하여 Photoshop을 이용한 컨셉 아트 작업 시간을 단축하고, Unreal Engine 환경의 초기 비주얼 개발에 기여.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uel0f0/krea_2_cinematic_stills/",
+    "date": "2026-06-25",
+    "original_title": "Krea 2 Cinematic Stills."
+  },
+  {
+    "model_name": "Krea 2 (PiD 적용)",
+    "core_insight": "Krea 2의 저품질 VAE 문제 해결, 이미지 디테일·색감·대비 대폭 개선",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "고품질의 컨셉 아트나 배경 이미지 생성에 활용하여 Photoshop 작업 시간을 단축. 프로젝션 매핑이나 미디어월용 고해상도 이미지 소스 제작 시 디테일과 색감 개선으로 최종 결과물의 몰입도를 높일 수 있음. 다만, 높은 VRAM 요구사항을 고려하여 작업 환경을 구축해야 함.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ue8rns/krea_2_uses_a_terrible_vae_but_luckily_for_us_pid/",
+    "date": "2026-06-25",
+    "original_title": "Krea 2 uses a terrible VAE, but luckily for us, PID is here to save the day."
+  },
+  {
+    "model_name": "Krea2",
+    "core_insight": "캐릭터 표정 생성 능력 부족, 다양한 감정 표현에 한계 노출",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "전시 캐릭터나 VR/AR 콘텐츠 내 인물 표현 시 Krea2 사용은 부적합. 생성된 이미지의 표정 부재로 인해 Photoshop 등에서 후처리 작업이 필수적이거나, 아예 다른 AI 모델을 사용해야 함. 감정 표현이 중요한 미디어아트 작업에는 활용하기 어려움.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ue8erg/krea2_is_expressionless/",
+    "date": "2026-06-25",
+    "original_title": "Krea2 is expressionless"
+  },
+  {
+    "model_name": "Krea 2 Turbo",
+    "core_insight": "JSON 입력 지원 및 이미지 생성 품질, 속도, 안정성 대폭 개선",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "JSON 입력 기능을 활용하여 프로젝션 매핑이나 VR 환경의 특정 오브젝트 배치 및 구도를 정밀하게 제어, 반복적인 배경/자산 생성 작업 효율화. 전시용 캐릭터 디자인 시 다양한 표정 및 포즈를 일관성 있게 생성하여 캐릭터 애니메이션 제작 시간을 단축하고, Photoshop 컨셉 아트 단계에서 초기 시안 제작 속도를 크게 향상.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uedc8p/krea_2_turbo_western_art_50_gens/",
+    "date": "2026-06-25",
+    "original_title": "Krea 2 Turbo - Western Art - 50 Gens"
+  },
+  {
+    "model_name": "TTS Audio Suite - OmniVoice v5.3",
+    "core_insight": "OmniVoice 통합, SRT 자막 생성 시 음성 길이 정밀 제어 및 음성 복제 지원",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성"
+    ],
+    "application_idea": "전시 영상 내레이션 및 VR/AR 콘텐츠 음성 안내 제작 시, SRT 자막 타이밍에 맞춰 음성 길이를 정밀하게 조절 가능. 기존 성우 음성을 복제하여 일관된 톤앤매너를 유지하면서 다국어 버전을 효율적으로 제작할 수 있음. AfterEffects나 Premiere에서 영상 편집 후 음성 싱크 맞추는 후작업 시간을 크게 단축할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ue0tkv/tts_audio_suite_v53_omnivoice_native_srt_duration/",
+    "date": "2026-06-25",
+    "original_title": "TTS Audio Suite - v5.3 - OmniVoice + native SRT duration targeting, Visual Tag Builder"
+  },
+  {
+    "model_name": "Krea 2 Realism LoRA",
+    "core_insight": "Krea 2용 1인 여성 리얼리즘 LoRA 출시, 이미지 사실감 미묘하게 향상",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 단계에서 사실적인 여성 인물 이미지 생성에 활용하여 초기 시각화 작업 효율 증대. VR/AR 콘텐츠 내 가상 인물 모델링 전 레퍼런스 이미지 제작 시간을 단축하고, 미디어아트 작품의 특정 인물 표현에 사실감을 더할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ueg6g9/i_released_a_1girl_realism_lora_for_krea_2/",
+    "date": "2026-06-25",
+    "original_title": "I released a 1girl Realism LoRA for Krea 2"
+  },
+  {
+    "model_name": "Claude AI Model",
+    "core_insight": "알리바바가 클로드 AI 모델 기능 무단 추출 혐의로 피소",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, AI 모델 활용 시 지적 재산권 및 라이선스 정책 준수의 중요성을 강조하는 사례. 향후 자체 AI 모델 개발 또는 외부 모델 연동 시 법적 리스크 관리에 대한 경각심을 높일 필요가 있음.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZWVQU25ZWkJ3OWRRa3NyMFVTZE9nRjFNZlVSa1l0NC1hN1BnakdnelliMXhrblNVeVZpbjZ2OTB3QncydjdBM2xtZW9wenJWYlZkN3cyVkkwdVpaT25CTFZHLXliSkZqUS1HUVY2RWNhbkhnd0JiRzRWYUhCNVJxUDdBNkhfOWhDUkFxS3Izc29Mdi01N1NIR0RB?oc=5",
+    "date": "2026-06-25",
+    "original_title": "Anthropic Accuses Alibaba of Distilling Claude AI Model Capabilities - Global Banking & Finance Review"
+  }
+]
