@@ -1,0 +1,297 @@
+[
+  {
+    "model_name": "OpenAI AI 에이전트",
+    "core_insight": "AI 에이전트가 복잡한 업무 자동화 및 생산성 향상 가능성 제시",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "Unreal Engine이나 TouchDesigner 프로젝트에서 반복적인 스크립트 작성, 에셋 배치, 최적화 등의 복잡한 작업을 AI 에이전트가 자동화하여 개발 시간을 단축할 수 있음. 특히 미디어아트 설치물의 인터랙티브 로직 구현 시 에이전트가 자율적으로 코드를 생성하고 디버깅하여 개발 효율을 높일 수 있을 것으로 기대됨.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/how-agents-are-transforming-work",
+    "date": "2026-06-26",
+    "original_title": "How agents are transforming work"
+  },
+  {
+    "model_name": "하이브리드 모델 (연구 주제)",
+    "core_insight": "하이브리드 모델의 토큰 예측 정확도 향상 연구 동향 분석",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. LLM의 내부 작동 방식 및 성능 개선 연구 동향 파악에 참고 가능하나, 당장 실무 적용 시나리오는 없음.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "date": "2026-06-26",
+    "original_title": "Which tokens does a hybrid model predict better?"
+  },
+  {
+    "model_name": "GPT 5.6",
+    "core_insight": "백악관 안전성 우려로 GPT 5.6 일반 공개 연기, 파트너 선공개",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "GPT 5.6의 일반 공개가 연기되어 당분간 직접적인 실무 적용은 어려움. 다만, 향후 공개될 경우 기존 GPT 모델 대비 향상된 멀티모달 능력을 활용하여 복잡한 스토리텔링 기반의 인터랙티브 전시 콘텐츠 기획 및 초기 프로토타입 제작에 기여할 것으로 예상됨. 특히, 전시 내러티브 구성 및 캐릭터 대화 스크립트 생성에 큰 도움이 될 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "date": "2026-06-26",
+    "original_title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns"
+  },
+  {
+    "model_name": "Patronus AI Platform",
+    "core_insight": "AI 에이전트 테스트용 가상 환경 구축 자금 5천만 달러 유치",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, 우리가 사용하는 영상/이미지 생성 AI 모델들의 안정성과 신뢰도가 향상될 경우, 예측 불가능한 결과물 발생 위험을 줄여 콘텐츠 제작 파이프라인의 안정성에 간접적으로 기여할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "date": "2026-06-26",
+    "original_title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents"
+  },
+  {
+    "model_name": "Claude",
+    "core_insight": "유료 AI 사용자층에서 Claude의 시장 점유율 상승",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "유료 사용자층에서 Claude의 선호도가 높아진다는 것은 콘텐츠 기획 및 스크립트 작성 등 언어 기반 작업에서 더 나은 품질이나 효율성을 제공할 가능성을 시사함. 전시 내러티브, 인터랙티브 체험존 대화 스크립트, 미디어아트 컨셉 도출 시 ChatGPT 외의 대안으로 적극 고려하여 작업 효율을 높일 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "date": "2026-06-26",
+    "original_title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT"
+  },
+  {
+    "model_name": "General Intuition AI Agents",
+    "core_insight": "비디오 게임 데이터로 AI 에이전트 훈련, 인간 직관 모방 목표",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "VR/AR/XR 콘텐츠 내 인터랙티브 캐릭터의 행동 패턴을 더욱 자연스럽고 직관적으로 구현하는 데 기여. 관람객의 미묘한 반응을 '직관적으로' 파악하여 실시간으로 변화하는 미디어아트 작품 제작에 활용 가능. Unreal Engine 기반의 시뮬레이션 환경에서 AI 에이전트의 복잡한 의사결정 로직을 강화하여 몰입감 높은 체험 제공.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "date": "2026-06-26",
+    "original_title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world"
+  },
+  {
+    "model_name": "Un-0",
+    "core_insight": "기존 AI 시스템을 모방하는 이미지 생성 툴 Un-0 공개",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 제작 시 다양한 스타일의 이미지 시안을 빠르게 생성하여 기획 단계 단축. Unreal Engine용 텍스처나 미디어아트 배경 이미지 생성에 활용하여 제작 효율성 증대. 특히 기존 AI 시스템의 결과물을 효율적으로 재현할 수 있다면, 고품질 이미지 자산 확보에 유리할 것.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+    "date": "2026-06-26",
+    "original_title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x"
+  },
+  {
+    "model_name": "Netris 플랫폼",
+    "core_insight": "AI 네오클라우드 운영자의 서비스 출시 시간 단축 지원",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, AI 기반 콘텐츠 제작 도구(예: 영상 생성 AI, 이미지 편집 AI)의 백엔드 인프라 성능 향상에 기여하여, 장기적으로는 우리 팀이 사용하는 AI 서비스의 처리 속도 및 안정성 개선에 간접적인 영향을 줄 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+    "date": "2026-06-26",
+    "original_title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster"
+  },
+  {
+    "model_name": "Adobe (Topaz Labs 통합)",
+    "core_insight": "어도비, 이미지/영상 보정 툴 Topaz Labs 인수 및 자사 앱 통합 예정",
+    "update_type": "API/통합",
+    "importance": "핵심",
+    "capability_tags": [
+      "I2I",
+      "V2V"
+    ],
+    "application_idea": "저해상도 이미지/영상을 고품질로 업스케일링하여 프로젝션 매핑, 미디어월 등 대형 스크린 콘텐츠 제작 시 화질 저하 문제 해결. AfterEffects 및 Premiere 작업 시 노이즈 제거, 선명도 개선 등 후처리 과정이 간소화되어 작업 효율성 증대.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+    "date": "2026-06-26",
+    "original_title": "Adobe acquires image and video enhancement tool maker Topaz Labs"
+  },
+  {
+    "model_name": "Amazon AI 인프라",
+    "core_insight": "아마존, 인도 AI 인프라에 130억 달러 추가 투자",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "아마존의 AI 인프라 확장은 장기적으로 AWS 기반 AI 서비스의 성능 향상 및 비용 효율성 증대로 이어질 수 있음. 이는 Unreal Engine이나 TouchDesigner에서 활용할 수 있는 3D 자산 생성, 영상 처리 등 클라우드 기반 AI 솔루션의 접근성을 높여줄 잠재력이 있음. 당장 직접적인 제작 파이프라인 변화는 없으나, 미래 AI 도구 선택의 폭을 넓히는 기반이 됨.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+    "date": "2026-06-26",
+    "original_title": "Amazon ups India bet with fresh $13B AI infrastructure investment"
+  },
+  {
+    "model_name": "OpenAI Jalapeño",
+    "core_insight": "OpenAI, 자체 개발한 AI 추론 전용 칩 'Jalapeño' 공개",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향은 낮음. 하지만 OpenAI의 AI 모델(Sora, DALL-E 등)의 추론 속도 및 효율성 개선으로 이어져, 향후 더 빠르고 저렴하게 고품질 영상/이미지 자산을 생성할 수 있게 될 가능성이 있음. 이는 장기적으로 프로젝트 예산 및 제작 시간 단축에 기여할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "date": "2026-06-26",
+    "original_title": "OpenAI unveils its first custom chip, built by Broadcom"
+  },
+  {
+    "model_name": "Krea 2 Turbo",
+    "core_insight": "동일 장면을 100가지 이상 스타일로 생성 가능, 스타일 일관성 대폭 강화",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시 컨셉 아트 제작 시 동일한 장면을 다양한 스타일로 빠르게 시각화하여 기획 단계의 의사결정 속도를 높일 수 있음. 미디어월, 키오스크, 인쇄물 등 여러 매체에 걸쳐 동일한 핵심 이미지를 각 매체에 맞는 스타일로 일관성 있게 적용하여 브랜딩 통일성을 확보하는 데 유용함. Photoshop을 활용한 컨셉 아트 작업 시간을 대폭 단축할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uf1qcc/krea_2_turbo_100_styles_on_the_same_scene/",
+    "date": "2026-06-26",
+    "original_title": "Krea 2 Turbo: 100+ styles on the same scene"
+  },
+  {
+    "model_name": "Krea 2 (Krea2-realism-V1 LoRA)",
+    "core_insight": "Krea 2, 'Krea2-realism-V1' LoRA로 사실적 이미지 생성 가능성 확인",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Krea 2와 해당 LoRA를 활용하여 전시 컨셉 아트나 미디어아트 배경 이미지 제작 시 높은 사실감의 결과물 확보 가능. Unreal Engine이나 TouchDesigner 프로젝트에 필요한 고품질 텍스처나 환경 요소 이미지를 빠르게 생성하여 작업 시간을 단축할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ufetpj/day_2_testing_krea_2_with_krea2realismv1_lora/",
+    "date": "2026-06-26",
+    "original_title": "Day 2 - testing Krea 2 with \"Krea2-realism-V1\" LoRA"
+  },
+  {
+    "model_name": "AI 이미지 생성 모델 (일반)",
+    "core_insight": "AI 이미지 모델 발전으로 개인 창작 및 수익화 가능성 확대",
+    "update_type": "개선",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시/미디어아트 컨셉 기획 시 Adobe Photoshop을 활용한 초기 시안 제작 시간을 단축하고, 다양한 아이디어를 빠르게 시각화할 수 있음. 특정 스타일이나 캐릭터에 특화된 LORA를 훈련하여 VR/AR/XR 콘텐츠 및 프로젝션 매핑용 일관된 비주얼 에셋을 대량 생산하는 자동화 파이프라인 구축에 활용 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uf6jmk/anyone_else_completely_addicted_and_overwhelmed/",
+    "date": "2026-06-26",
+    "original_title": "Anyone else completely addicted and overwhelmed?"
+  },
+  {
+    "model_name": "Krea 2 Turbo",
+    "core_insight": "3060 12GB에서 40초 만에 이미지 생성, 애니메이션 스타일 지원",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어월 배경 이미지 제작 시 빠른 시안 생성에 활용. 특히 애니메이션 스타일의 캐릭터나 배경이 필요한 프로젝트에서 Photoshop 작업 시간을 단축하고 다양한 아이디어를 신속하게 시각화할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uf73lz/krea_2_turbo_on_3060_12gb_40_sec_per_gen/",
+    "date": "2026-06-26",
+    "original_title": "Krea 2 Turbo on 3060 12GB 40 sec per gen"
+  },
+  {
+    "model_name": "ComfyUI (INT8 지원)",
+    "core_insight": "ComfyUI에 INT8 지원 추가, FP8 대비 2배 빠른 처리 속도와 품질 향상",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "프로젝션 매핑, 미디어월, VR/AR 콘텐츠 제작 시 컨셉 이미지 및 텍스처 에셋 생성 시간을 획기적으로 단축. 특히 Unreal Engine에서 사용할 배경 에셋이나 Photoshop에서 활용할 컨셉 아트 제작 시 빠른 반복 작업으로 효율성을 높일 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uflkl7/int8_is_now_officially_supported_in_comfyui/",
+    "date": "2026-06-26",
+    "original_title": "Int8 is now officially supported in ComfyUi."
+  },
+  {
+    "model_name": "SeFi-Image",
+    "core_insight": "새로운 시맨틱 우선 확산 아키텍처로 고품질 이미지 생성, 비상업적 라이선스",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "비상업적 라이선스로 인해 상업 프로젝트에 직접 적용은 어려움. 하지만 시맨틱 제어 기반의 고품질 이미지 생성 기술은 미디어아트 전시의 컨셉 이미지 제작이나 비영리 실험 프로젝트에서 새로운 시각적 탐색을 위한 소스로 활용될 수 있음. 향후 상업용 모델의 발전 방향을 예측하는 데 중요한 참고 자료가 될 것.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uffa73/sefiimagewill_we_get_comfyui_support_for_this/",
+    "date": "2026-06-26",
+    "original_title": "[SEFI-image]will we get comfyui support for this model family or will it die down due to krea2 hype?"
+  },
+  {
+    "model_name": "AI 모델 정보 없음",
+    "core_insight": "제공된 기사는 AI 플랫폼 업데이트와 무관한 공항 현대화 프로젝트 내용임",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사는 AI 트렌드와 무관하여 공간 콘텐츠 제작 실무에 직접 적용할 아이디어를 도출하기 어렵습니다. AI 관련 기사가 아님을 확인해 주세요.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSnNHZk84R1R2c2twakdlNnFZeU5NWHFQZnQ4TTZhZ3Ftblk5RGUyeVpsaDJaZHhFN2pLTVE4WFlrS080TDNKZGVYYkFmU3ZfX2NHVS1rTVpsUzk4UUpkUmtkcjJvTW5BcGRZMzhzenVOdDVUaFozeUt6S2hjYXBneGdCQlhtR05rY3dSTUFB?oc=5",
+    "date": "2026-06-26",
+    "original_title": "Easton Airport Runway and Airfield Modernization Project Update - WGMD – The Talk of Delmarva"
+  },
+  {
+    "model_name": "해당 없음 (AI 관련 기사 아님)",
+    "core_insight": "제공된 기사는 AI 플랫폼 업데이트가 아닌 패션쇼 'The Glamour Runway 2026' 개최 소식임",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사는 AI 플랫폼 업데이트와 무관한 패션쇼 관련 내용이므로, 공간 콘텐츠 제작 실무에 적용할 아이디어를 도출할 수 없습니다. AI 트렌드 분석을 위한 기사 필터링 개선이 필요합니다.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd2hOMzJQOGFZcVRMYzNxOGxmT1MyYWZuLU5TTnotNkZFNGNPWEUwUlFlNWpvV2M2VFhNYlpWNFFjLXhSbWY3NUQyZi1XUXFXVnNTUGpLdk1ZaVNJY2xYUzI4eVpuakpaOXk1cTluLUhYZVNNV1ZLcmVNRHhOMExzUjRESnJHSmd4a0sxMzRQX2pZNHQ1MVRfSWVHSUZfTXd6WDZNSHE0Q2QyWFc3djRxaXZTWHNVZ0XSAbwBQVVfeXFMTzNIUXRUSUpNOUxlRlhYLUNXck9PT2ptT1RELW1Pa2UwejRtOEtTTWlxcTRMMkx2bmxBeXQwZzZjR1lTTFhWQXRrMjQ1OXNOaDU2Mnh3SDVWeERMSXNwTUV0S0xKTjhZUUt1bDRvdU8wV24xLTZIS2duRDM4YVRGY1FEa3gtTHZrQlQ1WjVIU1B0Zk9GRzdjdnVNNVBQZmlQU3puaDYyWXhWUXotMUVVX3dhQk5lblNoZHZFS0w?oc=5",
+    "date": "2026-06-26",
+    "original_title": "The Glamour Runway 2026 Makes a Spectacular Debut with Grand Launch in Mumbai - TheWire.in"
+  },
+  {
+    "model_name": "Adobe Firefly Foundry",
+    "core_insight": "생성형 AI 콘텐츠의 브랜드 통제 및 일관성 유지 솔루션 출시",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "클라이언트의 엄격한 브랜드 가이드라인에 맞춰 전시/미디어아트 콘텐츠용 이미지 및 텍스처를 생성할 때 일관성을 유지하고 품질을 관리하는 데 필수적. Photoshop, AfterEffects 작업 시 생성형 AI로 만든 이미지의 브랜드 적합성을 사전에 검증하여 수정 단계를 줄이고, 대규모 프로젝트에서 여러 아티스트 간의 시각적 통일성을 확보할 수 있음.",
+    "source": "Google News - Adobe AI",
+    "category": "종합",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTNXRUNHckg5V2FwZ1dKVGVCNGtrV0c0dTZXUF9HRmpBTm94VDRyNktZSGZZeWs3QXJIRVNmaFFGcnJJLXBNa05GSGsxOFZQcDFtemhpbEYtRFN3bTI5ZEVQLU96T1hJS0JIR254ZDVfZkxuQlR3Z3BQUVF5bjJFdUJWYWNhbWN6LU96YnhfcVd6MFVjcW1ldnB1MHUxajQ1NWx4OTJUMA?oc=5",
+    "date": "2026-06-26",
+    "original_title": "Adobe Firefly Foundry: Forging Brand Control in the Age of Generative AI - BriefGlance"
+  }
+]
