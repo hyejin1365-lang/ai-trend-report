@@ -1,0 +1,302 @@
+[
+  {
+    "model_name": "OpenAI Hardware",
+    "core_insight": "Apple Vision Pro 담당 임원, OpenAI 하드웨어 팀 합류",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "3D",
+      "멀티모달"
+    ],
+    "application_idea": "OpenAI의 하드웨어 역량 강화는 미래 공간 컴퓨팅 및 XR 콘텐츠 제작 도구 개발 가능성을 시사한다. 이는 Unreal Engine 기반 VR/AR/XR 콘텐츠 제작 시 AI 가속 하드웨어 지원을 기대하게 하며, 3D 자산 생성 및 실시간 렌더링 성능 향상에 기여할 수 있다.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "date": "2026-06-28",
+    "original_title": "Apple Vision Pro exec is reportedly leaving for OpenAI"
+  },
+  {
+    "model_name": "Mythos급 아시아 AI 모델",
+    "core_insight": "아시아 AI 스타트업, Mythos급 모델 출시로 수출 규제 우려 해소",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "미국 AI 기술 수출 규제 우려 없이 아시아 시장에서 Mythos급 모델을 활용할 수 있게 됨. 해외 전시나 글로벌 협업 프로젝트 시, 특정 국가의 AI 플랫폼 사용 제한에 대한 불안정성을 해소하고 안정적인 콘텐츠 제작 파이프라인을 구축할 수 있음. 이는 장기적인 프로젝트 기획 및 기술 의존도 분산에 기여할 것.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "date": "2026-06-28",
+    "original_title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on"
+  },
+  {
+    "model_name": "LanPaint (Ideogram4 Inpainting 지원)",
+    "core_insight": "LanPaint, Ideogram4 인페인팅 지원 및 영상 인페인팅 기능 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "I2I",
+      "V2V"
+    ],
+    "application_idea": "미디어월, 프로젝션 매핑 등 대형 스크린 콘텐츠 제작 시, AI로 생성된 이미지나 영상의 특정 영역을 정교하게 수정하거나 확장하여 콘텐츠 완성도를 높일 수 있음. 기존 에셋의 배경을 자연스럽게 늘리거나 불필요한 요소를 제거하여 AfterEffects/Premiere 후처리 시간을 단축하고, 다양한 해상도에 맞춰 유연하게 대응 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ugs7ha/ideogram4_inpainting_with_lanpaint_support/",
+    "date": "2026-06-28",
+    "original_title": "Ideogram4 Inpainting with LanPaint Support"
+  },
+  {
+    "model_name": "ComfyUI",
+    "core_insight": "ComfyUI, INT8 모델(확산 모델, 텍스트 인코더) 네이티브 지원 시작",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "ComfyUI 워크플로우를 활용한 컨셉 이미지, 텍스처, 배경 요소 생성 시 VRAM 사용량 감소 및 처리 속도 향상. 이는 Unreal Engine/TouchDesigner 프로젝트에 필요한 3D 자산의 초기 시안 제작 시간을 단축하고, 더 복잡한 이미지 생성 파이프라인을 구축하는 데 기여할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uhcg69/comfyui_now_natively_supports_int8_tested_and/",
+    "date": "2026-06-28",
+    "original_title": "ComfyUI now natively supports INT8 tested and confirmed"
+  },
+  {
+    "model_name": "Wan2.1-VAE (Krea 2용)",
+    "core_insight": "Krea 2에서 Wan2.1-VAE 활용, 피부 질감 표현 대폭 개선",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "VR/AR 콘텐츠 내 인물 캐릭터의 피부 질감을 극대화하여 사실감을 높일 수 있음. 전시용 고해상도 이미지 생성 시 Photoshop에서 피부 디테일 보정 시간을 단축하고, 미디어아트 인물 표현의 퀄리티를 향상시키는 데 기여.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uh00bj/improve_the_skin_texture_in_krea_2_by_using_an/",
+    "date": "2026-06-28",
+    "original_title": "Improve the skin texture in Krea 2 by using an alternative version of Qwen Image VAE."
+  },
+  {
+    "model_name": "Anima, Krea2, Ideogram4, Flux Klein",
+    "core_insight": "서구권 AI 이미지 오픈소스 모델들이 중국 모델들을 능가하며 시장 주도권 확보",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "콘셉트 아트 및 전시 배경 이미지 제작 시, 서구권 오픈소스 모델을 활용하여 더 다양한 스타일과 고품질의 레퍼런스 이미지를 확보할 수 있음. 특히 Photoshop 작업 전 단계에서 아이디어 구체화 및 시안 제작 시간을 단축하는 데 기여할 것.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uh7rer/chinese_vs_western_ai_image_models/",
+    "date": "2026-06-28",
+    "original_title": "Chinese vs. Western AI Image Models?"
+  },
+  {
+    "model_name": "Krea 2 LoRA",
+    "core_insight": "Krea 2 LoRA, 12GB VRAM 환경에서 특정 조건 하에 학습 가능",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "RTX 3060 12GB 그래픽카드를 보유한 팀이라면 Krea 2 LoRA를 직접 학습하여 전시 테마에 맞는 독점적인 이미지 자산을 생성할 수 있음. 외부 의뢰 없이 내부에서 컨셉 아트, 미디어월 배경, 프로젝션 매핑 소스 등을 제작하여 디자인 일관성을 유지하고 비용을 절감할 수 있음. 학습 시간은 길지만, 커스텀 에셋 제작의 자율성을 확보하는 데 기여.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uh95sz/training_krea_2_lora_on_rtx3060_12gb_a_slow/",
+    "date": "2026-06-28",
+    "original_title": "Training Krea 2 LoRA on RTX3060 12Gb: a slow, uncomfortable guide that actually works"
+  },
+  {
+    "model_name": "Krea 2 LORA",
+    "core_insight": "Krea 2 LORA 학습 시 터보 모델로 추론해야 이미지 품질 대폭 향상",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시용 캐릭터나 특정 오브젝트의 LORA 학습 시, Krea 2의 터보 모델을 활용하여 사실적인 이미지 품질을 확보할 수 있음. 이를 통해 Unreal Engine용 커스텀 3D 텍스처나 미디어아트 배경 이미지 생성 시 원하는 스타일과 디테일을 유지하며 '플라스틱 같은' 느낌을 피할 수 있어, Photoshop에서 후처리하는 시간을 단축할 수 있다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uh9pjt/how_are_you_guys_finding_lora_training_in_krea_2/",
+    "date": "2026-06-28",
+    "original_title": "How are you guys finding LORA training in Krea 2?"
+  },
+  {
+    "model_name": "ComfyUI",
+    "core_insight": "ComfyUI 업데이트 후 VRAM 과부하 및 렌더링 속도 저하, 특정 실행 플래그로 임시 해결",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "ComfyUI를 활용하여 미디어아트 배경 이미지, 텍스처, 컨셉아트 등을 생성할 때 VRAM 부족으로 인한 작업 지연이 발생할 수 있음. 안정적인 작업을 위해 업데이트 전 버전 유지 또는 특정 실행 플래그를 적용하여 작업 환경을 확보해야 함. 특히 고해상도 이미지나 복잡한 워크플로우를 사용하는 경우 주의가 필요함.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uh0yk1/wan22_oom_after_comfy_update_on_workflow_that_ran/",
+    "date": "2026-06-28",
+    "original_title": "wan2.2 OOM after Comfy update on workflow that ran and finished in 64 seconds on 5090 (windows) This is purely just discussion. Kinda curious if anyone had issues like this."
+  },
+  {
+    "model_name": "Pallaidium (Blender Add-on)",
+    "core_insight": "Blender 애드온 Pallaidium, 3DREAL LoRA 지원 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "3D",
+      "T2I"
+    ],
+    "application_idea": "VR/AR/XR 콘텐츠 제작 시 Blender 내에서 3DREAL LoRA를 활용하여 사실적인 3D 오브젝트나 환경 텍스처를 빠르게 생성할 수 있다. 이는 기존 3D 모델링 작업 시간을 단축하고, Unreal Engine으로 가져갈 3D 배경 에셋 제작 시 컨셉 아트 단계에서부터 사실적인 렌더링 결과물을 얻어 작업 효율을 높이는 데 기여한다.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1uhejfq/3dreal_lora_supported_in_the_blender_addon/",
+    "date": "2026-06-28",
+    "original_title": "3DREAL LoRA supported in the Blender add-on, Pallaidium."
+  },
+  {
+    "model_name": "정보 없음",
+    "core_insight": "제공된 기사 내용은 AI 트렌드와 무관한 항공 산업 동향에 대한 것임",
+    "update_type": "정책/제한",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "제공된 기사 내용은 AI 플랫폼 업데이트와 무관하여 공간 콘텐츠 제작 실무에 직접적인 적용 아이디어를 도출할 수 없음. AI 트렌드 분석을 위한 유효한 정보가 아님.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMlFkNU1ZUWRsbUd0N3ZFcXRRTElUR05XdUQyTC1lNnVqSFdlU1dSc1ktN2tudHJRMkNEOGNmakR6SEJoWHROOEMzVFdEa1dqNFBiYWlKYzFXdC1XREo1RlQxYV9JXzB6NkVOeWtNX1RlMk1oNERCMm02RTgtS0JpNndkRXQwMS05d0NZTlFYVG50cU9pU3h3eFRmaFJCUVl5Q24tc1Mxakk?oc=5",
+    "date": "2026-06-28",
+    "original_title": "Press Release: Connected aircraft fleet set to exceed 70,000 by 2035 - Runway Girl"
+  },
+  {
+    "model_name": "TSA PreCheck Touchless ID & Google Wallet",
+    "core_insight": "TSA와 구글 월렛, 비접촉식 신분 확인 서비스 출시",
+    "update_type": "기능추가",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 제작과는 직접적인 관련 없음. 공항 출입국 시 신원 확인 절차 간소화에 대한 소식으로, AI 기반 공간 콘텐츠 제작에는 영향이 미미함.",
+    "source": "Google News - 영상 AI",
+    "category": "영상",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOGE2RnZZcHY5eVA1MmVWMG9yNFdneS1NTVNqcnNTZW9OUERpbE12Mkg0bjNwWUw0dlhPSXYydDYyTUJQbzVwUGJMSTNOUVZJcjE3WW44d3JpbTlScHhYa0VmZnJEczdXMFplX0FLVTEtZTd1X0FxbEZMRmw2TVJBOFpKc0lMV2oycTJhT0hwY1JpV0FMMEpXeQ?oc=5",
+    "date": "2026-06-28",
+    "original_title": "Press Release: TSA, Google Wallet launch TSA PreCheck Touchless ID - Runway Girl"
+  },
+  {
+    "model_name": "NIO AI-Enabled F2 Factory",
+    "core_insight": "NIO, AI 기반 F2 공장 가동으로 생산 효율성 증대 및 신규 EV 출시",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. AI 기술이 제조 공정에 적용된 사례로, 공간 콘텐츠 제작에 직접적인 활용 방안은 없음. 다만, AI가 다양한 산업 분야에서 효율성을 높이는 트렌드의 한 예시로 참고할 수 있음.",
+    "source": "Google News - 이미지 AI",
+    "category": "이미지",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdkRtSkEyT2RlX1lrMUF5WmZYeGZGczgzczdQMGhOYUtEZVkycThHRUlXaV93ZnBnY3V1Vm9wTzQzYTZuU2JPZENrSnFjT1VHb3ZLUkU2Mmp0dm5jdUMwcE1JcEQ2YmpZT0g5bHVOUUU2cjItY3BuVDhYQ1VmZG9pVDJVTWotQlFOYzJKUnhFdnNFUVZ5elFFQjRpSnRFcnM1SUJLOU1RTEQ1QUxGaHd4VnkyQWpoZDNVVTVZdmpKem83OG8z0gHEAUFVX3lxTE12RG1KQTJPZGVfWWsxQXlaZlh4ZkZzODNzN1AwaE5hS0RlWTJxOEdFSVdpX3dmcGdjdXVWb3BPNDNhNm5TYk9kQ2tKcWNPVUdvdktSRTYyanR2bmN1QzBwTUlwRDZiallPSDlsdU5RRTZyMi1jcG5UOFhDVWZkb2lUMlVNai1CUU5jMkpSeEV2c0VRVnl6UUVCNGlKdEVyczVJQks5TVFMRDVBTEZod3hWeTJBamhkM1VVNVl2akp6bzc4bzM?oc=5",
+    "date": "2026-06-28",
+    "original_title": "How NIO’s AI-Enabled F2 Factory and Firefly EV Launch Will Impact NIO (NIO) Investors - simplywall.st"
+  },
+  {
+    "model_name": "Anthropic Mythos",
+    "core_insight": "Anthropic의 강력한 새 모델 Mythos, 일부 미국 기업에 선공개",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서 직접적인 콘텐츠 생성 영향은 낮음. 다만, 복잡한 인터랙티브 시나리오 기획, TouchDesigner/Unreal Engine 스크립트 작성 보조, 또는 전시 콘텐츠 내 텍스트 기반 정보 제공 시스템 고도화에 활용 가능.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeG1SQ2UxUF9nRHQ1ejZ2VU95NllPMFBvd3d4NzVMcEU2ai1JSzlTS3p2em5naEZickIyZWw3S0RPVzl0c0JBZnM5SDBzaEViRWoxY3FXNnBvQy1OdHEySlJmS0x3ZGVaa000RFpUNWwxTjI0bmdkSkhEMGFmMTJrTmE1YWZ0RUsxYnEzS1o3QlMxdHpxTHZDbHVrbFRGQUlCMGl3TmI2Z1dPN1U?oc=5",
+    "date": "2026-06-28",
+    "original_title": "Exclusive / US releases powerful Anthropic model Mythos to some US companies - Semafor"
+  },
+  {
+    "model_name": "Anthropic Mythos",
+    "core_insight": "Anthropic의 Mythos AI 모델, 일부 기업 및 정부 기관에 출시 허용",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 기획 단계에서 컨셉 문구, 시놉시스, 관람객 상호작용 스크립트 초안 생성에 활용 가능. Unreal Engine이나 TouchDesigner 프로젝트의 복잡한 스크립트 작성 및 디버깅 보조 도구로도 잠재적 가치 있음. 현재는 제한적 출시로 직접적인 활용은 어려움.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOE9ZNnB4d2ZGbU9LSE83eHhldFlELXVmNWZjZGdmTFFGTEU3WVhkWHBieTNCS3dwS0JKejJIMDktTEprZmYxS19YS0FEbW15MW5aR1FIWi1md25uSkVBQXBjY3lCTHR3alQxMHRlVXlSMFcxZDQ3c0p6UkpBSkNPMS1NejM?oc=5",
+    "date": "2026-06-28",
+    "original_title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies - CNBC"
+  },
+  {
+    "model_name": "Claude Mythos 5",
+    "core_insight": "Claude Mythos 5, 100개 이상 미국 기관에 출시 허가",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 콘텐츠 기획 단계에서 아이디어 발상 및 스토리라인 구성에 활용 가능. Unreal Engine이나 TouchDesigner 프로젝트의 복잡한 스크립트 작성 및 디버깅 보조 도구로 생산성 향상 기대.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkIwSVpGWDlJeEM0MUNLZFhGOUUwR1R4QjdlRm5TQTJmZVIzNHVQSGFUaEtyS1lqSVlpYXpieWV3UmNjWDllRFpJNDNYY3J3LVZDdUZORjFwaGx2TTJVMmlodndNWU1RWjhVZDFJTzdnOXVGUzRVQVNlU1hZY2RheFFaSGZrMG5uZVFrVzNB?oc=5",
+    "date": "2026-06-28",
+    "original_title": "Anthropic Granted Approval To Release Claude Mythos 5 To 100+ U.S. Organizations - LinkedIn"
+  },
+  {
+    "model_name": "Anthropic Mythos 5",
+    "core_insight": "미국 내 광범위한 사용 승인, 접근성 확대",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 콘텐츠 기획 단계에서 내러티브 구성 및 스크립트 작성에 활용하여 아이디어 발상 시간을 단축할 수 있음. 인터랙티브 체험존의 대화형 AI 캐릭터 스크립트 생성이나 TouchDesigner/Unreal Engine 프로젝트의 초기 코드 스니펫 생성 보조 역할로도 유용할 것.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUI0dGRWU0J5UDFxVVRJbUw2eDUzTVEzNW1WVThBck1mZVlwSlM5WVRXNHBSY29SNWxxdWFOWDF2cEVSbjNCLVdBVmZWSzdOTW9tWERYYmJDU0k2eDZ0dFpjWEM1YmJvR1FBNVl0a2xOcThCYlVTeGFRXzA1OTRsVFYzdnFMbkJXNnZLVGNHMWtOdGhYdlVzeTZWMWJVMlE?oc=5",
+    "date": "2026-06-28",
+    "original_title": "Anthropic’s Mythos 5 AI model cleared by U.S. for wider use - Fortune"
+  },
+  {
+    "model_name": "Claude Opus 4.7",
+    "core_insight": "Claude Opus 4.7 유출, 코드 처리 능력 개선 포함",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만 TouchDesigner/Unreal 프로젝트의 스크립트 작성·디버깅 보조로는 생산성 향상 기대.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUjZ5dVJVR1FPZENjM1Y3ZUhSaUJhdTV4b0NIX01uR08yaTRnT2Zwd0ktSXBkSmNrSmh3M3E4MjROdWZrblU2c3BNa0g5czFscGdJWDVVU2E0TVo4OFRzZFB4MjQ?oc=5",
+    "date": "2026-06-28",
+    "original_title": "Claude Opus 4.7 Leaked, Anthropic Full Stack App, New GPT Model, M2.7, Claude Code Update! AI NEWS Jauan Jennings (U4E3QP5N4j) - Fathom Journal"
+  },
+  {
+    "model_name": "Claude Mythos 5",
+    "core_insight": "Anthropic의 Claude Mythos 5, 100개 이상 미국 기관에 출시 허가",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 기획 단계에서 아이디어 발상, 인터랙티브 콘텐츠 대화 스크립트 생성에 활용. TouchDesigner나 Unreal Engine 스크립트 작성 보조 역할도 가능. 기관용 모델이므로 내부 자료 기반 콘텐츠 생성 시 보안 및 신뢰성 확보에 유리.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeDlJRnNOZHVJREEzNTY4ZmNxLXExcTdFQ3JueG5XdE9pYlpibFp0aTZTU3Z2MUdsSHFxNmZhV25QbE5IajVrTldXcUFxZm9UQm54Z1pMR0RqNk5TTFBlbk1IR3NDcVFiaExEWm55MDAtd19SOThZbk9FOU1lTGhWaldxNjlMdFRZNnlXb1BYdkxLQzFvRTZUaEVHS2hjSjdmT0dBVzBNOA?oc=5",
+    "date": "2026-06-28",
+    "original_title": "Anthropic cleared to release Claude Mythos 5 to over 100 US institutions [U] - 9to5Mac"
+  },
+  {
+    "model_name": "GPT-5.6",
+    "core_insight": "미 정부 요청으로 GPT-5.6 공개 출시 연기",
+    "update_type": "정책/제한",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "GPT-5.6의 공개 출시가 연기되어 당장 실무에 적용하기는 어려움. 향후 출시 시 TouchDesigner/Unreal 스크립트 작성 및 디버깅 보조, 전시 콘텐츠 기획 아이디어 발상 등 LLM 기반 작업 효율화에 기여할 것으로 기대.",
+    "source": "Google News - LLM",
+    "category": "LLM",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnFfdzFOMEtRZ2xQYThDMDl3OFlWUDVFQ3VFelowLVVHUGt0TktoUHMzamJDekMzS09jaGR5RU9EaVNsNmdKR1JYSzVwbGNneUVaWWlnQzM4YnUxZGp3ZkthVlYyUGhXMUtDSjNZVC1YSGlpeDYxVjBOTkdSeGltaC15TjRqYVJiQnlxVlhjY01ZODRVQURFMjZEbVdaUHRJV2JlNklyRXRpNzAxbnVDS1dETk82WjJxLXZFdFRrSk8tTDJJZTJF?oc=5",
+    "date": "2026-06-28",
+    "original_title": "OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models - Reuters"
+  }
+]
