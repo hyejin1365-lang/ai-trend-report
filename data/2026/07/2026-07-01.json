@@ -1,0 +1,336 @@
+[
+  {
+    "model_name": "ChatGPT",
+    "core_insight": "ChatGPT 전 세계적 채택 및 사용량 증가, 기능 탐색 확대",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "ChatGPT의 전 세계적 확산은 일반적인 업무 효율성 향상에 기여. 전시 기획 단계에서 아이디어 발상, 스토리라인 구성, 인터랙티브 콘텐츠 스크립트 작성 등에 활용하여 기획 시간을 단축할 수 있음. Unreal Engine이나 TouchDesigner 스크립트 디버깅 및 코드 생성 보조 도구로도 유용.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "date": "2026-07-01",
+    "original_title": "How ChatGPT adoption has expanded"
+  },
+  {
+    "model_name": "GeneBench-Pro",
+    "core_insight": "유전체학, 생물학 AI 성능 측정 새 벤치마크 출시",
+    "update_type": "신모델",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향 낮음. 다만, 생명과학 또는 의학 관련 전시 콘텐츠 제작 시, 해당 분야 AI 기술 동향을 파악하는 데 간접적으로 참고할 수 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "date": "2026-07-01",
+    "original_title": "Introducing GeneBench-Pro"
+  },
+  {
+    "model_name": "OpenAI 인프라",
+    "core_insight": "대규모 코어 덤프 분석으로 인프라 충돌 버그 및 하드웨어 결함 해결",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [],
+    "application_idea": "OpenAI 기반 AI 도구(예: Sora, DALL-E)의 안정성 및 신뢰성 향상에 기여. 이는 장기적으로 우리 팀이 AI 생성 콘텐츠를 활용할 때 서비스 중단 위험을 줄여주는 간접적인 이점이 있음.",
+    "source": "OpenAI",
+    "category": "LLM",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "date": "2026-07-01",
+    "original_title": "Core dump epidemiology: fixing an 18-year-old bug"
+  },
+  {
+    "model_name": "ScarfBench",
+    "core_insight": "기업용 자바 프레임워크 마이그레이션 AI 에이전트 벤치마크 공개",
+    "update_type": "개선",
+    "importance": "참고",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 매우 낮음. 다만, Unreal Engine이나 TouchDesigner 프로젝트에서 복잡한 자바 기반 백엔드 시스템과의 연동이 필요한 경우, 해당 AI 에이전트의 개발 효율성 개선에 간접적으로 기여할 수 있음.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "date": "2026-07-01",
+    "original_title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration"
+  },
+  {
+    "model_name": "Hugging Face Model Pages",
+    "core_insight": "모델 페이지에서 모든 평가 결과 직접 확인 가능, 모델 선택 용이성 증대",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시 스크립트 생성이나 인터랙티브 콘텐츠 대화 시스템 구축 시, Hugging Face에서 LLM 모델을 선택하는 과정에서 각 모델의 성능 지표를 한눈에 비교하여 최적의 모델을 빠르게 찾을 수 있음. 이를 통해 프로젝트 초기 기획 단계에서 AI 모델 탐색 시간을 단축하고, 더 신뢰성 높은 결과물을 기대할 수 있음.",
+    "source": "Hugging Face Blog",
+    "category": "LLM",
+    "link": "https://huggingface.co/blog/eee-community-evals",
+    "date": "2026-07-01",
+    "original_title": "Featuring Every Eval Ever Results on Hugging Face Model Pages"
+  },
+  {
+    "model_name": "OpenClaw",
+    "core_insight": "무료 오픈소스 에이전트 프로그램 OpenClaw, 안드로이드 및 iOS 앱 출시",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "모바일 앱으로 출시되어 현장 설치 및 운영 중 발생하는 간단한 문제 해결이나 정보 검색에 활용 가능. 특정 콘텐츠의 실시간 업데이트나 제어를 위한 보조 에이전트로 활용 가능성 탐색. TouchDesigner나 Unreal Engine 프로젝트의 특정 파라미터 모니터링 및 자동 조정 보조 역할도 기대.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "date": "2026-07-01",
+    "original_title": "OpenClaw is finally available on Android and iOS"
+  },
+  {
+    "model_name": "EquiLibre Quant AI 시스템",
+    "core_insight": "DeepMind 출신 AI 랩, 퀀트 헤지펀드 수익 창출로 5억 달러 가치 달성",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 영향이 낮음. 다만, AI가 특정 분야에서 고도화된 전략 수립 및 의사결정 지원에 성공적으로 활용될 수 있음을 보여주는 사례로 참고 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "date": "2026-07-01",
+    "original_title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds"
+  },
+  {
+    "model_name": "Nano Banana 2 Lite",
+    "core_insight": "더 빠르고 저렴한 이미지 생성 기능 제공으로 크리에이터 활용성 증대",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "Photoshop을 활용한 전시 컨셉 아트 제작 시, 아이디어 스케치 및 레퍼런스 이미지 생성 시간을 단축하고 비용 부담을 줄일 수 있음. Unreal Engine이나 TouchDesigner 프로젝트에 필요한 배경 텍스처나 오브젝트의 초기 디자인 시안을 빠르게 다수 생성하여 시각화 과정의 효율성을 높일 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "date": "2026-07-01",
+    "original_title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite"
+  },
+  {
+    "model_name": "Etched AI Chip",
+    "core_insight": "Nvidia 경쟁사 Etched, AI 칩으로 50억 달러 가치, 10억 달러 매출 달성",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "Nvidia의 AI 칩 경쟁사 Etched의 성장은 장기적으로 AI 연산 비용 하락 및 효율성 증대로 이어질 수 있음. 이는 영상/이미지/3D 자산 생성 AI 도구들의 접근성을 높여, 미디어아트 및 전시 콘텐츠 제작 시 AI 활용 범위를 확장하고 비용 부담을 줄이는 데 기여할 수 있음. 특히 Unreal Engine 기반의 실시간 렌더링이나 TouchDesigner의 복잡한 연산 처리 시 AI 가속화에 긍정적인 영향을 줄 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "date": "2026-07-01",
+    "original_title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip"
+  },
+  {
+    "model_name": "Claude Sonnet 5",
+    "core_insight": "에이전트 기능 강화, 가격 인하로 경쟁 모델 대비 경제성 확보",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시 콘텐츠 기획 단계에서 아이디어 발상, 스토리라인 구성, 스크립트 초안 작성 등 복잡한 기획 업무를 자동화하는 에이전트로 활용 가능. 저렴한 비용으로 프로젝트별 AI 에이전트를 상시 운영하여 방대한 미디어 자산 분류 및 태깅, 콘텐츠 업데이트 스케줄 관리 등 제작 파이프라인 효율을 높일 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+    "date": "2026-07-01",
+    "original_title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents"
+  },
+  {
+    "model_name": "Acti Keyboard",
+    "core_insight": "스마트폰 키보드에 AI 비서 통합, 맞춤형 단축키 생성 지원",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접 영향이 낮음. 다만, 모바일 환경에서 아이디어 스케치, 전시 설명 텍스트 초안 작성, 자료 검색 등 기획 단계 업무 효율을 높일 수 있음. 프로젝트 관리 앱 연동 시 모바일에서 빠른 업무 지시 및 보고서 초안 생성에 활용 가능.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+    "date": "2026-07-01",
+    "original_title": "Acti puts AI agents directly into your smartphone keyboard"
+  },
+  {
+    "model_name": "Anthropic Claude Science",
+    "core_insight": "과학 연구 워크플로우 통합 환경 제공, 여러 도구 전환 불필요",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "복잡한 미디어아트 프로젝트의 데이터 관리, 스크립트 작성, 레퍼런스 통합 등 연구 및 개발 워크플로우를 단일 환경에서 효율적으로 관리하는 데 활용 가능. 특히 TouchDesigner나 Unreal Engine 프로젝트의 복잡한 로직 설계 및 디버깅 과정에서 유용할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+    "date": "2026-07-01",
+    "original_title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists"
+  },
+  {
+    "model_name": "X MCP Server",
+    "core_insight": "X, AI 앱 연동 위한 호스팅 MCP 서버 출시로 개발 편의성 증대",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [],
+    "application_idea": "전시/미디어아트 맥락에서 직접적인 콘텐츠 생성 영향은 낮음. 다만, X 플랫폼의 실시간 트렌드나 사용자 반응 데이터를 AI로 분석하여 인터랙티브 전시 콘텐츠에 반영하거나, 관람객 참여형 미디어아트의 데이터 소스로 활용하는 파이프라인 구축에 기여할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "date": "2026-07-01",
+    "original_title": "X now offers an MCP server to make its platform easier for AI tools to use"
+  },
+  {
+    "model_name": "Riverside AI 뉴스레터",
+    "core_insight": "녹음 기반 AI 뉴스레터 자동 생성 기능 추가",
+    "update_type": "기능추가",
+    "importance": "주목",
+    "capability_tags": [
+      "사운드/음성"
+    ],
+    "application_idea": "전시 기획 회의나 아티스트 인터뷰 등 프로젝트 관련 음성 기록을 자동으로 텍스트 요약 및 뉴스레터 형식으로 변환하여, 내부 보고서 작성이나 홍보 자료 초안 생성에 활용 가능. 콘텐츠 제작 과정의 문서화 및 아카이빙 효율을 높여 기획 단계의 생산성 향상에 기여.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+    "date": "2026-07-01",
+    "original_title": "Podcasting platform Riverside enters the newsletter publishing game"
+  },
+  {
+    "model_name": "Amazon FDE org",
+    "core_insight": "아마존, 10억 달러 규모 FDE 조직 신설, 기업 맞춤형 AI 에이전트 구축 및 빠른 배포 지원",
+    "update_type": "API/통합",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "우리 팀의 Unreal Engine, TouchDesigner 기반 공간 콘텐츠 제작 파이프라인에 특화된 AI 에이전트를 구축하여 반복적인 3D 자산 변형 생성이나 미디어아트 인터랙션 로직 자동화에 활용 가능. 이를 통해 제작 효율성을 높이고, 기존 Adobe 도구와의 연동을 통해 후반 작업 시간을 단축할 수 있음.",
+    "source": "TechCrunch - AI",
+    "category": "종합",
+    "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "date": "2026-07-01",
+    "original_title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic"
+  },
+  {
+    "model_name": "Claude Science",
+    "core_insight": "과학 연구 지원에 특화된 신규 AI 모델 'Claude Science' 출시",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "전시/미디어아트 맥락에서는 직접적인 콘텐츠 생성 영향은 낮음. 다만, 과학 관련 전시 기획 시, 복잡한 과학 개념을 쉽게 설명하는 텍스트 초안 작성이나 연구 자료 분석 보조 도구로 활용 가능. 이를 통해 전시 콘텐츠의 정확성과 깊이를 확보하는 데 간접적으로 기여할 수 있음.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "date": "2026-07-01",
+    "original_title": "Claude Science is Anthropic’s newest flagship product"
+  },
+  {
+    "model_name": "농업 AI",
+    "core_insight": "농업 분야 AI 적용 가능성 높으나, 데이터 기반 마련이 선행되어야 함",
+    "update_type": "정책/제한",
+    "importance": "주목",
+    "capability_tags": [
+      "멀티모달"
+    ],
+    "application_idea": "스마트 농업 관련 전시 콘텐츠 제작 시, AI 기반 예측 모델의 시각화는 흥미로운 요소가 될 수 있음. 다만, 실제 농업 데이터의 정제 및 통합이 선행되어야 한다는 점을 관람객에게 교육적 메시지로 전달하는 인터랙티브 체험존을 기획할 수 있음.",
+    "source": "MIT Technology Review - AI",
+    "category": "종합",
+    "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "date": "2026-07-01",
+    "original_title": "Agriculture is ready for AI, but its data isn’t"
+  },
+  {
+    "model_name": "Krea 2",
+    "core_insight": "Krea 2를 활용한 '매트릭스 1965' 재해석 이미지 생성 가능",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시 컨셉 아트 제작 시 특정 시대나 스타일로 재해석된 이미지 초안을 빠르게 생성할 수 있음. 미디어아트 프로젝트에서 고전 영화나 명화를 새로운 시각으로 변환하여 몰입형 콘텐츠 개발에 활용 가능. Unreal Engine이나 TouchDesigner 작업 전 다양한 시각적 레퍼런스를 신속하게 확보하여 디자인 방향 설정에 도움을 줄 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ujvysw/the_matrix_1965_reimagined_with_krea_2/",
+    "date": "2026-07-01",
+    "original_title": "The Matrix (1965). Reimagined with Krea 2"
+  },
+  {
+    "model_name": "Krea2 (via Forge Neo)",
+    "core_insight": "Krea2 모델, 직물 및 실내 장식 디테일 표현에 탁월함",
+    "update_type": "신모델",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 공간 내 가상 의상, 가구, 소품 등의 3D 자산 제작 시 사실적인 직물 텍스처 생성에 활용. Unreal Engine 작업 시 고품질 텍스처 에셋 제작 시간을 단축하고, Photoshop을 이용한 컨셉 아트 단계에서 디테일한 재질 표현 가능.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ujig7r/forge_neo_now_has_krea2_support/",
+    "date": "2026-07-01",
+    "original_title": "Forge Neo now has Krea2 support."
+  },
+  {
+    "model_name": "Stable Diffusion",
+    "core_insight": "캐릭터 시트 활용해 이미지 생성 AI의 캐릭터 일관성 완벽 유지 기법 발견",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I",
+      "립싱크/캐릭터"
+    ],
+    "application_idea": "전시 안내 캐릭터 영상이나 인터랙티브 체험존의 가이드 캐릭터 제작 시, 다양한 시나리오와 의상 변화에도 일관된 캐릭터를 유지할 수 있음. 캐릭터 시트를 기반으로 여러 장면의 이미지를 생성하여 AfterEffects에서 애니메이션 작업을 하거나, Unreal Engine에서 3D 캐릭터 모델링의 레퍼런스로 활용하여 제작 시간을 단축할 수 있음.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ujpxvm/i_failed_my_story_but_found_out_how_to_get/",
+    "date": "2026-07-01",
+    "original_title": "I failed my story but found out how to get characters consistent near perfectly so I wish to pass the torch to future/better story tellers and creators. I have receipts."
+  },
+  {
+    "model_name": "Krea 2",
+    "core_insight": "Krea 2는 출시 몇 주 만에 최고 품질에 도달, 학습 용이성 및 유연성 탁월",
+    "update_type": "신모델",
+    "importance": "핵심",
+    "capability_tags": [
+      "T2I",
+      "I2I"
+    ],
+    "application_idea": "전시 컨셉 아트 및 미디어아트 초기 시안 제작 시, 다양한 스타일과 주제의 이미지를 빠르게 생성하고 반복 수정 가능. LoRA 학습이 용이하여 특정 오브젝트나 질감, 분위기를 반영한 3D 텍스처 또는 2D 배경 이미지 자산 생성 파이프라인에 통합하여 Unreal Engine/TouchDesigner 작업 효율 증대.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ujx7y2/krea_2_already_reached_peak/",
+    "date": "2026-07-01",
+    "original_title": "Krea 2 already reached peak"
+  },
+  {
+    "model_name": "Krea2 Turbo (Gemma 4)",
+    "core_insight": "Krea2 Turbo와 Gemma 4 최적 프롬프트로 시네마틱 스토리보드 생성",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시 영상, 미디어아트 시퀀스, 프로젝션 매핑 콘텐츠의 초기 기획 단계에서 시네마틱 스토리보드를 빠르게 생성하여 컨셉 시각화 및 클라이언트 소통에 활용. 수작업 스토리보드나 Photoshop 목업 제작 시간을 단축하여 기획 효율성을 높일 수 있음. Unreal Engine이나 AfterEffects 작업 전 비주얼 가이드라인으로 유용.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ujs3ir/cinematic_storyboards_with_krea2_turbo_using_an/",
+    "date": "2026-07-01",
+    "original_title": "Cinematic storyboards with Krea2 Turbo using an optimized system prompt for Gemma 4 and a custom node for panel splitting."
+  },
+  {
+    "model_name": "Krea 2",
+    "core_insight": "이미지 생성 시 특정 인물 포즈에서 성별 고정관념 편향 발견",
+    "update_type": "개선",
+    "importance": "주목",
+    "capability_tags": [
+      "T2I"
+    ],
+    "application_idea": "전시/미디어아트 내 인물 간 상호작용 또는 커플 포즈 생성 시, Krea 2의 성별 고정관념 편향으로 인해 원하는 구도 구현에 제약이 따를 수 있음. 특정 연출을 위해서는 다른 T2I 도구를 병행하거나 Photoshop에서 수동 편집이 필수적.",
+    "source": "Reddit - StableDiffusion",
+    "category": "이미지",
+    "link": "https://www.reddit.com/r/StableDiffusion/comments/1ujkj11/krea_2_bias/",
+    "date": "2026-07-01",
+    "original_title": "Krea 2 bias ?"
+  }
+]
