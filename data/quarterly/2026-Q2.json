@@ -7,7 +7,7 @@
   "data_insufficient": false,
   "data_insufficient_reason": null,
   "synthesis": {
-    "_error": "503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyBwrntI7TGmXkJ2sFkOuxCeZwk79Gqjp4s"
+    "_error": "429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyBwrntI7TGmXkJ2sFkOuxCeZwk79Gqjp4s"
   },
-  "generated_at": "2026-07-01T05:04:36.873247+00:00"
+  "generated_at": "2026-07-01T05:18:45.730842+00:00"
 }
