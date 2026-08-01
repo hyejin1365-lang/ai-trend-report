@@ -1,0 +1,13 @@
+{
+  "kind": "monthly",
+  "period_id": "2026-07",
+  "start_date": "2026-07-01",
+  "end_date": "2026-07-31",
+  "card_count": 23,
+  "data_insufficient": true,
+  "data_insufficient_reason": "데이터 누적 부족 (수집 23건 / 정상 기준 40건+)",
+  "synthesis": {
+    "_error": "403 Client Error: Forbidden for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyBwrntI7TGmXkJ2sFkOuxCeZwk79Gqjp4s"
+  },
+  "generated_at": "2026-08-01T03:59:05.731985+00:00"
+}
