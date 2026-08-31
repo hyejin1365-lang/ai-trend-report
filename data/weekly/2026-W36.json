@@ -1,0 +1,10 @@
+{
+  "kind": "weekly",
+  "period_id": "2026-W36",
+  "start_date": "2026-08-31",
+  "end_date": "2026-09-06",
+  "card_count": 0,
+  "data_insufficient": true,
+  "data_insufficient_reason": "수집된 카드 없음",
+  "generated_at": "2026-08-31T01:37:22.999659+00:00"
+}
