@@ -1,0 +1,13 @@
+{
+  "kind": "quarterly",
+  "period_id": "2026-Q3",
+  "start_date": "2026-07-01",
+  "end_date": "2026-09-30",
+  "card_count": 23,
+  "data_insufficient": true,
+  "data_insufficient_reason": "데이터 누적 부족 (수집 23건 / 정상 기준 120건+)",
+  "synthesis": {
+    "_error": "403 Client Error: Forbidden for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyBwrntI7TGmXkJ2sFkOuxCeZwk79Gqjp4s"
+  },
+  "generated_at": "2026-10-01T06:18:33.050368+00:00"
+}
