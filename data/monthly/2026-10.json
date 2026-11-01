@@ -1,0 +1,10 @@
+{
+  "kind": "monthly",
+  "period_id": "2026-10",
+  "start_date": "2026-10-01",
+  "end_date": "2026-10-31",
+  "card_count": 0,
+  "data_insufficient": true,
+  "data_insufficient_reason": "수집된 카드 없음",
+  "generated_at": "2026-11-01T06:34:17.127946+00:00"
+}
